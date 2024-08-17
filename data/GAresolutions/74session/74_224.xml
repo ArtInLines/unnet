@@ -1,0 +1,595 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-19/74-224/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-19/74-224/"></FRBRuri>
+          <FRBRdate date="2019-12-19" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-19/74-224/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-19/74-224/eng@/"></FRBRuri>
+          <FRBRdate date="2020-01-17" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-19/74-224/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-19/74-224/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+        <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="14" href="http://metadata.un.org/sdg/14" showAs="sdg_14" dictionary="SDGO"></keyword>
+        <keyword value="marine_life" href="http://eurovoc.europa.eu/3149" showAs="marine_life" dictionary="EuroVoc"></keyword>
+        <keyword value="marine_environment" href="http://eurovoc.europa.eu/5742" showAs="marine_environment" dictionary="EuroVoc"></keyword>
+        <keyword value="ocean" href="http://eurovoc.europa.eu/2107" showAs="ocean" dictionary="EuroVoc"></keyword>
+        <keyword value="sea" href="http://eurovoc.europa.eu/1870" showAs="sea" dictionary="EuroVoc"></keyword>
+        <keyword value="marine_resources" href="http://metadata.un.org/thesaurus/030800" showAs="marine_resources" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="marine_resources" href="http://metadata.un.org/thesaurus/1003922" showAs="marine_resources" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="oceans_and_seas" href="http://metadata.un.org/thesaurus/170600" showAs="oceans_and_seas" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="15" href="http://metadata.un.org/sdg/15" showAs="sdg_15" dictionary="SDGO"></keyword>
+        <keyword value="deforestation" href="http://eurovoc.europa.eu/339" showAs="deforestation" dictionary="EuroVoc"></keyword>
+        <keyword value="desertification" href="http://eurovoc.europa.eu/416" showAs="desertification" dictionary="EuroVoc"></keyword>
+        <keyword value="biodiversity" href="http://eurovoc.europa.eu/5463" showAs="biodiversity" dictionary="EuroVoc"></keyword>
+        <keyword value="land,_plant_and_soil_resources" href="http://metadata.un.org/thesaurus/030600" showAs="land,_plant_and_soil_resources" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="deforestation" href="http://metadata.un.org/thesaurus/1001550" showAs="deforestation" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-11-19" outcome="draftResolution" as="A/C.2/74/L.47/Rev.1" by="State of Palestine (on behalf of the States Members of the United Nations that are members of the Group of 77 and China)" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/381/Add.9" by="" refersTo="8" />
+        <step date="2019-12-19" outcome="adopted" as="A/74/PV.52" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedRecordedVote">
+            <count value="134" refersTo="inFavour">
+              <akn4un:voters>
+                <organization refersTo="memberState">AFGHANISTAN</organization>
+                <organization refersTo="memberState">ALGERIA</organization>
+                <organization refersTo="memberState">ANGOLA</organization>
+                <organization refersTo="memberState">ARGENTINA</organization>
+                <organization refersTo="memberState">ARMENIA</organization>
+                <organization refersTo="memberState">AZERBAIJAN</organization>
+                <organization refersTo="memberState">BAHAMAS</organization>
+                <organization refersTo="memberState">BAHRAIN</organization>
+                <organization refersTo="memberState">BANGLADESH</organization>
+                <organization refersTo="memberState">BARBADOS</organization>
+                <organization refersTo="memberState">BELARUS</organization>
+                <organization refersTo="memberState">BELIZE</organization>
+                <organization refersTo="memberState">BENIN</organization>
+                <organization refersTo="memberState">BHUTAN</organization>
+                <organization refersTo="memberState">BOLIVIA (PLURINATIONAL STATE OF)</organization>
+                <organization refersTo="memberState">BOTSWANA</organization>
+                <organization refersTo="memberState">BRAZIL</organization>
+                <organization refersTo="memberState">BRUNEI DARUSSALAM</organization>
+                <organization refersTo="memberState">BURKINA FASO</organization>
+                <organization refersTo="memberState">BURUNDI</organization>
+                <organization refersTo="memberState">CABO VERDE</organization>
+                <organization refersTo="memberState">CAMBODIA</organization>
+                <organization refersTo="memberState">CAMEROON</organization>
+                <organization refersTo="memberState">CENTRAL AFRICAN REPUBLIC</organization>
+                <organization refersTo="memberState">CHAD</organization>
+                <organization refersTo="memberState">CHILE</organization>
+                <organization refersTo="memberState">CHINA</organization>
+                <organization refersTo="memberState">COLOMBIA</organization>
+                <organization refersTo="memberState">COMOROS</organization>
+                <organization refersTo="memberState">CONGO</organization>
+                <organization refersTo="memberState">COSTA RICA</organization>
+                <organization refersTo="memberState">COTE D'IVOIRE</organization>
+                <organization refersTo="memberState">CUBA</organization>
+                <organization refersTo="memberState">DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA</organization>
+                <organization refersTo="memberState">DJIBOUTI</organization>
+                <organization refersTo="memberState">DOMINICAN REPUBLIC</organization>
+                <organization refersTo="memberState">ECUADOR</organization>
+                <organization refersTo="memberState">EGYPT</organization>
+                <organization refersTo="memberState">EL SALVADOR</organization>
+                <organization refersTo="memberState">ERITREA</organization>
+                <organization refersTo="memberState">ESWATINI</organization>
+                <organization refersTo="memberState">ETHIOPIA</organization>
+                <organization refersTo="memberState">FIJI</organization>
+                <organization refersTo="memberState">GABON</organization>
+                <organization refersTo="memberState">GAMBIA</organization>
+                <organization refersTo="memberState">GEORGIA</organization>
+                <organization refersTo="memberState">GHANA</organization>
+                <organization refersTo="memberState">GRENADA</organization>
+                <organization refersTo="memberState">GUATEMALA</organization>
+                <organization refersTo="memberState">GUINEA</organization>
+                <organization refersTo="memberState">GUINEA-BISSAU</organization>
+                <organization refersTo="memberState">GUYANA</organization>
+                <organization refersTo="memberState">HAITI</organization>
+                <organization refersTo="memberState">HONDURAS</organization>
+                <organization refersTo="memberState">INDIA</organization>
+                <organization refersTo="memberState">INDONESIA</organization>
+                <organization refersTo="memberState">IRAN (ISLAMIC REPUBLIC OF)</organization>
+                <organization refersTo="memberState">IRAQ</organization>
+                <organization refersTo="memberState">JAMAICA</organization>
+                <organization refersTo="memberState">JAPAN</organization>
+                <organization refersTo="memberState">JORDAN</organization>
+                <organization refersTo="memberState">KAZAKHSTAN</organization>
+                <organization refersTo="memberState">KENYA</organization>
+                <organization refersTo="memberState">KIRIBATI</organization>
+                <organization refersTo="memberState">KUWAIT</organization>
+                <organization refersTo="memberState">KYRGYZSTAN</organization>
+                <organization refersTo="memberState">LAO PEOPLE'S DEMOCRATIC REPUBLIC</organization>
+                <organization refersTo="memberState">LEBANON</organization>
+                <organization refersTo="memberState">LESOTHO</organization>
+                <organization refersTo="memberState">LIBYA</organization>
+                <organization refersTo="memberState">MADAGASCAR</organization>
+                <organization refersTo="memberState">MALAWI</organization>
+                <organization refersTo="memberState">MALAYSIA</organization>
+                <organization refersTo="memberState">MALDIVES</organization>
+                <organization refersTo="memberState">MALI</organization>
+                <organization refersTo="memberState">MAURITANIA</organization>
+                <organization refersTo="memberState">MAURITIUS</organization>
+                <organization refersTo="memberState">MEXICO</organization>
+                <organization refersTo="memberState">MICRONESIA (FEDERATED STATES OF)</organization>
+                <organization refersTo="memberState">MONACO</organization>
+                <organization refersTo="memberState">MONGOLIA</organization>
+                <organization refersTo="memberState">MOROCCO</organization>
+                <organization refersTo="memberState">MOZAMBIQUE</organization>
+                <organization refersTo="memberState">MYANMAR</organization>
+                <organization refersTo="memberState">NAMIBIA</organization>
+                <organization refersTo="memberState">NEPAL</organization>
+                <organization refersTo="memberState">NICARAGUA</organization>
+                <organization refersTo="memberState">NIGERIA</organization>
+                <organization refersTo="memberState">OMAN</organization>
+                <organization refersTo="memberState">PAKISTAN</organization>
+                <organization refersTo="memberState">PALAU</organization>
+                <organization refersTo="memberState">PANAMA</organization>
+                <organization refersTo="memberState">PAPUA NEW GUINEA</organization>
+                <organization refersTo="memberState">PARAGUAY</organization>
+                <organization refersTo="memberState">PERU</organization>
+                <organization refersTo="memberState">PHILIPPINES</organization>
+                <organization refersTo="memberState">QATAR</organization>
+                <organization refersTo="memberState">REPUBLIC OF KOREA</organization>
+                <organization refersTo="memberState">RUSSIAN FEDERATION</organization>
+                <organization refersTo="memberState">RWANDA</organization>
+                <organization refersTo="memberState">SAINT KITTS AND NEVIS</organization>
+                <organization refersTo="memberState">SAINT LUCIA</organization>
+                <organization refersTo="memberState">SAINT VINCENT AND THE GRENADINES</organization>
+                <organization refersTo="memberState">SAMOA</organization>
+                <organization refersTo="memberState">SAUDI ARABIA</organization>
+                <organization refersTo="memberState">SENEGAL</organization>
+                <organization refersTo="memberState">SEYCHELLES</organization>
+                <organization refersTo="memberState">SIERRA LEONE</organization>
+                <organization refersTo="memberState">SINGAPORE</organization>
+                <organization refersTo="memberState">SOLOMON ISLANDS</organization>
+                <organization refersTo="memberState">SOUTH AFRICA</organization>
+                <organization refersTo="memberState">SRI LANKA</organization>
+                <organization refersTo="memberState">SUDAN</organization>
+                <organization refersTo="memberState">SURINAME</organization>
+                <organization refersTo="memberState">SYRIAN ARAB REPUBLIC</organization>
+                <organization refersTo="memberState">TAJIKISTAN</organization>
+                <organization refersTo="memberState">THAILAND</organization>
+                <organization refersTo="memberState">TIMOR-LESTE</organization>
+                <organization refersTo="memberState">TOGO</organization>
+                <organization refersTo="memberState">TRINIDAD AND TOBAGO</organization>
+                <organization refersTo="memberState">TUNISIA</organization>
+                <organization refersTo="memberState">TURKEY</organization>
+                <organization refersTo="memberState">TURKMENISTAN</organization>
+                <organization refersTo="memberState">UGANDA</organization>
+                <organization refersTo="memberState">UNITED ARAB EMIRATES</organization>
+                <organization refersTo="memberState">UNITED REPUBLIC OF TANZANIA</organization>
+                <organization refersTo="memberState">URUGUAY</organization>
+                <organization refersTo="memberState">UZBEKISTAN</organization>
+                <organization refersTo="memberState">VANUATU</organization>
+                <organization refersTo="memberState">VENEZUELA (BOLIVARIAN REPUBLIC OF)</organization>
+                <organization refersTo="memberState">VIET NAM</organization>
+                <organization refersTo="memberState">YEMEN</organization>
+                <organization refersTo="memberState">ZAMBIA</organization>
+                <organization refersTo="memberState">ZIMBABWE</organization>
+              </akn4un:voters>
+            </count>
+            <count value="2" refersTo="against">
+              <akn4un:voters>
+                <organization refersTo="memberState">ISRAEL</organization>
+                <organization refersTo="memberState">UNITED STATES</organization>
+              </akn4un:voters>
+            </count>
+            <count value="45" refersTo="abstaining">
+              <akn4un:voters>
+                <organization refersTo="memberState">ALBANIA</organization>
+                <organization refersTo="memberState">ANDORRA</organization>
+                <organization refersTo="memberState">AUSTRALIA</organization>
+                <organization refersTo="memberState">AUSTRIA</organization>
+                <organization refersTo="memberState">BELGIUM</organization>
+                <organization refersTo="memberState">BOSNIA AND HERZEGOVINA</organization>
+                <organization refersTo="memberState">BULGARIA</organization>
+                <organization refersTo="memberState">CANADA</organization>
+                <organization refersTo="memberState">CROATIA</organization>
+                <organization refersTo="memberState">CYPRUS</organization>
+                <organization refersTo="memberState">CZECHIA</organization>
+                <organization refersTo="memberState">DENMARK</organization>
+                <organization refersTo="memberState">DOMINICA</organization>
+                <organization refersTo="memberState">ESTONIA</organization>
+                <organization refersTo="memberState">FINLAND</organization>
+                <organization refersTo="memberState">FRANCE</organization>
+                <organization refersTo="memberState">GERMANY</organization>
+                <organization refersTo="memberState">GREECE</organization>
+                <organization refersTo="memberState">HUNGARY</organization>
+                <organization refersTo="memberState">ICELAND</organization>
+                <organization refersTo="memberState">IRELAND</organization>
+                <organization refersTo="memberState">ITALY</organization>
+                <organization refersTo="memberState">LATVIA</organization>
+                <organization refersTo="memberState">LIECHTENSTEIN</organization>
+                <organization refersTo="memberState">LITHUANIA</organization>
+                <organization refersTo="memberState">LUXEMBOURG</organization>
+                <organization refersTo="memberState">MALTA</organization>
+                <organization refersTo="memberState">MONTENEGRO</organization>
+                <organization refersTo="memberState">NETHERLANDS</organization>
+                <organization refersTo="memberState">NEW ZEALAND</organization>
+                <organization refersTo="memberState">NORTH MACEDONIA</organization>
+                <organization refersTo="memberState">NORWAY</organization>
+                <organization refersTo="memberState">POLAND</organization>
+                <organization refersTo="memberState">PORTUGAL</organization>
+                <organization refersTo="memberState">REPUBLIC OF MOLDOVA</organization>
+                <organization refersTo="memberState">ROMANIA</organization>
+                <organization refersTo="memberState">SAN MARINO</organization>
+                <organization refersTo="memberState">SERBIA</organization>
+                <organization refersTo="memberState">SLOVAKIA</organization>
+                <organization refersTo="memberState">SLOVENIA</organization>
+                <organization refersTo="memberState">SPAIN</organization>
+                <organization refersTo="memberState">SWEDEN</organization>
+                <organization refersTo="memberState">SWITZERLAND</organization>
+                <organization refersTo="memberState">UKRAINE</organization>
+                <organization refersTo="memberState">UNITED KINGDOM</organization>
+              </akn4un:voters>
+            </count>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="secondCommittee" href="#secondCommittee" showAs="Second Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-22493 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/224</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-01-17" class="rightSmall" refersTo="#dateOfIssuance">17 January 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 19 (i)</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Sustainable development: harmony with Nature</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 19 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#secondCommittee">[on the report of the Second Committee (<inline name="originating document">A/74/381/Add.9</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/224.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Harmony with Nature</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Reaffirming" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the Rio Declaration on Environment and Development,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"><span class="italic">Report of the United Nations Conference on Environment and Development, Rio de Janeiro, 3–14 June 1992</span>, vol. I, <span class="italic">Resolutions Adopted by the Conference</span> (United Nations publication, Sales No. E.93.I.8 and corrigendum), resolution 1, annex I.</p></authorialNote> Agenda 21,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	Ibid., annex II.</p></authorialNote> the Programme for the Further Implementation of Agenda 21,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/S-19/2">S-19/2</a>, annex.</p></authorialNote> the Johannesburg Declaration on Sustainable Development<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"><span class="italic">Report of the World Summit on Sustainable Development, Johannesburg, South Africa, 26 August–4 September 2002</span> (United Nations publication, Sales No. E.03.II.A.1 and corrigendum), chap. I, resolution 1, annex.</p></authorialNote> and the Plan of Implementation of the World Summit on Sustainable Development (Johannesburg Plan of Implementation),<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	 	Ibid., resolution 2, annex.</p></authorialNote></p>
+      </container>
+      <container name="Recalling" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolutions <a href="https://undocs.org/en/A/RES/64/196">64/196</a> of 21 December 2009, <a href="https://undocs.org/en/A/RES/65/164">65/164</a> of 20 December 2010, <a href="https://undocs.org/en/A/RES/66/204">66/204</a> of 22 December 2011, <a href="https://undocs.org/en/A/RES/67/214">67/214</a> of 21 December 2012, <a href="https://undocs.org/en/A/RES/68/216">68/216</a> of 20 December 2013, <a href="https://undocs.org/en/A/RES/69/224">69/224</a> of 19 December 2014, <a href="https://undocs.org/en/A/RES/70/208">70/208</a> of 22 December 2015, <a href="https://undocs.org/en/A/RES/71/232">71/232</a> of 21 December 2016, <a href="https://undocs.org/en/A/RES/72/223">72/223</a> of 20 December 2017 and <a href="https://undocs.org/en/A/RES/73/235">73/235</a> of 20 December 2018 on Harmony with Nature,</p>
+      </container>
+      <container name="Recalling also" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> its resolution <a href="https://undocs.org/en/A/RES/63/278">63/278</a> of 22 April 2009, by which it designated 22 April as International Mother Earth Day, commemorating 10 years since its adoption and recognizing its importance,</p>
+      </container>
+      <container name="Recalling further" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Recalling further</span> the 1982 World Charter for Nature,<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/37/7">37/7</a>, annex.</p></authorialNote></p>
+      </container>
+      <container name="Noting" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the Peoples’ World Conference on Climate Change and the Rights of Mother Earth, hosted by the Plurinational State of Bolivia in Cochabamba from 20 to 22 April 2010,<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve">	 	See <a href="https://undocs.org/en/A/64/777">A/64/777</a>, annexes I and II.</p></authorialNote></p>
+      </container>
+      <container name="Recognizing" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that planet Earth and its ecosystems are our home and that “Mother Earth” is a common expression in a number of countries and regions, noting that some countries recognize the rights of nature or Mother Earth in the context of the promotion of sustainable development, and expressing the conviction that, in order to achieve a just balance among the economic, social and environmental needs of present and future generations, it is necessary to promote harmony with nature,</p>
+      </container>
+      <container name="Recalling" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the outcome document of the United Nations Conference on Sustainable Development, held in Rio de Janeiro, Brazil, from 20 to 22 June 2012, entitled “The future we want”,<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/66/288">66/288</a>, annex.</p></authorialNote></p>
+      </container>
+      <container name="Reaffirming" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> its resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a> of 25 September 2015, entitled “Transforming our world: the 2030 Agenda for Sustainable Development”, in which it adopted a comprehensive, far-reaching and people-centred set of universal and transformative Sustainable Development Goals and targets, its commitment to working tirelessly for the full implementation of the Agenda by 2030, its recognition that eradicating poverty in all its forms and dimensions, including extreme poverty, is the greatest global challenge and an indispensable requirement for sustainable development, its commitment to achieving sustainable development in its three dimensions – economic, social and environmental – in a balanced and integrated manner, and to building upon the achievements of the Millennium Development Goals and seeking to address their unfinished business,</p>
+      </container>
+      <container name="Reaffirming also" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming also</span> its resolution <a href="https://undocs.org/en/A/RES/69/313">69/313</a> of 27 July 2015 on the Addis Ababa Action Agenda of the Third International Conference on Financing for Development, which is an integral part of the 2030 Agenda for Sustainable Development, supports and complements it, helps to contextualize its means of implementation targets with concrete policies and actions, and reaffirms the strong political commitment to address the challenge of financing and creating an enabling environment at all levels for sustainable development in the spirit of global partnership and solidarity, </p>
+      </container>
+      <container name="Reaffirming further" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming further</span> the New Urban Agenda, adopted at the United Nations Conference on Housing and Sustainable Urban Development (Habitat III), held in Quito, Ecuador, from 17 to 20 October 2016,<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/71/256">71/256</a>, annex.</p></authorialNote> and recognizing that its implementation can contribute to achieving environmental sustainability by protecting ecosystems and biodiversity, including by adopting healthy lifestyles in harmony with nature, </p>
+      </container>
+      <container name="Reaffirming" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the Paris Agreement,<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve">	 	Adopted under the United Nations Framework Convention on Climate Change in <a href="https://undocs.org/en/FCCC/CP/2015/10/Add.1">FCCC/CP/2015/10/Add.1</a>, decision 1/CP.21.</p></authorialNote> and encouraging all its parties to fully implement the Agreement, and parties to the United Nations Framework Convention on Climate Change<authorialNote marker="11" placement="bottom" eId="authorialNote_11"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vol. 1771, No. 30822.</p></authorialNote> that have not yet done so to deposit their instruments of ratification, acceptance, approval or accession, where appropriate, as soon as possible, </p>
+      </container>
+      <container name="Noting" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the importance of nature-based solutions in aiming to achieve goals relating to climate change mitigation and adaptation,</p>
+      </container>
+      <container name="Noting with appreciation" eId="container_14">
+        <p xml:space="preserve">
+          <span class="italic">Noting with appreciation</span> the interactive dialogue on Harmony with Nature convened by the President of the General Assembly under the overall theme “Mother Earth approach” in the implementation of education and climate action in harmony with nature, held on 22 April 2019, in commemoration of International Mother Earth Day and to inspire citizens and societies to reconsider how they interact with the natural world in order to implement the Sustainable Development Goals in harmony with nature, and noting that some countries recognize the rights of nature in the context of the promotion of sustainable development,</p>
+      </container>
+      <container name="Recognizing" eId="container_15">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that a number of countries consider Mother Earth the source of all life and nourishment and that these countries consider Mother Earth and humankind to be a living community of interrelated and interdependent beings, </p>
+      </container>
+      <container name="Recalling" eId="container_16">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the interactive dialogue on living in harmony with nature held on the occasion of the thirteenth meeting of the Conference of the Parties to the Convention on Biological Diversity, held in Cancún, Mexico, from 4 to 17 December 2016,</p>
+      </container>
+      <container name="Noting" eId="container_17">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the importance of ensuring the integrity of all ecosystems, including oceans, and the protection of biodiversity, recognized by some cultures as Mother Earth, and noting also the importance for some of the concept of “climate justice”, when taking action to address climate change,</p>
+      </container>
+      <container name="Noting also" eId="container_18">
+        <p xml:space="preserve">
+          <span class="italic">Noting also</span> that, in promoting a holistic approach to achieving sustainable development in harmony with nature, Earth system science plays a significant role,</p>
+      </container>
+      <container name="Expressing concern" eId="container_19">
+        <p xml:space="preserve">
+          <span class="italic">Expressing concern</span> about documented environmental degradation, more frequent and intense natural disasters and the negative impact on nature resulting from human activity, and recognizing the need to strengthen scientific knowledge on the effects of human activities on ecosystems, with the aim of promoting and ensuring an equitable, balanced and sustainable relationship with the Earth,</p>
+      </container>
+      <container name="Recognizing" eId="container_20">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the uneven availability of basic statistical data under the three dimensions of sustainable development and the need to improve their quality and quantity,</p>
+      </container>
+      <container name="Reaffirming" eId="container_21">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> that fundamental changes in the way societies produce and consume are indispensable for achieving global sustainable development and that all countries should promote sustainable consumption and production patterns, with the developed countries taking the lead and with all countries benefiting from the process, taking into account the Rio principles,</p>
+      </container>
+      <container name="Noting" eId="container_22">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> that in recent years there have been many initiatives on sustainable development governance, including policy documents on living well in harmony with nature,</p>
+      </container>
+      <container name="Noting also" eId="container_23">
+        <p xml:space="preserve">
+          <span class="italic">Noting also</span> the adoption and the opening for signature, at United Nations Headquarters, of the Regional Agreement on Access to Information, Public Participation and Justice in Environmental Matters in Latin America and the Caribbean, known as the Escazú Agreement, the first binding agreement of its kind, and encouraging its early entry into force as a contribution to sustainable development,</p>
+      </container>
+      <container name="Recognizing" eId="container_24">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that many ancient civilizations, indigenous peoples and indigenous cultures have a rich history of understanding the symbiotic connection between human beings and nature that fosters a mutually beneficial relationship,</p>
+      </container>
+      <container name="Recognizing also" eId="container_25">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing also</span> that the traditional knowledge, innovations and practices of indigenous peoples and local communities can support social well-being and sustainable livelihoods and therefore contribute to global efforts and initiatives such as the Sustainable Development Goals,</p>
+      </container>
+      <container name="Noting" eId="container_26">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> that some countries are discussing the possibility of considering a declaration on the protection of nature, based on their legislation, policy and educational perspectives,</p>
+      </container>
+      <container name="Noting also" eId="container_27">
+        <p xml:space="preserve">
+          <span class="italic">Noting also</span> that, in a number of countries, both formal and informal educational activities on the rights of Nature or Mother Earth have arisen in the professional and public spheres in the context of the promotion of sustainable development, and encouraging a holistic approach to education and public awareness for sustainable development in its three dimensions,</p>
+      </container>
+      <container name="Recognizing" eId="container_28">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the work undertaken by civil society, academia, scientists, local communities and indigenous peoples with regard to signalling the precariousness of life on Earth, as well as their efforts, along with those of Governments and private sector organizations, to devise more sustainable models and methods for production and consumption, </p>
+      </container>
+      <container name="Noting" eId="container_29">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the work of the experts of the Harmony with Nature Knowledge Network, who are collaborating on important activities in order to support the United Nations with the goal of ensuring that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature, as set out in target 12.8 of the Sustainable Development Goals,</p>
+      </container>
+      <container name="Considering" eId="container_30">
+        <p xml:space="preserve">
+          <span class="italic">Considering</span> that sustainable development is a holistic concept that requires the strengthening of interdisciplinary linkages in the different branches of knowledge,</p>
+      </container>
+      <container name="Reiterating" eId="container_31">
+        <p xml:space="preserve">
+          <span class="italic">Reiterating</span> the pledge that no one will be left behind, reaffirming the recognition that the dignity of the human person is fundamental, and the wish to see the Goals and targets met for all nations and peoples and for all segments of society, and recommitting to endeavour to reach the furthest behind first,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_32" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_32__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of the report of the Secretary-General on Harmony with Nature;<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/236">A/74/236</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_33" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_33__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States to consider existing studies and, as appropriate, the findings and recommendations of the reports of the Secretary-General on Harmony with Nature,<authorialNote marker="13" placement="bottom" eId="authorialNote_13"><p xml:space="preserve"><a href="https://undocs.org/en/A/65/314">A/65/314</a>, <a href="https://undocs.org/en/A/66/302">A/66/302</a>, <a href="https://undocs.org/en/A/67/317">A/67/317</a>, <a href="https://undocs.org/en/A/68/325">A/68/325</a>, <a href="https://undocs.org/en/A/68/325/Corr.1">A/68/325/Corr.1</a>, <a href="https://undocs.org/en/A/69/322">A/69/322</a>, <a href="https://undocs.org/en/A/70/268">A/70/268</a>, <a href="https://undocs.org/en/A/72/175">A/72/175</a>, <a href="https://undocs.org/en/A/73/221">A/73/221</a> and <a href="https://undocs.org/en/A/74/236">A/74/236</a>.</p></authorialNote> of the experts’ summary report of the first virtual dialogue of the General Assembly on Harmony with Nature, addressing Earth jurisprudence,<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve">	 	See <a href="https://undocs.org/en/A/71/266">A/71/266</a>.</p></authorialNote> and of the interactive dialogues of the Assembly on Harmony with Nature in the promotion of the balanced integration of the economic, social and environmental dimensions of sustainable development through harmony with nature;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_34" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_34__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the President of the General Assembly to convene, at the seventy-fourth session of the Assembly, an interactive dialogue, to be held at the plenary meetings to be convened during the commemoration of International Mother Earth Day on 22 April 2020, with the participation of Member States, the United Nations system, independent experts and other relevant stakeholders, to discuss and compare regional, national and local initiatives over the past decade, including actions and transformations in law, policy and education on Earth jurisprudence, where applicable, as well as to discuss the relationship between harmony with nature and the protection of biological diversity, and to inspire citizens and societies to reconsider how they interact with the natural world in the context of sustainable development;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_35" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_35__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> the experts of the Harmony with Nature Knowledge Network to carry out a study of the evolution over the past decade of regional, local and national initiatives on the protection of Mother Earth, as applicable, to be considered by the Secretary-General in his report on the implementation of the present resolution;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_36" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_36__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> to continue to observe International Mother Earth Day annually on 22 April, requests the Secretary-General to provide continuing support, and encourages Member States to observe the International Day at the national level;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_37" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_37__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note with appreciation</span> of the agreement between the Government of the Plurinational State of Bolivia and the Department of Economic and Social Affairs of the Secretariat,<authorialNote marker="15" placement="bottom" eId="authorialNote_15"><p xml:space="preserve">	 	Available at <a href="http://www.harmonywithnatureun.org/trustFund">www.harmonywithnatureun.org/trustFund</a>.</p></authorialNote> invites Member States to contribute to the earmarked activities related to Harmony with Nature under the trust fund of the high-level political forum on sustainable development, aiming, inter alia, at the participation of independent experts in the interactive dialogues of the General Assembly on Harmony with Nature, and invites relevant stakeholders to contribute to the earmarked activities related to Harmony with Nature;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_38" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_38__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to continue to use the website on Harmony with Nature, managed by the Division for Sustainable Development Goals of the Department of Economic and Social Affairs, to gather information and contributions on ideas and activities to promote a holistic approach to sustainable development in harmony with nature and to advance the integration of interdisciplinary scientific work, including success stories on the use of traditional knowledge and on existing national legislation;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_39" class="SingleTxt">
+        <num>	8.</num>
+        <content eId="para_39__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls for</span> holistic and integrated approaches to sustainable development, in its three dimensions, that will guide humanity to live in harmony with nature and lead to efforts to restore the health and integrity of the Earth’s ecosystems;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_40" class="SingleTxt">
+        <num>	9.</num>
+        <content eId="para_40__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> States, as appropriate: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_41" class="SingleTxt">
+        <content eId="para_41__content">
+          <p xml:space="preserve">	(a)	To further build up a knowledge network in order to advance a holistic conceptualization of sustainable development in its three dimensions to identify different approaches that reflect the drivers and values of and actions aimed at living in harmony with nature, relying on current scientific information to achieve sustainable development, and to facilitate support for and recognition of the fundamental interconnections between humankind and nature;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_42" class="SingleTxt">
+        <content eId="para_42__content">
+          <p xml:space="preserve">	(b)	To promote harmony with nature, exemplified by indigenous peoples, among others, to learn from their cultures the protection of nature, and to support and promote efforts being made at the local, national, regional and global levels, taking into account, inter alia, the best practices and advances made in the establishment of the United Nations Framework Convention on Climate Change Local Communities and Indigenous Peoples Platform;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_43" class="SingleTxt">
+        <num>	10.</num>
+        <content eId="para_43__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> that protecting and conserving ecosystems and avoiding harmful practices against animals, plants, microorganisms and non-living environments contributes to the coexistence of humankind in harmony with nature, and invites the Secretary-General to address these issues in his report on the implementation of the present resolution;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_44" class="SingleTxt">
+        <num>	11.</num>
+        <content eId="para_44__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> all countries to develop and strengthen the quality and quantity of basic national statistical data on the three dimensions of sustainable development, and invites the international community and the pertinent bodies of the United Nations system to support the efforts of developing countries by providing capacity-building and technical assistance;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_45" class="SingleTxt">
+        <num>	12.</num>
+        <content eId="para_45__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> the need for broader and multidimensional measures of sustainable development, to complement gross domestic product in order to better inform policy decisions, and in this regard notes the ongoing work of the Statistical Commission on a work programme to develop broader measures of progress and to conduct a technical review of existing efforts in this area;<authorialNote marker="16" placement="bottom" eId="authorialNote_16"><p xml:space="preserve"><span class="italic">Official Records of the Economic and Social Council, 2013, Supplement No. 4</span> (<a href="https://undocs.org/en/E/2013/24">E/2013/24</a>), chap. I, sect. C, decision 44/114.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_46" class="SingleTxt">
+        <num>	13.</num>
+        <content eId="para_46__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> the commitment at the very heart of the 2030 Agenda to leave no one behind and commit to taking more tangible steps to support people in vulnerable situations and the most vulnerable countries and to reach the furthest behind first;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_47" class="SingleTxt">
+        <num>	14.</num>
+        <content eId="para_47__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to submit to the General Assembly at its seventy-fifth session a report on the implementation of the present resolution, and decides to include in the provisional agenda of its seventy-fifth session, under the item entitled “Sustainable development”, the sub-item entitled “Harmony with Nature”.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="52nd">52nd plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-19" refersTo="#adoptionDate">19 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

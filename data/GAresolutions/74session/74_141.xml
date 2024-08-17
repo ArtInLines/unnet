@@ -1,0 +1,448 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-141/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-141/"></FRBRuri>
+          <FRBRdate date="2019-12-18" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-141/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-141/eng@/"></FRBRuri>
+          <FRBRdate date="2020-01-29" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-141/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-141/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="6" href="http://metadata.un.org/sdg/6" showAs="sdg_6" dictionary="SDGO"></keyword>
+        <keyword value="water" href="http://eurovoc.europa.eu/597" showAs="water" dictionary="EuroVoc"></keyword>
+        <keyword value="public_hygiene" href="http://eurovoc.europa.eu/3371" showAs="public_hygiene" dictionary="EuroVoc"></keyword>
+        <keyword value="use_of_water" href="http://eurovoc.europa.eu/4628" showAs="use_of_water" dictionary="EuroVoc"></keyword>
+        <keyword value="water" href="http://metadata.un.org/thesaurus/030500" showAs="water" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sanitation" href="http://metadata.un.org/thesaurus/1005701" showAs="sanitation" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="water_management" href="http://metadata.un.org/thesaurus/1006948" showAs="water_management" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women&amp;#39;s_rights" href="http://eurovoc.europa.eu/585" showAs="women&amp;#39;s_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-11-12" outcome="draftResolution" as="A/C.3/74/L.33/Rev.1" by="Albania, Andorra, Armenia, Austria, Belgium, Belize, Benin, Bosnia and Herzegovina, Bulgaria, Cabo Verde, Costa Rica, Côte d'Ivoire, Croatia, Cyprus, Czechia, Denmark, Dominican Republic, Ecuador, Estonia, Finland, France, Georgia, Germany, Greece, Honduras, Hungary, Iceland, Ireland, Italy, Jordan, Latvia, Lebanon, Liberia, Liechtenstein, Lithuania, Luxembourg, Malta, Mexico, Monaco, Montenegro, Netherlands, North Macedonia, Poland, Portugal, Republic of Moldova, Romania, Seychelles, Slovakia, Slovenia, Spain, Sweden, Switzerland, Tunisia, Ukraine, United Kingdom of Great Britain and Northern Ireland and Uruguay" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="Afghanistan, Algeria, Angola, Antigua and Barbuda, Bahamas, Bangladesh, Bolivia (Plurinational State of), Burkina Faso, Chad, El Salvador, Equatorial Guinea, Eritrea, Ethiopia, Fiji, Gambia, Ghana, Guinea, Haiti, Kiribati, Lesotho, Libya, Madagascar, Maldives, Mali, Micronesia (Federated States of), Mongolia, Morocco, Namibia, Nicaragua, Nigeria, Norway, Palau, Panama, Paraguay, Peru, Qatar, Republic of Korea, Saint Vincent and the Grenadines, Samoa, San Marino, Saudi Arabia, Serbia, Sierra Leone, Singapore, Solomon Islands, South Africa, Tajikistan, Thailand, Togo, Tuvalu, Uganda, United Arab Emirates and Venezuela (Bolivarian Republic of)" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/399" by="" refersTo="69" />
+        <step date="2019-12-18" outcome="adopted" as="A/74/PV.50" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="thirdCommittee" href="#thirdCommittee" showAs="Third Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-22240 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/141</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-01-29" class="rightSmall" refersTo="#dateOfIssuance">29 January 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 70</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Promotion and protection of human rights</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 18 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#thirdCommittee">[on the report of the Third Committee (<inline name="originating document">A/74/399</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/141.</docNumber>
+        <docTitle refersTo="#resolutionTitle">The human rights to safe drinking water and sanitation</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Guided" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Guided</span> by the purposes and principles of the Charter of the United Nations,</p>
+      </container>
+      <container name="Recalling" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolutions <a href="https://undocs.org/en/A/RES/64/292">64/292</a> of 28 July 2010, in which it recognized the right to safe and clean drinking water and sanitation as a human right that is essential for the full enjoyment of life and all human rights, and <a href="https://undocs.org/en/A/RES/72/178">72/178</a> of 19 December 2017, entitled “The human rights to safe drinking water and sanitation”, </p>
+      </container>
+      <container name="Reaffirming" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> all previous resolutions of the Human Rights Council regarding the human rights to safe drinking water and sanitation, inter alia, Council resolution <a href="https://undocs.org/en/A/HRC/RES/39/8">39/8</a> of 27 September 2018,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">		See <span class="italic">Official Records of the General Assembly, Seventy-third Session, Supplement No. 53A</span> (<a href="https://undocs.org/en/A/73/53/Add.1">A/73/53/Add.1</a>), chap. III.</p></authorialNote></p>
+      </container>
+      <container name="Recalling" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the Universal Declaration of Human Rights,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">		Resolution <a href="https://undocs.org//en/A/RES/217 (III)">217 A (III)</a>.</p></authorialNote> the International Covenant on Economic, Social and Cultural Rights,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">		See resolution <a href="https://undocs.org//en/A/RES/2200 (XXI)">2200 A (XXI)</a>, annex.</p></authorialNote> the International Covenant on Civil and Political Rights,<sup>3</sup> the International Convention on the Elimination of All Forms of Racial Discrimination,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">		United Nations, <span class="italic">Treaty Series</span>, vol. 660, No. 9464.</p></authorialNote> the Convention on the Elimination of All Forms of Discrimination against Women,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">		Ibid., vol. 1249, No. 20378.</p></authorialNote> the Convention on the Rights of the Child<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">		Ibid., vol. 1577, No. 27531.</p></authorialNote> and the Convention on the Rights of Persons with Disabilities,<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve">		Ibid., vol. 2515, No. 44910.</p></authorialNote></p>
+      </container>
+      <container name="Recalling also" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> that the human rights to safe drinking water and sanitation are derived from the right to an adequate standard of living and are inextricably related to the right to the highest attainable standard of physical and mental health, as well as to the right to life and human dignity,</p>
+      </container>
+      <container name="Noting" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> general comment No. 15 (2002) of the Committee on Economic, Social and Cultural Rights on the right to water (articles 11 and 12 of the International Covenant on Economic, Social and Cultural Rights)<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve"><span class="italic">Official Records of the Economic and Social Council, 2003, Supplement No. 2</span> (<a href="https://undocs.org/en/E/2003/22(supp)">E/2003/22</a>), annex IV.</p></authorialNote> and the statement on the right to sanitation of the Committee of 19 November 2010,<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">		Ibid., <span class="italic">2011, Supplement No. 2 </span>(<a href="https://undocs.org/en/E/2011/22">E/2011/22</a>), annex VI.</p></authorialNote> and taking note of the reports of the Special Rapporteur of the Human Rights Council on the human rights to safe drinking water and sanitation,</p>
+      </container>
+      <container name="Reaffirming" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the responsibility of States to ensure the promotion and protection of and respect for all human rights, which are universal, indivisible, interdependent and interrelated, and must be treated globally, in a fair and equal manner, on the same footing and with the same emphasis,</p>
+      </container>
+      <container name="Recalling" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the Programme of Action of the International Conference on Population and Development<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve"><span class="italic">Report of the International Conference on Population and Development, Cairo, 5–13 September 1994</span> (United Nations publication, Sales No. E.95.XIII.18), chap. I, resolution 1, annex.</p></authorialNote> and outcome documents of review conferences, reaffirming the Beijing Declaration and Platform for Action,<authorialNote marker="11" placement="bottom" eId="authorialNote_11"><p xml:space="preserve"><span class="italic">Report of the Fourth World Conference on Women, Beijing, 4–15 September 1995</span> (United Nations publication, Sales No. E.96.IV.13), chap. I, resolution 1, annexes I and II.</p></authorialNote> the outcome documents of the twenty-third special session of the General Assembly<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve">		Resolution <a href="https://undocs.org/en/A/RES/S-23/2">S-23/2</a>, annex, and resolution <a href="https://undocs.org/en/A/RES/S-23/3">S-23/3</a>, annex.</p></authorialNote> and the declarations adopted by the Commission on the Status of Women on the occasion of the tenth, fifteenth and twentieth anniversaries of the Fourth World Conference on Women,<authorialNote marker="13" placement="bottom" eId="authorialNote_13"><p xml:space="preserve">		See <span class="italic">Official Records of the Economic and Social Council, 2005, Supplement No. 7</span> and corrigendum (<a href="https://undocs.org/en/E/2005/27">E/2005/27</a> and <a href="https://undocs.org/en/E/2005/27/Corr.1(supp)">E/2005/27/Corr.1</a>), chap. I, sect. A; ibid., <span class="italic">2010, Supplement No. 7</span> and corrigendum (<a href="https://undocs.org/en/E/2010/27(supp)">E/2010/27</a> and <a href="https://undocs.org/en/E/2010/27/Corr.1">E/2010/27/Corr.1</a>), chap I, sect. A; and ibid., <span class="italic">2015, Supplement No. 7</span> (<a href="https://undocs.org/en/E/2015/27">E/2015/27</a>), chap. I, sect. C, resolution 59/1, annex.</p></authorialNote> and looking forward to its upcoming twenty-fifth anniversary,</p>
+      </container>
+      <container name="Reaffirming" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> its resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a> of 25 September 2015, entitled “Transforming our world: the 2030 Agenda for Sustainable Development”, for the achievement of sustainable development in its three dimensions – economic, social and environmental – in a balanced and integrated manner, ensuring that no one is left behind, and stressing the importance of monitoring and reporting on the implementation of the Sustainable Development Goals,</p>
+      </container>
+      <container name="Recalling" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolution <a href="https://undocs.org/en/A/RES/71/222">71/222</a> of 21 December 2016, by which it proclaimed the period 2018–2028 the International Decade for Action, “Water for Sustainable Development”,</p>
+      </container>
+      <container name="Stressing" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Stressing</span> the importance of monitoring and reporting on the implementation of the internationally agreed Sustainable Development Goals and targets, including the Goal on ensuring the availability and sustainable management of water and sanitation for all,</p>
+      </container>
+      <container name="Recalling" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the designation, pursuant to General Assembly resolutions <a href="https://undocs.org/en/A/RES/47/193">47/193</a> of 22 December 1992 and <a href="https://undocs.org/en/A/RES/67/291">67/291</a> of 24 July 2013, of 22 March as World Water Day and 19 November as World Toilet Day, which are important opportunities to promote, among other issues, awareness of the human rights to safe drinking water and sanitation and of the remaining challenges in this regard, </p>
+      </container>
+      <container name="Recalling also" eId="container_14">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> the Rio Declaration on Environment and Development of June 1992<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve"><span class="italic">Report of the United Nations Conference on Environment and Development, Rio de Janeiro,  3–14 June 1992</span>, vol. I, <span class="italic">Resolutions Adopted by the Conference</span> (United Nations publication, Sales No. E.93.I.8 and corrigendum), resolution 1, annex I.</p></authorialNote> and its resolution <a href="https://undocs.org/en/A/RES/66/288">66/288</a> of 27 July 2012, entitled “The future we want”, and emphasizing the critical importance of water and sanitation within the three dimensions of sustainable development, </p>
+      </container>
+      <container name="Noting" eId="container_15">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the relevant commitments and initiatives promoting the human rights to safe drinking water and sanitation made at recent regional and subregional conferences and meetings, </p>
+      </container>
+      <container name="Affirming" eId="container_16">
+        <p xml:space="preserve">
+          <span class="italic">Affirming</span> the importance of continually improving the availability of high-quality, accessible, timely and reliable disaggregated data on progress related to safe drinking water and sanitation services as an indispensable means for States to plan for, implement and monitor the progressive realization of the human rights to safe drinking water and sanitation for all without discrimination,</p>
+      </container>
+      <container name="Welcoming" eId="container_17">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the work of the World Health Organization and the United Nations Children’s Fund in the 2019 update published by their Joint Monitoring Programme for Water Supply, Sanitation and Hygiene on household drinking water, sanitation and hygiene,<authorialNote marker="15" placement="bottom" eId="authorialNote_15"><p xml:space="preserve">		World Health Organization/United Nations Children’s Fund, <span class="italic">Progress on Household Drinking Water, Sanitation and Hygiene 2000–2017: Special Focus on Inequalities </span>(Geneva, 2019).</p></authorialNote> and noting the fact that it has an extensive global database and has developed global norms to benchmark progress, while taking into consideration the fact that official figures very often do not fully capture all the dimensions of the human rights to safe drinking water and sanitation,</p>
+      </container>
+      <container name="Noting" eId="container_18">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the fact that, globally, between 2000 and 2017, according to the Joint Monitoring Programme, the percentage of the population using safely managed drinking water increased from 61 to 71 per cent and the percentage of the population using basic drinking water services decreased from 20 to 19 per cent, and welcoming the fact that the percentage of the population using safely managed sanitation services increased from 28 to 45 per cent and the percentage of the population using basic sanitation services increased from 28 to 29 per cent,</p>
+      </container>
+      <container name="Deeply concerned" eId="container_19">
+        <p xml:space="preserve">
+          <span class="italic">Deeply concerned</span> that, almost 10 years after the adoption of resolution <a href="https://undocs.org/en/A/RES/64/292">64/292</a>, 785 million people still lack basic drinking water services and 144 million people still collect water directly from surface water sources, representing a combined 11 per cent of the world population, while 2 billion people still lack basic sanitation services and 673 million people still practise open defecation, representing a combined 26 per cent of the world population, </p>
+      </container>
+      <container name="Deeply concerned also" eId="container_20">
+        <p xml:space="preserve">
+          <span class="italic">Deeply concerned also</span> about the lack of access to adequate water and sanitation services and its dramatic consequences for the overall health situation in humanitarian emergencies and crises, including in times of conflict and natural disaster, and acknowledging that people living in countries affected by armed conflict and natural disasters and in countries particularly vulnerable to the adverse effects of climate change, as well as people living in refugee camps, including in refugee host countries, are more likely to lack access to basic drinking water and to basic sanitation than people living in unaffected countries, </p>
+      </container>
+      <container name="Deeply concerned further" eId="container_21">
+        <p xml:space="preserve">
+          <span class="italic">Deeply concerned further</span> that women and girls often face, especially in humanitarian emergencies and crises, including in times of armed conflict or natural disaster, particular barriers in accessing water and sanitation, as well as menstrual hygiene management, and that they shoulder the main burden of collecting household water and of care responsibilities, including those arising from waterborne diseases, in many parts of the world, restricting their time for other activities, such as education and leisure, or, for women, for earning a livelihood,</p>
+      </container>
+      <container name="Deeply alarmed" eId="container_22">
+        <p xml:space="preserve">
+          <span class="italic">Deeply alarmed</span> that water, sanitation and hygiene-related diseases hit children the hardest, while noting that child diarrhoea is the second leading cause of death in children under 5 years of age, and underscoring that progress on reducing child mortality, morbidity and stunting is linked to children’s and women’s access to safe drinking water and sanitation and that, in humanitarian emergencies and crises, including in times of armed conflict or natural disaster, children suffer the most from interruptions in water and sanitation services, </p>
+      </container>
+      <container name="Deeply concerned" eId="container_23">
+        <p xml:space="preserve">
+          <span class="italic">Deeply concerned</span> that persons with disabilities, especially children, often face barriers in accessing water and sanitation facilities that are accessible and appropriate to their needs, which has an impact on their ability to live independently and participate fully in all aspects of life, including education and employment, which is particularly concerning with regard to homelessness and humanitarian emergencies and crises,</p>
+      </container>
+      <container name="Deeply alarmed" eId="container_24">
+        <p xml:space="preserve">
+          <span class="italic">Deeply alarmed</span> by indiscriminate attacks and attacks deliberately targeting civilian objects in armed conflict, which may injure personnel and cut off the power that keeps water, sanitation and hygiene systems running,</p>
+      </container>
+      <container name="Deeply concerned" eId="container_25">
+        <p xml:space="preserve">
+          <span class="italic">Deeply concerned</span> that widespread silence and stigma surrounding menstruation and menstrual hygiene mean that women and girls often lack basic information and education thereon, are excluded and stigmatized, that their health can be negatively affected and that they are thus prevented from realizing their full potential,</p>
+      </container>
+      <container name="Deeply concerned also" eId="container_26">
+        <p xml:space="preserve">
+          <span class="italic">Deeply concerned also</span> that the lack of access to adequate water and sanitation services, including for menstrual hygiene management, especially in schools, workplaces, health centres and public facilities, negatively affects gender equality, the empowerment of women and girls and their enjoyment of human rights, including the right to education and the right to the enjoyment of the highest attainable standard of physical and mental health, and recognizing that women have specific hygiene needs during menstruation, pregnancy, childbearing and rearing and throughout the life course,</p>
+      </container>
+      <container name="Deeply concerned further" eId="container_27">
+        <p xml:space="preserve">
+          <span class="italic">Deeply concerned further</span> that women and girls are particularly at risk of and exposed to attacks, sexual and gender-based violence, harassment and other threats to their safety while collecting household water and when accessing sanitation facilities outside their homes or, when lacking adequate sanitation facilities, practising open defecation and urination, limiting their ability to move freely and safely in the public sphere,</p>
+      </container>
+      <container name="Deeply concerned" eId="container_28">
+        <p xml:space="preserve">
+          <span class="italic">Deeply concerned</span> that non-existent or inadequate sanitation facilities and serious deficiencies in water management and wastewater treatment can negatively affect water provision and sustainable access to safe drinking water and that, according to the United Nations World Water Development Report 2017, over 80 per cent of the world’s wastewater, and over 95 per cent in some developing countries, is released into the environment without treatment, </p>
+      </container>
+      <container name="Affirming" eId="container_29">
+        <p xml:space="preserve">
+          <span class="italic">Affirming</span> the importance of regional and international cooperation, where appropriate, as a means to promote the progressive realization of the human rights to safe drinking water and sanitation, with the understanding that it has no bearing on the issues of international water law, including international watercourse law, </p>
+      </container>
+      <container name="Expressing concern" eId="container_30">
+        <p xml:space="preserve">
+          <span class="italic">Expressing concern</span> that climate change has contributed and continues to contribute to the increased frequency and intensity of both sudden-onset natural disasters and slow-onset events, and that these events have adverse effects on the full enjoyment of all human rights, including the human rights to safe drinking water and sanitation, and recalling the need to enhance adaptive capacity, strengthen resilience and reduce vulnerability to climate change,</p>
+      </container>
+      <container name="Recognizing" eId="container_31">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that, while the implications of climate change-related impacts and environmental damage for the enjoyment of the human rights to safe drinking water and sanitation affect individuals and communities around the world, the consequences are felt most acutely by those segments of the population that are already in vulnerable situations, such as people living in informal settlements, people living in small island States and rural and local communities, and recognizing also that indigenous peoples, because of their specific situation and nature, may be among the first to face the direct consequences of climate change owing to their dependence upon and close relationship with the environment and its resources,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_32" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_32__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> that the human rights to safe drinking water and sanitation, as components of the right to an adequate standard of living, are essential for the full enjoyment of the right to life and all human rights; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_33" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_33__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> that the human right to safe drinking water entitles everyone, without discrimination, to have access to sufficient, safe, acceptable, physically accessible and affordable water for personal and domestic use, and that the human right to sanitation entitles everyone, without discrimination, to have physical and affordable access to sanitation, in all spheres of life, that is safe, hygienic, secure, socially and culturally acceptable and that provides privacy and ensures dignity, while reaffirming that both rights are components of the right to an adequate standard of living; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_34" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_34__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the work of the Special Rapporteur of the Human Rights Council on the human rights to safe drinking water and sanitation, and takes note of his reports; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_35" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_35__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> that States have the primary responsibility to ensure the full realization of all human rights and to endeavour to take steps, individually and through international assistance and cooperation, especially economic and technical cooperation, to the maximum of their available resources, to progressively achieve the full realization of the rights to safe drinking water and sanitation by all appropriate means, including, in particular, the adoption of legislative measures;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_36" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_36__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> States: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_37" class="SingleTxt">
+        <content eId="para_37__content">
+          <p xml:space="preserve">	(a)	To ensure the progressive realization of the human rights to safe drinking water and sanitation for all in a non-discriminatory manner while eliminating inequalities in access, including for individuals belonging to groups at risk and those who are marginalized on the grounds of race, gender, age, disability, ethnicity, culture, religion and national or social origin or on any other grounds; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_38" class="SingleTxt">
+        <content eId="para_38__content">
+          <p xml:space="preserve">	(b)	To implement the internationally agreed Sustainable Development Goals and targets,<authorialNote marker="16" placement="bottom" eId="authorialNote_16"><p xml:space="preserve">		See resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a>.</p></authorialNote> including the Goal on ensuring the availability and sustainable management of water and sanitation for all, consistent with their obligations under international law; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_39" class="SingleTxt">
+        <content eId="para_39__content">
+          <p xml:space="preserve">	(c)	To take into consideration the New Urban Agenda,<authorialNote marker="17" placement="bottom" eId="authorialNote_17"><p xml:space="preserve">		Resolution <a href="https://undocs.org/en/A/RES/71/256">71/256</a>, annex.</p></authorialNote> which envisages cities and human settlements that fulfil their social function, the full realization of the right to adequate housing as a component of the right to an adequate standard of living, without discrimination, and universal access to safe and affordable drinking water and sanitation; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_40" class="SingleTxt">
+        <content eId="para_40__content">
+          <p xml:space="preserve">	(d)	To ensure access to safe and affordable drinking water and adequate and equitable sanitation and hygiene for all women and girls, as well as for menstrual hygiene management, including for hygiene facilities and services in public and private spaces; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_41" class="SingleTxt">
+        <content eId="para_41__content">
+          <p xml:space="preserve">	(e)	To take measures to empower women and girls for preparedness in humanitarian emergencies and crises, including in times of armed conflict or natural disaster, by ensuring access to water and sanitation services and implementing gender-responsive policies, plans and programmes that address, inter alia, effective menstrual hygiene management and adequate disposal options for menstrual products, without compromising their safety and dignity;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_42" class="SingleTxt">
+        <content eId="para_42__content">
+          <p xml:space="preserve">	(f)	To address the widespread stigma and shame surrounding menstruation and menstrual hygiene by promoting educational and health practices in order to foster a culture in which menstruation is recognized as healthy and natural and by ensuring access to factual information thereon, including for men and boys, addressing the negative social norms around the issue, as well as ensuring universal access to hygienic products and gender-sensitive facilities, including disposal and waste management options for menstrual products, while recognizing that women’s and girls’ attendance at school, university or, for women, work can be affected by negative perceptions of menstruation and lack of means to maintain personal hygiene, such as safe water, sanitation and hygiene facilities in schools, public places and, for women, the workplace;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_43" class="SingleTxt">
+        <content eId="para_43__content">
+          <p xml:space="preserve">	(g)	To promote both women’s leadership and their full, effective and equal participation in decision-making on water and sanitation management and to ensure that a gender-based approach is adopted in relation to water and sanitation programmes;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_44" class="SingleTxt">
+        <content eId="para_44__content">
+          <p xml:space="preserve">	(h)	To reduce the time spent by women and girls in collecting household water, in order to address the negative impact of inadequate water and sanitation services on the access of girls to education, including through improved public services and infrastructure;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_45" class="SingleTxt">
+        <content eId="para_45__content">
+          <p xml:space="preserve">	(i)	To promote safe public spaces and improve the security and safety of women and girls through gender-responsive rural and urban planning and infrastructure when accessing sanitation facilities outside their homes or practising open defecation and urination;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_46" class="SingleTxt">
+        <content eId="para_46__content">
+          <p xml:space="preserve">	(j)	To protect women and girls from being physically threatened or assaulted, including from sexual violence, while collecting household water and when accessing sanitation facilities outside their home or practising open defecation and urination, including through promoting safe public spaces and improving the security and safety of women and girls through gender-responsive rural and urban planning and infrastructure; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_47" class="SingleTxt">
+        <content eId="para_47__content">
+          <p xml:space="preserve">	(k)	To progressively eliminate open defecation by adopting policies to increase access to sanitation, including for individuals who are vulnerable or marginalized;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_48" class="SingleTxt">
+        <content eId="para_48__content">
+          <p xml:space="preserve">	(l)	To take steps to promote action to raise international awareness of the issue of waterborne diseases, in particular cholera and child diarrhoea, which can be prevented through safe drinking water and adequate sanitation and hygiene and engaging in partnerships with relevant stakeholders to implement projects aimed at scaling up access to safe water and sanitation in developing countries;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_49" class="SingleTxt">
+        <content eId="para_49__content">
+          <p xml:space="preserve">	(m)	To apply broad and inclusive participatory approaches, consulting and coordinating with local communities and other stakeholders, including civil society and the private sector, on adequate solutions to ensure sustainable and non‑discriminatory access to safe drinking water and sanitation; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_50" class="SingleTxt">
+        <content eId="para_50__content">
+          <p xml:space="preserve">	(n)	To enhance efforts to substantially reduce the share of untreated wastewater released into the environment and to ensure that plans and programmes for improving sanitation services take into account the need for appropriate systems for the treatment of wastewater produced, including disposal of infant faeces, with the aim of reducing the risks to human health, drinking water resources and the environment;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_51" class="SingleTxt">
+        <content eId="para_51__content">
+          <p xml:space="preserve">	(o)	To identify patterns of failure to respect, protect or fulfil the human rights to safe drinking water and sanitation for all persons without discrimination and to address their structural causes in policymaking and budgeting within a broader framework, while undertaking holistic planning aimed at achieving sustainable universal access, including in instances where the private sector, donors and non‑governmental organizations are involved in service provision; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_52" class="SingleTxt">
+        <content eId="para_52__content">
+          <p xml:space="preserve">	(p)	To provide for effective accountability mechanisms for all water and sanitation service providers, including private sector providers, to ensure that they respect human rights and do not cause or contribute to human rights violations or abuses; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_53" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_53__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> States and international organizations to provide financial resources and support capacity-building and technology transfer to help countries, at their request, in particular developing countries, to provide safe, clean, accessible and affordable drinking water and sanitation for all;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_54" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_54__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> non-State actors, including business enterprises, both transnational and others, to comply with their responsibility to respect human rights, including the human rights to safe drinking water and sanitation, including by cooperating with State investigations into allegations of abuses of the human rights to safe drinking water and sanitation and by progressively engaging with States to detect and remedy abuses of the human rights to safe drinking water and sanitation;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_55" class="SingleTxt">
+        <num>	8.</num>
+        <content eId="para_55__content">
+          <p xml:space="preserve">
+            <span class="italic">Stresses</span> the important role of the international cooperation and technical assistance provided by States, specialized agencies of the United Nations system and international and development partners, as well as by donor agencies, urges development partners to adopt a human rights-based approach when designing and implementing development programmes in support of national initiatives and plans of action related to the rights to safe drinking water and sanitation, and invites regional and international organizations to complement efforts by States to progressively realize the human rights to safe drinking water and sanitation in accordance with their respective mandates;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_56" class="SingleTxt">
+        <num>	9.</num>
+        <content eId="para_56__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to expand international cooperation and capacity-building support to developing countries in water- and sanitation-related activities and programmes, including water harvesting, desalination, water efficiency, wastewater treatment, recycling and reuse technologies;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_57" class="SingleTxt">
+        <num>	10.</num>
+        <content eId="para_57__content">
+          <p xml:space="preserve">
+            <span class="italic">Also calls upon</span> Member States to enhance global partnerships for sustainable development as a means to achieve and sustain the Goals and the targets of the 2030 Agenda for Sustainable Development,<sup>16</sup> and highlights that the 2030 Agenda marks a paradigm shift towards a more balanced and integrated plan of action for achieving sustainable development that reflects the universality, indivisibility and interdependence of all human rights; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_58" class="SingleTxt">
+        <num>	11.</num>
+        <content eId="para_58__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> that the high-level political forum on sustainable development, under the auspices of the General Assembly and of the Economic and Social Council, has the central role in overseeing follow-up and review at the global level of the Sustainable Development Goals, and encourages Member States to share their experiences and best practices; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_59" class="SingleTxt">
+        <num>	12.</num>
+        <content eId="para_59__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> to continue its consideration of the question at its seventy-sixth session.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="50th">50th plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-18" refersTo="#adoptionDate">18 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

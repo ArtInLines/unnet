@@ -1,0 +1,327 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-19/74-214/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-19/74-214/"></FRBRuri>
+          <FRBRdate date="2019-12-19" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-19/74-214/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-19/74-214/eng@/"></FRBRuri>
+          <FRBRdate date="2020-01-24" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-19/74-214/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-19/74-214/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-30" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+        <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="15" href="http://metadata.un.org/sdg/15" showAs="sdg_15" dictionary="SDGO"></keyword>
+        <keyword value="deforestation" href="http://eurovoc.europa.eu/339" showAs="deforestation" dictionary="EuroVoc"></keyword>
+        <keyword value="desertification" href="http://eurovoc.europa.eu/416" showAs="desertification" dictionary="EuroVoc"></keyword>
+        <keyword value="biodiversity" href="http://eurovoc.europa.eu/5463" showAs="biodiversity" dictionary="EuroVoc"></keyword>
+        <keyword value="land,_plant_and_soil_resources" href="http://metadata.un.org/thesaurus/030600" showAs="land,_plant_and_soil_resources" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="deforestation" href="http://metadata.un.org/thesaurus/1001550" showAs="deforestation" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-11-08" outcome="draftResolution" as="A/C.2/74/L.43/Rev.1" by="Bangladesh, Dominican Republic, Haiti, Kazakhstan, Kyrgyzstan, Mauritius, Palau, Tajikistan, Turkmenistan and Uzbekistan" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="Afghanistan, Armenia, Azerbaijan, Belarus, Brazil, Burkina Faso, Burundi, Cabo Verde, Canada, Central African Republic, China, Cuba, Djibouti, El Salvador, Ghana, India, Indonesia, Iraq, Ireland, Israel, Kenya, Lebanon, Maldives, Morocco, Myanmar, Namibia, Nepal, Nicaragua, Norway, Panama, Papua New Guinea, Philippines, Republic of Korea, Republic of Moldova, Russian Federation, Rwanda, Senegal, Seychelles, Singapore, Sri Lanka, Suriname, Turkey, Uganda, Venezuela (Bolivarian Republic of), Viet Nam" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/381" by="" refersTo="57" />
+        <step date="2019-12-19" outcome="adopted" as="A/74/PV.52" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="secondCommittee" href="#secondCommittee" showAs="Second Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-22428 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/214</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-01-24" class="rightSmall" refersTo="#dateOfIssuance">24 January 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 19</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Sustainable development</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 19 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#secondCommittee">[on the report of the Second Committee (<inline name="originating document">A/74/381</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/214.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Sustainable tourism and sustainable development in Central Asia</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Guided" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Guided</span> by the provisions of the Charter of the United Nations, which encourages regional cooperation to advance the purposes and principles of the United Nations, </p>
+      </container>
+      <container name="Recalling" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its relevant resolutions, in particular resolutions <a href="https://undocs.org/A/RES/72/214">72/214</a> of 20 December 2017 on sustainable tourism and sustainable development in Central America and <a href="https://undocs.org/A/RES/73/245">73/245</a> of 20 December 2018 on the promotion of sustainable tourism, including ecotourism, for poverty eradication and environment protection, and other related resolutions, </p>
+      </container>
+      <container name="Recalling also" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> the Manila Declaration on World Tourism of 10 October 1980,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"><a href="https://undocs.org/A/36/236">A/36/236</a>, annex, appendix I.</p></authorialNote> the Rio Declaration on Environment and Development and Agenda 21 of 14 June 1992,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"><span class="italic">Report of the United Nations Conference on Environment and Development, Rio de Janeiro, 3−14 June 1992, vol. I, Resolutions Adopted by the Conference</span> (United Nations publication, Sales No. E.93.I.8 and corrigendum), resolution 1, annexes I and II.</p></authorialNote> the Amman Declaration on Peace through Tourism of 11 November 2000<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"><a href="https://undocs.org/A/55/640">A/55/640</a>, annex.</p></authorialNote> and the Johannesburg Declaration on Sustainable Development and the Plan of Implementation of the World Summit on Sustainable Development (Johannesburg Plan of Implementation),<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"><span class="italic">Report of the World Summit on Sustainable Development, Johannesburg, South Africa, 26 August–4 September 2002</span> (United Nations publication, Sales No. E.03.II.A.1 and corrigendum), chap. I, resolution 1, annex, and resolution 2, annex.</p></authorialNote></p>
+      </container>
+      <container name="Reaffirming" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> its resolution <a href="https://undocs.org/A/RES/70/1">70/1</a> of 25 September 2015, entitled “Transforming our world: the 2030 Agenda for Sustainable Development”, in which it adopted a comprehensive, far-reaching and people-centred set of universal and transformative Sustainable Development Goals and targets, its commitment to working tirelessly for the full implementation of the Agenda by 2030, its recognition that eradicating poverty in all its forms and dimensions, including extreme poverty, is the greatest global challenge and an indispensable requirement for sustainable development, its commitment to achieving sustainable development in its three dimensions – economic, social and environmental – in a balanced and integrated manner, and to building upon the achievements of the Millennium Development Goals and seeking to address their unfinished business, </p>
+      </container>
+      <container name="Reaffirming also" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming also</span> its resolution <a href="https://undocs.org/A/RES/69/313">69/313</a> of 27 July 2015 on the Addis Ababa Action Agenda of the Third International Conference on Financing for Development, which is an integral part of the 2030 Agenda for Sustainable Development, supports and complements it, helps to contextualize its means of implementation targets with concrete policies and actions, and reaffirms the strong political commitment to address the challenge of financing and creating an enabling environment at all levels for sustainable development in the spirit of global partnership and solidarity,</p>
+      </container>
+      <container name="Reaffirming further" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming further</span> the Paris Agreement<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	 	Adopted under the United Nations Framework Convention on Climate Change in <a href="https://undocs.org/FCCC/CP/2015/10/Add.1">FCCC/CP/2015/10/Add.1</a>, decision 1/CP.21, annex.</p></authorialNote> and its early entry into force, encouraging all its parties to implement fully the Agreement, and parties to the United Nations Framework Convention on Climate Change<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vol. 1771, No. 30822.</p></authorialNote> that have not yet done so to deposit their instruments of ratification, acceptance, approval or accession, where appropriate, as soon as possible, </p>
+      </container>
+      <container name="Recognizing" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that sustainable tourism can contribute directly to the conservation of environmentally vulnerable natural areas and habitats through a variety of activities and by raising awareness of the importance of biodiversity, stressing the urgent need to address the unprecedented global decline in biodiversity and looking forward to the convening of a summit on biodiversity at the level of Heads of State and Government, within existing resources, before the fifteenth meeting of the Conference of the Parties to the Convention, in 2020, in order to highlight the urgency of action at the highest levels in support of a post-2020 global biodiversity framework that contributes to the 2030 Agenda for Sustainable Development and places the global community on a path towards realizing the 2050 Vision for Biodiversity, </p>
+      </container>
+      <container name="Recognizing also" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing also</span> the important dimension and role of sustainable tourism as a positive instrument towards the improvement of the quality of life for all people and its contribution to sustainable development, especially in developing countries, and to the eradication of poverty and the protection of the environment, </p>
+      </container>
+      <container name="Recognizing further" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing further</span> that sustainable tourism, including ecotourism, mountain tourism and rural tourism, is a cross-cutting activity that can contribute to the achievement of the Sustainable Development Goals, including by fostering economic growth, alleviating poverty, creating full and productive employment and decent work for all, advancing gender equality and the empowerment of women and girls and increasing incomes for the population, and noting in particular that tourism accounts for more than 10 per cent of global gross domestic product, the industry represents more than 6 per cent of service exports and more than 4 per cent of investments are directed at tourism development,</p>
+      </container>
+      <container name="Recalling" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the adoption in 2012 by the United Nations Conference on Sustainable Development of the 10-Year Framework of Programmes on Sustainable Consumption and Production Patterns,<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"><a href="https://undocs.org/A/CONF.216/5">A/CONF.216/5</a>, annex.</p></authorialNote> and welcoming the launch of the Sustainable Tourism Programme of the One Planet network, </p>
+      </container>
+      <container name="Welcoming" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the ongoing efforts of the Central Asian countries to implement the 2030 Agenda for Sustainable Development and its Sustainable Development Goals at the national and regional levels, </p>
+      </container>
+      <container name="Recognizing" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the importance of various international events held in Central Asia and other forums in further promoting the sustainable tourism industry in the region, </p>
+      </container>
+      <container name="Noting" eId="container_14">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> that the countries of Central Asia intend to attract more national and international financing and investment in their tourism sectors, </p>
+      </container>
+      <container name="Emphasizing" eId="container_15">
+        <p xml:space="preserve">
+          <span class="italic">Emphasizing</span> that the passage of the Great Silk Road through Central Asia and the efforts of Central Asian countries to promote tourism on world markets are increasing the interest of foreign tourists in the region, </p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_16" class="MercuryDocument">
+        <num>	1.</num>
+        <content eId="para_16__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes</span> the significant practical contribution of the Central Asian countries to strengthening regional stability and sustainable development, as well as their efforts in this regard; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_17" class="MercuryDocument">
+        <num>	2.</num>
+        <content eId="para_17__content">
+          <p xml:space="preserve">
+            <span class="italic">Expresses</span> its support for the regional efforts and initiatives aimed at strengthening economic cooperation in Central Asia;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_18" class="MercuryDocument">
+        <num>	3.</num>
+        <content eId="para_18__content">
+          <p xml:space="preserve">
+            <span class="italic">Appreciates</span> the contribution of international development assistance to the promotion of tourism in Central Asia; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_19" class="MercuryDocument">
+        <num>	4.</num>
+        <content eId="para_19__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States, other stakeholders, and the World Tourism Organization, within its mandate and resources, to continue to support the Central Asian countries in their efforts to develop responsible and sustainable tourism in the region and to that end: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_20" class="MercuryDocument">
+        <content eId="para_20__content">
+          <p xml:space="preserve">	(a)	To participate in capacity-building activities to achieve the internationally agreed development goals, including the Sustainable Development Goals,<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">	 	See resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a>.</p></authorialNote> through facilitating access to tourism-related benefits to all sectors of society, in particular people in vulnerable situations; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_21" class="MercuryDocument">
+        <content eId="para_21__content">
+          <p xml:space="preserve">	(b)	To expand cooperation with Central Asian countries in the field of sustainable tourism according to their respective international commitments; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_22" class="MercuryDocument">
+        <content eId="para_22__content">
+          <p xml:space="preserve">	(c)	To help formulate the main directions of a consolidated and comprehensive policy for the sustainable development of tourism in the Central Asian region, taking into account the specifics and the level of economic development of each country of the region; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_23" class="MercuryDocument">
+        <content eId="para_23__content">
+          <p xml:space="preserve">	(d)	To support sustainable tourism activities and relevant capacity-building efforts that promote environmental awareness, conserve and protect the environment, respect wildlife, biodiversity, ecosystems and cultural diversity, as well as natural, historical and cultural heritage and increase tourist flow, and to promote the development of sustainable tourism and strategies that attract foreign tourists to Central Asia and improve the welfare and livelihoods of local communities by supporting their local economies and the human and natural environment as a whole; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_24" class="MercuryDocument">
+        <content eId="para_24__content">
+          <p xml:space="preserve">	(e)	To join efforts to introduce the practice of creating and implementing innovation technologies to modernize the tourism industry; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_25" class="MercuryDocument">
+        <num>	5.</num>
+        <content eId="para_25__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> the Central Asian countries: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_26" class="MercuryDocument">
+        <content eId="para_26__content">
+          <p xml:space="preserve">	(a) 	To unite their efforts on the widespread introduction of active types of tourism, including mountain tourism, ecotourism, sport fishing and car and bicycle travel; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_27" class="MercuryDocument">
+        <content eId="para_27__content">
+          <p xml:space="preserve">	(b) 	To inform Member States on the sustainable development of pilgrimage tourism in Central Asia and its potential and invite them to visit the religious sites of Central Asia and take part in religious events, as appropriate; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_28" class="MercuryDocument">
+        <content eId="para_28__content">
+          <p xml:space="preserve">	(c) 	To support sustainable tourism through policies that foster responsive and inclusive tourism, strengthen regional identity and protect their natural and cultural heritage, including their ecosystems and biodiversity;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_29" class="MercuryDocument">
+        <content eId="para_29__content">
+          <p xml:space="preserve">	(d) 	To share their experiences on sustainable tourism aimed at contributing to poverty eradication for the benefit of all, with a particular focus on those who risk being left behind; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_30" class="MercuryDocument">
+        <content eId="para_30__content">
+          <p xml:space="preserve">	(e) 	To establish and strengthen secure, reliable, efficient, high-quality, sustainable and resilient infrastructure, including transit transport systems that link them to international markets, all sources of energy, including renewable energy, and information and communications technology, with the support of development partners, multilateral financial and development institutions and regional banks, so as to promote sustainable tourism in the region; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_31" class="MercuryDocument">
+        <num>	6.</num>
+        <content eId="para_31__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States and other stakeholders to take effective measures, in the context of sustainable tourism, including ecotourism initiatives, to help to promote the equal participation of women and the balanced participation of youth, older persons, persons with disabilities, indigenous peoples and local communities, at all levels and in decision-making processes in all areas, and to promote effective economic empowerment, mainly through decent job and income creation;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_32" class="MercuryDocument">
+        <num>	7.</num>
+        <content eId="para_32__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of the progress made by the Central Asian countries in the implementation of existing programmes aimed at creating and promoting sustainable tourism throughout the region, and in that regard welcomes their contribution to the achievement of the 2030 Agenda for Sustainable Development<sup>8</sup> and its Sustainable Development Goals; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_33" class="MercuryDocument">
+        <num>	8.</num>
+        <content eId="para_33__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States to participate in major events in the area of sustainable tourism in Central Asia, which may contribute to the development of sustainable tourism in the region.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="52nd">52nd plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-19" refersTo="#adoptionDate">19 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

@@ -1,0 +1,336 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-170/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-170/"></FRBRuri>
+          <FRBRdate date="2019-12-18" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-170/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-170/eng@/"></FRBRuri>
+          <FRBRdate date="2020-01-07" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-170/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-170/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women&amp;#39;s_rights" href="http://eurovoc.europa.eu/585" showAs="women&amp;#39;s_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-09-20" outcome="draftResolution" as="A/C.3/74/L.2" by="submitted by the Chair of the Committee on the recommendation of the Economic and Social Council" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/400" by="" refersTo="29" />
+        <step date="2019-12-18" outcome="adopted" as="A/74/PV.50" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="thirdCommittee" href="#thirdCommittee" showAs="Third Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-22315 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/170</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-01-07" class="rightSmall" refersTo="#dateOfIssuance">7 January 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 106</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Crime prevention and criminal justice</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 18 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#thirdCommittee">[on the report of the Third Committee (<inline name="originating document">A/74/400</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/170.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Integrating sport into youth crime prevention and criminal justice strategies</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Reaffirming" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> its commitment to the purposes and principles of the Charter of the United Nations and the Universal Declaration of Human Rights,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org//en/A/RES/217 (III)">217 A (III)</a>.</p></authorialNote> and recalling the shared commitment of Member States to upholding the rule of law and preventing and countering crime in all its forms and manifestations, </p>
+      </container>
+      <container name="Reaffirming also" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming also</span> the cross-cutting nature of crime prevention and criminal justice issues and the consequent need to better integrate those issues into the wider agenda of the United Nations in order to enhance system-wide coordination,</p>
+      </container>
+      <container name="Recalling" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the relevant United Nations standards and norms in the area of crime prevention and criminal justice, including the Guidelines for the Prevention of Crime,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	Economic and Social Council resolution 2002/13, annex.</p></authorialNote> the guidelines for cooperation and technical assistance in the field of urban crime prevention,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	 	Economic and Social Council resolution 1995/9, annex.</p></authorialNote> the United Nations Guidelines for the Prevention of Juvenile Delinquency (the Riyadh Guidelines),<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/45/112">45/112</a>, annex.</p></authorialNote> the updated Model Strategies and Practical Measures on the Elimination of Violence against Women in the Field of Crime Prevention and Criminal Justice,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/65/228">65/228</a>, annex.</p></authorialNote> the United Nations Model Strategies and Practical Measures on the Elimination of Violence against Children in the Field of Crime Prevention and Criminal Justice,<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/69/194">69/194</a>, annex.</p></authorialNote> the United Nations Standard Minimum Rules for the Administration of Juvenile Justice (the Beijing Rules)<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/40/33">40/33</a>, annex.</p></authorialNote> and the United Nations Standard Minimum Rules for the Treatment of Prisoners (the Nelson Mandela Rules),<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/70/175">70/175</a>, annex.</p></authorialNote></p>
+      </container>
+      <container name="Recalling also" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> its resolution <a href="https://undocs.org/A/RES/70/1">70/1</a> of 25 September 2015, by which it adopted the 2030 Agenda for Sustainable Development, and recognizing, inter alia, that sport is an important enabler of sustainable development, </p>
+      </container>
+      <container name="Recalling further" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Recalling further</span> Conference of the States Parties to the United Nations Convention against Corruption resolution 7/8 of 10 November 2017 on corruption in sport,<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">	 	See <a href="https://undocs.org/en/CAC/COSP/2017/14">CAC/COSP/2017/14</a>, sect. I.A.</p></authorialNote> in which, inter alia, the Conference expressed concern that corruption could undermine the potential of sport and its role in contributing to the achievement of the Sustainable Development Goals and targets, contained in the 2030 Agenda for Sustainable Development, </p>
+      </container>
+      <container name="Welcoming" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the International Conference on Safeguarding Sport from Corruption, which was held in Vienna on 5 and 6 June 2018, and also welcoming the follow-up conference, held in Vienna on 3 and 4 September 2019, </p>
+      </container>
+      <container name="Recognizing" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the importance of protecting children and young people in sport from potential exploitation and abuse so as to ensure a safe environment that supports their healthy development, </p>
+      </container>
+      <container name="Recalling" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolution <a href="https://undocs.org/A/RES/72/6">72/6</a> of 13 November 2017 on building a peaceful and better world through sport and the Olympic ideal, and, in this connection, acknowledging the major role of the United Nations system and its country programmes and the role of Member States in promoting human development through sport and physical education,</p>
+      </container>
+      <container name="Recalling also " eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also </span>article 31 of the Convention on the Rights of the Child,<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vol. 1577, No. 27531.</p></authorialNote> in which States parties recognized the right of the child to leisure and to engage in play and in recreational activities, and recalling further the Declaration and Plan of Action contained in the document entitled “A world fit for children”,<authorialNote marker="11" placement="bottom" eId="authorialNote_11"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/S-27/2">S-27/2</a>, annex.</p></authorialNote> in which Member States committed to promoting physical, mental and emotional health among children through play and sports,</p>
+      </container>
+      <container name="Recalling further" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Recalling further</span> the outcome document of the thirtieth special session of the General Assembly, entitled “Our joint commitment to effectively addressing and countering the world drug problem”,<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/S-30/1">S-30/1</a>, annex.</p></authorialNote> in which Member States recommended providing access for children and youth to regular sports and cultural activities, with a view to promoting healthy lives and lifestyles and as a measure to prevent drug abuse, and recognizing the relevance of this measure for the enhancement of crime prevention and criminal justice more widely,</p>
+      </container>
+      <container name="Underscoring" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Underscoring</span> the role of the Commission on Crime Prevention and Criminal Justice as the principal policymaking body of the United Nations in the field of crime prevention, </p>
+      </container>
+      <container name="Expressing concern" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Expressing concern</span> about the risks to youth posed by corruption and crime in sport and about the large number of children and youth who may or may not be in conflict with the law but who are abandoned, neglected, abused, exploited or exposed to drug abuse and who are in marginal circumstances and in general at social risk,</p>
+      </container>
+      <container name="Convinced" eId="container_14">
+        <p xml:space="preserve">
+          <span class="italic">Convinced</span> of the importance of preventing the involvement of children and youth in criminal activities by supporting their development and strengthening their resilience to antisocial and delinquent behaviour, of supporting the rehabilitation of children and youth in conflict with the law and their reintegration into society, of protecting child victims and witnesses, including by preventing revictimization, and of addressing the needs of children and youth in vulnerable situations, and convinced also that holistic crime prevention and criminal justice responses should take into account human rights and the best interests of the child, </p>
+      </container>
+      <container name="Recognizing" eId="container_15">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that sports and physical activity have the power to change perceptions, counter prejudices and improve behaviour, as well as to inspire people, break down racial and political barriers, promote gender equality and combat discrimination, </p>
+      </container>
+      <container name="Stressing" eId="container_16">
+        <p xml:space="preserve">
+          <span class="italic">Stressing</span> that the rehabilitation and social reintegration of persons deprived of their liberty as a result of criminal conduct are among the essential aims of the criminal justice system and that the Nelson Mandela Rules and other relevant standards and norms, in particular the Beijing Rules and the United Nations Rules for the Protection of Juveniles Deprived of their Liberty,<authorialNote marker="13" placement="bottom" eId="authorialNote_13"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/45/113">45/113</a>, annex.</p></authorialNote> recommend that authorities not only offer programmes related to education, vocational training and work, as well as other forms of assistance that are appropriate and available, including those of a remedial, moral, spiritual, social and health- and sports-based nature, but also pay special attention to young prisoners in this regard,</p>
+      </container>
+      <container name="Taking note with appreciation" eId="container_17">
+        <p xml:space="preserve">
+          <span class="italic">Taking note with appreciation</span> of the report of the Secretary-General entitled “Strengthening the global framework for leveraging sport for development and peace”,<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve"><a href="https://undocs.org/en/A/73/325">A/73/325</a>.</p></authorialNote> which contains an update to the United Nations Action Plan on Sport for Development and Peace,<authorialNote marker="15" placement="bottom" eId="authorialNote_15"><p xml:space="preserve">	 	See <a href="https://undocs.org/en/A/61/373">A/61/373</a>.</p></authorialNote></p>
+      </container>
+      <container name="Recognizing" eId="container_18">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the complementary nature of youth crime prevention and criminal justice efforts and work on sport for development and peace, and recognizing also that such initiatives can benefit from more coherent, integrated approaches at all levels, with an emphasis on communities, families, children and youth, including those in vulnerable situations,</p>
+      </container>
+      <container name="Encouraging" eId="container_19">
+        <p xml:space="preserve">
+          <span class="italic">Encouraging</span> partnerships among all appropriate levels of government and relevant stakeholders within civil society in order to strengthen and sustain effective crime prevention strategies, programmes and initiatives, as appropriate, and promote a culture of peace and non-violence, </p>
+      </container>
+      <container name="Acknowledging" eId="container_20">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging</span> the important advocacy role that can be played by international sports federations in bridging the policy priorities of sports administrators, the United Nations and national and municipal governments, and acknowledging also the deepened relationship between the International Olympic Committee and the United Nations on sport for development and peace, </p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_21" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_21__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> that sport is an important enabler of sustainable development, and recognizes the growing contribution of sport to the realization of development, justice and peace through its promotion of tolerance and respect and the contributions it makes to the empowerment of women and of young people, individuals and communities, as well as to health, education and social inclusion objectives;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_22" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_22__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States, entities of the United Nations system, the International Olympic Committee, the International Paralympic Committee and other stakeholders, including sports-related organizations, federations and associations, athletes, the media, civil society, academia and the private sector, to promote greater awareness and action to reduce crime so as to contribute to the implementation of the 2030 Agenda for Sustainable Development<authorialNote marker="16" placement="bottom" eId="authorialNote_16"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a>.</p></authorialNote> through sports-based initiatives, taking into account the importance of youth crime prevention and criminal justice and the risks to youth posed by corruption and crime in sport, and to use sport as a tool to promote peace, justice and dialogue during and beyond the period of the Olympic and Paralympic Games; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_23" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_23__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> the United Nations Office on Drugs and Crime to launch a global awareness-raising and fundraising campaign during the 2020 Olympic and Paralympic Summer Games and the 2022 World Cup competition to promote sport and sports-based learning as part of strategies aimed at addressing the risk factors of youth crime and drug abuse and to provide assistance to requesting Member States in this area, and invites the national organizing committees, the International Olympic Committee and the Fédération Internationale de Football Association to work in close cooperation with the Office in this regard; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_24" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_24__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to advance the integration of sport into cross-cutting crime prevention and criminal justice strategies, policies and programmes, where appropriate and consistent with domestic law, on the basis of reliable standards, indicators and benchmarks, and to ensure the monitoring and evaluation of such strategies, policies and programmes; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_25" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_25__content">
+          <p xml:space="preserve">
+            <span class="italic">Also encourages</span> Member States to emphasize and advance the use of sport as a vehicle to promote crime prevention and criminal justice and the rule of law, to realize gender equality and the empowerment of women and girls, to ensure the participation of everyone without discrimination of any kind and to promote tolerance, mutual understanding and respect, which in turn reinforce peaceful and inclusive societies;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_26" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_26__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the work of the United Nations Office on Drugs and Crime in the field of crime prevention and criminal justice, particularly its efforts to promote sport in the context of youth crime and drug abuse prevention as a vehicle for life-skills training, and its efforts to address the risk posed to youth by corruption and crime in sport, including through the development of tools and the provision of technical assistance in the context of the Global Programme for the Implementation of the Doha Declaration: Towards the Promotion of a Culture of Lawfulness, and the Global Programme on Safeguarding Sport from Corruption and Crime;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_27" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_27__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the United Nations Office on Drugs and Crime, in line with its mandate and in close coordination with Member States, as well as in cooperation with relevant international organizations and partners, to continue identifying and disseminating information and good practices on the use of sport and sports-based learning in connection with crime and violence prevention, including the prevention of violence against women and children, as well as in the context of the social reintegration of offenders, and to provide advice and support to policymakers and practitioners; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_28" class="SingleTxt">
+        <num>	8.</num>
+        <content eId="para_28__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to strengthen community-based support measures for youth to address risk factors of crime and violence, and encourages Member States to provide sport and recreational facilities and programmes in this regard; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_29" class="SingleTxt">
+        <num>	9.</num>
+        <content eId="para_29__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States, in cooperation with relevant stakeholders, to use sports-based activities more widely to promote primary, secondary and tertiary prevention of youth crime and the social reintegration of young offenders, as well as to prevent recidivism by them, and, in this regard, to promote and facilitate effective research, monitoring and evaluation of relevant initiatives, including gang-related initiatives, to assess their impact;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_30" class="SingleTxt">
+        <num>	10.</num>
+        <content eId="para_30__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States to consider the development of clear policy frameworks within which sports-based initiatives can operate to effect positive change in the fields of crime prevention and criminal justice; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_31" class="SingleTxt">
+        <num>	11.</num>
+        <content eId="para_31__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the United Nations Office on Drugs and Crime to convene an expert group meeting, in close coordination with Member States and in collaboration with all relevant United Nations entities, in particular the United Nations Educational, Scientific and Cultural Organization, the United Nations Children’s Fund and the Department of Economic and Social Affairs of the Secretariat, the institutes of the United Nations crime prevention and criminal justice programme network and sports organizations such as the International Olympic Committee and the Fédération Internationale de Football Association, to examine effective ways and means of integrating sport into youth crime prevention and criminal justice, building upon its existing programmes and taking into account the Sustainable Development Goals and other relevant United Nations action plans, standards and norms, with a view to analysing and compiling a set of best practices that cater to various stakeholders and enhance system-wide coordination, and to present a report to the Commission on Crime Prevention and Criminal Justice for consideration at its twenty-ninth session, as well as to the Fourteenth United Nations Congress on Crime Prevention and Criminal Justice for its information, and in this connection welcomes the offer of the Government of Thailand to act as host for that expert group meeting in 2019; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_32" class="SingleTxt">
+        <num>	12.</num>
+        <content eId="para_32__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> the institutes of the United Nations crime prevention and criminal justice programme network to consider including in their work programmes the issue of integrating sport into youth crime prevention and criminal justice, noting the efforts of Member States to achieve the relevant Sustainable Development Goals;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_33" class="SingleTxt">
+        <num>	13.</num>
+        <content eId="para_33__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Executive Director of the United Nations Office on Drugs and Crime to provide information to the Secretary-General on the implementation of the present resolution as a possible contribution to his report to the General Assembly at its seventy-fifth session on the implementation of resolution <a href="https://undocs.org/A/RES/73/24">73/24</a> of 3 December 2018 on sport as an enabler of sustainable development; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_34" class="MercuryDocument">
+        <num>	14.</num>
+        <content eId="para_34__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States and other donors to provide extrabudgetary resources for these purposes in accordance with the rules and procedures of the United Nations.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="50th">50th plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-18" refersTo="#adoptionDate">18 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

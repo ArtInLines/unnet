@@ -1,0 +1,442 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-175/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-175/"></FRBRuri>
+          <FRBRdate date="2019-12-18" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-175/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-175/eng@/"></FRBRuri>
+          <FRBRdate date="2020-01-07" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-175/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-175/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women&amp;#39;s_rights" href="http://eurovoc.europa.eu/585" showAs="women&amp;#39;s_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="4" href="http://metadata.un.org/sdg/4" showAs="sdg_4" dictionary="SDGO"></keyword>
+        <keyword value="education" href="http://eurovoc.europa.eu/668" showAs="education" dictionary="EuroVoc"></keyword>
+        <keyword value="right_to_education" href="http://eurovoc.europa.eu/512" showAs="right_to_education" dictionary="EuroVoc"></keyword>
+        <keyword value="education" href="http://metadata.un.org/thesaurus/1001893" showAs="education" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-09-23" outcome="draftResolution" as="A/C.3/74/L.7" by="submitted by the Chair of the Committee on the recommendation of the Economic and Social Council" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/400" by="" refersTo="29" />
+        <step date="2019-12-18" outcome="adopted" as="A/74/PV.50" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="thirdCommittee" href="#thirdCommittee" showAs="Third Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-22332 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/175</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-01-07" class="rightSmall" refersTo="#dateOfIssuance">7 January 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 106</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Crime prevention and criminal justice</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 18 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#thirdCommittee">[on the report of the Third Committee (<inline name="originating document">A/74/400</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/175.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Technical assistance provided by the United Nations Office on Drugs and Crime related to counter-terrorism</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Recalling" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> all relevant United Nations resolutions on technical and legislative assistance in countering terrorism, particularly the most recent ones,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">	 	Resolutions <a href="https://undocs.org/A/RES/72/194">72/194</a>, <a href="https://undocs.org/A/RES/72/284">72/284</a>, <a href="https://undocs.org/A/RES/73/174">73/174</a>, <a href="https://undocs.org/A/RES/73/186">73/186</a> and <a href="https://undocs.org/A/RES/73/211">73/211</a> and Security Council resolutions <a href="https://undocs.org/S/RES/2133(2014)">2133 (2014)</a>, <a href="https://undocs.org/S/RES/2178(2014)">2178 (2014)</a>, <a href="https://undocs.org/S/RES/2195(2014)">2195 (2014)</a>, <a href="https://undocs.org/S/RES/2199(2015)">2199 (2015)</a>, <a href="https://undocs.org/S/RES/2253(2015)">2253 (2015)</a>, <a href="https://undocs.org/S/RES/2309(2016)">2309 (2016)</a>, <a href="https://undocs.org/S/RES/2322(2016)">2322 (2016)</a>, <a href="https://undocs.org/S/RES/2341(2017)">2341 (2017)</a>, <a href="https://undocs.org/S/RES/2347(2017)">2347 (2017)</a>, <a href="https://undocs.org/S/RES/2349(2017)">2349 (2017)</a>, <a href="https://undocs.org/S/RES/2368(2017)">2368 (2017)</a>, <a href="https://undocs.org/S/RES/2396(2017)">2396 (2017)</a> and <a href="https://undocs.org/S/RES/2462(2019)">2462 (2019)</a>.</p></authorialNote></p>
+      </container>
+      <container name="Recalling also" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> that terrorism in all its forms and manifestations constitutes one of the most serious threats to international peace and security and that all acts of terrorism are criminal and unjustifiable, regardless of their motivations, wherever, whenever and by whomsoever committed, and that they are to be unequivocally condemned,</p>
+      </container>
+      <container name="Reaffirming" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> that terrorism in all its forms and manifestations cannot and should not be associated with any religion, nationality, civilization or ethnic group,</p>
+      </container>
+      <container name="Reaffirming also" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming also</span> its respect for the sovereignty, territorial integrity, independence and unity of all States, in accordance with the purposes and principles of the Charter of the United Nations,</p>
+      </container>
+      <container name="Stressing again" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Stressing again</span> the need to strengthen international, regional and subregional cooperation to effectively prevent and combat terrorism, in particular by enhancing the national capacity of States through the provision of technical assistance, based on the needs and priorities identified by requesting States,</p>
+      </container>
+      <container name="Emphasizing" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Emphasizing</span> the need to address the conditions conducive to the spread of terrorism while fully respecting the fundamental principles and purposes of the Charter and international law,</p>
+      </container>
+      <container name="Recalling" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the Declaration and Programme of Action on a Culture of Peace<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	Resolutions <a href="https://undocs.org/A/RES/53/243">53/243 A</a> and <a href="https://undocs.org/A/RES/53/243">B</a>.</p></authorialNote> and the Global Agenda for Dialogue among Civilizations,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/A/RES/56/6">56/6</a>.</p></authorialNote></p>
+      </container>
+      <container name="Reaffirming its concern" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming its concern</span> that terrorists could benefit from transnational organized crime as a source of financing or logistical support, recognizing that the nature and scope of the linkages between terrorism and transnational organized crime vary by context, and emphasizing the need to coordinate efforts at the local, national, regional, subregional and international levels to respond to this challenge, in accordance with international law,</p>
+      </container>
+      <container name="Recalling in particular" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Recalling in particular</span> its resolution <a href="https://undocs.org/A/RES/72/194">72/194</a> of 19 December 2017, in which it, inter alia, called upon the United Nations Office on Drugs and Crime to further enhance technical assistance, upon request, for building the capacity of Member States to become party to and implement the international conventions and protocols related to counter-terrorism, including through targeted programmes and the training of relevant criminal justice and law enforcement officials, upon request, to develop their capacity to effectively respond to, prevent, investigate and prosecute terrorist acts, the development of and participation in relevant initiatives and the development of technical tools and publications, in consultation with Member States,</p>
+      </container>
+      <container name="Reiterating" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Reiterating</span> all aspects of the United Nations Global Counter-Terrorism Strategy<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/A/RES/60/288">60/288</a>.</p></authorialNote> and the need for States to continue to fully implement all four pillars of the Strategy, and recalling its resolution <a href="https://undocs.org/A/RES/72/284">72/284</a> of 26 June 2018, entitled “The United Nations Global Counter-Terrorism Strategy Review”,</p>
+      </container>
+      <container name="Recognizing" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the importance of countering terrorism and preventing violent extremism as and when conducive to terrorism, stressing in that regard the importance of an integrated and balanced implementation of the United Nations Global Counter-Terrorism Strategy across its four pillars, recognizing the efforts of the Secretary-General in that regard, and reaffirming the principal responsibility of Member States to implement the Strategy,</p>
+      </container>
+      <container name="Welcoming" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the partnership between the United Nations Office on Drugs and Crime and the United Nations Educational, Scientific and Cultural Organization to promote education as a tool for preventing all forms of crime, including terrorism, and to uphold the rule of law, </p>
+      </container>
+      <container name="Noting with appreciation" eId="container_14">
+        <p xml:space="preserve">
+          <span class="italic">Noting with appreciation</span> the ongoing work of the United Nations Office on Drugs and Crime to support Member States in their efforts to prevent and counter terrorism in all its forms and manifestations in the crime prevention and criminal justice context, and reiterating that this work needs to be done in close coordination with Member States,</p>
+      </container>
+      <container name="Taking note" eId="container_15">
+        <p xml:space="preserve">
+          <span class="italic">Taking note</span> of the report of the Secretary-General on technical assistance in implementing the international conventions and protocols related to terrorism,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	 	E/CN.15/2019/5.</p></authorialNote></p>
+      </container>
+      <container name="Recalling" eId="container_16">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolution <a href="https://undocs.org/A/RES/71/291">71/291</a> of 15 June 2017, by which it established the Office of Counter-Terrorism,</p>
+      </container>
+      <container name="Noting" eId="container_17">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the signing of the United Nations Global Counter-Terrorism Coordination Compact by United Nations entities, the International Criminal Police Organization (INTERPOL) and the World Customs Organization, and noting also the role of the United Nations Office on Drugs and Crime as the Chair of the Working Group on Criminal Justice, Legal Responses and Countering the Financing of Terrorism,</p>
+      </container>
+      <container name="Recognizing" eId="container_18">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the important role that parliaments can play in preventing and countering terrorism and addressing conditions conducive to terrorism, and recognizing also the relevance of the partnership established between the Inter-Parliamentary Union, the United Nations Office on Drugs and Crime and the Office of Counter-Terrorism in that regard,</p>
+      </container>
+      <container name="Welcoming" eId="container_19">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> guidance by the United Nations Office on Drugs and Crime on the issue of children affected by terrorism, including guidance on the prevention of the involvement of children with terrorist groups and on the rehabilitation and reintegration of those children, provided in the <span class="italic">Handbook on Children Recruited and Exploited by Terrorist and Violent Extremist Groups: the Role of the Justice System</span> and its three related training manuals, </p>
+      </container>
+      <container name="Noting" eId="container_20">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> that Member States may face challenges in obtaining and using admissible evidence, including digital, physical and forensic evidence, including in areas affected by armed conflicts, that can be used to help prosecute and secure the convictions of foreign terrorist fighters and those supporting foreign terrorist fighters,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_21" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_21__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> Member States that have not yet done so to consider becoming parties to the existing international conventions and protocols related to counter-terrorism, and requests the United Nations Office on Drugs and Crime, within its mandate and in close coordination with the relevant entities of the United Nations Global Counter-Terrorism Coordination Compact, to continue to provide technical assistance to Member States, upon request, for the ratification and legislative incorporation of those international legal instruments; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_22" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_22__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to consider ratifying or acceding to other relevant conventions to support international cooperation in criminal matters, such as the United Nations Convention against Transnational Organized Crime and the Protocols thereto,<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vols. 2225, 2237, 2241 and 2326, No. 39574.</p></authorialNote> and calls upon Member States to implement effectively the instruments to which they are party; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_23" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_23__content">
+          <p xml:space="preserve">
+            <span class="italic">Also encourages</span> Member States to continue to promote, consistent with their legal frameworks, effective coordination among law enforcement and other relevant entities and authorities responsible for preventing and countering terrorism, and requests the United Nations Office on Drugs and Crime, upon request and within its mandate, to continue to provide technical assistance in that regard;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_24" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_24__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to continue to strengthen international coordination and cooperation in order to prevent and counter terrorism in all its forms and manifestations in accordance with international law, including the Charter of the United Nations, to effectively implement relevant international instruments and United Nations resolutions, to consider entering, when appropriate, into treaties on extradition and mutual legal assistance, to enable the effective exchange of relevant financial intelligence and to ensure adequate training of all relevant personnel on executing international cooperation activities;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_25" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_25__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the United Nations Office on Drugs and Crime, within its mandate, to provide technical assistance, upon request, to Member States to those ends, including by continuing and enhancing its assistance related to international legal and judicial cooperation pertaining to countering terrorism, including in criminal matters related to foreign terrorist fighters, and by fostering the development of strong and effective central authorities for international cooperation in criminal matters;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_26" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_26__content">
+          <p xml:space="preserve">
+            <span class="italic">Also requests</span> the United Nations Office on Drugs and Crime, within its mandate, to strengthen the provision of technical assistance to Member States, upon request, related to collecting, analysing, preserving, storing, using and sharing forensic and electronic evidence for the investigation and prosecution of terrorism and terrorism-related offences and related to enhancing mutual legal assistance in that regard, and welcomes the <span class="italic">Practical Guide for Requesting Electronic Evidence Across Borders</span> developed by the Office;<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve">	 	In cooperation with the Counter-Terrorism Committee Executive Directorate and the International Association of Prosecutors.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_27" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_27__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States, including through relevant central authorities, and the United Nations Office on Drugs and Crime and other relevant United Nations entities that support capacity-building to share best practices and technical expertise informally and formally with a view to improving the collection, handling, preservation, sharing and use of relevant information and evidence, consistent with domestic and international law, including information and evidence obtained from the Internet or in areas affected by armed conflict, in order to ensure the effective investigation and prosecution of those who have committed crimes, including foreign terrorist fighters returning and relocating to and from areas affected by armed conflict;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_28" class="SingleTxt">
+        <num>	8.</num>
+        <content eId="para_28__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to use, as appropriate, the platforms and tools developed by the United Nations Office on Drugs and Crime, including the Sharing Electronic Resources and Laws on Crime knowledge management portal, to facilitate international cooperation in criminal matters related to terrorism and to provide the Office with relevant information to promote the sharing of good practices and experience and with the contact details of and any other relevant information about designated authorities for inclusion in its repository database;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_29" class="SingleTxt">
+        <num>	9.</num>
+        <content eId="para_29__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the United Nations Office on Drugs and Crime, in cooperation with the International Criminal Police Organization (INTERPOL) and other relevant entities of the United Nations Global Counter-Terrorism Coordination Compact, to continue to provide technical assistance to Member States, upon request, to collect, record and share biometric data in order to responsibly and properly identify terrorists, including foreign terrorist fighters, in compliance with domestic law and international law, welcomes the publication of the <span class="italic">United Nations Compendium of Recommended Practices for the Responsible Use and Sharing of Biometrics in Counter-Terrorism</span>, developed within the Working Group on Border Management and Law Enforcement relating to Counter-Terrorism, and stresses the importance of populating and making full use of the databases of INTERPOL in this regard;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_30" class="SingleTxt">
+        <num>	10.</num>
+        <content eId="para_30__content">
+          <p xml:space="preserve">
+            <span class="italic">Stresses</span> the importance of the development and maintenance of effective, fair, humane, transparent and accountable criminal justice systems by Member States, in accordance with applicable international law, as a fundamental basis of any strategy to counter terrorism, and requests the United Nations Office on Drugs and Crime, whenever appropriate, to take into account in its technical assistance to counter terrorism the elements necessary for building national capacity in order to strengthen criminal justice systems and the rule of law;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_31" class="SingleTxt">
+        <num>	11.</num>
+        <content eId="para_31__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the United Nations Office on Drugs and Crime, within its mandate in the area of countering and preventing terrorism in all its forms and manifestations, to continue to develop specialized legal knowledge and to continue to strengthen the provision of technical assistance to Member States, upon request, on effective measures for criminal justice responses addressing the prevention of terrorism in compliance with all their obligations under international law, in particular human rights, refugee and humanitarian law;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_32" class="SingleTxt">
+        <num>	12.</num>
+        <content eId="para_32__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> the United Nations Office on Drugs and Crime to further enhance technical assistance, upon request, for building the capacity of Member States to become party to and implement the international conventions and protocols related to counter-terrorism, including through targeted programmes and the training of relevant criminal justice and law enforcement officials, upon request, to develop their capacity to effectively respond to, prevent, investigate and prosecute terrorist acts and their financing, the development of and participation in relevant initiatives and the development of technical tools and publications, within its mandate and in close consultation with Member States;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_33" class="SingleTxt">
+        <num>	13.</num>
+        <content eId="para_33__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the United Nations Office on Drugs and Crime, within its mandate and in collaboration with, when appropriate, relevant United Nations Global Counter-Terrorism Coordination Compact entities, to continue to provide assistance to requesting Member States in addressing the threat of foreign terrorist fighters, including returning and relocating foreign terrorist fighters, through its capacity-building activities, with regard to enhancing their cooperation, developing relevant measures and appropriate criminal justice responses, preventing the financing, mobilization, travel, recruitment, training, organization and radicalization of foreign terrorist fighters, ensuring that any person who participates in the financing, planning, preparation or perpetration of terrorist acts or in supporting terrorist acts is brought to justice and developing and implementing appropriate criminal justice responses, in compliance with relevant obligations under international and domestic law;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_34" class="SingleTxt">
+        <num>	14.</num>
+        <content eId="para_34__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> the United Nations Office on Drugs and Crime to enhance its coordination with the Office of Counter-Terrorism and other United Nations Global Counter-Terrorism Coordination Compact entities with the aim of delivering to Member States, upon request, as well as on the basis of the mutual evaluation reports of Member States done in the framework of combating money-laundering and the financing of terrorism, integrated technical assistance on counter-terrorist financing measures, including assistance that will improve the capacity of Member States to comply with their international obligations to prevent and combat the financing of terrorism; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_35" class="SingleTxt">
+        <num>	15.</num>
+        <content eId="para_35__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the United Nations Office on Drugs and Crime to continue providing technical assistance to Member States, upon request and as appropriate, to assess their terrorist financing risks and to identify the financial activities, financial services and economic sectors most vulnerable to terrorist financing risks, in line with relevant international standards on countering money-laundering and the financing of terrorism, and welcomes the guidance issued by the United Nations, including the <span class="italic">Guidance Manual for Member States on Terrorist Financing Risk Assessments</span> published by the United Nations Office on Drugs and Crime;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_36" class="SingleTxt">
+        <num>	16.</num>
+        <content eId="para_36__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to further identify, analyse and counter any potential, existing and in some cases growing links between transnational organized crime, illicit drug-related activities, money-laundering and the financing of terrorism, in order to enhance criminal justice responses to those crimes, recognizing that terrorists could benefit from transnational organized crime as a source of financing or logistical support and that the nature and scope of the linkages between terrorism and transnational organized crime vary by context, and calls upon the United Nations Office on Drugs and Crime, within its mandate, to support, upon request, the efforts of Member States in that regard; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_37" class="SingleTxt">
+        <num>	17.</num>
+        <content eId="para_37__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to strengthen efforts to improve the security and resilience of critical infrastructure and the protection of particularly vulnerable or “soft” targets, such as infrastructure and public places, as well as to develop strategies to prevent, protect against, mitigate, investigate, respond to and recover from damage from terrorist attacks, in particular in the area of civil protection, and to consider establishing or strengthening partnerships with the public and private sectors in this regard, and calls upon the United Nations Office on Drugs and Crime to continue to provide technical assistance to Member States, upon request, with a view to strengthening their criminal justice responses as well as their strategies for reducing the risk of terrorist attacks on critical infrastructure;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_38" class="SingleTxt">
+        <num>	18.</num>
+        <content eId="para_38__content">
+          <p xml:space="preserve">
+            <span class="italic">Also calls upon</span> Member States to strengthen their border management so as to effectively prevent the movement of foreign terrorist fighters and terrorist groups, and requests the United Nations Office on Drugs and Crime to continue to provide technical assistance to that end to requesting States;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_39" class="SingleTxt">
+        <num>	19.</num>
+        <content eId="para_39__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes with appreciation</span> the cooperation between the Office of Counter-Terrorism, the United Nations Office on Drugs and Crime, the Counter-Terrorism Committee Executive Directorate, the International Civil Aviation Organization and the Office of Information and Communications Technology of the Secretariat under the United Nations Countering Terrorist Travel Programme in providing to Member States, upon request, related technical assistance to build their legislative and operational capacity, including in collecting, processing, analysing and effectively exchanging travel data such as advance passenger information and passenger name record data;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_40" class="SingleTxt">
+        <num>	20.</num>
+        <content eId="para_40__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the United Nations Office on Drugs and Crime to continue, within its mandate, to develop its specialized knowledge of the international legal framework for combating chemical, biological, radiological and nuclear terrorism as enshrined in the conventions and protocols on terrorism in order to continue to provide assistance to requesting Member States in preventing and countering those forms of terrorism, and welcomes the e-learning module developed by the Office in this regard; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_41" class="SingleTxt">
+        <num>	21.</num>
+        <content eId="para_41__content">
+          <p xml:space="preserve">
+            <span class="italic">Also requests</span> the United Nations Office on Drugs and Crime, within its mandate, to continue to support requesting Member States in the implementation of capacity-building programmes to strengthen crime prevention and criminal justice responses to the destruction of and trafficking in cultural property by terrorists; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_42" class="SingleTxt">
+        <num>	22.</num>
+        <content eId="para_42__content">
+          <p xml:space="preserve">
+            <span class="italic">Further requests</span> the United Nations Office on Drugs and Crime, within its mandate, to continue to develop its specialized legal knowledge in close consultation with Member States in order to continue to provide assistance to requesting Member States in preventing and countering the criminal misuse of information and communications technology, in particular the Internet, as well as social and other media, to plan, recruit for, fund, commit or incite to commit terrorist attacks, and to support Member States in effectively criminalizing, investigating and prosecuting such acts in accordance with domestic law and applicable international law, while fully respecting human rights and fundamental freedoms, including freedom of expression, and in promoting the use of the Internet as a tool for countering the spread of terrorism, in close cooperation with private companies and social media platforms; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_43" class="SingleTxt">
+        <num>	23.</num>
+        <content eId="para_43__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the United Nations Office on Drugs and Crime to provide, upon request, technical assistance for building the capacity of Member States in the development and implementation of assistance and support programmes for victims of terrorism in accordance with relevant national legislation, with emphasis on the special needs of women and children; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_44" class="SingleTxt">
+        <num>	24.</num>
+        <content eId="para_44__content">
+          <p xml:space="preserve">
+            <span class="italic">Also requests</span> the United Nations Office on Drugs and Crime, through its Global Programme on Violence against Children in the Field of Crime Prevention and Criminal Justice, to continue to support requesting Member States, in accordance with relevant national legislation, in preventing the involvement of children in armed and terrorist groups and in ensuring that children alleged to have, accused of having or recognized as having infringed the law, particularly those who are deprived of their liberty, bearing in mind United Nations standards and norms in juvenile justice, and children who are victims and witnesses of crime are treated in a manner that observes their rights and respects their dignity in accordance with applicable law, including international law, in particular the obligations under the Convention on the Rights of the Child,<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vol. 1577, No. 27531.</p></authorialNote> for States parties to that Convention, as well as the Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict,<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">	 	Ibid., vol. 2173, No. 27531.</p></authorialNote> and that relevant measures are taken to effectively reintegrate children formerly associated with armed groups and terrorist groups;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_45" class="SingleTxt">
+        <num>	25.</num>
+        <content eId="para_45__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> the United Nations Office on Drugs and Crime, in cooperation with relevant United Nations Global Counter-Terrorism Coordination Compact entities, to assist Member States, upon request, in mainstreaming gender perspectives into criminal justice responses to terrorism in order to prevent the recruitment of women and girls as terrorists and to promote the full protection of women and girls from any form of exploitation or violence perpetrated by terrorists, consistent with their obligations under human rights law, taking also into account, as appropriate, inputs from relevant stakeholders, including civil society, and welcomes in this regard the <span class="italic">Handbook on Gender Dimensions of Criminal Justice Responses to Terrorism</span>, in which, inter alia, the challenges faced by families of foreign terrorist fighters are addressed;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_46" class="SingleTxt">
+        <num>	26.</num>
+        <content eId="para_46__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to take appropriate measures, in line with domestic law, to maintain a safe and humane environment in prisons, develop tools that can help to address radicalization to violence and terrorist recruitment, develop risk assessments to evaluate the susceptibility of inmates to terrorist recruitment and radicalization to violence, taking into consideration, as appropriate, the United Nations Standard Minimum Rules for the Treatment of Prisoners (the Nelson Mandela Rules),<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/A/RES/70/175">70/175</a>, annex.</p></authorialNote> and make use of information shared by other States, including through the United Nations Office on Drugs and Crime, on approaches and good practices pertaining to prevention of radicalization to violence and terrorist recruitment of individuals in prisons, and encourages the Office to intensify its technical assistance in that regard;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_47" class="SingleTxt">
+        <num>	27.</num>
+        <content eId="para_47__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> the United Nations Office on Drugs and Crime, in coordination with other United Nations Global Counter-Terrorism Coordination Compact entities, to continue to strengthen its cooperation with international, regional and subregional organizations and arrangements in the delivery of technical assistance, and notes the ongoing joint initiatives developed by entities of the Global Compact;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_48" class="SingleTxt">
+        <num>	28.</num>
+        <content eId="para_48__content">
+          <p xml:space="preserve">
+            <span class="italic">Expresses its appreciation</span> to Member States that have supported the technical assistance activities of the United Nations Office on Drugs and Crime, including through financial contributions, and invites Member States to consider making additional, sustainable voluntary financial contributions and providing in-kind support, in accordance with the rules and procedures of the United Nations, in particular in view of the need for enhanced, effective and coordinated delivery of technical assistance on criminal justice responses to prevent and counter terrorism; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_49" class="SingleTxt">
+        <num>	29.</num>
+        <content eId="para_49__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to continue to provide the United Nations Office on Drugs and Crime with sufficient resources to carry out activities, within its mandate, to assist Member States, upon request, in the implementation of the relevant elements of the United Nations Global Counter-Terrorism Strategy;<sup>4</sup></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_50" class="MercuryDocument">
+        <num>	30.</num>
+        <content eId="para_50__content">
+          <p xml:space="preserve">
+            <span class="italic">Also requests</span> the Secretary-General to submit to the General Assembly at its seventy-fifth session a report on the implementation of the present resolution.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="50th">50th plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-18" refersTo="#adoptionDate">18 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

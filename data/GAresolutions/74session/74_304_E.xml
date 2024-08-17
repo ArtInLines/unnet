@@ -1,0 +1,402 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-09-04/74-304/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-09-04/74-304/"></FRBRuri>
+          <FRBRdate date="2020-09-04" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-09-04/74-304/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-09-04/74-304/eng@/"></FRBRuri>
+          <FRBRdate date="2020-09-09" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-09-04/74-304/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-09-04/74-304/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-10-04" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women&amp;#39;s_rights" href="http://eurovoc.europa.eu/585" showAs="women&amp;#39;s_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2020-08-14" outcome="draftResolution" as="A/74/L.85" by="Armenia, Australia, Austria, Bangladesh, Belgium, Brazil, Canada, Costa Rica, Cyprus, Greece, Malta, Mexico, Namibia, Netherlands, New Zealand, Qatar, Republic of Korea, Russian Federation, Slovakia, Slovenia, Switzerland, Thailand and United Kingdom of Great Britain and Northern Ireland" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="Andorra, Argentina, Bulgaria, Cameroon, Chad, China, Croatia, Czechia, Denmark, Equatorial Guinea, Eritrea, Estonia, Finland, France, Gabon, Guatemala, Guinea-Bissau, Haiti, Iceland, India, Indonesia, Ireland, Italy, Japan, Kazakhstan, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Mauritius, Mongolia, Morocco, Norway, Pakistan, Papua New Guinea, Peru, Philippines, Portugal, Romania, Rwanda, San Marino, Sao Tome and Principe, Serbia, Sierra Leone, South Sudan, Spain, Sweden, Syrian Arab Republic, Turkey, Uganda, Uruguay and Viet Nam" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="" />
+        <step date="2020-09-04" outcome="adopted" as="A/74/PV.63" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="noMainCommittee" href="#noMainCommittee" showAs="Without reference to a main committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">20-11627 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/304</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-09-09" class="rightSmall" refersTo="#dateOfIssuance">9 September 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 125</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Interaction between the United Nations, national parliaments and the Inter-Parliamentary Union</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 4 September 2020</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#noMainCommittee">[without reference to a Main Committee (<inline name="originating document">A/74/L.85 and A/74/L.85/Add.1</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/304.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Interaction between the United Nations, national parliaments and the Inter-Parliamentary Union</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Recalling" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">	Recalling</span> the 2005 World Summit Outcome,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/60/1">60/1</a>.</p></authorialNote> in which Heads of State and Government resolved to strengthen further cooperation between the United Nations and national parliaments through their world organization, the Inter-Parliamentary Union, in all fields of the work of the United Nations,</p>
+      </container>
+      <container name="Recalling also" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> its resolution <a href="https://undocs.org/en/A/RES/57/32">57/32</a> of 19 November 2002, in which the Inter‑Parliamentary Union was invited to participate in the work of the General Assembly in the capacity of observer, and recalling further its resolution <a href="https://undocs.org/en/A/RES/72/278">72/278</a> of 22 May 2018, in which the Assembly, inter alia, decided to strengthen the modalities of the cooperation between United Nations entities and the global parliamentary community,</p>
+      </container>
+      <container name="Taking into consideration" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Taking into consideration</span> the Cooperation Agreement between the United Nations and the Inter-Parliamentary Union of 1996,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"><a href="https://undocs.org/en/A/51/402">A/51/402</a>, annex.</p></authorialNote> which laid the foundation for cooperation between the two organizations, and taking note of the revised Cooperation Agreement of 2016,</p>
+      </container>
+      <container name="Taking note" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Taking note</span> of the resolutions adopted by the Inter-Parliamentary Union, as well as the many activities undertaken by that organization in support of the United Nations,</p>
+      </container>
+      <container name="Noting" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the outcomes of the World Conferences of Speakers of Parliament held in 2000, 2005, 2010 and 2015, which affirm the commitment of national parliaments and the Inter-Parliamentary Union to support the work of the United Nations and continue efforts to bridge the democracy gap in international relations,</p>
+      </container>
+      <container name="Recognizing" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that the coronavirus disease (COVID-19) pandemic requires a global response based on unity, solidarity and renewed multilateral cooperation that is people-centred, and acknowledging the important role of the United Nations system and the key leadership role of the World Health Organization in this regard, and that national parliaments and the Inter-Parliamentary Union play an important role in the response and recovery efforts,</p>
+      </container>
+      <container name="Welcoming" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the annual parliamentary hearings at the United Nations, as well as other specialized parliamentary meetings organized by the Inter-Parliamentary Union in cooperation with the United Nations to correspond to major United Nations conferences and events,</p>
+      </container>
+      <container name="Recognizing" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the work of the Inter-Parliamentary Union in mobilizing parliamentary action towards the implementation of the 2030 Agenda for Sustainable Development,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a>.</p></authorialNote> the Addis Ababa Action Agenda,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/69/313">69/313</a>, annex.</p></authorialNote> the Sendai Framework for Disaster Risk Reduction 2015–2030,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/69/283">69/283</a>, annex II.</p></authorialNote> the Paris Agreement adopted under the United Nations Framework Convention on Climate Change<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">	 	See <a href="https://undocs.org/en/FCCC/CP/2015/10/Add.1">FCCC/CP/2015/10/Add.1</a>, decision 1/CP.21, annex.</p></authorialNote> and the Beijing Declaration and Platform for Action,<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"><span class="italic">Report of the Fourth World Conference on Women, Beijing, 4–15 September 1995</span> (United Nations publication, Sales No. E.96.IV.13), chap. I, resolution 1, annexes I and II.</p></authorialNote></p>
+      </container>
+      <container name="Recognizing also" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing also</span> the growing role of the Inter-Parliamentary Union Standing Committee on United Nations Affairs in providing a platform for regular interaction between parliamentarians and United Nations officials, including on the 2030 Agenda for Sustainable Development, reviewing implementation of international commitments, facilitating closer ties between the United Nations country teams and national parliaments and helping to shape parliamentary input to major United Nations processes,</p>
+      </container>
+      <container name="Recognizing further" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing further</span> the work of the Inter-Parliamentary Union in the areas of democracy and the rule of law, human rights, gender equality, the empowerment of all women and girls and eliminating violence against women and girls, youth empowerment, peace and security, disarmament, non-proliferation, humanitarian assistance, sustainable development, poverty eradication, food security and nutrition, climate change, health and interfaith and inter-ethnic dialogue, as well as countering and preventing terrorism and violent extremism as and when conducive to terrorism,</p>
+      </container>
+      <container name="Deeply concerned" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Deeply concerned</span> about all acts of sexual and gender-based violence, including sexual harassment, in political and in public life, as well as in parliaments and in leadership positions, and recognizing the work of the Inter-Parliamentary Union in combating such violence,</p>
+      </container>
+      <container name="Highlighting" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Highlighting</span> the importance of women’s full, equal and meaningful participation in parliaments, including in leadership positions, and the importance for parliaments to mainstream a gender perspective in their work,</p>
+      </container>
+      <container name="Recognizing and affirming" eId="container_14">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing and affirming</span> that the global fight against racism, racial discrimination, xenophobia and related intolerance and all their abhorrent and contemporary forms and manifestations is a matter of priority for the international community, as well as noting the launch of the United Nations Strategy and Plan of Action on Hate Speech in June 2019,</p>
+      </container>
+      <container name="Bearing in mind" eId="container_15">
+        <p xml:space="preserve">
+          <span class="italic">Bearing in mind</span> that the seventy-fifth anniversary of the United Nations is an opportunity to reaffirm its collective commitment to the purposes and principles of the Charter of the United Nations and reinvigorate multilateralism, and recognizing the role and the contributions of national parliaments, those of regional organizations and of the Inter-Parliamentary Union to promote and strengthen multilateralism,</p>
+      </container>
+      <container name="Recalling" eId="container_16">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> that in 2020 the international community commemorates the seventy‑fifth anniversary of the end of the Second World War, and emphasizing in this regard the role of parliaments in supporting efforts to mitigate and resolve conflicts,</p>
+      </container>
+      <container name="Mindful" eId="container_17">
+        <p xml:space="preserve">
+          <span class="italic">Mindful</span> that technological change includes new and powerful tools that can help to realize the vision of the 2030 Agenda for Sustainable Development, and that the spread of information and communications technologies and global interconnectedness has great potential to accelerate human development and bridge the digital divide, and recognizing that national parliaments, among others, play an important role in addressing the impact, opportunities and challenges of rapid technological change,</p>
+      </container>
+      <container name="Noting" eId="container_18">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the work carried out upon the request of Member States by agencies and programmes of the United Nations system, including the United Nations Sustainable Development Group, in support of national parliaments around the world,</p>
+      </container>
+      <container name="Acknowledging" eId="container_19">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging</span> the role and responsibility of national parliaments in regard to national plans and strategies, as well as in ensuring greater transparency and accountability at both the national and the global levels,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_20" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_20__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the actions taken by the Inter-Parliamentary Union to pursue a more systematic engagement with the United Nations, and encourages both organizations to enhance their cooperation in meeting their common objectives;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_21" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_21__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> the United Nations and the Inter-Parliamentary Union to continue to work closely in various fields, including the three dimensions of sustainable development: the economic, social and environmental, peacebuilding and sustaining peace, countering and preventing terrorism and violent extremism as and when conducive to terrorism, international law, human rights and fundamental freedoms, combating racism, racial discrimination, xenophobia and related intolerance, promoting gender equality and the empowerment of all women and girls, youth empowerment, democracy and good governance, poverty eradication, information and communications technologies, health, international migration, climate change, biodiversity, disaster risk reduction, capacity-building and financing for development;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_22" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_22__content">
+          <p xml:space="preserve">
+            <span class="italic">Also encourages</span> the United Nations and the Inter-Parliamentary Union to strengthen cooperation by engaging parliamentarians in efforts to maintain support for the implementation of relevant United Nations agreements and resolutions;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_23" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_23__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> the continued active involvement of the Inter-Parliamentary Union in promoting the enhanced contribution of parliaments at the national, regional and global levels, including through multi-stakeholder partnerships, in support of the accelerated implementation and achievement of the Sustainable Development Goals by 2030;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_24" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_24__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States, including their national parliaments, supported upon their request by the United Nations and the Inter-Parliamentary Union, and other relevant stakeholders to coordinate, as appropriate, so that their responses to the COVID-19 pandemic are people-centred and provide access, without discrimination of any kind, to safe, effective, affordable and quality essential medicines, vaccines, testing and diagnostics, personal protective equipment and medical equipment as may be required to effectively address COVID-19;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_25" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_25__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the efforts of the Inter-Parliamentary Union to promote universal health coverage and to address public health emergencies, such as the COVID-19 pandemic, and invites the World Health Organization, as the United Nations specialized agency for health, and other relevant agencies, funds and programmes of the United Nations system to enhance cooperation with the Inter‑Parliamentary Union in this regard;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_26" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_26__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes</span> the preparations currently under way for the fifth World Conference of Speakers of Parliament, to be organized by the Inter-Parliamentary Union in close cooperation with the United Nations, entitled “Parliamentary leadership for more effective multilateralism that delivers peace and sustainable development for the people and planet”, which will provide contributions to the high‑level meeting of the General Assembly on the occasion of the seventy-fifth anniversary of the United Nations in September 2020;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_27" class="SingleTxt">
+        <num>	8.</num>
+        <content eId="para_27__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the practice of including parliamentarians as members of national delegations to major United Nations meetings and events, as appropriate, and invites Member States to continue this practice in a more regular and systematic manner;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_28" class="SingleTxt">
+        <num>	9.</num>
+        <content eId="para_28__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States to further consider ways to work regularly with the Inter-Parliamentary Union in facilitating a parliamentary component to major United Nations conferences so as to help to inform such deliberations from a parliamentary perspective;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_29" class="SingleTxt">
+        <num>	10.</num>
+        <content eId="para_29__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to consider applying the practice of the joint United Nations-Inter-Parliamentary Union parliamentary hearing to other parliamentary meetings convened in conjunction with major United Nations conferences and processes, such as the parliamentary meeting organized on the occasion of the annual session of the Commission on the Status of Women, with a view to including the outcome of these parliamentary meetings as a formal contribution to the respective United Nations processes;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_30" class="SingleTxt">
+        <num>	11.</num>
+        <content eId="para_30__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the enhanced contribution of parliaments and the Inter‑Parliamentary Union to the work of the Human Rights Council and the human rights treaty bodies, and acknowledges the crucial role that parliaments play in translating international commitments into national policies and laws;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_31" class="SingleTxt">
+        <num>	12.</num>
+        <content eId="para_31__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> the United Nations Entity for Gender Equality and the Empowerment of Women (UN-Women) and other relevant bodies of the United Nations system to work closely with national parliaments and the Inter-Parliamentary Union in accordance with their respective mandates and, upon request, in such areas as gender equality and the empowerment of women, including in conflict prevention and peace processes, institutional gender mainstreaming, support to parliaments in promoting gender-sensitive legislation, increasing the representation of women in parliaments, combating violence against women, including women in politics, and implementing relevant United Nations resolutions;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_32" class="SingleTxt">
+        <num>	13.</num>
+        <content eId="para_32__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the contributions of the Inter-Parliamentary Union to the work of the high-level political forum on sustainable development through the participation of parliamentarians, in convening a parliamentary event on the work of parliaments to institutionalize the Sustainable Development Goals, as well as through its efforts to encourage parliaments to engage in the voluntary national reviews of participating countries;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_33" class="SingleTxt">
+        <num>	14.</num>
+        <content eId="para_33__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> the Inter-Parliamentary Union and the relevant bodies of the United Nations system to continue and enhance their cooperation in supporting Governments in facilitating the orderly, safe, regular and responsible migration and mobility of people, including through the implementation of planned and well-managed migration policies, and recalls the contribution of the Inter-Parliamentary Union in the preparatory process for the Global Compact for Safe, Orderly and Regular Migration;<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/73/195">73/195</a>, annex.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_34" class="SingleTxt">
+        <num>	15.</num>
+        <content eId="para_34__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> the United Nations and the Inter-Parliamentary Union to develop closer cooperation with parliaments at the national and regional levels, including in terms of strengthening parliamentary capacities, inter alia, in regard to the allocation of budgetary resources for the implementation of the 2030 Agenda for Sustainable Development,<sup>3</sup> as appropriate, in reinforcing the rule of law and helping to align national legislation with international commitments, and to facilitate, within existing resources, greater South-South and triangular cooperation between parliaments and parliamentarians;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_35" class="SingleTxt">
+        <num>	16.</num>
+        <content eId="para_35__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> that the contributions of young people are important for the full and successful implementation of the 2030 Agenda for Sustainable Development, and urges Member States and United Nations entities, in consultation with youth and youth-led and youth-focused organizations, to explore and promote concrete new avenues for the full, effective, structured and sustainable participation of young people and youth-led organizations in relevant decision-making processes and monitoring, in all spheres of political, economic, social and cultural life, including in designing and implementing policies, programmes and initiatives, in particular when implementing the 2030 Agenda;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_36" class="SingleTxt">
+        <num>	17.</num>
+        <content eId="para_36__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of the Common Principles for Support to Parliaments pioneered by the Inter-Parliamentary Union and the United Nations Development Programme and endorsed by 136 national parliaments and 8 parliamentary assemblies with a view to further strengthening the capacity of parliaments to perform their functions;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_37" class="SingleTxt">
+        <num>	18.</num>
+        <content eId="para_37__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> United Nations country teams to develop, within their mandates and at the request of national authorities, a more structured and integrated manner of working with national parliaments, through appropriate mechanisms, inter alia, by involving parliaments in consultations on national development strategies and on development aid effectiveness, where applicable;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_38" class="SingleTxt">
+        <num>	19.</num>
+        <content eId="para_38__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> United Nations entities to avail themselves more systematically of the unique expertise of the Inter-Parliamentary Union and its member parliaments in strengthening parliamentary institutions, particularly in countries emerging from conflict and/or in transition to democracy;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_39" class="SingleTxt">
+        <num>	20.</num>
+        <content eId="para_39__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls for</span> regular annual exchanges and meetings at both the political and the operational levels between senior officials of the United Nations and of the Inter‑Parliamentary Union, with a view to building greater coherence in the work of the two organizations and helping to forge a more robust strategic partnership between them;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_40" class="SingleTxt">
+        <num>	21.</num>
+        <content eId="para_40__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> the United Nations system to reflect more systematically the role and contribution of parliaments in its reports and draft strategic plans;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_41" class="SingleTxt">
+        <num>	22.</num>
+        <content eId="para_41__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the decision to observe 30 June of each year as the International Day of Parliamentarism, and invites all Member States, national parliaments, organizations of the United Nations system and other relevant international organizations, civil society, including non-governmental organizations, and all other relevant stakeholders to observe the Day and to promote awareness of it, while stressing that the cost of all activities that may arise from the observance of the Day by the United Nations should be met from voluntary contributions;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_42" class="SingleTxt">
+        <num>	23.</num>
+        <content eId="para_42__content">
+          <p xml:space="preserve">
+            <span class="italic">Acknowledges</span> the preparations under way by the Inter-Parliamentary Union, in cooperation with the United Nations, to organize, in May 2022 in the Russian Federation, the world conference on interfaith and inter-ethnic dialogue with the participation of Heads of State, parliaments and representatives of world religions;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_43" class="SingleTxt">
+        <num>	24.</num>
+        <content eId="para_43__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of the report of the Secretary-General,<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/759">A/74/759</a>.</p></authorialNote> and requests that he submit to the General Assembly at its seventy-sixth session a report under the item entitled “Interaction between the United Nations, national parliaments and the Inter‑Parliamentary Union” with a special focus on the implementation of the shared global objectives of United Nations entities and the Inter-Parliamentary Union, including best practices and contributions of Member States, national parliaments, the United Nations and the Inter-Parliamentary Union to increase the representation of women in parliaments. </p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="63rd">63rd plenary meeting</inline>
+        <eol />
+        <docDate date="2020-09-04" refersTo="#adoptionDate">4 September 2020</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

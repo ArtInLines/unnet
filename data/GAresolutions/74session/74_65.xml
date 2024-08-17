@@ -1,0 +1,362 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-12/74-65/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-12/74-65/"></FRBRuri>
+          <FRBRdate date="2019-12-12" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-12/74-65/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-12/74-65/eng@/"></FRBRuri>
+          <FRBRdate date="2019-12-20" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-12/74-65/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-12/74-65/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-30" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="4" href="http://metadata.un.org/sdg/4" showAs="sdg_4" dictionary="SDGO"></keyword>
+        <keyword value="education" href="http://eurovoc.europa.eu/668" showAs="education" dictionary="EuroVoc"></keyword>
+        <keyword value="right_to_education" href="http://eurovoc.europa.eu/512" showAs="right_to_education" dictionary="EuroVoc"></keyword>
+        <keyword value="education" href="http://metadata.un.org/thesaurus/1001893" showAs="education" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-11-06" outcome="draftResolution" as="A/C.1/74/L.53/Rev.1" by="Albania, Andorra, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Georgia, Germany, Ghana, Greece, Hungary, Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malawi, Malta, Montenegro, Mozambique, Netherlands, North Macedonia, Norway, Poland, Portugal, Republic of Moldova, Romania, San Marino, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine and United Kingdom of Great Britain and Northern Ireland" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="Australia, Chile and Jamaica" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/368" by="" refersTo="89" />
+        <step date="2019-12-12" outcome="adopted" as="A/74/PV.46" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="firstCommittee" href="#firstCommittee" showAs="First Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-21865 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/65</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2019-12-20" class="rightSmall" refersTo="#dateOfIssuance">20 December 2019</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 98 (v)</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">General and complete disarmament: problems arising from the accumulation of conventional ammunition stockpiles in surplus</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 12 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#firstCommittee">[on the report of the First Committee (<inline name="originating document">A/74/368</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/65.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Problems arising from the accumulation of conventional ammunition stockpiles in surplus</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Mindful" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Mindful</span> of the dangers posed by unplanned explosions at munitions sites and the diversion of materials from conventional ammunition stockpiles to the illicit market, including for the manufacture of improvised explosive devices,</p>
+      </container>
+      <container name="Emphasizing" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Emphasizing</span> that thousands of people have died and the livelihoods of entire communities have been disrupted as a result of accidental ammunition depot explosions and that diversion from ammunition stockpiles has contributed to the intensity and duration of armed conflict and sustained armed violence around the world,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">		See <a href="https://undocs.org/en/S/2011/255">S/2011/255</a>.</p></authorialNote></p>
+      </container>
+      <container name="Recognizing" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the need to encourage the full involvement of both women and men in ammunition management practice and policy,</p>
+      </container>
+      <container name="Noting" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> that conventional weapons and their ammunition are items for which, in principle, action can be taken to improve the regulation of transfers and prevent their diversion to illicit trafficking,</p>
+      </container>
+      <container name="Recognizing" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the urgency of addressing the security and safety risks emanating from ineffective stockpile management around the world,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">		See <a href="https://undocs.org/en/S/2015/289">S/2015/289</a>.</p></authorialNote></p>
+      </container>
+      <container name="Bearing in mind" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Bearing in mind</span> a whole-life management approach to tackle problems related to ammunition in a comprehensive manner, including those related to diversion,</p>
+      </container>
+      <container name="Noting" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the requirement of the Arms Trade Treaty<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">		See resolution <a href="https://undocs.org/en/A/RES/67/234B">67/234 B</a>.</p></authorialNote> that States parties thereto establish and maintain a national control system to regulate the export of relevant ammunition and munitions,</p>
+      </container>
+      <container name="Taking note" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Taking note</span> of the report of the Group of Experts on the problem of ammunition and explosives<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">		See <a href="https://undocs.org/en/A/54/155">A/54/155</a>.</p></authorialNote> and the report of the Group of Governmental Experts established pursuant to resolution <a href="https://undocs.org/en/A/RES/61/72">61/72</a> to consider further steps to enhance cooperation with regard to the issue of conventional ammunition stockpiles in surplus,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">		See <a href="https://undocs.org/en/A/63/182">A/63/182</a>.</p></authorialNote></p>
+      </container>
+      <container name="Welcoming" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the adoption of the 2030 Agenda for Sustainable Development<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">		Resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a>.</p></authorialNote> and its recognition of the relevance for development of a significant reduction in illicit arms flows and of strengthened institutions for building capacity at all levels, in particular in developing countries, to prevent violence and combat terrorism and crime,</p>
+      </container>
+      <container name="Recalling" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the recommendation contained in paragraph 27 of the report of the Open-ended Working Group to Negotiate an International Instrument to Enable States to Identify and Trace, in a Timely and Reliable Manner, Illicit Small Arms and Light Weapons,<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"><a href="https://undocs.org/en/A/60/88">A/60/88</a> and <a href="https://undocs.org/en/A/60/88/Corr.2">A/60/88/Corr.2</a>.</p></authorialNote> namely, to address the issue of small arms and light weapons ammunition in a comprehensive manner as part of a separate process conducted within the framework of the United Nations,</p>
+      </container>
+      <container name="Taking note" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Taking note</span> of the discussions on munitions management practice in the framework of Protocol V<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">		United Nations, <span class="italic">Treaty Series</span>, vol. 2399, No. 22495.</p></authorialNote> to the Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons Which May Be Deemed to Be Excessively Injurious or to Have Indiscriminate Effects,<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">		Ibid., vol. 1342, No. 22495.</p></authorialNote></p>
+      </container>
+      <container name="Noting with satisfaction" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Noting with satisfaction</span> the work and measures pursued at the regional and subregional levels with regard to the issue of conventional ammunition,</p>
+      </container>
+      <container name="Recalling" eId="container_14">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its decision 59/515 of 3 December 2004 and its resolutions <a href="https://undocs.org/en/A/RES/60/74">60/74</a> of 8 December 2005 and <a href="https://undocs.org/en/A/RES/61/72">61/72</a> of 6 December 2006, its resolution <a href="https://undocs.org/en/A/RES/63/61">63/61</a> of 2 December 2008, by which it welcomed the report of the Group of Governmental Experts established pursuant to resolution <a href="https://undocs.org/en/A/RES/61/72">61/72</a> to consider further steps to enhance cooperation with regard to the issue of conventional ammunition stockpiles in surplus, its resolution <a href="https://undocs.org/en/A/RES/64/51">64/51</a> of 2 December 2009, its resolution <a href="https://undocs.org/en/A/RES/66/42">66/42</a> of 2 December 2011, its resolution <a href="https://undocs.org/en/A/RES/68/52">68/52</a> of 5 December 2013, its resolution <a href="https://undocs.org/en/A/RES/70/35">70/35</a> of 7 December 2015 and its resolution <a href="https://undocs.org/en/A/RES/72/55">72/55</a> of 4 December 2017,</p>
+      </container>
+      <container name="Taking note" eId="container_15">
+        <p xml:space="preserve">
+          <span class="italic">Taking note</span> of the recommendations of the Group of Governmental Experts, and encouraging the use, as appropriate, of the voluntary International Ammunition Technical Guidelines to improve the safety and security of ammunition storage sites,</p>
+      </container>
+      <container name="Taking note also" eId="container_16">
+        <p xml:space="preserve">
+          <span class="italic">Taking note also</span> of the recommendations of the Group on improving knowledge resource management on technical ammunition issues within the United Nations system, and noting the subsequent establishment, within the Secretariat, of the Saf<span class="italic">er</span>Guard knowledge resource management programme,<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve"><a href="https://undocs.org/en/A/63/182">A/63/182</a>, paras. 72–73.</p></authorialNote> including its online implementation support tools,</p>
+      </container>
+      <container name="Noting" eId="container_17">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> that the voluntary International Ammunition Technical Guidelines are used by national authorities and an expanding network of partners from international and regional organizations, non-governmental organizations and the private sector in an increasing number of States to support ammunition stockpile management efforts,</p>
+      </container>
+      <container name="Emphasizing" eId="container_18">
+        <p xml:space="preserve">
+          <span class="italic">Emphasizing</span> the need to consider integrating ammunition management measures in accordance with the International Ammunition Technical Guidelines, where relevant, in mandates of United Nations peacekeeping operations and special political missions,</p>
+      </container>
+      <container name="Recognizing" eId="container_19">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the importance of appropriate national ammunition management structures and procedures, including laws and regulations, training and doctrine, equipment and maintenance, personnel management and finances and infrastructure in order to ensure sustainability in ammunition management, and emphasizing in this regard the central role of the provision of technical assistance and capacity-building to Member States, upon their request,</p>
+      </container>
+      <container name="Taking note" eId="container_20">
+        <p xml:space="preserve">
+          <span class="italic">Taking note</span> of the establishment of the Ammunition Management Advisory Team to support interested States in the safe and secure management of ammunition through the provision of technical advice and services,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_21" class="MercuryDocument">
+        <num>	1.</num>
+        <content eId="para_21__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> all interested States to assess, on a voluntary basis, whether, in conformity with their legitimate security needs, parts of their stockpiles of conventional ammunition should be considered to be in surplus, and recognizes that the security of such stockpiles must be taken into consideration and that appropriate controls with regard to the security and safety of stockpiles of conventional ammunition are indispensable at the national level in order to eliminate the risk of explosion, pollution or diversion;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_22" class="MercuryDocument">
+        <num>	2.</num>
+        <content eId="para_22__content">
+          <p xml:space="preserve">
+            <span class="italic">Appeals</span> to all interested States to determine the size and nature of their surplus stockpiles of conventional ammunition, whether they represent a security or safety risk, their preferred means of destruction, if appropriate, and whether external assistance is needed to eliminate this risk;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_23" class="MercuryDocument">
+        <num>	3.</num>
+        <content eId="para_23__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> States in a position to do so to assist interested States within a bilateral framework or through international or regional organizations, including through activities conducted under the umbrella of the Saf<span class="italic">er</span>Guard knowledge resource management programme, on a voluntary and transparent basis, in elaborating and implementing programmes to eliminate surplus stockpiles or to improve stockpile management;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_24" class="MercuryDocument">
+        <num>	4.</num>
+        <content eId="para_24__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> all Member States to examine the possibility of developing and implementing, within a national, regional or subregional framework, measures to address accordingly the illicit trafficking related to the accumulation of such stockpiles;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_25" class="MercuryDocument">
+        <num>	5.</num>
+        <content eId="para_25__content">
+          <p xml:space="preserve">
+            <span class="italic">Continues to encourage</span> States to implement the recommendations contained in the report of the Group of Governmental Experts established pursuant to resolution <a href="https://undocs.org/en/A/RES/61/72">61/72</a> to consider further steps to enhance cooperation with regard to the issue of conventional ammunition stockpiles in surplus;<sup>5</sup></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_26" class="MercuryDocument">
+        <num>	6.</num>
+        <content eId="para_26__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes with appreciation</span> initiatives at the international, regional and national levels that shed light on improving the sustainable management of ammunition, including through the implementation of the International Ammunition Technical Guidelines, recognizing the relevance of continued discussions and coordination in this regard;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_27" class="MercuryDocument">
+        <num>	7.</num>
+        <content eId="para_27__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> the release of the updated version of the International Ammunition Technical Guidelines in 2015 and the intention to update the Guidelines on a regular basis, as well as the continued implementation of the Saf<span class="italic">er</span>Guard programme, managed by the Office for Disarmament Affairs of the Secretariat;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_28" class="MercuryDocument">
+        <num>	8.</num>
+        <content eId="para_28__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the continued application of the International Ammunition Technical Guidelines in the field, including the online implementation support tools and training materials, takes note of the support guides and the availability of translations of the Guidelines in various languages, which encourages States in a position to do so to offer support to the Saf<span class="italic">er</span>Guard programme, and calls upon all United Nations entities to make full use of the Guidelines when supporting national authorities;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_29" class="MercuryDocument">
+        <num>	9.</num>
+        <content eId="para_29__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> consideration of the integration of ammunition management measures, where relevant, in the mandates of peacekeeping operations, including through the training of personnel of national authorities and peacekeepers, utilizing the International Ammunition Technical Guidelines;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_30" class="MercuryDocument">
+        <num>	10.</num>
+        <content eId="para_30__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the ongoing work carried out by the Saf<span class="italic">er</span>Guard programme to establish its quick-response mechanism, which allows ammunition experts to be deployed to assist States, upon request, in the management of ammunition stockpiles, and encourages States in a position to do so to provide technical expertise or financial support to the mechanism;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_31" class="MercuryDocument">
+        <num>	11.</num>
+        <content eId="para_31__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> States wishing to improve their national ammunition stockpile management capacity, wishing to prevent the growth of conventional ammunition surpluses and wishing to implement wider risk mitigation to contact the Saf<span class="italic">er</span>Guard programme, as well as potential national donors, regional organizations or other organizations, as appropriate;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_32" class="MercuryDocument">
+        <num>	12.</num>
+        <content eId="para_32__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> States, as appropriate, to consider ammunition management as an intrinsic part of their actions for achieving relevant targets of the Sustainable Development Goals<sup>6</sup> related to the reduction of illicit arms flows and the prevention of violence through strengthened institutions, and to consider, where relevant, developing national, regional and subregional indicators based on this understanding;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_33" class="MercuryDocument">
+        <num>	13.</num>
+        <content eId="para_33__content">
+          <p xml:space="preserve">
+            <span class="italic">Also encourages</span> States, where relevant, to develop voluntary national action plans on the safe and secure management of conventional ammunition, and acknowledges the utility of information-sharing and the benefit of good practices among States, as appropriate;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_34" class="MercuryDocument">
+        <num>	14.</num>
+        <content eId="para_34__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note with appreciation</span> of the series of informal consultations convened within the framework of its resolution <a href="https://undocs.org/en/A/RES/72/55">72/55</a> throughout 2018 and 2019 that focused on matters of conventional ammunition management within the United Nations system and beyond and that sought to identify urgent issues pertaining to the accumulation of conventional ammunition stockpiles in surplus on which progress can be made and that may constitute a basis for convening a group of governmental experts;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_35" class="MercuryDocument">
+        <num>	15.</num>
+        <content eId="para_35__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of the informal paper presented by Germany on the informal consultative process undertaken within the framework of its resolution <a href="https://undocs.org/en/A/RES/72/55">72/55</a>, as well as the inputs, both written and oral, received from Member States on the same matter;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_36" class="MercuryDocument">
+        <num>	16.</num>
+        <content eId="para_36__content">
+          <p xml:space="preserve">
+            <span class="italic">Reiterates its request</span> to the Secretary-General to convene a group of governmental experts in 2020 on problems arising from the accumulation of conventional ammunition stockpiles in surplus, taking into account the exchanges in the open, informal consultations;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_37" class="MercuryDocument">
+        <num>	17.</num>
+        <content eId="para_37__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to report to the General Assembly on the work of the group upon its completion;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_38" class="MercuryDocument">
+        <num>	18.</num>
+        <content eId="para_38__content">
+          <p xml:space="preserve">
+            <span class="italic">Reiterates</span> its decision to address the issue of conventional ammunition stockpiles in surplus in a comprehensive manner;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_39" class="MercuryDocument">
+        <num>	19.</num>
+        <content eId="para_39__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> to include in the provisional agenda of its seventy-fifth session, under the item entitled “General and complete disarmament”, the sub-item entitled “Problems arising from the accumulation of conventional ammunition stockpiles in surplus”.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="46th">46th plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-12" refersTo="#adoptionDate">12 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

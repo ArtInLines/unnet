@@ -1,0 +1,580 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-05/74-15/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-05/74-15/"></FRBRuri>
+          <FRBRdate date="2019-12-05" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-05/74-15/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-05/74-15/eng@/"></FRBRuri>
+          <FRBRdate date="2019-12-10" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-05/74-15/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-05/74-15/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-22" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="10" href="http://metadata.un.org/sdg/10" showAs="sdg_10" dictionary="SDGO"></keyword>
+        <keyword value="social_inequality" href="http://eurovoc.europa.eu/1420" showAs="social_inequality" dictionary="EuroVoc"></keyword>
+        <keyword value="equality" href="http://metadata.un.org/thesaurus/1002102" showAs="equality" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+        <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-10-10" outcome="draftResolution" as="A/74/L.7" by="submitted by the President of the General Assembly" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="" />
+        <step date="2019-12-05" outcome="adopted" as="A/74/PV.39" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="noMainCommittee" href="#noMainCommittee" showAs="Without reference to a main committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-20986 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/15</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2019-12-10" class="rightSmall" refersTo="#dateOfIssuance">10 December 2019</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 21 (b)</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Groups of countries in special situations: follow-up to the second United Nations Conference on Landlocked Developing Countries</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 5 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#noMainCommittee">[without reference to a Main Committee (<inline name="originating document">A/74/L.7</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/15.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Political Declaration of the High-level Midterm Review on the Implementation of the Vienna Programme of Action for Landlocked Developing Countries for the Decade 2014–2024</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>
+        </p>
+      </formula>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_2" class="SingleTxt">
+        <content eId="para_2__content">
+          <p xml:space="preserve">
+            <span class="italic">Adopts</span> the following political declaration:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_3" class="H1">
+        <heading>		Political Declaration of the High-level Midterm Review on the Implementation of the Vienna Programme of Action for Landlocked Developing Countries for the Decade 2014–2024</heading>
+      </paragraph>
+      <paragraph eId="para_4" class="H23">
+        <subheading>		Preamble</subheading>
+      </paragraph>
+      <paragraph eId="para_5" class="SingleTxt">
+        <num>1.</num>
+        <content eId="para_5__content">
+          <p xml:space="preserve">	We, Heads of State and Government, Ministers and High Representatives, gathered at the United Nations on 5 and 6 December 2019 to review the implementation of the Vienna Programme of Action for Landlocked Developing Countries for the Decade 2014–2024,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/A/RES/69/137">69/137</a>, annex II.</p></authorialNote> reaffirm our commitment to the overarching goal of the Vienna Programme of Action to address the special development needs and challenges of landlocked developing countries arising from landlockedness, remoteness and geographical constraints in a more coherent manner and we collectively commit to strengthened cooperation in the context of sustainable development for landlocked developing countries. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="SingleTxt">
+        <num>2.</num>
+        <content eId="para_6__content">
+          <p xml:space="preserve">	We reaffirm our commitment to the full, effective and timely implementation of the Vienna Programme of Action, which is integral to the 2030 Agenda for Sustainable Development<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/a/res/70/1">70/1</a>.</p></authorialNote> and which is in line with the Addis Ababa Action Agenda of the Third International Conference on Financing for Development,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/A/RES/69/313">69/313</a>, annex.</p></authorialNote> the Paris Agreement<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">	 	See <a href="https://undocs.org/FCCC/CP/2015/10/Add.1">FCCC/CP/2015/10/Add.1</a>, decision 1/CP.21, annex.</p></authorialNote> and the Sendai Framework for Disaster Risk Reduction 2015–2030,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/A/RES/69/283">69/283</a>, annex II.</p></authorialNote> as well as with other international frameworks, such as the New Urban Agenda.<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/A/RES/71/256">71/256</a>, annex.</p></authorialNote> Effective implementation of the Vienna Programme of Action and the 2030 Agenda are mutually reinforcing and crucial for the attainment of the Sustainable Development Goals. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="SingleTxt">
+        <num>3.</num>
+        <content eId="para_7__content">
+          <p xml:space="preserve">	We emphasize that eradicating poverty in all its forms and dimensions, including extreme poverty, is the greatest global challenge and an indispensable requirement for sustainable development.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="SingleTxt">
+        <num>4.</num>
+        <content eId="para_8__content">
+          <p xml:space="preserve">	We are committed in our endeavour to help to turn landlocked developing countries into land-linked countries; for this we must come together in durable, transparent, accountable and effective partnerships between landlocked developing countries and transit countries and their development partners, as well as with a range of stakeholders, including civil society, the private sector, academia and youth. We further reaffirm that gender equality and the empowerment of all women and girls will make a crucial contribution to the achievement of the Vienna Programme of Action.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="SingleTxt">
+        <num>5.</num>
+        <content eId="para_9__content">
+          <p xml:space="preserve">	We recognize the importance of unfettered, efficient and cost-effective access for landlocked developing countries to and from the sea, on the basis of freedom of transit and other related matters, in accordance with the applicable rules of international law.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_10" class="H23">
+        <subheading>		Review and assessment of progress, gaps and challenges</subheading>
+      </paragraph>
+      <paragraph eId="para_11" class="SingleTxt">
+        <num>6.</num>
+        <content eId="para_11__content">
+          <p xml:space="preserve">	We take note of the report of the Secretary-General on the implementation of the Vienna Programme of Action<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve">	 	A/74/113.</p></authorialNote> and recognize the many efforts at all levels made by landlocked developing countries and transit countries, with the support of development partners, and the progress achieved since 2014, building on the Almaty Programme of Action.<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">	 	Almaty Programme of Action: Addressing the Special Needs of Landlocked Developing Countries within a New Global Framework for Transit Transport Cooperation for Landlocked and Transit Developing Countries (<span class="italic">Report of the International Ministerial Conference of Landlocked and Transit Developing Countries and Donor Countries and International Financial and Development Institutions on Transit Transport Cooperation, Almaty, Kazakhstan, 28 and 29 August 2003</span> (<a href="https://undocs.org/A/CONF.202/3">A/CONF.202/3</a>), annex I).</p></authorialNote> At the same time, we remain concerned that the progress made is not enough for landlocked developing countries to achieve the Vienna Programme of Action targets and sustainable development. We note with concern that one third of the population of landlocked developing countries is still living in extreme poverty, the prevalence of moderate to severe food insecurity persists, the average human development index of landlocked developing countries lags behind the world average and economic growth of landlocked developing countries has declined during the review period. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="SingleTxt">
+        <num>7.</num>
+        <content eId="para_12__content">
+          <p xml:space="preserve">	We commend those landlocked developing countries that have met the criteria for graduation from least developed country status.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_13" class="SingleTxt">
+        <num>8.</num>
+        <content eId="para_13__content">
+          <p xml:space="preserve">	We recognize that a key challenge faced by landlocked developing countries is the lack of reliable and regular data to inform policy and ensure follow-up, including on some of the specific objectives of the Vienna Programme of Action. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_14" class="SingleTxt">
+        <num>9.</num>
+        <content eId="para_14__content">
+          <p xml:space="preserve">	We recognize the progress that has been made by landlocked developing countries and transit developing countries in ratifying the World Trade Organization Agreement on Trade Facilitation, the revised Kyoto Convention,<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">	 	Protocol of Amendment to the International Convention on the Simplification and Harmonization of Customs Procedures (United Nations, <span class="italic">Treaty Series</span>, vol. 2370, No. 13561).</p></authorialNote> the TIR Convention<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve">	 	Customs Convention on the International Transport of Goods under Cover of TIR Carnets (United Nations, <span class="italic">Treaty Series</span>, vol. 1079, No. 16510).</p></authorialNote> and other relevant international conventions. We note, however, that there is a need for landlocked developing countries and transit countries to effectively implement their obligations under these conventions and agreements. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_15" class="SingleTxt">
+        <num>10.</num>
+        <content eId="para_15__content">
+          <p xml:space="preserve">	We welcome the recent developments among landlocked developing countries and their transit neighbours in building transit transport and economic corridors. Progress has been made in reducing travel time and corresponding costs along corridors, significantly reducing the time spent at borders and at intermodal points. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_16" class="SingleTxt">
+        <num>11.</num>
+        <content eId="para_16__content">
+          <p xml:space="preserve">	Progress has been made in landlocked developing countries and transit developing countries towards the expansion and upgrading of railways, roads, ports, air transport and inland waterways. Some missing links have been closed, and regional integration has been strengthened, but limited connectivity of landlocked developing countries remains one of the main obstacles to their enhanced trade integration. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_17" class="SingleTxt">
+        <num>12.</num>
+        <content eId="para_17__content">
+          <p xml:space="preserve">	We note that infrastructure in landlocked developing countries for the production, supply, transmission and distribution of modern and renewable energy services has been expanded and upgraded. However, more than 40 per cent of the population of landlocked developing countries still does not have access to electricity, and the rural-urban gap remains significant. The pace of completion of power projects is too slow.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_18" class="SingleTxt">
+        <num>13.</num>
+        <content eId="para_18__content">
+          <p xml:space="preserve">	We recognize that access to information and communications technologies in landlocked developing countries has increased. However, we note that landlocked developing countries continue to face major constraints that include infrastructural gaps and the relatively high cost of information and communications technology services, in particular accessing submarine cables.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_19" class="SingleTxt">
+        <num>14.</num>
+        <content eId="para_19__content">
+          <p xml:space="preserve">	The major challenges in infrastructure development include limited financial resources to close the significant infrastructure financing gaps, lack of capacity to develop bankable infrastructure projects, limited technologies and lack of resilient infrastructure.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_20" class="SingleTxt">
+        <num>15.</num>
+        <content eId="para_20__content">
+          <p xml:space="preserve">	We welcome efforts made by landlocked developing countries to enhance their participation in global trade, including through mainstreaming trade into their national strategies and updating their trade-related policies. However, we note that landlocked developing countries continue to face greater difficulties than coastal countries in expanding international trade. The competitiveness of landlocked developing countries remains limited owing to the high cost of trade, which is double that of transit developing countries. In that regard, we note with concern that the share of landlocked developing countries in global trade has declined and their share of global merchandise exports has decreased, while the total value of merchandise imports has increased.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_21" class="SingleTxt">
+        <num>16.</num>
+        <content eId="para_21__content">
+          <p xml:space="preserve">	We are concerned that most of the exports of landlocked developing countries remain highly concentrated on a few primary commodities and that service exports are still dominated by the tourism sector. The lack of diversification of exports of landlocked developing countries exacerbates their vulnerability to excessive price volatility and exogenous economic and environmental shocks.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_22" class="SingleTxt">
+        <num>17.</num>
+        <content eId="para_22__content">
+          <p xml:space="preserve">	We note the lack of availability of trade finance in landlocked developing countries. We reaffirm that international trade is an engine for inclusive economic growth and poverty reduction and contributes to the promotion of sustainable development. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_23" class="SingleTxt">
+        <num>18.</num>
+        <content eId="para_23__content">
+          <p xml:space="preserve">	We note with concern the lack of access to capital for micro-, small and medium-sized enterprises, including women- and youth-owned enterprises, which affects overall private sector development and economic growth in landlocked developing countries. We are further concerned that landlocked developing countries still fall behind in their electronic commerce (e-commerce) readiness. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_24" class="SingleTxt">
+        <num>19.</num>
+        <content eId="para_24__content">
+          <p xml:space="preserve">	We recognize that the participation of landlocked developing countries in regional and subregional trade, transport and transit facilitation agreements and initiatives aimed at deepening regional integration, enhancing infrastructure connectivity and facilitating the movement of cargo across borders has increased. Landlocked developing countries have entered into bilateral and plurilateral trade, transport and transit-related agreements with their neighbours. In this regard, we take note of the entry into force of the agreement establishing the African Continental Free Trade Area. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_25" class="SingleTxt">
+        <num>20.</num>
+        <content eId="para_25__content">
+          <p xml:space="preserve">	We are encouraged by signs that broader cooperation in areas such as investment, research and development and policies supportive of regional industrial development and regional connectivity is taking place both among landlocked developing countries and between landlocked developing countries and their neighbours.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_26" class="SingleTxt">
+        <num>21.</num>
+        <content eId="para_26__content">
+          <p xml:space="preserve">	Since 2014, many landlocked developing countries have placed structural economic transformation at the centre of their national development plans and adopted strategies for diversification and upgrading of their economies, industrialization, export promotion and private sector development, but landlocked developing countries have made limited advancement towards achieving structural transformation, still have limited manufacturing and industrial capacity to create high value added products, some landlocked developing countries even showing signs of de-industrialization of their economies.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_27" class="SingleTxt">
+        <num>22.</num>
+        <content eId="para_27__content">
+          <p xml:space="preserve">	We acknowledge the efforts by landlocked developing countries to support private sector development and emphasize that an enabling legal and regulatory environment for the local private sector is one of the most important requirements for promoting sustainable, inclusive and sustained economic growth, developing an industrial base, attracting investment and bringing about structural transformation.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_28" class="SingleTxt">
+        <num>23.</num>
+        <content eId="para_28__content">
+          <p xml:space="preserve">	We express concern at the limited technological capabilities, low technology intensity and acquisition and low investments in research and development in landlocked developing countries.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_29" class="SingleTxt">
+        <num>24.</num>
+        <content eId="para_29__content">
+          <p xml:space="preserve">	Landlocked developing countries are highly vulnerable to the adverse impact of climate change and remain heavily affected by desertification, land degradation, biodiversity loss, drought and receding glaciers. We are concerned about the economic, social and environmental impacts of sudden- and slow-onset disasters in landlocked developing countries, as well as the impacts of disasters in transit countries on the economies of landlocked developing countries.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_30" class="SingleTxt">
+        <num>25.</num>
+        <content eId="para_30__content">
+          <p xml:space="preserve">	We note that lack of adequate financial resources and capacity constraints are some of the biggest challenges that landlocked developing countries face in their efforts to implement the Vienna Programme of Action and achieve sustained growth and sustainable development. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_31" class="SingleTxt">
+        <num>26.</num>
+        <content eId="para_31__content">
+          <p xml:space="preserve">	We recognize that landlocked developing countries and their transit country neighbours need to effectively mobilize adequate domestic and external resources, both public and private, for the effective implementation of the Vienna Programme of Action. We acknowledge the importance of cohesive, nationally owned sustainable development strategies, supported by integrated national financing frameworks. We note that the average tax revenue in landlocked developing countries is not sufficient to meet development needs. We express concern that illicit financial flows have an adverse impact on domestic resource mobilization and on the sustainability of public finances in landlocked developing countries. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_32" class="SingleTxt">
+        <num>27.</num>
+        <content eId="para_32__content">
+          <p xml:space="preserve">	We commend the greater international attention that has been given to landlocked developing countries since the adoption of the Vienna Programme of Action, including increased official development assistance and aid for trade and South-South and triangular cooperation. We reaffirm the need for renewed and strengthened partnerships for the landlocked developing countries’ development. We welcome that official development assistance flows to landlocked developing countries have increased in real terms. At the same time, we note that much of the official development assistance continues to be concentrated in a few landlocked developing countries. We also express concern over the continued decline in foreign direct investment flows to landlocked developing countries, which is an impediment to their economic growth.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_33" class="H23">
+        <subheading>		Call for action to accelerate the implementation of the Vienna Programme of Action</subheading>
+      </paragraph>
+      <paragraph eId="para_34" class="SingleTxt">
+        <num>28.</num>
+        <content eId="para_34__content">
+          <p xml:space="preserve">	Having noted the progress made and challenges encountered by landlocked developing countries in the implementation of the Vienna Programme of Action, which is integral to the 2030 Agenda for Sustainable Development, we call for action in the following key areas.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_35" class="SingleTxt">
+        <num>29.</num>
+        <content eId="para_35__content">
+          <p xml:space="preserve">	We underscore the need to capture data to monitor the specific objectives of the Vienna Programme of Action and commit to providing landlocked developing countries with capacity-building support to strengthen their national statistical systems.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_36" class="SingleTxt">
+        <num>30.</num>
+        <content eId="para_36__content">
+          <p xml:space="preserve">	We commit to targeted and accelerated action to remove all legal, social and economic barriers to achieve gender equality and the empowerment of all women and girls, and the realization and enjoyment of their human rights. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_37" class="SingleTxt">
+        <num>31.</num>
+        <content eId="para_37__content">
+          <p xml:space="preserve">	We underscore the importance of mobilizing adequate resources to accelerate the implementation of the Vienna Programme of Action and to support the landlocked developing countries in achieving the Sustainable Development Goals and targets by 2030. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_38" class="SingleTxt">
+        <num>32.</num>
+        <content eId="para_38__content">
+          <p xml:space="preserve">	We call upon landlocked developing countries and transit countries to effectively implement their obligations under all relevant international, regional and bilateral agreements to improve transit in a manner consistent with their trade and development objectives.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_39" class="SingleTxt">
+        <num>33.</num>
+        <content eId="para_39__content">
+          <p xml:space="preserve">	Landlocked developing countries and transit countries should consider promoting a corridor approach to improve trade and transit transport. We call upon landlocked developing countries and transit countries to make additional efforts to reduce travel time along the corridors and to adopt an integrated and sustainable approach to the management of international transport corridors in order to avoid the duplication of efforts, to promote regional connectivity and to maximize the associated economic opportunities.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_40" class="SingleTxt">
+        <num>34.</num>
+        <content eId="para_40__content">
+          <p xml:space="preserve">	We call upon the United Nations system and other relevant international and regional organizations to provide, within their mandates, policy, analytical and technical support towards the development, functioning and management of corridors.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_41" class="SingleTxt">
+        <num>35.</num>
+        <content eId="para_41__content">
+          <p xml:space="preserve">	We encourage landlocked developing countries and transit countries to integrate the development, upgrading and maintenance of national and transboundary transport infrastructure into their national development strategies.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_42" class="SingleTxt">
+        <num>36.</num>
+        <content eId="para_42__content">
+          <p xml:space="preserve">	We call upon landlocked developing countries and transit countries, with the support of their development and trade partners, to develop regionally integrated, sustainable, climate- and disaster-resilient transport infrastructure and to close missing links in order to reduce the cost of doing business and increase intraregional trade.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_43" class="SingleTxt">
+        <num>37.</num>
+        <content eId="para_43__content">
+          <p xml:space="preserve">	We encourage landlocked developing countries and transit countries to create an enabling environment for public and private sustainable investment and infrastructure operations.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_44" class="SingleTxt">
+        <num>38.</num>
+        <content eId="para_44__content">
+          <p xml:space="preserve">	We encourage landlocked developing countries and transit countries to expand and upgrade supply, transmission and distribution infrastructure for electricity, including off-grid solutions, to accelerate the preparation of power projects, especially renewables, while acknowledging the role of all energy sources and technologies in the energy mix, to scale up projects on cross-border interconnectors and to improve transformational energy access and ensure access to affordable, reliable, sustainable and modern energy for all. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_45" class="SingleTxt">
+        <num>39.</num>
+        <content eId="para_45__content">
+          <p xml:space="preserve">	We invite landlocked developing countries and transit countries to collaborate to establish information and communications technology infrastructure, applications and services with the support of Governments, the private sector, development partners, multilateral financial and development institutions and regional banks. The substantial digital divides between landlocked developing countries and the developed countries need to be addressed.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_46" class="SingleTxt">
+        <num>40.</num>
+        <content eId="para_46__content">
+          <p xml:space="preserve">	We call upon development partners, the United Nations system, international financial institutions and international and regional organizations to provide technical support to landlocked developing countries for the formulation and implementation of bankable infrastructure and transport development projects.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_47" class="SingleTxt">
+        <num>41.</num>
+        <content eId="para_47__content">
+          <p xml:space="preserve">	We encourage landlocked developing countries to continue to formulate policies and strategies aimed at diversifying their export structure and adding value to their exports in order to expand their participation in sustainable regional and global value chains.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_48" class="SingleTxt">
+        <num>42.</num>
+        <content eId="para_48__content">
+          <p xml:space="preserve">	We encourage landlocked developing countries, with the support of their development and trade partners, to reduce “before the border” trade costs by improving transport networks and customs procedures, as well as by the application of technology-driven and information and communications technology solutions to expedite international trade. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_49" class="SingleTxt">
+        <num>43.</num>
+        <content eId="para_49__content">
+          <p xml:space="preserve">	We reaffirm the importance of the World Trade Organization Agreement on Trade Facilitation in addressing high trade and transit costs and call for full and timely implementation of the Agreement by all the members of the World Trade Organization. Landlocked developing countries should promptly notify their technical assistance needs. We also invite development partners and relevant organizations to enhance support to landlocked developing countries to implement their World Trade Organization commitments.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_50" class="SingleTxt">
+        <num>44.</num>
+        <content eId="para_50__content">
+          <p xml:space="preserve">	We call upon all Member States to enhance market access for exports from landlocked developing countries, except for arms and armaments. We also call upon development partners to support efforts by landlocked developing countries to diversify their exports, including through supporting their national export strategies and trade policies. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_51" class="SingleTxt">
+        <num>45.</num>
+        <content eId="para_51__content">
+          <p xml:space="preserve">	We call upon development partners and multilateral development banks to support landlocked developing countries in strengthening trade financing for micro-, small and medium-sized enterprises and promoting trade finance facilitation programmes.  </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_52" class="SingleTxt">
+        <num>46.</num>
+        <content eId="para_52__content">
+          <p xml:space="preserve">	We underscore the potential for landlocked developing countries to facilitate their integration into regional and global value chains and to expand their trade capabilities and connectivity by strengthening productive linkages, supporting the development of supply chains within the region and improving the quality and the effective implementation of regional integration agreements. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_53" class="SingleTxt">
+        <num>47.</num>
+        <content eId="para_53__content">
+          <p xml:space="preserve">	We call upon the United Nations system, regional and international development partners and other international organizations to support landlocked developing countries and transit countries in leveraging the opportunities provided by regional initiatives and integration.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_54" class="SingleTxt">
+        <num>48.</num>
+        <content eId="para_54__content">
+          <p xml:space="preserve">	We encourage landlocked developing countries to promote innovative solutions in sectors such as agriculture, transport, information and communications, finance, energy, health, water and sanitation and education, and effective public-private partnerships through investments in education and skills development, including technical, vocational and tertiary education and training, while ensuring gender equality and the empowerment of women and girls at all levels. We recognize that these investments are required to reduce economic volatility, enable landlocked developing countries to reap the demographic dividend, and achieve lifelong learning and broader human development. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_55" class="SingleTxt">
+        <num>49.</num>
+        <content eId="para_55__content">
+          <p xml:space="preserve">	We call upon landlocked developing countries to encourage private sector development by enhancing private sector capabilities, as well as improving economic governance and business regulations. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_56" class="SingleTxt">
+        <num>50.</num>
+        <content eId="para_56__content">
+          <p xml:space="preserve">	We are determined to build economies and societies in landlocked developing countries that are resilient to external economic shocks, disasters and the adverse impact of climate change and environmental degradation. We urge development partners, the United Nations system and other international and regional organizations to support landlocked developing countries’ efforts to develop and implement nationally determined contributions and national long-term climate change strategies in line with the goals of the Paris Agreement and to develop tools to prevent and combat desertification, land degradation, biodiversity loss, drought and receding glaciers, as well as to strengthen integrated water resources management, disaster risk prevention, preparedness and response, and early warning and early action systems. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_57" class="SingleTxt">
+        <num>51.</num>
+        <content eId="para_57__content">
+          <p xml:space="preserve">	We encourage development partners to support landlocked developing countries in building institutional and human capacities.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_58" class="SingleTxt">
+        <num>52.</num>
+        <content eId="para_58__content">
+          <p xml:space="preserve">	We call upon the United Nations system to provide assistance to countries graduating from the least developed country category in the implementation of their national transition strategies and to consider country-specific support for graduated countries for a fixed period of time and in a predictable manner, and call upon development partners to support smooth transition. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_59" class="SingleTxt">
+        <num>53.</num>
+        <content eId="para_59__content">
+          <p xml:space="preserve">	We encourage landlocked developing countries to strengthen their services sector and enhance their efforts to integrate into e-commerce. In this regard, we encourage international partners to provide capacity-building to assist landlocked developing countries in addressing gaps in legal and regulatory frameworks and developing digital skills.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_60" class="SingleTxt">
+        <num>54.</num>
+        <content eId="para_60__content">
+          <p xml:space="preserve">	We encourage landlocked developing countries to develop national science, technology and innovation policies and to create enabling science, technology and innovation infrastructure. We invite development partners and international organizations to support efforts by landlocked developing countries to establish or strengthen national and regional centres for science, technology and innovation development.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_61" class="SingleTxt">
+        <num>55.</num>
+        <content eId="para_61__content">
+          <p xml:space="preserve">	We welcome existing technology and research funds established by development partners and international and regional financial institutions, and encourage similar initiatives to support landlocked developing countries for a greater use and adaptation of technology. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_62" class="SingleTxt">
+        <num>56.</num>
+        <content eId="para_62__content">
+          <p xml:space="preserve">	We encourage landlocked developing countries to continue to make improvements in the regulatory environment for business, in particular for micro-, small and medium-sized enterprises. We also urge enhanced international and domestic investments in research and development in landlocked developing countries.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_63" class="SingleTxt">
+        <num>57.</num>
+        <content eId="para_63__content">
+          <p xml:space="preserve">	We encourage landlocked developing countries to strengthen their efforts in raising domestic resources, including through carrying out reforms in tax administration, broadening the tax base and strengthening domestic capital markets, and call upon the international community to assist these efforts in line with national priorities.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_64" class="SingleTxt">
+        <num>58.</num>
+        <content eId="para_64__content">
+          <p xml:space="preserve">	We call upon development partners to strengthen support to landlocked developing countries, taking into account all sources. At the same time, we encourage landlocked developing countries to better leverage official development assistance for attracting further finance from other sources, such as foreign direct investment, public-private sector partnerships and other sources of finance. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_65" class="SingleTxt">
+        <num>59.</num>
+        <content eId="para_65__content">
+          <p xml:space="preserve">	We encourage Member States to facilitate foreign direct investment flows to landlocked developing countries and call upon landlocked and transit developing countries to promote an enabling environment to attract foreign direct investment and private sector involvement.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_66" class="SingleTxt">
+        <num>60.</num>
+        <content eId="para_66__content">
+          <p xml:space="preserve">	We call upon development partners to continue to provide aid for trade to landlocked developing countries, consistent with World Trade Organization guidelines. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_67" class="SingleTxt">
+        <num>61.</num>
+        <content eId="para_67__content">
+          <p xml:space="preserve">	We call upon the developing and developed countries to continue to support landlocked developing countries through South-South and triangular cooperation in line with the respective modalities of cooperation.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_68" class="SingleTxt">
+        <num>62.</num>
+        <content eId="para_68__content">
+          <p xml:space="preserve">	We welcome the establishment of the International Think Tank for Landlocked Developing Countries and call upon all landlocked developing countries that have not done so to ratify or accede to the multilateral agreement for its establishment. We invite Member States and other relevant stakeholders to consider making voluntary contributions to the Think Tank budget. </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_69" class="SingleTxt">
+        <num>63.</num>
+        <content eId="para_69__content">
+          <p xml:space="preserve">	We call upon the United Nations system, including the regional economic commissions, as well as all relevant international and regional organizations, to continue to provide the support necessary to accelerate the implementation of the Vienna Programme of Action.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_70" class="SingleTxt">
+        <num>64.</num>
+        <content eId="para_70__content">
+          <p xml:space="preserve">	We call upon the Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States to continue to ensure the coordinated follow-up to, effective monitoring of and reporting on the implementation of the Vienna Programme of Action.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_71" class="SingleTxt">
+        <num>65.</num>
+        <content eId="para_71__content">
+          <p xml:space="preserve">	We call upon the Secretary-General to continue to mobilize the resources necessary to enable the Landlocked Developing Countries Unit of the Office of the High Representative to fulfil its mandate in support of the landlocked developing countries.</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_72" class="H23">
+        <subheading>		Third United Nations Conference on Landlocked Developing Countries</subheading>
+      </paragraph>
+      <paragraph eId="para_73" class="SingleTxt">
+        <num>66.</num>
+        <content eId="para_73__content">
+          <p xml:space="preserve">	We invite the General Assembly to consider holding the third United Nations Conference on Landlocked Developing Countries in 2024.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="39th">39th plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-05" refersTo="#adoptionDate">5 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

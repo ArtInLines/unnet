@@ -1,0 +1,584 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-08-31/74-299/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-08-31/74-299/"></FRBRuri>
+          <FRBRdate date="2020-08-31" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-08-31/74-299/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-08-31/74-299/eng@/"></FRBRuri>
+          <FRBRdate date="2020-09-02" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-08-31/74-299/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-08-31/74-299/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-10-04" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+        <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2020-08-18" outcome="draftResolution" as="A/74/L.86" by="Armenia, Belarus, Belgium, Bulgaria, Burundi, Central African Republic, Cyprus, Czechia, Equatorial Guinea, Eritrea, Fiji, France, Germany, Lao People's Democratic Republic, Monaco, Mongolia, Myanmar, Nepal, Netherlands, Nicaragua, Oman, Philippines, Portugal, Qatar, Russian Federation, Singapore, Slovenia, South Africa, Spain, Sweden, Syrian Arab Republic, Thailand, Uruguay and Viet Nam" />
+        <step date="2020-08-31" outcome="draftResolutionAdditionalSponsors" by="Andorra, Angola, Argentina, Austria, Bahrain, Croatia, Denmark, Estonia, Finland, Greece, Iceland, India, Ireland, Italy, Kazakhstan, Latvia, Lithuania, Luxembourg, Malta, Paraguay, Poland, Romania, San Marino, Serbia, Slovakia and Turkey" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="" />
+        <step date="2020-08-31" outcome="adopted" as="Adopted through silence procedure" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="noMainCommittee" href="#noMainCommittee" showAs="Without reference to a main committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">20-11345 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/299</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-09-02" class="rightSmall" refersTo="#dateOfIssuance">2 September 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 12</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Improving global road safety</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 31 August 2020</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#noMainCommittee">[without reference to a Main Committee (<inline name="originating document">A/74/L.86 and A/74/L.86/Add.1</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/299.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Improving global road safety</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Recalling" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolutions <a href="https://undocs.org/en/A/RES/57/309">57/309</a> of 22 May 2003, <a href="https://undocs.org/en/A/RES/58/9">58/9</a> of 5 November 2003, <a href="https://undocs.org/en/A/RES/58/289">58/289</a> of 14 April 2004, <a href="https://undocs.org/en/A/RES/60/5">60/5</a> of 26 October 2005, <a href="https://undocs.org/en/A/RES/62/244">62/244</a> of 31 March 2008, <a href="https://undocs.org/en/A/RES/64/255">64/255</a> of 2 March 2010, <a href="https://undocs.org/en/A/RES/66/260">66/260</a> of 19 April 2012, <a href="https://undocs.org/en/A/RES/68/269">68/269</a> of 10 April 2014, <a href="https://undocs.org/en/A/RES/70/260">70/260</a> of 15 April 2016 and <a href="https://undocs.org/en/A/RES/72/271">72/271</a> of 12 April 2018, on improving global road safety, </p>
+      </container>
+      <container name="Having considered" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Having considered</span> the note by the Secretary-General transmitting the report on improving global road safety<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/304">A/74/304</a> and <a href="https://undocs.org/en/A/74/304/Corr.1">A/74/304/Corr.1</a>.</p></authorialNote> and the recommendations contained therein, </p>
+      </container>
+      <container name="Reaffirming" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> its resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a> of 25 September 2015, entitled “Transforming our world: the 2030 Agenda for Sustainable Development”, in which it adopted a comprehensive, far-reaching and people-centred set of universal and transformative Sustainable Development Goals and targets, its commitment to working tirelessly for the full implementation of the Agenda by 2030 ensuring that no one is left behind, its recognition that eradicating poverty in all its forms and dimensions, including extreme poverty, is the greatest global challenge and an indispensable requirement for sustainable development, its commitment to achieving sustainable development in its three dimensions – economic, social and environmental – in a balanced and integrated manner, and to building upon the achievements of the Millennium Development Goals and seeking to address their unfinished business, </p>
+      </container>
+      <container name="Recalling" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> that the Sustainable Development Goals and targets are integrated and indivisible and balance the three dimensions of sustainable development, and acknowledging the importance of reaching the road safety-related targets of the 2030 Agenda, </p>
+      </container>
+      <container name="Recalling also" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> the New Urban Agenda adopted at the United Nations Conference on Housing and Sustainable Urban Development (Habitat III),<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/71/256">71/256</a>, annex.</p></authorialNote> which, taking into account that the majority of road traffic deaths and serious injuries take place in urban areas, gives appropriate consideration to road safety and access to safe, affordable, accessible and sustainable public transport and non-motorized modes of transport, </p>
+      </container>
+      <container name="Noting" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> that the overwhelming majority of road traffic deaths and serious injuries are preventable and that, despite some improvements in many countries, including in developing countries, they remain a major public health and development problem that has broad social and economic consequences which, if unaddressed, may affect progress towards the achievement of the Sustainable Development Goals, </p>
+      </container>
+      <container name="Recognizing" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that human suffering, combined with costs to some countries of up to 5 per cent of their gross domestic product a year, makes reducing road traffic deaths and injuries both an economic and a social priority, especially for some countries, and that investment in road safety has a positive impact on public health and the economy, </p>
+      </container>
+      <container name="Taking into account" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Taking into account</span> that road traffic deaths and injuries are also a social equity issue, as the poor and the vulnerable are most frequently also vulnerable road users, namely, pedestrians, cyclists, users of motorized two- and three-wheeled vehicles and passengers of unsafe public transport, who are disproportionately affected and exposed to risks and road traffic crashes, which can lead to a cycle of poverty exacerbated by income loss, and recalling that the aim of road safety policies should be to guarantee protection to all users, </p>
+      </container>
+      <container name="Recognizing" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that road safety requires addressing broader issues of equitable access to mobility and that the promotion of sustainable modes of transport, in particular safe public transport and safe walking and cycling, is a key element of road safety, </p>
+      </container>
+      <container name="Taking into account" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Taking into account</span> the importance of strengthening institutional capacity and continuing international cooperation, including South-South and triangular cooperation, cooperation between countries that share roads across borders and cooperation among regional and international organizations, to further support efforts to improve road safety worldwide, particularly in developing countries, and providing, as appropriate, support to meet the goals of the Decade of Action for Road Safety 2011–2020 and those of the 2030 Agenda, </p>
+      </container>
+      <container name="Emphasizing" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Emphasizing</span> that, while each country has primary responsibility for its own economic and social development and the role of national policies, priorities and development strategies cannot be overemphasized in the context of reaching the Sustainable Development Goals, international public finance plays an important role in complementing the efforts of countries to mobilize public resources domestically, especially in the poorest and most vulnerable countries with limited domestic resources, </p>
+      </container>
+      <container name="Expressing its concern" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Expressing its concern</span> that the number of road traffic crashes remains unacceptably high, and that crashes represent a leading cause of death and injury around the world, killing more than 1.35 million people and injuring as many as 50 million people a year, with 90 per cent of those casualties occurring in developing countries, and concerned also that road traffic crashes are the leading cause of death around the world for children and young people between 15 and 29 years of age, </p>
+      </container>
+      <container name="Expressing its concern also" eId="container_14">
+        <p xml:space="preserve">
+          <span class="italic">Expressing its concern also</span> that target 3.6 of Sustainable Development Goal 3 will not be met by 2020, and noting that significant progress can be achieved through stronger national leadership, global cooperation, implementation of evidence-based strategies and engagement with all relevant actors, including the private sector, as well as additional innovative approaches, </p>
+      </container>
+      <container name="Expressing its concern further" eId="container_15">
+        <p xml:space="preserve">
+          <span class="italic">Expressing its concern further</span> that the adoption and implementation of road safety measures remain inadequate in many countries, </p>
+      </container>
+      <container name="Acknowledging" eId="container_16">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging</span> the leading role of Oman and the Russian Federation in drawing the attention of the international community to the global road safety crisis, </p>
+      </container>
+      <container name="Commending" eId="container_17">
+        <p xml:space="preserve">
+          <span class="italic">Commending</span> Member States that have taken a leadership role by adopting comprehensive legislation on key risk factors, including the non-use of seat belts, child restraints and helmets, the drinking of alcohol and driving, and speeding, and drawing attention to other risk factors, such as low visibility, medical conditions and medicines that affect safe driving, fatigue and the use of narcotic drugs and psychotropic and psychoactive substances, mobile phones and other electronic and texting devices, </p>
+      </container>
+      <container name="Encouraging" eId="container_18">
+        <p xml:space="preserve">
+          <span class="italic">Encouraging</span> Member States to promote multi-stakeholder partnerships to address the safety of vulnerable road users, the delivery of first aid to victims of road traffic accidents or crashes, training and education, notably in developing and least developed countries, </p>
+      </container>
+      <container name="Recognizing" eId="container_19">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the progress made by some Member States in providing road traffic crash victims and their families with universal access to health care in the pre‑hospital, hospital, post-hospital and rehabilitation and reintegration phases, </p>
+      </container>
+      <container name="Acknowledging" eId="container_20">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging</span> the work of the United Nations system, in particular the leadership of the World Health Organization, in close cooperation with the United Nations regional commissions, in establishing, implementing and monitoring various aspects of the Global Plan for the Decade of Action for Road Safety 2011–2020, and the commitment of the United Nations Human Settlements Programme (UN-Habitat), the United Nations Environment Programme, the United Nations Children’s Fund and the International Labour Organization, among other entities, to supporting those efforts as well as that of the World Bank and regional development banks to implementing road safety projects and programmes, in particular in developing countries, </p>
+      </container>
+      <container name="Acknowledging also" eId="container_21">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging also</span> the lessons learned from the Decade of Action for Road Safety 2011–2020, such as the need to promote an integrated approach to road safety such as a safe system approach and Vision Zero, pursue long-term and sustainable safety solutions, and strengthen national intersectoral collaboration, including engagement with non-governmental organizations and civil society and academia, as well as businesses and industry, which contribute to and influence the social and economic development of countries, </p>
+      </container>
+      <container name="Commending" eId="container_22">
+        <p xml:space="preserve">
+          <span class="italic">Commending</span> the World Health Organization for its leadership role in preventing road traffic injury and for its role in implementing the mandate conferred upon it by the General Assembly to act, in close cooperation with the United Nations regional commissions, as a coordinator on road safety issues within the United Nations system,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	 	See resolution <a href="https://undocs.org/en/A/RES/58/289">58/289</a>.</p></authorialNote></p>
+      </container>
+      <container name="Commending" eId="container_23">
+        <p xml:space="preserve">
+          <span class="italic">Commending</span> the United Nations regional commissions for their work in increasing road safety activities and advocating increased political commitment to road safety, and in working towards setting regional and national road traffic casualty reduction targets, in particular the work of the Economic Commission for Europe in elaborating global road safety-related legal instruments, including international conventions and agreements, technical standards, resolutions and good practice recommendations, as well as in servicing 59 global and regional legal instruments that provide a commonly accepted legal and technical framework for the development of international road, rail, inland water and combined transport, </p>
+      </container>
+      <container name="Emphasizing" eId="container_24">
+        <p xml:space="preserve">
+          <span class="italic">Emphasizing</span> the role of the United Nations Road Safety Collaboration as a consultative mechanism to facilitate international road safety cooperation, </p>
+      </container>
+      <container name="Commending" eId="container_25">
+        <p xml:space="preserve">
+          <span class="italic">Commending</span> the work of two Economic Commission for Europe groups of experts, namely, on road signs and signals and on improving safety at level crossings, and recognizing the continuous work of the Global Forum for Road Traffic Safety and the World Forum for Harmonization of Vehicle Regulations to improve vehicle and road safety, </p>
+      </container>
+      <container name="Noting" eId="container_26">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> that continuous progress of automotive and digital technologies could improve road safety, including through the progressive development of highly and fully automated vehicles in road traffic, and in this regard noting with appreciation the adoption under the auspices of the Economic Commission for Europe of a Global Forum for Road Traffic Safety resolution on the deployment of highly and fully automated vehicles in road traffic, </p>
+      </container>
+      <container name="Noting with approval" eId="container_27">
+        <p xml:space="preserve">
+          <span class="italic">Noting with approval</span> the road safety performance review projects of the Economic Commission for Europe, carried out in collaboration with the Economic and Social Commission for Asia and the Pacific and the Economic Commission for Latin America and the Caribbean under the United Nations Development Account and with the Economic Commission for Africa with support from the Special Envoy of the Secretary-General for Road Safety, as well as the work of the Economic and Social Commission for Western Asia on prioritizing road safety to strengthen the national road safety management capacity of selected countries, and commending the development and implementation of road traffic safety management systems for different types of organizations, such as the extensive work of the International Organization for Standardization in developing the requirements for road traffic safety management systems,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">	 	See International Organization for Standardization, ISO 39001:2012.</p></authorialNote></p>
+      </container>
+      <container name="Acknowledging" eId="container_28">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging</span> a number of other important international efforts on road safety, including the development by the International Road Transport Union of harmonized and internationally recognized standards for the vocational training of road transport professionals, as well as the development of an updated Road Safety Manual by the World Road Association to offer guidance to officials at various levels on measures that can enhance the safety of road infrastructure, </p>
+      </container>
+      <container name="Welcoming" eId="container_29">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the efforts of the Special Envoy for Road Safety, with secretariat support from the Economic Commission for Europe, in effectively mobilizing sustained high-level commitment to road safety by advocating adherence to and raising awareness of the United Nations legal instruments on road safety, sharing good practices, including through participation in global and regional conferences, and advocating for increased funds for global road safety, </p>
+      </container>
+      <container name="Welcoming also" eId="container_30">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming also</span> the establishment of the United Nations Road Safety Fund to support progress towards achieving all road safety-related Sustainable Development Goals and relevant global targets, and noting with appreciation the efforts of the United Nations organizations, in particular the Economic Commission for Europe, and the Special Envoy of the Secretary-General, in making the Fund operational, </p>
+      </container>
+      <container name="Recognizing" eId="container_31">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the commitment of Member States and civil society to road safety, as demonstrated by their participation in United Nations Global Road Safety Week, including during the fifth Week, held from 6 to 12 May 2019, </p>
+      </container>
+      <container name="Recognizing also" eId="container_32">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing also</span> Member States and all stakeholders, including civil society, for their continued commitment to road safety, as demonstrated by their observance of the World Day of Remembrance for Road Traffic Victims on the third Sunday of November every year, </p>
+      </container>
+      <container name="Acknowledging" eId="container_33">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging</span> the efforts of Member States in contributing to international road safety by conducting research and collecting evidence that will inform policies, as well as by encouraging the sharing of best practices that enhance vehicle and infrastructure safety as well as human behaviour in road traffic, </p>
+      </container>
+      <container name="Recognizing" eId="container_34">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that providing basic conditions and services to address road safety is primarily a responsibility of Governments, especially in view of the decisive role that legislative bodies can play in the adoption of comprehensive and effective road safety policies and laws and their implementation, while recognizing nonetheless that there is a shared responsibility to move towards a world free from road traffic fatalities and serious injuries and that addressing road safety demands multi‑stakeholder collaboration among the public and private sectors, academia, professional organizations, non-governmental organizations and the media, </p>
+      </container>
+      <container name="Recalling" eId="container_35">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the need, in view of the approaching end, in 2020, of the Decade of Action for Road Safety, the target date of 2020 for the achievement of target 3.6 of Sustainable Development Goal 3 and the relevant road safety target dates set out in the 2030 Agenda, to define a new time frame for a reduction in road traffic deaths and injuries, </p>
+      </container>
+      <container name="Commending" eId="container_36">
+        <p xml:space="preserve">
+          <span class="italic">Commending</span> the leadership of the Government of the Russian Federation, the Government of Brazil and the Government of Sweden in hosting global ministerial and high-level conferences on road safety resulting, respectively, in the Moscow Declaration of 2009,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"><a href="https://undocs.org/en/A/64/540">A/64/540</a>, annex.</p></authorialNote> the Brasilia Declaration of 2015 and the Stockholm Declaration of 2020, </p>
+      </container>
+      <container name="Noting" eId="container_37">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the various international events that have recently been held with a view to promoting partnerships and sharing know-how and best practices for improving road safety, including the International Road Safety Conference, held in London on 3 and 4 September 2019, </p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_38" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_38__content">
+          <p xml:space="preserve">
+            <span class="italic">Reiterates its invitation</span> to Member States and the international community to intensify national, regional and international collaboration, with a view to meeting the ambitious road safety-related targets in the 2030 Agenda for Sustainable Development;<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_39" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_39__content">
+          <p xml:space="preserve">
+            <span class="italic">Endorses</span> the Stockholm Declaration, approved at the third Global Ministerial Conference on Road Safety, held in Stockholm on 19 and 20 February 2020;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_40" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_40__content">
+          <p xml:space="preserve">
+            <span class="italic">Proclaims</span> the period 2021–2030 as the Second Decade of Action for Road Safety, with a goal of reducing road traffic deaths and injuries by at least 50 per cent from 2021 to 2030, and in this regard calls upon Member States to continue action through 2030 on all the road safety-related targets of the Sustainable Development Goals, including target 3.6, in line with the pledge of the 2019 high-level political forum on sustainable development convened under the auspices of the General Assembly, especially taking into account the remaining decade of action to deliver the Sustainable Development Goals by 2030 in their entirety; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_41" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_41__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the World Health Organization and the United Nations regional commissions, in cooperation with other partners in the United Nations Road Safety Collaboration and other stakeholders, to prepare a plan of action of the Second Decade as a guiding document to support the implementation of its objectives; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_42" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_42__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to ensure political commitment and responsibility at the highest possible level for improving road safety, and to develop and/or implement road safety strategies and plans with the involvement of all relevant stakeholders, including all sectors and levels of government, as appropriate; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_43" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_43__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States that have not already done so to consider adopting comprehensive legislation on key risk factors, including the non-use of seat belts, child restraints and helmets, the drinking of alcohol and driving, and speeding, and to consider implementing appropriate, effective and evidence- and/or science-based legislation on other risk factors related to distracted or impaired driving; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_44" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_44__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> the role and importance of the United Nations legal instruments on road safety, such as the 1949 Convention on Road Traffic,<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vol. 125, No. 1671.</p></authorialNote> the 1968 Convention on Road Traffic,<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">	 	Ibid., vol. 1042, No. 15705.</p></authorialNote> the 1968 Convention on Road Signs and Signals,<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">	 	Ibid., vol. 1091, No. 16743.</p></authorialNote> the 1958 and 1998 agreements on technical vehicle regulations, the 1997 agreement on periodic technical inspection of vehicles and the 1957 agreement on the transport of dangerous goods, in facilitating road safety at the global, regional and national levels, and commends Member States that have acceded to these international legal instruments on road safety; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_45" class="SingleTxt">
+        <num>	8.</num>
+        <content eId="para_45__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States that have not yet done so to consider becoming contracting parties to the United Nations legal instruments on road safety and, beyond accession, applying, implementing and promoting their provisions or safety regulations; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_46" class="SingleTxt">
+        <num>	9.</num>
+        <content eId="para_46__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to make efforts to ensure the safety and protection of all road users through safer road infrastructure by taking into account the needs of motorized and non-motorized transport, and other vulnerable road users, especially on the highest-risk roads with high rates of crashes, through a combination of proper planning and safety assessment, including through identification of crash-prone areas, design, building and maintenance of roads, signal systems and other infrastructure, taking into consideration the geography of the country; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_47" class="SingleTxt">
+        <num>	10.</num>
+        <content eId="para_47__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States that have not already done so to consider adopting policies and measures to implement United Nations vehicle safety regulations or equivalent national standards to ensure that all new motor vehicles meet applicable minimum regulations for the protection of occupants and other road users, with seat belts, airbags and active safety systems fitted as standard equipment; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_48" class="SingleTxt">
+        <num>	11.</num>
+        <content eId="para_48__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States that have not yet done so to address road safety holistically, starting with the implementation or continuation of a road safety management system, including, as appropriate, interdepartmental cooperation and the development of national road safety plans; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_49" class="SingleTxt">
+        <num>	12.</num>
+        <content eId="para_49__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to consider including road safety as an integral element of planning of land use, street design, transport systems and governance, keeping in view the needs of vulnerable road users in urban and rural areas, inter alia, through the promotion of a safe system approach, as appropriate; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_50" class="SingleTxt">
+        <num>	13.</num>
+        <content eId="para_50__content">
+          <p xml:space="preserve">
+            <span class="italic">Also encourages</span> Member States to take measures to promote road safety knowledge and awareness among the population through education, training and publicity campaigns, especially among youth, and to propagate good road safety practices in the community; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_51" class="SingleTxt">
+        <num>	14.</num>
+        <content eId="para_51__content">
+          <p xml:space="preserve">
+            <span class="italic">Further encourages</span> Member States to strengthen institutional capacity through adequate training and capacity-building with regard to road safety laws and law enforcement, vehicle safety, infrastructure improvements, public transport and post-crash care, and to collect, analyse and disseminate disaggregated data for effective and evidence-based policymaking and their implementation; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_52" class="SingleTxt">
+        <num>	15.</num>
+        <content eId="para_52__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States to consider establishing mechanisms for the periodic assessment of vehicles in order to ensure that all new and in-use vehicles comply with basic vehicle safety regulations; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_53" class="SingleTxt">
+        <num>	16.</num>
+        <content eId="para_53__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to provide consumer information on vehicle safety through new car assessment programmes that are independent from vehicle manufacturers, and also encourages Member States to share such consumer information with, inter alia, the World Health Organization and other countries, in particular developing and least developed countries; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_54" class="SingleTxt">
+        <num>	17.</num>
+        <content eId="para_54__content">
+          <p xml:space="preserve">
+            <span class="italic">Also encourages</span> Member States to promote environmentally sound, safe, accessible and affordable modes of quality transport, particularly public and non‑motorized transport, as well as safe intermodal integration, as a means of improving road safety, social equity, public health and urban planning, including the resilience of cities and urban-rural linkages, and in this regard to take into account road safety and mobility as part of the effort to achieve sustainable development; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_55" class="SingleTxt">
+        <num>	18.</num>
+        <content eId="para_55__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States to encourage and incentivize the development, application and deployment of existing and future technologies and other innovations to improve accessibility and all aspects of road safety, from crash prevention to emergency response and trauma care, with special attention given to the safety needs of those road users who are the most vulnerable, including pedestrians, cyclists, motorcyclists and users of public transport; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_56" class="SingleTxt">
+        <num>	19.</num>
+        <content eId="para_56__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> businesses and industries of all sizes and sectors to contribute to the attainment of the road safety-related Sustainable Development Goals, including by applying safe system principles to their entire value chain, as appropriate and in line with national laws; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_57" class="SingleTxt">
+        <num>	20.</num>
+        <content eId="para_57__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to adopt, implement and enforce policies and measures to actively protect and promote pedestrian safety and cycling mobility, with a view to also improving road safety and broader health outcomes, particularly the prevention of injuries and non-communicable diseases; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_58" class="SingleTxt">
+        <num>	21.</num>
+        <content eId="para_58__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States to develop and implement appropriate social marketing campaigns to raise awareness and commemorate the World Day of Remembrance for Road Traffic Victims on the third Sunday of November every year; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_59" class="SingleTxt">
+        <num>	22.</num>
+        <content eId="para_59__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to strengthen pre-hospital care, including emergency health services and the immediate post-crash response, hospital and ambulatory guidelines for trauma care and rehabilitation services, and requests the World Health Organization to support Member States in these endeavours; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_60" class="SingleTxt">
+        <num>	23.</num>
+        <content eId="para_60__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States to share best practices and standards bilaterally, regionally and internationally, as appropriate, including through the World Health Organization, upon the request of Member States, on the causes of road traffic accidents and crashes and their prevention, which could be instrumental in addressing information gaps and shortcomings; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_61" class="SingleTxt">
+        <num>	24.</num>
+        <content eId="para_61__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> Member States to implement road safety policies for the protection of the most vulnerable among road users, in particular children, youth, older persons and persons with disabilities, taking into account the respective obligations of Member States under relevant United Nations legal instruments, as applicable; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_62" class="SingleTxt">
+        <num>	25.</num>
+        <content eId="para_62__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States and private sector entities that have not yet done so to establish an effective mechanism to reduce the number of crashes, road traffic fatalities and injuries caused by professional drivers, including drivers of commercial vehicles, owing to job-specific hazards, including fatigue; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_63" class="SingleTxt">
+        <num>	26.</num>
+        <content eId="para_63__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States to fully integrate a gender perspective into all policymaking and policy implementation related to mobility and road safety, especially regarding roads and surrounding areas and public transport; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_64" class="SingleTxt">
+        <num>	27.</num>
+        <content eId="para_64__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to develop and implement comprehensive legislation and policies on motorcycles, including on training, driver licensing, vehicle registration, working conditions and the use by motorcyclists of helmets and personal protection equipment, within the existing international standards, given the disproportionally high and increasing numbers of motorcycle deaths and injuries globally, particularly in developing countries; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_65" class="SingleTxt">
+        <num>	28.</num>
+        <content eId="para_65__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States to develop public policies to decrease work-related road traffic crashes, with the participation of employers and workers, in order to enforce international standards on safety and health at work, road safety and adequate road and vehicle conditions, giving particular attention to the issue of professional drivers, including the working conditions of commercial vehicle drivers; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_66" class="SingleTxt">
+        <num>	29.</num>
+        <content eId="para_66__content">
+          <p xml:space="preserve">
+            <span class="italic">Also invites</span> Member States to provide early rehabilitation and social reintegration, including in the world of work, to persons with injuries and disabilities caused by road traffic crashes and comprehensive support to victims of road traffic crashes and their families; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_67" class="SingleTxt">
+        <num>	30.</num>
+        <content eId="para_67__content">
+          <p xml:space="preserve">
+            <span class="italic">Further invites</span> Member States to continue to implement professional driver qualification frameworks, established on the basis of internationally recognized standards, including training, certification and licensing, restricted hours of driving and working conditions that focus on addressing the main causes of accidents or crashes involving heavy commercial vehicles, recognizing that distraction is a significant cause of accidents or crashes; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_68" class="SingleTxt">
+        <num>	31.</num>
+        <content eId="para_68__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States to support, as appropriate, the activities of the Special Envoy of the Secretary-General for Road Safety, and invites the Secretary-General to consider extending the function of the Special Envoy for Road Safety for the Second Decade of Action for Road Safety; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_69" class="SingleTxt">
+        <num>	32.</num>
+        <content eId="para_69__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the measures taken by the Secretary-General, the organizations of the United Nations system and the Department of Safety and Security of the Secretariat to enhance road safety through the implementation of the United Nations system road safety strategy so as to reduce road traffic crashes and casualties resulting from such incidents among United Nations personnel and the civilian population in host countries; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_70" class="SingleTxt">
+        <num>	33.</num>
+        <content eId="para_70__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the World Health Organization and the United Nations regional commissions, as well as other relevant United Nations agencies, to continue the activities aimed at supporting the implementation of the road safety-related targets in the 2030 Agenda, while ensuring system-wide coherence; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_71" class="SingleTxt">
+        <num>	34.</num>
+        <content eId="para_71__content">
+          <p xml:space="preserve">
+            <span class="italic">Reiterates its invitation</span> to Governments to take a leading role in implementing activities in support of the voluntary global performance targets for road safety risk factors and service delivery mechanisms, as well as road safety-related targets in the 2030 Agenda, while fostering multisectoral and multi‑stakeholder collaboration that includes the efforts of academia, the private sector, professional associations and civil society, including national Red Cross and Red Crescent societies, and encouraging further partnership activities and initiatives, such as the Global Network for Road Safety Legislators, supported by the World Health Organization, and the Global Road Safety Partnership, hosted by the International Federation of Red Cross and Red Crescent Societies, and those of other non-governmental organizations, as well as victims’ organizations, youth organizations and the media; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_72" class="SingleTxt">
+        <num>	35.</num>
+        <content eId="para_72__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the United Nations system, including the regional commissions, the World Health Organization and other relevant United Nations agencies, to support Member States, upon their request, in applying voluntary global performance targets for road safety when appropriate; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_73" class="SingleTxt">
+        <num>	36.</num>
+        <content eId="para_73__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the World Health Organization to continue to monitor, through its global status reports on road safety, progress towards the achievement of the goals of the Decade of Action, and to leverage as appropriate existing efforts, including those of regional road safety observatories, to harmonize and make road safety data available and comparable; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_74" class="SingleTxt">
+        <num>	37.</num>
+        <content eId="para_74__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> all relevant stakeholders, international organizations, development banks and funding agencies, foundations, professional associations and private sector companies to scale up funding to support the implementation of measures required to meet the voluntary global performance targets; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_75" class="SingleTxt">
+        <num>	38.</num>
+        <content eId="para_75__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States to further invest in road safety at all levels, including by allocating appropriate dedicated budgets for institutional and infrastructural improvements for road safety, as well as by supporting the United Nations Road Safety Fund and other mechanisms, such as the World Bank Global Road Safety Facility, as appropriate; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_76" class="SingleTxt">
+        <num>	39.</num>
+        <content eId="para_76__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> to convene a high-level meeting of the General Assembly, no later than the end of 2022, on improving global road safety with a view to addressing gaps and challenges as well as mobilizing political leadership and promoting multisectoral and multi-stakeholder collaboration in this regard, and further decides to define the scope and modalities of such a meeting no later than the seventy-fifth session of the General Assembly; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_77" class="SingleTxt">
+        <num>	40.</num>
+        <content eId="para_77__content">
+          <p xml:space="preserve">
+            <span class="italic">Also decides</span> to include in the provisional agenda of its seventy-sixth session the item entitled “Improving global road safety”, and requests the Secretary-General to report to the General Assembly at that session on the progress made in the attainment of the objectives of the Second Decade of Action. </p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <docDate date="2020-08-31" refersTo="#adoptionDate">31 August 2020</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

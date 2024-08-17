@@ -1,0 +1,215 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-04-13/74-272/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-04-13/74-272/"></FRBRuri>
+          <FRBRdate date="2020-04-13" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-04-13/74-272/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-04-13/74-272/eng@/"></FRBRuri>
+          <FRBRdate date="2020-04-14" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-04-13/74-272/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-04-13/74-272/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-10-04" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="1" href="http://metadata.un.org/sdg/1" showAs="sdg_1" dictionary="SDGO"></keyword>
+        <keyword value="poverty" href="http://eurovoc.europa.eu/2281" showAs="poverty" dictionary="EuroVoc"></keyword>
+        <keyword value="poverty" href="http://metadata.un.org/thesaurus/1005064" showAs="poverty" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="poverty_mitigation" href="http://metadata.un.org/thesaurus/1005065" showAs="poverty_mitigation" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="11" href="http://metadata.un.org/sdg/11" showAs="sdg_11" dictionary="SDGO"></keyword>
+        <keyword value="urban_area" href="http://eurovoc.europa.eu/4809" showAs="urban_area" dictionary="EuroVoc"></keyword>
+        <keyword value="cities" href="http://metadata.un.org/thesaurus/1000995" showAs="cities" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="human_settlements" href="http://metadata.un.org/thesaurus/1002986" showAs="human_settlements" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="13" href="http://metadata.un.org/sdg/13" showAs="sdg_13" dictionary="SDGO"></keyword>
+        <keyword value="climate_change" href="http://eurovoc.europa.eu/5482" showAs="climate_change" dictionary="EuroVoc"></keyword>
+        <keyword value="climate_change" href="http://metadata.un.org/thesaurus/1001030" showAs="climate_change" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2020-04-06" outcome="draftResolution" as="A/74/L.55" by="submitted by the President of the General Assembly" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="" />
+        <step date="2020-04-13" outcome="adopted" as="Adopted through silence procedure" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="noMainCommittee" href="#noMainCommittee" showAs="Without reference to a main committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">20-05573 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/272</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-04-14" class="rightSmall" refersTo="#dateOfIssuance">14 April 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 147</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Financing of the International Residual Mechanism for Criminal Tribunals</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 13 April 2020</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#noMainCommittee">[without reference to a Main Committee (<inline name="originating document">A/74/L.55</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/272.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Construction of a new facility for the International Residual Mechanism for Criminal Tribunals, Arusha branch</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Recalling" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">	Recalling</span> its resolutions <a href="https://undocs.org/en/A/RES/66/240">66/240</a> A of 24 December 2011, <a href="https://undocs.org/en/A/RES/66/240b">66/240 </a><a href="https://undocs.org/en/A/RES/66/240b">B</a> of 21 June 2012, <a href="https://undocs.org/en/A/RES/67/244b">67/244 </a><a href="https://undocs.org/en/A/RES/67/244b">B</a> of 12 April 2013, <a href="https://undocs.org/en/A/RES/68/257">68/257</a> of 27 December 2013, <a href="https://undocs.org/en/A/RES/68/267">68/267</a> of 9 April 2014, <a href="https://undocs.org/en/A/RES/69/276">69/276</a> of 2 April 2015, <a href="https://undocs.org/en/A/RES/70/258">70/258</a> of 1 April 2016, <a href="https://undocs.org/en/A/RES/71/282">71/282</a> of 6 April 2017, <a href="https://undocs.org/en/A/RES/72/270">72/270</a> of 4 April 2018 and <a href="https://undocs.org/en/A/RES/73/288">73/288</a> of 15 April 2019,</p>
+      </container>
+      <container name="Having considered" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Having considered</span> the report of the Secretary-General<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/662">A/74/662</a>.</p></authorialNote> and the related report of the Advisory Committee on Administrative and Budgetary Questions,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/707">A/74/707</a>.</p></authorialNote></p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_4" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_4__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of the report of the Secretary-General;<sup>1</sup></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_5__content">
+          <p xml:space="preserve">
+            <span class="italic">Endorses</span> the conclusions and recommendations contained in the report of the Advisory Committee on Administrative and Budgetary Questions,<sup>2</sup> subject to the provisions of the present resolution; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_6__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes with appreciation</span> the continued efforts of the Government of the United Republic of Tanzania in facilitating the construction project;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_7__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes</span> the progress made in the construction of the new premises, and requests the Secretary-General to submit a final report to the General Assembly during its seventy-sixth session;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_8__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> paragraphs 10 and 26 of the report of the Advisory Committee, urges the Secretary-General to intensify his efforts to ensure full implementation of the project, including the remaining remediation works on the heating, ventilation and air conditioning system and pending closeout activities, without further delay, within the revised timelines and the total budget of 8,787,733 United States dollars approved for the project, and requests him to report thereon in the context of his final report;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_9__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General, in the context of his final report, to include, inter alia, an analysis of updated and comprehensive information on lessons learned and best practices, including areas of contract and project management, as well as knowledge gained during the ongoing implementation of the remaining project activities for application, as appropriate, to other construction projects;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_10" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_10__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> paragraph 14 of the report of the Advisory Committee, and requests the Secretary-General to continue his efforts to pursue the recovery of the direct and indirect costs arising from errors and delays by contracting partners, namely the architect and the contractor, where economically feasible to do so, and to report thereon in the context of his final report;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_11" class="SingleTxt">
+        <num>	8.</num>
+        <content eId="para_11__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes with concern</span> the intention of the contractor to contest the deduction in the amount of approximately 230,000 dollars from the final payment, and in this regard encourages the Secretary-General to make every effort to bring this matter to a swift conclusion;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="SingleTxt">
+        <num>	9.</num>
+        <content eId="para_12__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> the Secretary-General to continue his efforts to include local knowledge and capacity in the implementation of the project.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <docDate date="2020-04-13" refersTo="#adoptionDate">13 April 2020</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

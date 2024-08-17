@@ -1,0 +1,685 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-27/74-246/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-27/74-246/"></FRBRuri>
+          <FRBRdate date="2019-12-27" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-27/74-246/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-27/74-246/eng@/"></FRBRuri>
+          <FRBRdate date="2020-01-15" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-27/74-246/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-27/74-246/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women&amp;#39;s_rights" href="http://eurovoc.europa.eu/585" showAs="women&amp;#39;s_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-10-31" outcome="draftResolution" as="A/C.3/74/L.29" by="Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia,  Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Monaco, Montenegro, Netherlands, North Macedonia, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, United Arab Emirates (on behalf the Organization of  Islamic Cooperation) and United Kingdom of Great Britain and Northern Ireland" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="Andorra, Argentina, Australia, Bosnia and Herzegovina, Canada, Haiti, Iceland, Marshall Islands, Mexico, New Zealand, Norway, Republic of Korea, San Marino, Switzerland and United States" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/399/Add.3" by="" refersTo="47" />
+        <step date="2019-12-27" outcome="adopted" as="A/74/PV.52" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedRecordedVote">
+            <count value="134" refersTo="inFavour">
+              <akn4un:voters>
+                <organization refersTo="memberState">AFGHANISTAN</organization>
+                <organization refersTo="memberState">ALBANIA</organization>
+                <organization refersTo="memberState">ALGERIA</organization>
+                <organization refersTo="memberState">ANDORRA</organization>
+                <organization refersTo="memberState">ANTIGUA AND BARBUDA</organization>
+                <organization refersTo="memberState">ARGENTINA</organization>
+                <organization refersTo="memberState">ARMENIA</organization>
+                <organization refersTo="memberState">AUSTRALIA</organization>
+                <organization refersTo="memberState">AUSTRIA</organization>
+                <organization refersTo="memberState">AZERBAIJAN</organization>
+                <organization refersTo="memberState">BAHAMAS</organization>
+                <organization refersTo="memberState">BAHRAIN</organization>
+                <organization refersTo="memberState">BANGLADESH</organization>
+                <organization refersTo="memberState">BARBADOS</organization>
+                <organization refersTo="memberState">BELGIUM</organization>
+                <organization refersTo="memberState">BELIZE</organization>
+                <organization refersTo="memberState">BENIN</organization>
+                <organization refersTo="memberState">BOLIVIA (PLURINATIONAL STATE OF)</organization>
+                <organization refersTo="memberState">BOSNIA AND HERZEGOVINA</organization>
+                <organization refersTo="memberState">BOTSWANA</organization>
+                <organization refersTo="memberState">BRAZIL</organization>
+                <organization refersTo="memberState">BRUNEI DARUSSALAM</organization>
+                <organization refersTo="memberState">BULGARIA</organization>
+                <organization refersTo="memberState">BURKINA FASO</organization>
+                <organization refersTo="memberState">CABO VERDE</organization>
+                <organization refersTo="memberState">CANADA</organization>
+                <organization refersTo="memberState">CHAD</organization>
+                <organization refersTo="memberState">CHILE</organization>
+                <organization refersTo="memberState">COLOMBIA</organization>
+                <organization refersTo="memberState">COSTA RICA</organization>
+                <organization refersTo="memberState">COTE D'IVOIRE</organization>
+                <organization refersTo="memberState">CROATIA</organization>
+                <organization refersTo="memberState">CYPRUS</organization>
+                <organization refersTo="memberState">CZECHIA</organization>
+                <organization refersTo="memberState">DENMARK</organization>
+                <organization refersTo="memberState">DJIBOUTI</organization>
+                <organization refersTo="memberState">DOMINICAN REPUBLIC</organization>
+                <organization refersTo="memberState">ECUADOR</organization>
+                <organization refersTo="memberState">EGYPT</organization>
+                <organization refersTo="memberState">EL SALVADOR</organization>
+                <organization refersTo="memberState">ESTONIA</organization>
+                <organization refersTo="memberState">ETHIOPIA</organization>
+                <organization refersTo="memberState">FINLAND</organization>
+                <organization refersTo="memberState">FRANCE</organization>
+                <organization refersTo="memberState">GABON</organization>
+                <organization refersTo="memberState">GAMBIA</organization>
+                <organization refersTo="memberState">GEORGIA</organization>
+                <organization refersTo="memberState">GERMANY</organization>
+                <organization refersTo="memberState">GHANA</organization>
+                <organization refersTo="memberState">GREECE</organization>
+                <organization refersTo="memberState">GUATEMALA</organization>
+                <organization refersTo="memberState">GUINEA</organization>
+                <organization refersTo="memberState">GUYANA</organization>
+                <organization refersTo="memberState">HAITI</organization>
+                <organization refersTo="memberState">HONDURAS</organization>
+                <organization refersTo="memberState">HUNGARY</organization>
+                <organization refersTo="memberState">ICELAND</organization>
+                <organization refersTo="memberState">INDONESIA</organization>
+                <organization refersTo="memberState">IRAN (ISLAMIC REPUBLIC OF)</organization>
+                <organization refersTo="memberState">IRAQ</organization>
+                <organization refersTo="memberState">IRELAND</organization>
+                <organization refersTo="memberState">ISRAEL</organization>
+                <organization refersTo="memberState">ITALY</organization>
+                <organization refersTo="memberState">JAMAICA</organization>
+                <organization refersTo="memberState">JORDAN</organization>
+                <organization refersTo="memberState">KAZAKHSTAN</organization>
+                <organization refersTo="memberState">KUWAIT</organization>
+                <organization refersTo="memberState">KYRGYZSTAN</organization>
+                <organization refersTo="memberState">LATVIA</organization>
+                <organization refersTo="memberState">LEBANON</organization>
+                <organization refersTo="memberState">LIBERIA</organization>
+                <organization refersTo="memberState">LIBYA</organization>
+                <organization refersTo="memberState">LIECHTENSTEIN</organization>
+                <organization refersTo="memberState">LITHUANIA</organization>
+                <organization refersTo="memberState">LUXEMBOURG</organization>
+                <organization refersTo="memberState">MADAGASCAR</organization>
+                <organization refersTo="memberState">MALAWI</organization>
+                <organization refersTo="memberState">MALAYSIA</organization>
+                <organization refersTo="memberState">MALDIVES</organization>
+                <organization refersTo="memberState">MALI</organization>
+                <organization refersTo="memberState">MALTA</organization>
+                <organization refersTo="memberState">MARSHALL ISLANDS</organization>
+                <organization refersTo="memberState">MAURITANIA</organization>
+                <organization refersTo="memberState">MAURITIUS</organization>
+                <organization refersTo="memberState">MEXICO</organization>
+                <organization refersTo="memberState">MICRONESIA (FEDERATED STATES OF)</organization>
+                <organization refersTo="memberState">MONACO</organization>
+                <organization refersTo="memberState">MONTENEGRO</organization>
+                <organization refersTo="memberState">MOROCCO</organization>
+                <organization refersTo="memberState">NETHERLANDS</organization>
+                <organization refersTo="memberState">NEW ZEALAND</organization>
+                <organization refersTo="memberState">NIGERIA</organization>
+                <organization refersTo="memberState">NORTH MACEDONIA</organization>
+                <organization refersTo="memberState">NORWAY</organization>
+                <organization refersTo="memberState">OMAN</organization>
+                <organization refersTo="memberState">PAKISTAN</organization>
+                <organization refersTo="memberState">PANAMA</organization>
+                <organization refersTo="memberState">PAPUA NEW GUINEA</organization>
+                <organization refersTo="memberState">PARAGUAY</organization>
+                <organization refersTo="memberState">PERU</organization>
+                <organization refersTo="memberState">POLAND</organization>
+                <organization refersTo="memberState">PORTUGAL</organization>
+                <organization refersTo="memberState">QATAR</organization>
+                <organization refersTo="memberState">REPUBLIC OF KOREA</organization>
+                <organization refersTo="memberState">REPUBLIC OF MOLDOVA</organization>
+                <organization refersTo="memberState">ROMANIA</organization>
+                <organization refersTo="memberState">RWANDA</organization>
+                <organization refersTo="memberState">SAINT KITTS AND NEVIS</organization>
+                <organization refersTo="memberState">SAINT LUCIA</organization>
+                <organization refersTo="memberState">SAN MARINO</organization>
+                <organization refersTo="memberState">SAUDI ARABIA</organization>
+                <organization refersTo="memberState">SENEGAL</organization>
+                <organization refersTo="memberState">SIERRA LEONE</organization>
+                <organization refersTo="memberState">SLOVAKIA</organization>
+                <organization refersTo="memberState">SLOVENIA</organization>
+                <organization refersTo="memberState">SOLOMON ISLANDS</organization>
+                <organization refersTo="memberState">SOUTH AFRICA</organization>
+                <organization refersTo="memberState">SPAIN</organization>
+                <organization refersTo="memberState">SUDAN</organization>
+                <organization refersTo="memberState">SURINAME</organization>
+                <organization refersTo="memberState">SWEDEN</organization>
+                <organization refersTo="memberState">SWITZERLAND</organization>
+                <organization refersTo="memberState">TAJIKISTAN</organization>
+                <organization refersTo="memberState">TOGO</organization>
+                <organization refersTo="memberState">TUNISIA</organization>
+                <organization refersTo="memberState">TURKEY</organization>
+                <organization refersTo="memberState">TUVALU</organization>
+                <organization refersTo="memberState">UGANDA</organization>
+                <organization refersTo="memberState">UNITED ARAB EMIRATES</organization>
+                <organization refersTo="memberState">UNITED KINGDOM</organization>
+                <organization refersTo="memberState">UNITED STATES</organization>
+                <organization refersTo="memberState">URUGUAY</organization>
+                <organization refersTo="memberState">VANUATU</organization>
+                <organization refersTo="memberState">YEMEN</organization>
+              </akn4un:voters>
+            </count>
+            <count value="9" refersTo="against">
+              <akn4un:voters>
+                <organization refersTo="memberState">BELARUS</organization>
+                <organization refersTo="memberState">CAMBODIA</organization>
+                <organization refersTo="memberState">CHINA</organization>
+                <organization refersTo="memberState">LAO PEOPLE'S DEMOCRATIC REPUBLIC</organization>
+                <organization refersTo="memberState">MYANMAR</organization>
+                <organization refersTo="memberState">PHILIPPINES</organization>
+                <organization refersTo="memberState">RUSSIAN FEDERATION</organization>
+                <organization refersTo="memberState">VIET NAM</organization>
+                <organization refersTo="memberState">ZIMBABWE</organization>
+              </akn4un:voters>
+            </count>
+            <count value="28" refersTo="abstaining">
+              <akn4un:voters>
+                <organization refersTo="memberState">BHUTAN</organization>
+                <organization refersTo="memberState">BURUNDI</organization>
+                <organization refersTo="memberState">CAMEROON</organization>
+                <organization refersTo="memberState">CENTRAL AFRICAN REPUBLIC</organization>
+                <organization refersTo="memberState">DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA</organization>
+                <organization refersTo="memberState">EQUATORIAL GUINEA</organization>
+                <organization refersTo="memberState">ERITREA</organization>
+                <organization refersTo="memberState">INDIA</organization>
+                <organization refersTo="memberState">JAPAN</organization>
+                <organization refersTo="memberState">KENYA</organization>
+                <organization refersTo="memberState">LESOTHO</organization>
+                <organization refersTo="memberState">MONGOLIA</organization>
+                <organization refersTo="memberState">MOZAMBIQUE</organization>
+                <organization refersTo="memberState">NAMIBIA</organization>
+                <organization refersTo="memberState">NAURU</organization>
+                <organization refersTo="memberState">NEPAL</organization>
+                <organization refersTo="memberState">PALAU</organization>
+                <organization refersTo="memberState">SAINT VINCENT AND THE GRENADINES</organization>
+                <organization refersTo="memberState">SERBIA</organization>
+                <organization refersTo="memberState">SINGAPORE</organization>
+                <organization refersTo="memberState">SRI LANKA</organization>
+                <organization refersTo="memberState">THAILAND</organization>
+                <organization refersTo="memberState">TIMOR-LESTE</organization>
+                <organization refersTo="memberState">TONGA</organization>
+                <organization refersTo="memberState">TRINIDAD AND TOBAGO</organization>
+                <organization refersTo="memberState">UNITED REPUBLIC OF TANZANIA</organization>
+                <organization refersTo="memberState">VENEZUELA (BOLIVARIAN REPUBLIC OF)</organization>
+                <organization refersTo="memberState">ZAMBIA</organization>
+              </akn4un:voters>
+            </count>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="thirdCommittee" href="#thirdCommittee" showAs="Third Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-22672 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/246</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-01-15" class="rightSmall" refersTo="#dateOfIssuance">15 January 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 70 (c)</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Promotion and protection of human rights: human rights situations and reports of special rapporteurs and representatives</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 27 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#thirdCommittee">[on the report of the Third Committee (<inline name="originating document">A/74/399/Add.3</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/246.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Situation of human rights of Rohingya Muslims and other minorities in Myanmar</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Guided" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Guided</span> by the Charter of the United Nations and the Universal Declaration of Human Rights,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org//en/A/RES/217 (III)">217 A (III)</a>.</p></authorialNote> the International Covenants on Human Rights<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org//en/A/RES/2200 (XXI)">2200 A (XXI)</a>.</p></authorialNote> and other relevant international law and human rights law instruments, </p>
+      </container>
+      <container name="Reaffirming" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> its previous resolutions on the situation of human rights in Myanmar, the most recent of which being resolutions <a href="https://undocs.org/en/A/RES/73/264">73/264</a> of 22 December 2018 and <a href="https://undocs.org/en/A/RES/72/248">72/248</a> of 24 December 2017, and recalling the resolutions and decisions of the Human Rights Council, the most recent of which being resolutions <a href="https://undocs.org/en/A/HRC/RES/42/3">42/3</a> of 26 September 2019,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"><span class="italic">Official Records of the General Assembly, Seventy-fourth Session, Supplement No. 53A</span> (<a href="https://undocs.org/en/A/74/53/Add.1">A/74/53/Add.1</a>), chap. II.</p></authorialNote><a href="https://undocs.org/en/A/HRC/RES/39/2">39/2</a> of 27 September 2018,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">	 	Ibid., <span class="italic">Seventy-third Session, Supplement No. 53A</span> (<a href="https://undocs.org/en/A/73/53/Add.1">A/73/53/Add.1</a>), chap. II.</p></authorialNote><a href="https://undocs.org/en/A/HRC/RES/37/32">37/32</a> of 23 March 2018<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	 	Ibid., <span class="italic">Supplement No. 53</span> (<a href="https://undocs.org/en/A/73/53">A/73/53</a>), chap. IV, sect. A.</p></authorialNote> and <a href="https://undocs.org/en/A/HRC/RES/S-27/1">S</a><a href="https://undocs.org/en/A/HRC/RES/S-27/1">‑27/1</a> of 5 December 2017,<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">	 	Ibid., chap. III.</p></authorialNote> and the presidential statement issued by the Security Council on 6 November 2017,<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"><a href="https://undocs.org/en/S/PRST/2017/22">S/PRST/2017/22</a>.</p></authorialNote> as well as Security Council resolution <a href="https://undocs.org/en/S/RES/2467 (2019)">2467 (2019)</a> of 23 April 2019,</p>
+      </container>
+      <container name="Welcoming" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the work and the reports of the Special Rapporteur on the situation of human rights in Myanmar, while deeply regretting the decision of the Government of Myanmar to discontinue cooperation with the Special Rapporteur and to deny her access to the country since January 2018, </p>
+      </container>
+      <container name="Welcoming also" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming also</span> the work of the Special Envoy of the Secretary-General on Myanmar, and encouraging her further engagement and dialogue with the Government of Myanmar and other relevant stakeholders and affected populations, </p>
+      </container>
+      <container name="Welcoming further" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming further</span> the first report to the General Assembly of the ongoing independent mechanism established by the Human Rights Council in its resolution <a href="https://undocs.org/en/A/HRC/RES/39/2">39/2</a>,<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">	 	See <a href="https://undocs.org/en/A/74/278">A/74/278</a>.</p></authorialNote> and its operationalization, as well as the appointment of its head,</p>
+      </container>
+      <container name="Welcoming" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the work of the independent international fact-finding mission on Myanmar, including its final report<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve"><a href="https://undocs.org/en/A/HRC/42/50">A/HRC/42/50</a>.</p></authorialNote> and all its other reports, including the reports on the economic interests of the Myanmar military and on sexual and gender-based violence in Myanmar and the gendered impact of its ethnic conflicts, and furthermore deeply regretting that the Government of Myanmar did not cooperate with the fact-finding mission,</p>
+      </container>
+      <container name="Recognizing" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the complementary and mutually reinforcing work of the various United Nations mandate holders and mechanisms working on Myanmar to improve the situation of human rights in Myanmar, </p>
+      </container>
+      <container name="Noting" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the importance of the role of regional organizations in efforts to achieve pacific settlement of local disputes, as stipulated in Chapter VIII of the Charter, while noting that such efforts do not preclude action under Chapter VI of the Charter, </p>
+      </container>
+      <container name="Acknowledging" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging</span> the efforts of the Organization of Islamic Cooperation, alongside relevant international efforts, aimed at bringing peace and stability to Rakhine State, including through the appointment by the Organization of a new special envoy to Myanmar, </p>
+      </container>
+      <container name="Welcoming" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the report of the Secretary-General,<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/311">A/74/311</a>.</p></authorialNote></p>
+      </container>
+      <container name="Condemning" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Condemning</span> all violations and abuses of human rights in Myanmar, including against Rohingya Muslims and other minorities in Rakhine, Kachin and Shan States, and expressing deep concern at the reports of ongoing human rights violations, as also noted by the United Nations High Commissioner for Human Rights in her oral update on 10 July 2019, as well as at the ongoing non-cooperation of the Government of Myanmar and the denial of access to United Nations mechanisms, including the Special Rapporteur on the situation of human rights in Myanmar and the Independent Mechanism, </p>
+      </container>
+      <container name="Continuing to underline" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Continuing to underline</span> the need for the security and armed forces of Myanmar to cease all actions that run counter to the protection of all persons within the country, including those belonging to the Rohingya community, by respecting international law, including international human rights law and international humanitarian law, and ending the violence, including sexual violence, and calling for urgent steps to ensure justice in respect of all human rights violations and violations of international humanitarian law so that those displaced by violence are able to voluntarily return in safety and dignity to their places of origin or to a place of their choice in a sustainable manner,</p>
+      </container>
+      <container name="Calling for" eId="container_14">
+        <p xml:space="preserve">
+          <span class="italic">Calling for</span> an immediate cessation of fighting and hostilities, of targeting of civilians and of all violations and abuses of international human rights law and international humanitarian law in northern Myanmar, and recognizing the need for continued de-escalation and an enduring ceasefire, best achieved by dialogue between all parties, as a necessary means of improving the human rights situation, </p>
+      </container>
+      <container name="Reiterating its grave concern" eId="container_15">
+        <p xml:space="preserve">
+          <span class="italic">Reiterating its grave concern</span> that, in spite of the fact that Rohingya Muslims lived in Myanmar for generations prior to the independence of Myanmar, they were made stateless by the enactment of the 1982 Citizenship Law and were eventually disenfranchised, in 2015, from the electoral process, </p>
+      </container>
+      <container name="Reaffirming" eId="container_16">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> that the denial of citizenship status and related rights to Rohingya Muslims and others, including voting rights, is a serious human rights concern, </p>
+      </container>
+      <container name="Reiterating its deep distress" eId="container_17">
+        <p xml:space="preserve">
+          <span class="italic">Reiterating its deep distress</span> at reports that unarmed individuals in Rakhine State have been and continue to be subjected to the excessive use of force and violations of human rights and international humanitarian law by the military and security and armed forces, including extrajudicial, summary or arbitrary killings, systematic rape and other forms of sexual and gender-based violence, arbitrary detention, enforced disappearance and government seizure of Rohingya lands from which Rohingya Muslims were evicted and their homes destroyed, and remaining concerned by the previous large-scale destruction of homes and systematic evictions in northern Rakhine State, including the use of arson and violence, as well as the unlawful use of force by non-State actors,</p>
+      </container>
+      <container name="Recalling" eId="container_18">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the responsibility of States to comply with their relevant obligations, to prosecute those responsible for violations of international law, including international humanitarian law, international human rights law, international criminal law and international refugee law, as well as abuses of human rights, and to provide an effective remedy to any person whose rights have been violated, with a view to ending impunity, </p>
+      </container>
+      <container name="Reiterating the urgent need" eId="container_19">
+        <p xml:space="preserve">
+          <span class="italic">Reiterating the urgent need</span> to ensure that all those responsible for crimes related to violations and abuses of international law throughout Myanmar, including international human rights law, international humanitarian law and international criminal law, are held to account through credible and independent national, regional or international justice mechanisms, while recalling the authority of the Security Council in this regard, </p>
+      </container>
+      <container name="Recalling" eId="container_20">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the establishment of an independent commission of inquiry by the Government of Myanmar on 30 July 2018 with a view to ensuring accountability for the human rights violations and abuses committed in Rakhine State, reiterating that the commission should conduct its work with independence, impartiality, transparency and objectivity, and encouraging the commission to issue an initial report and to cooperate with all relevant United Nations mandate holders, </p>
+      </container>
+      <container name="Recalling also" eId="container_21">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> some steps taken by the Government of Myanmar to create the conditions necessary for refugees and other forcibly displaced persons to return to their places of origin or to a place of their choice voluntarily, in safety and dignity, but regretting, however, that the situation has not improved in Rakhine State to create the conditions necessary for refugees and other forcibly displaced persons to return to their places of origin voluntarily, safely and with dignity,</p>
+      </container>
+      <container name="Expressing concern" eId="container_22">
+        <p xml:space="preserve">
+          <span class="italic">Expressing concern</span> that in northern Rakhine State, the implementation of policies under the guise of economic development and reconstruction by the Government of Myanmar and the heavy militarization of the area have resulted in the alteration of the demographic structure, which further prevents the members of the displaced Rohingya Muslim population from returning to Rakhine State,</p>
+      </container>
+      <container name="Re-emphasizing" eId="container_23">
+        <p xml:space="preserve">
+          <span class="italic">Re-emphasizing</span> the right of all refugees and the importance of internally displaced persons being able to return home in safety and dignity and in a voluntary and sustainable manner, </p>
+      </container>
+      <container name="Noting" eId="container_24">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the extension for one year of the memorandum of understanding between Myanmar and the United Nations Development Programme and the Office of the United Nations High Commissioner for Refugees on assistance in the repatriation process of displaced persons from Rakhine State, and calling upon Myanmar to grant United Nations agencies unfettered access to northern Rakhine State so that they can carry out this assistance,</p>
+      </container>
+      <container name="Expressing deep concern" eId="container_25">
+        <p xml:space="preserve">
+          <span class="italic">Expressing deep concern</span> at the continued armed conflict and violence and abuses in a number of areas in Myanmar affecting tens of thousands of people, most notably in Rakhine State, causing their forced displacement, and recognizing the need for continued de-escalation and an enduring ceasefire as a necessary means of improving the human rights situation, </p>
+      </container>
+      <container name="Alarmed" eId="container_26">
+        <p xml:space="preserve">
+          <span class="italic">Alarmed</span> by the continued influx to Bangladesh over the last four decades of 1.1 million Rohingya Muslims, including the 744,000 who arrived since 25 August 2017 in the aftermath of atrocities committed by the security and armed forces of Myanmar, </p>
+      </container>
+      <container name="Expressing deep concern" eId="container_27">
+        <p xml:space="preserve">
+          <span class="italic">Expressing deep concern</span> over the virulent and rapid spread of false news, hate speech and inflammatory rhetoric, in particular through social media, tolerated by the authorities of Myanmar, </p>
+      </container>
+      <container name="Noting" eId="container_28">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the steps taken by the Government of Myanmar towards establishing a national strategy for the sustainable closure of camps for internally displaced persons in Myanmar, </p>
+      </container>
+      <container name="Alarmed" eId="container_29">
+        <p xml:space="preserve">
+          <span class="italic">Alarmed</span> by the findings of the independent international fact-finding mission on Myanmar of evidence of gross human rights violations and abuses suffered by Rohingya Muslims and other minorities, perpetrated by the security and armed forces of Myanmar, which, according to the fact-finding mission, undoubtedly amount to the gravest crimes under international law,</p>
+      </container>
+      <container name="Underlining" eId="container_30">
+        <p xml:space="preserve">
+          <span class="italic">Underlining</span> the urgency of the call by the Secretary-General for increased efforts to implement the recommendations of the Advisory Commission on Rakhine State, to address the root causes of the crisis, including those on access to citizenship for the Rohingya, freedom of movement, the elimination of systematic segregation and all forms of discrimination, and inclusive and equal access to health services and education, and birth registration, in full consultation with all ethnic and minority groups and persons in vulnerable situations, including on matters of citizenship for Rohingya Muslims,</p>
+      </container>
+      <container name="Welcoming" eId="container_31">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the commitment of the Secretary-General to implementing the recommendations made by the independent inquiry into the involvement of the United Nations in Myanmar from 2010 to 2018,</p>
+      </container>
+      <container name="Reiterating its urgent call upon" eId="container_32">
+        <p xml:space="preserve">
+          <span class="italic">Reiterating its urgent call upon</span> the Government of Myanmar to sustain the democratic transition of Myanmar by bringing all national institutions, including the military, under the democratically elected civilian Government,</p>
+      </container>
+      <container name="Welcoming" eId="container_33">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the involvement of the Association of Southeast Asian Nations in addressing the situation in Rakhine State, including through carrying out humanitarian assessments in northern Rakhine State through its Coordinating Centre for Humanitarian Assistance on Disaster Management, and recognizing the need for close engagement with the Rohingya refugee community, while encouraging close cooperation with all relevant United Nations agencies and international partners and to address the root causes of the conflict, so that affected communities can rebuild their lives there, </p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_34" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_34__content">
+          <p xml:space="preserve">
+            <span class="italic">Expresses grave concern</span> at continuing reports of serious human rights violations and abuses as well as violations of international humanitarian law in Myanmar against Rohingya Muslims and other minorities in Kachin, Rakhine and Shan States, including those involving arbitrary arrests, deaths in detention, torture and other cruel, inhuman or degrading treatment or punishment, forced labour, deprivation of economic and social rights, the forced displacement of more than a million Rohingya Muslims to Bangladesh, rape, sexual slavery and other forms of sexual and gender-based violence against women and children, as well as restrictions on exercising the rights to freedom of religion or belief, expression and peaceful assembly;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_35" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_35__content">
+          <p xml:space="preserve">
+            <span class="italic">Strongly condemns</span> all violations and abuses of human rights in Myanmar, and calls upon Myanmar, in particular its security and armed forces, to end immediately all violence and all violations of international law in Myanmar, to ensure the protection of the human rights of all persons in Myanmar, including of Rohingya Muslims and persons belonging to other minorities, and to take all measures necessary to provide justice to victims, to ensure full accountability and to end impunity for all violations and abuses of human rights law and violations of international humanitarian law, starting with a full, transparent and independent investigation into reports of all these violations;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_36" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_36__content">
+          <p xml:space="preserve">
+            <span class="italic">Emphasizes</span> the importance of conducting international, independent, fair and transparent investigations into the gross human rights violations in Myanmar, including sexual and gender-based violence against women and children, and of holding accountable all those responsible for brutal acts and crimes against all persons, including the Rohingya Muslims, in order to deliver justice to victims using all legal instruments and domestic, regional and international judicial mechanisms;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_37" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_37__content">
+          <p xml:space="preserve">
+            <span class="italic">Expresses grave concern</span> about the increasing restrictions on humanitarian access, in particular in Rakhine State, and urges the Government of Myanmar to cooperate fully with and to grant full, unrestricted and unmonitored access to all United Nations mandate holders and human rights mechanisms, including the Special Rapporteur on the situation of human rights in Myanmar, the Independent Mechanism and relevant United Nations agencies, and international and regional human rights bodies to independently monitor the situation of human rights, and to ensure that individuals can cooperate without hindrance with these mechanisms and without fear of reprisal, intimidation or attack, and expresses deep concern that international access to affected areas of northern Rakhine State remains severely restricted for the international community, including for United Nations agencies, humanitarian actors and international media; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_38" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_38__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> the United Nations to ensure that the Independent Mechanism is afforded the flexibility that it needs in terms of staffing, location and operational freedom so it can deliver as effectively as possible on its mandate; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_39" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_39__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> the Independent Mechanism to swiftly advance its work and to ensure the effective use of evidence of the most serious international crimes and violations of international law collected by the independent international fact-finding mission on Myanmar;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_40" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_40__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> the independent commission of inquiry of Myanmar to deliver tangible results on its work carried out so far with independence, impartiality, transparency and objectivity in order to promote accountability, and to deliver a credible report that acknowledges the human rights violations and mass atrocities committed in Rakhine State and that can lay the groundwork for confidence-building, and encourages the commission to cooperate with all relevant United Nations mandate holders; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_41" class="SingleTxt">
+        <num>	8.</num>
+        <content eId="para_41__content">
+          <p xml:space="preserve">
+            <span class="italic">Reiterates</span> the urgent call upon the Government of Myanmar: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_42" class="SingleTxt">
+        <content eId="para_42__content">
+          <p xml:space="preserve">	(a)	To manifest clear political will supported by concrete actions for the safe, dignified, voluntary and sustainable return and reintegration of Rohingya Muslims in Myanmar; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_43" class="SingleTxt">
+        <content eId="para_43__content">
+          <p xml:space="preserve">	(b)	To take the necessary measures to address the spread of discrimination and prejudice and to combat the incitement of hatred against Rohingya Muslims and persons belonging to other minorities, and to publicly condemn such acts and combat hate speech, while fully respecting international human rights law, as well as to promote interfaith dialogue in cooperation with the international community and encourage political and religious leaders in the country to work towards reconciliation among communities and national unity through dialogue; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_44" class="SingleTxt">
+        <content eId="para_44__content">
+          <p xml:space="preserve">	(c)	To expedite efforts to eliminate statelessness and the systematic and institutionalized discrimination against members of ethnic and religious minorities, in particular relating to Rohingya Muslims, by, inter alia, reviewing the 1982 Citizenship Law, which has led to deprivation of human rights, by ensuring equal access to full citizenship through a transparent, voluntary and accessible procedure and to all civil and political rights, by allowing for self-identification, by amending or repealing all discriminatory legislation and policies, including discriminatory provisions of the set of “protection of race and religion laws” enacted in 2015 covering religious conversion, interfaith marriage, monogamy and population control, and by lifting all local orders restricting rights to freedom of movement and access to civil registration, health and education services and livelihoods; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_45" class="SingleTxt">
+        <content eId="para_45__content">
+          <p xml:space="preserve">	(d)	To dismantle the camps for internally displaced persons in Rakhine State with a clear timeline and without further delay, ensuring that the return and relocation of internally displaced persons is carried out in accordance with international standards and best practices, in cooperation with the United Nations and the international community, including as set forth in the Guiding Principles on Internal Displacement;<authorialNote marker="11" placement="bottom" eId="authorialNote_11"><p xml:space="preserve"><a href="https://undocs.org/en/E/CN.4/1998/53/Add.2">E/CN.4/1998/53/Add.2</a>, annex.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_46" class="SingleTxt">
+        <content eId="para_46__content">
+          <p xml:space="preserve">	(e)	To ensure full protection of the human rights and fundamental freedoms of all persons in Myanmar, including Rohingya Muslims and persons belonging to other minorities, in an equal, non-discriminatory and dignified manner, in order to prevent further instability and insecurity, alleviate suffering, address the root causes of the crisis and forge a viable, lasting and durable solution;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_47" class="SingleTxt">
+        <content eId="para_47__content">
+          <p xml:space="preserve">	(f)	To build trust among Rohingya Muslims in camps in Bangladesh, through confidence-building measures, including direct communication between the Rohingya representatives and the Myanmar authorities;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_48" class="SingleTxt">
+        <content eId="para_48__content">
+          <p xml:space="preserve">	(g)	To create the conditions necessary for the safe, voluntary, dignified and sustainable return of all refugees, including Rohingya Muslim refugees, particularly in view of the fact that Rohingya Muslims refused to return to Myanmar on two prior occasions that had been bilaterally set up between Bangladesh and Myanmar for repatriation to commence, owing to the failure of the Government of Myanmar to create such conditions in Rakhine State; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_49" class="SingleTxt">
+        <content eId="para_49__content">
+          <p xml:space="preserve">	(h)	To ensure the conduct of credible, inclusive and transparent general elections in 2020;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_50" class="SingleTxt">
+        <content eId="para_50__content">
+          <p xml:space="preserve">	(i)	To fulfil its human rights obligations and commitments to protect the right to freedom of expression, including online, and the rights to freedom of association and peaceful assembly, to create and maintain a safe and enabling environment for civil society and independent media;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_51" class="SingleTxt">
+        <content eId="para_51__content">
+          <p xml:space="preserve">	(j)	To fully implement all recommendations of the Advisory Commission on Rakhine State to address the root causes of the crisis;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_52" class="SingleTxt">
+        <num>	9.</num>
+        <content eId="para_52__content">
+          <p xml:space="preserve">
+            <span class="italic">Underscores</span> the importance of providing protection and assistance, including non-discriminatory access to services such as medical and psychosocial care, specifically tailored to women and girls, especially those who are victims of sexual and gender-based violence and human trafficking;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_53" class="SingleTxt">
+        <num>	10.</num>
+        <content eId="para_53__content">
+          <p xml:space="preserve">
+            <span class="italic">Reiterates its deep concern</span> at the continued plight of Rohingya Muslim refugees and forcibly displaced persons living in Bangladesh and in other countries, and appreciates the commitment by the Government of Bangladesh to provide temporary shelter, humanitarian assistance and protection to them;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_54" class="SingleTxt">
+        <num>	11.</num>
+        <content eId="para_54__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes</span> the establishment of the Inter-Ministerial Committee for the Prevention of the Six Grave Violations during Armed Conflict on 7 January 2019 by the Government of Myanmar, and of the agreement by Parliament to the ratification of the Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict,<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vol. 2173, No. 27531.</p></authorialNote> invites the Government to continue the implementation of the action plan to end and prevent the recruitment and use of children by government forces, and calls upon the Government to engage with the United Nations in developing, adopting and implementing without undue delay comprehensive action plans addressing killing, maiming, rape and other sexual violence for which the Tatmadaw, including the integrated border forces, are listed in the annual report of the Secretary General; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_55" class="SingleTxt">
+        <num>	12.</num>
+        <content eId="para_55__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the recent extension for one year of the memorandum of understanding between the Government of Myanmar, the United Nations Development Programme and the Office of the United Nations High Commissioner for Refugees to associate them to the implementation of bilateral arrangements with Bangladesh on the return of displaced persons from Rakhine State, and emphasizes the need for the Government of Myanmar to continue to cooperate fully with the Government of Bangladesh and with the United Nations, in particular the Office of the United Nations High Commissioner for Refugees, and in consultation with the populations concerned to enable the safe, voluntary, dignified, sustainable and well-informed return of all refugees and forcibly displaced persons and internally displaced persons to their places of origin in Myanmar, and to give returnees freedom of movement and unimpeded access to livelihoods, social services, including health services, education and shelter, and to compensate them for all losses; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_56" class="SingleTxt">
+        <num>	13.</num>
+        <content eId="para_56__content">
+          <p xml:space="preserve">
+            <span class="italic">Expresses grave concern</span> at the potential retraumatization of survivors of human rights violations and abuses, particularly child survivors and sexual violence survivors, and calls upon all actors engaging in documentation to follow the “do-no-harm” principle for evidence-gathering in order to respect the dignity of survivors and to avoid retraumatization;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_57" class="SingleTxt">
+        <num>	14.</num>
+        <content eId="para_57__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Myanmar to continue to work with Bangladesh, in line with the bilateral instruments on repatriation signed by Bangladesh and Myanmar, in order to expedite the creation of a conducive environment for the voluntary, safe, dignified and sustainable return of the forcibly displaced Rohingya in Bangladesh, with the full support and meaningful involvement of the international community, including the United Nations and its funds, programmes and agencies, and stresses the importance of meaningfully engaging with civil society; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_58" class="SingleTxt">
+        <num>	15.</num>
+        <content eId="para_58__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> the international community to (a) assist Bangladesh in providing humanitarian assistance to Rohingya refugees and forcibly displaced persons until such time as they are voluntarily repatriated to Myanmar in safety and dignity; and (b) assist Myanmar in the provision of humanitarian assistance to affected persons of all communities who have been internally displaced, including those in camps for internally displaced persons within Rakhine State;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_59" class="SingleTxt">
+        <num>	16.</num>
+        <content eId="para_59__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> the international community to support the 2019 joint response plan for the Rohingya humanitarian crisis to ensure adequate resources for addressing the humanitarian crisis; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_60" class="SingleTxt">
+        <num>	17.</num>
+        <content eId="para_60__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes with appreciation</span> the assistance and support of the international community, including regional organizations, in particular the Association of Southeast Asian Nations, and the countries neighbouring Myanmar, and encourages support for the Government of Myanmar in the fulfilment of its international human rights obligations and commitments, the implementation of its democratic transition process, inclusive socioeconomic development and sustainable peace, as well as its national reconciliation process involving all relevant stakeholders;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_61" class="SingleTxt">
+        <num>	18.</num>
+        <content eId="para_61__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_62" class="SingleTxt">
+        <content eId="para_62__content">
+          <p xml:space="preserve">	(a)	To continue to provide his good offices and to pursue his discussions relating to Myanmar, involving all relevant stakeholders, and to offer assistance to the Government of Myanmar;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_63" class="SingleTxt">
+        <content eId="para_63__content">
+          <p xml:space="preserve">	(b)	To extend the appointment of the Special Envoy on Myanmar and submit the report of the Special Envoy covering all relevant issues addressed in the present resolution to the General Assembly at its seventy-fifth session;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_64" class="SingleTxt">
+        <content eId="para_64__content">
+          <p xml:space="preserve">	(c)	To provide all assistance necessary to enable the Special Envoy on Myanmar to effectively discharge her mandate and to report to Member States every six months, or as warranted by the situation on the ground; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_65" class="SingleTxt">
+        <content eId="para_65__content">
+          <p xml:space="preserve">	(d)	To identify ways in which the existing mandates can more effectively deliver in their respective areas of responsibility concerning Myanmar and can complement each other’s work through enhanced coordination; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_66" class="SingleTxt">
+        <content eId="para_66__content">
+          <p xml:space="preserve">	(e)	To call the continued attention of the Security Council to the situation in Myanmar with concrete recommendations for action towards resolving the humanitarian crisis, promoting the safe, dignified, voluntary and sustainable return of Rohingya refugees and forcibly displaced persons and ensuring accountability for those responsible for mass atrocities and human rights violations and abuses; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_67" class="SingleTxt">
+        <content eId="para_67__content">
+          <p xml:space="preserve">	(f)	To fully implement the recommendations contained in the report of the independent inquiry into the involvement of the United Nations in Myanmar from 2010 to 2018;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_68" class="SingleTxt">
+        <num>	19.</num>
+        <content eId="para_68__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> that the Special Envoy continue to participate by way of interactive dialogue in the seventy-fifth session of the General Assembly; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_69" class="SingleTxt">
+        <num>	20.</num>
+        <content eId="para_69__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> to remain seized of the matter, inter alia, on the basis of the reports of the Secretary-General, the independent international fact-finding mission on Myanmar, the Independent Mechanism, the Special Rapporteur on the situation of human rights in Myanmar and the Special Envoy of the Secretary-General on Myanmar.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="52nd">52nd (resumed) plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-27" refersTo="#adoptionDate">27 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

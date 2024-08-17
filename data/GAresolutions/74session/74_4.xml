@@ -1,0 +1,439 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-10-15/74-4/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-10-15/74-4/"></FRBRuri>
+          <FRBRdate date="2019-10-15" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-10-15/74-4/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-10-15/74-4/eng@/"></FRBRuri>
+          <FRBRdate date="2019-10-21" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-10-15/74-4/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-10-15/74-4/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-22" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+        <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-10-02" outcome="draftResolution" as="A/74/L.2" by="submitted by the President of the General Assembly" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="" />
+        <step date="2019-10-15" outcome="adopted" as="A/74/PV.15" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="noMainCommittee" href="#noMainCommittee" showAs="Without reference to a main committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-17862 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/4</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2019-10-21" class="rightSmall" refersTo="#dateOfIssuance">21 October 2019</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 19 (a)</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Sustainable development: implementation of Agenda 21, the Programme for the Further Implementation of Agenda 21 and the outcomes of the World Summit on Sustainable Development and of the United Nations Conference on Sustainable Development</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 15 October 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#noMainCommittee">[without reference to a Main Committee (<inline name="originating document">A/74/L.2</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/4.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Political declaration of the high-level political forum on sustainable development convened under the auspices of the General Assembly</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>
+        </p>
+      </formula>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_2" class="SingleTxt">
+        <content eId="para_2__content">
+          <p xml:space="preserve">
+            <span class="italic">Endorses</span> the political declaration adopted by the high-level political forum on sustainable development convened under the auspices of the General Assembly, which is contained in the annex to the present resolution. </p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="15th">15th plenary meeting</inline>
+        <eol />
+        <docDate date="2019-10-15" refersTo="#adoptionDate">15 October 2019</docDate>
+      </p>
+    </conclusions>
+   <attachments>
+    <attachment>
+      <doc name="annex">
+        <meta>
+          <identification source="#DGACM">
+            <FRBRWork>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2019-10-15/74-4/!main/annex"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2019-10-15/74-4/"></FRBRuri>
+              <FRBRdate date="2019-10-15" name="adoption"></FRBRdate>
+              <FRBRauthor href="ga" as="author"></FRBRauthor>
+              <FRBRcountry value="un"></FRBRcountry>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2019-10-15/74-4/eng@!main/annex"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2019-10-15/74-4/eng@/"></FRBRuri>
+              <FRBRdate date="2019-10-21" name="publication"></FRBRdate>
+              <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+              <FRBRlanguage language="eng"></FRBRlanguage>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2019-10-15/74-4/eng@/!main/annex.xml"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2019-10-15/74-4/eng@.xml"></FRBRuri>
+              <FRBRdate date="2020-07-22" name="markup"></FRBRdate>
+              <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <mainBody>
+        <paragraph eId="para_5" class="HCh">
+          <content eId="para_5__content">
+            <p xml:space="preserve">
+              <docType>Annex</docType>
+              <docTitle>Gearing up for a decade of action and delivery for sustainable development: political declaration of the Sustainable Development Goals Summit</docTitle>
+            </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_6" class="H1">
+          <num>I</num>		
+          <heading>Our commitment</heading>
+        </paragraph>
+        <paragraph eId="para_7" class="SingleTxt">
+          <num>1.</num>
+          <content eId="para_7__content">
+            <p xml:space="preserve">	We, the Heads of State and Government and high representatives, have met at United Nations Headquarters in New York on 24 and 25 September 2019 at the Sustainable Development Goals Summit,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">	 	High-level political forum on sustainable development convened under the auspices of the General Assembly (Sustainable Development Goals Summit).</p></authorialNote> to review progress on the 2030 Agenda for Sustainable Development.<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a>.</p></authorialNote></p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_8" class="SingleTxt">
+          <num>2.</num>
+          <content eId="para_8__content">
+            <p xml:space="preserve">	We stand firm in our determination to implement the 2030 Agenda as a plan of action for people, planet, prosperity, peace and partnership – a plan to free humanity from the tyranny of poverty and heal and secure our planet for future generations.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_9" class="SingleTxt">
+          <num>3.</num>
+          <content eId="para_9__content">
+            <p xml:space="preserve">	We emphasize that eradicating poverty in all its forms and dimensions, including extreme poverty, is the greatest global challenge and an indispensable requirement for sustainable development. </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_10" class="SingleTxt">
+          <num>4.</num>
+          <content eId="para_10__content">
+            <p xml:space="preserve">	Today, we are launching an ambitious and accelerated response to reach our common vision by 2030, and pledging to make the coming decade one of action and delivery. We will maintain the integrity of the 2030 Agenda, including by ensuring ambitious and continuous action on the targets of the Sustainable Development Goals with a 2020 timeline. </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_11" class="SingleTxt">
+          <num>5.</num>
+          <content eId="para_11__content">
+            <p xml:space="preserve">	We reaffirm the commitment at the very heart of the 2030 Agenda to leave no one behind. We will take more tangible steps to support people in vulnerable situations and the most vulnerable countries and to reach the furthest behind first. </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_12" class="SingleTxt">
+          <num>6.</num>
+          <content eId="para_12__content">
+            <p xml:space="preserve">	We also reaffirm the principles recognized in the 2030 Agenda and recall that it is universal in nature and that its Goals and targets are integrated and indivisible, balancing the economic, social and environmental dimensions of sustainable development. </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_13" class="SingleTxt">
+          <num>7.</num>
+          <content eId="para_13__content">
+            <p xml:space="preserve">	We remain resolved, between now and 2030, to end poverty and hunger everywhere; to combat inequalities within and among countries; to build peaceful, just and inclusive societies; to respect, protect and fulfil human rights and achieve gender equality and the empowerment of all women and girls; and to ensure the lasting protection of the planet and its natural resources. We also remain resolved to create conditions for sustainable, inclusive and sustained economic growth, shared prosperity and decent work for all, taking into account different levels of national development and capacities.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_14" class="SingleTxt">
+          <num>8.</num>
+          <content eId="para_14__content">
+            <p xml:space="preserve">	We resolve to realize our vision of a world with access to inclusive and equitable quality education, universal health coverage and quality health care, food security and improved nutrition, safe drinking water and sanitation, affordable, reliable and sustainable energy and quality and resilient infrastructure for all. </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_15" class="SingleTxt">
+          <num>9.</num>
+          <content eId="para_15__content">
+            <p xml:space="preserve">	We recognize the special challenges facing the most vulnerable countries and, in particular, African countries, least developed countries, landlocked developing countries, small island developing States and countries in conflict and post-conflict situations, as well as the specific challenges facing middle-income countries, in pursuing sustainable development. </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_16" class="SingleTxt">
+          <num>10.</num>
+          <content eId="para_16__content">
+            <p xml:space="preserve">	We reaffirm that gender equality and the empowerment of all women and girls will make a crucial contribution to progress across all the Goals and targets. The achievement of full human potential and sustainable development is not possible if one half of humanity continues to be denied full human rights and opportunities. </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_17" class="SingleTxt">
+          <num>11.</num>
+          <content eId="para_17__content">
+            <p xml:space="preserve">	We also reaffirm that climate change is one of the greatest challenges of our time. We express profound alarm that emissions of greenhouse gases continue to rise globally, and remain deeply concerned that all countries, particularly developing countries, are vulnerable to the adverse impacts of climate change. We emphasize in this regard that mitigation of and adaptation to climate change represent an immediate and urgent priority. </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_18" class="SingleTxt">
+          <num>12.</num>
+          <content eId="para_18__content">
+            <p xml:space="preserve">	We commit to achieving a world in which humanity lives in harmony with nature, to conserving and sustainably using our planet’s marine and terrestrial resources, including through sustainable consumption and production, to reversing the trends of environmental degradation, to promoting resilience, to reducing disaster risk, and to halting ecosystem degradation and biodiversity loss. </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_19" class="SingleTxt">
+          <num>13.</num>
+          <content eId="para_19__content">
+            <p xml:space="preserve">	We recognize that greater efforts are needed to direct and align the means of implementation of the 2030 Agenda with our Goals, and commit to accelerate the implementation of commitments across the seven action areas of the Addis Ababa Action Agenda of the Third International Conference on Financing for Development.<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/69/313">69/313</a>, annex.</p></authorialNote></p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_20" class="SingleTxt">
+          <num>14.</num>
+          <content eId="para_20__content">
+            <p xml:space="preserve">	In this endeavour, we must come together in durable partnerships between governments at all levels, and with all relevant stakeholders, including civil society, the private sector, academia and youth.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_21" class="SingleTxt">
+          <num>15.</num>
+          <content eId="para_21__content">
+            <p xml:space="preserve">	The 2030 Agenda is our promise to the children and youth of today so that they may achieve their full human potential and carry the torch of sustainable development to future generations. </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_22" class="H1">
+          <num>II</num>
+          <heading>Our world today</heading>
+        </paragraph>
+        <paragraph eId="para_23" class="SingleTxt">
+          <num>16.</num>
+          <content eId="para_23__content">
+            <p xml:space="preserve">	We recognize the many efforts at all levels since 2015 to realize the vision of the 2030 Agenda and the Sustainable Development Goals. We have seen a significant response from national Governments, cities, local authorities, civil society, the private sector, academia, youth and other actors. We acknowledge that the Sustainable Development Goals are increasingly incorporated in national policies, plans, budgets and development cooperation efforts, and we recognize that private sector engagement in sustainable investing is growing. Global, regional and subregional multilateral development and finance institutions have embraced the Sustainable Development Goals and taken significant steps to incorporate them into their operations. </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_24" class="SingleTxt">
+          <num>17.</num>
+          <content eId="para_24__content">
+            <p xml:space="preserve">	We welcome the Secretary-General’s ongoing efforts to reposition the United Nations development system to better support countries in their implementation of the 2030 Agenda and we commit to continuing to support his efforts.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_25" class="SingleTxt">
+          <num>18.</num>
+          <content eId="para_25__content">
+            <p xml:space="preserve">	We commend the work of the high-level political forum on sustainable development, meeting under the auspices of the Economic and Social Council since the adoption of the 2030 Agenda, including its reviews of all 17 Sustainable Development Goals. The voluntary national reviews presented by 142 countries bear witness to the efforts at the national level to prioritize integration of the Sustainable Development Goals into national plans and policies and to bring together all parts of society in the common endeavour of realizing the 2030 Agenda. We further welcome the efforts at the regional level, including by the United Nations regional commissions and the regional forums on sustainable development as well as the contributions of major groups and all other stakeholders. </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_26" class="SingleTxt">
+          <num>19.</num>
+          <content eId="para_26__content">
+            <p xml:space="preserve">	We take note with appreciation of the Secretary-General’s progress report on the Sustainable Development Goals and the <span class="italic">Global Sustainable Development Report</span>, including the identified entry points for transformation and transformative levers for realizing the 2030 Agenda. We acknowledge the potential of a systemic and holistic approach, taking into account interlinkages between Goals and targets. The reports show that we have achieved progress in some areas, such as in reducing extreme poverty and child and neonatal mortality; improving access to electricity and safe drinking water; and expanding the coverage of terrestrial and marine protected areas.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_27" class="SingleTxt">
+          <num>20.</num>
+          <content eId="para_27__content">
+            <p xml:space="preserve">	At the same time, we are concerned that progress is slow in many areas. Vulnerabilities are high and deprivations are becoming more entrenched. Assessments show that we are at risk of missing the poverty eradication target. Hunger is on the rise. Progress towards gender equality and the empowerment of all women and girls is too slow. Inequalities in wealth, incomes and opportunities are increasing in and between countries. Biodiversity loss, environmental degradation, discharge of plastic litter into the oceans, climate change and increasing disaster risk continue at rates that bring potentially disastrous consequences for humanity.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_28" class="SingleTxt">
+          <num>21.</num>
+          <content eId="para_28__content">
+            <p xml:space="preserve">	We recognize that international migration is a multidimensional reality of major relevance for the development of countries of origin, transit and destination.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_29" class="SingleTxt">
+          <num>22.</num>
+          <content eId="para_29__content">
+            <p xml:space="preserve">	Violent extremism, terrorism, organized crime, corruption, illicit financial flows, global health threats, humanitarian crises and forced displacement of people threaten to reverse much of the development progress made in recent decades. </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_30" class="SingleTxt">
+          <num>23.</num>
+          <content eId="para_30__content">
+            <p xml:space="preserve">	In many parts of the world conflicts and instability have endured or intensified and natural disasters have become more frequent and intense, causing untold human suffering and undermining the realization of the Sustainable Development Goals. Our ability to prevent and resolve conflicts and build resilient, peaceful, just and inclusive societies has often been fragmented and insufficient.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_31" class="H1">
+          <num>III</num>
+          <heading>Our call to accelerated action</heading>
+        </paragraph>
+        <paragraph eId="para_32" class="SingleTxt">
+          <num>24.</num>
+          <content eId="para_32__content">
+            <p xml:space="preserve">	We recognize the urgent need to accelerate action on all levels and by all stakeholders, in order to fulfil the vision and Goals of the 2030 Agenda. We also emphasize the need for concerted action across all relevant major United Nations conferences and summits in the economic, social and related fields, including the Addis Ababa Action Agenda, which is an integral part of the 2030 Agenda, the Sendai Framework for Disaster Risk Reduction 2015–2030,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/69/283">69/283</a>, annex II.</p></authorialNote> the New Urban Agenda,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/71/256">71/256</a>, annex.</p></authorialNote> the Istanbul Programme of Action for the Least Developed Countries for the Decade 2011–2020,<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"><span class="italic">Report of the Fourth United Nations Conference on the Least Developed Countries, Istanbul, Turkey, 9–13 May 2011</span> (<a href="https://undocs.org/en/A/CONF.219/7">A/CONF.219/7</a>), chap. II.</p></authorialNote> the Vienna Programme of Action for the Landlocked Developing Countries for the Decade 2014–2024<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/69/137">69/137</a>, annex II.</p></authorialNote> and the SIDS Accelerated Modalities of Action (SAMOA) Pathway.<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/69/15">69/15</a>, annex.</p></authorialNote> We recognize the synergies between the implementation of the 2030 Agenda and the Paris Agreement.<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">	 	See <a href="https://undocs.org/en/FCCC/CP/2015/10/Add.1">FCCC/CP/2015/10/Add.1</a>, decision 1/CP.21, annex.</p></authorialNote></p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_33" class="SingleTxt">
+          <num>25.</num>
+          <content eId="para_33__content">
+            <p xml:space="preserve">	We welcome the voluntary actions pledged by leaders at the Sustainable Development Goals Summit and throughout this high-level week. </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_34" class="SingleTxt">
+          <num>26.</num>
+          <content eId="para_34__content">
+            <p xml:space="preserve">	We request the Secretary-General, as a follow-up to the Sustainable Development Goals Summit and the reports on progress on the Goals, and in the lead‑up to the summit to mark the seventy-fifth anniversary of the United Nations, to engage Governments, civil society, the private sector and other stakeholders in generating solutions and accelerating action to address systemic gaps in implementation, as we embark on a decisive decade for the 2030 Agenda. We also call upon the Secretary-General to organize an annual moment to highlight inspiring action on the Goals, in the context of the general debate of the General Assembly.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_35" class="SingleTxt">
+          <num>27.</num>
+          <content eId="para_35__content">
+            <p xml:space="preserve">	To demonstrate our determination to implement the 2030 Agenda and achieve the Sustainable Development Goals, we need to do more and faster. To this end, we commit to: </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_36" class="SingleTxt">
+          <content eId="para_36__content">
+            <p xml:space="preserve">	(a)	<span class="bold">Leaving no one behind</span>: we will place a focus on the poorest and most vulnerable in our policies and actions. People who are vulnerable must be empowered. Those whose needs are reflected in the 2030 Agenda include all children, youth, persons with disabilities, people living with HIV/AIDS, older persons, indigenous peoples, refugees and internally displaced persons and migrants. We intend to see the Goals and targets met for all nations and peoples and for all segments of society. And we will endeavour to reach the furthest behind first. We commit to targeted and accelerated action to remove all legal, social and economic barriers to achieve gender equality and the empowerment of all women and girls, and the realization and enjoyment of their human rights; </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_37" class="SingleTxt">
+          <content eId="para_37__content">
+            <p xml:space="preserve">	(b)	<span class="bold">Mobilizing adequate and well-directed financing</span>: in order to close the financing gap for the Sustainable Development Goals, Governments, the private sector and other stakeholders need to increase the level of ambition in domestic, public and private resource mobilization, strengthen the enabling environment for sustainable investments and deliver on commitments to international development cooperation. We will ensure that policies and actions reach those furthest behind, aiming at financial inclusion, and supporting the competitiveness of micro-, small and medium-sized enterprises, including women- and youth-owned enterprises. We will also strive to increase our level of ambition on the non-financial means of implementation, including promoting a universal, rules-based, open, transparent, non‑discriminatory and equitable multilateral trading system, recognizing that international trade is an engine for development;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_38" class="SingleTxt">
+          <content eId="para_38__content">
+            <p xml:space="preserve">	(c)	<span class="bold">Enhancing national implementation</span>: we pledge to lift the level of ambition of our national responses to the implementation of the 2030 Agenda, while respecting national processes and ensuring ownership. To this end, we aim to proactively mainstream the 2030 Agenda into our national planning instruments, policies, strategies and financial frameworks; </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_39" class="SingleTxt">
+          <content eId="para_39__content">
+            <p xml:space="preserve">	(d)	<span class="bold">Strengthening institutions for more integrated solutions</span>: we will proactively develop effective, accountable and transparent institutions at all levels and ensure more responsive, inclusive, participatory and representative decision-making processes. We will strive to equip domestic institutions to better address interlinkages, synergies and trade-offs between the Goals and targets through a whole-of-government approach that can bring about transformative change in governance and public policy and ensure policy coherence for sustainable development; </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_40" class="SingleTxt">
+          <content eId="para_40__content">
+            <p xml:space="preserve">	(e)	<span class="bold">Bolstering local action to accelerate implementation</span>: we commit to empower and support cities, local authorities and communities in pursuing the 2030 Agenda. We recognize their critical role in implementing and realizing the Sustainable Development Goals; </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_41" class="SingleTxt">
+          <content eId="para_41__content">
+            <p xml:space="preserve">	(f)	<span class="bold">Reducing disaster risk and building resilience</span>: we undertake to pursue policy, investment and innovation to reduce disaster risk and build the resilience of countries, economies, communities and individuals to economic, social and environmental shocks and disasters; </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_42" class="SingleTxt">
+          <content eId="para_42__content">
+            <p xml:space="preserve">	(g)	<span class="bold">Solving challenges through international cooperation and enhancing the global partnership</span>: we recognize that the integrated nature of the Sustainable Development Goals requires a global response. We renew our commitment to multilateralism, to find new ways of working together and to ensure that multilateral institutions keep pace with the rapid changes taking place. We further commit to finding peaceful and just solutions to disputes and to respecting international law and the purposes and principles of the Charter of the United Nations, including the right to self-determination of peoples and the need to respect the territorial integrity and political independence of States; </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_43" class="SingleTxt">
+          <content eId="para_43__content">
+            <p xml:space="preserve">	(h)	<span class="bold">Harnessing science, technology and innovation with a greater focus on digital transformation for sustainable development</span>: we will promote research, capacity-building initiatives, innovation and technologies towards advancing the Sustainable Development Goals and promote the use of scientific evidence from all fields to enable the transformation to sustainable development. We will promote and support quality education and lifelong learning to ensure that all children, youth and adults are empowered with the relevant knowledge and skills to shape more resilient, inclusive and sustainable societies that are able to adapt to rapid technological change. We will foster international cooperation to support developing countries in addressing their constraints in access to technologies and education;</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_44" class="SingleTxt">
+          <content eId="para_44__content">
+            <p xml:space="preserve">	(i)	<span class="bold">Investing in data and statistics for the Sustainable Development Goals</span>: we commit to strengthen our national statistical capacities to address the gaps in data on the Sustainable Development Goals in order to allow countries to provide high-quality, timely, reliable, disaggregated data and statistics and to fully integrate the Sustainable Development Goals in our monitoring and reporting systems. We encourage international cooperation supporting statistical capacity-building in developing countries, in particular the most vulnerable countries, which face the greatest challenges in collecting, analysing and using reliable data and statistics; </p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_45" class="SingleTxt">
+          <content eId="para_45__content">
+            <p xml:space="preserve">	(j)	<span class="bold">Strengthening the high-level political forum</span>: we pledge to carry out an ambitious and effective review of the format and organizational aspects of the high-level political forum and follow-up and review of the 2030 Agenda for Sustainable Development at the global level during the seventy-fourth session of the General Assembly with a view to better addressing gaps in implementation and linking identified challenges with appropriate responses, including on financing, to further strengthen the effective and participatory character of this intergovernmental forum and encourage the peer-learning character of the voluntary national reviews. We also pledge to advance our efforts in communicating the 2030 Agenda to the global public to raise awareness and inspire accelerated action.</p>
+          </content>
+        </paragraph>
+        <paragraph eId="para_46" class="SingleTxt">
+          <num>28.</num>
+          <content eId="para_46__content">
+            <p xml:space="preserve">	We know the world we want. We pledge to accelerate our common efforts, now and in the coming decade to reach this vision by 2030. Rapid change is possible and the Goals remain within reach if we embrace transformation and accelerate implementation.</p>
+          </content>
+        </paragraph>
+        </mainBody>
+      </doc>
+    </attachment>
+  </attachments>
+  </statement>
+</akomaNtoso>

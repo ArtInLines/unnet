@@ -1,0 +1,234 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-142/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-142/"></FRBRuri>
+          <FRBRdate date="2019-12-18" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-142/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-142/eng@/"></FRBRuri>
+          <FRBRdate date="2020-01-21" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-142/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-142/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women&amp;#39;s_rights" href="http://eurovoc.europa.eu/585" showAs="women&amp;#39;s_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-10-30" outcome="draftResolution" as="A/C.3/74/L.49" by="Argentina, Australia, Canada, Croatia, Denmark, Estonia, Finland, France, Georgia, Germany, Honduras, Hungary, Iceland, Ireland, Japan, Latvia, Lebanon, Lithuania, Mexico, New Zealand, North Macedonia, Norway, Panama, South Africa, Spain, Sweden, Switzerland, Turkey and Ukraine" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="Albania, Algeria, Andorra, Angola, Antigua and Barbuda, Armenia, Austria, Bahamas, Belgium, Bolivia (Plurinational State of), Bosnia and Herzegovina, Bulgaria, Colombia, Costa Rica, Côte d'Ivoire, Cuba, Cyprus, Czechia, Dominican Republic, Ecuador, Egypt, El Salvador, Eritrea, Ghana, Greece, Guatemala, Haiti, India, Indonesia, Israel, Italy, Jamaica, Jordan, Kazakhstan, Liberia, Liechtenstein, Luxembourg, Malawi, Maldives, Mali, Malta, Mongolia, Montenegro, Morocco, Netherlands, Nicaragua, Nigeria, Pakistan, Papua New Guinea, Paraguay, Peru, Poland, Portugal, Republic of Korea, Republic of Moldova, Romania, Samoa, San Marino, Serbia, Seychelles, Slovakia, Slovenia, Sri Lanka, Thailand, Timor-Leste, Togo, Tunisia, Uganda, United Arab Emirates, United Kingdom, Uruguay, Venezuela (Bolivarian Republic of), Viet Nam, Zambia and Zimbabwe" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/399" by="" refersTo="69" />
+        <step date="2019-12-18" outcome="adopted" as="A/74/PV.50" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="thirdCommittee" href="#thirdCommittee" showAs="Third Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-22241 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/142</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-01-21" class="rightSmall" refersTo="#dateOfIssuance">21 January 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 70</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Promotion and protection of human rights</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 18 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#thirdCommittee">[on the report of the Third Committee (<inline name="originating document">A/74/399</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/142.</docNumber>
+        <docTitle refersTo="#resolutionTitle">International Equal Pay Day</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Reaffirming" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the obligation of all States to promote and protect all human rights and fundamental freedoms, and also that all forms of discrimination, including discrimination against women and girls, are contrary to the Charter of the United Nations, the Universal Declaration of Human Rights,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">		Resolution <a href="https://undocs.org//en/A/RES/217 (III)">217 A (III)</a>.</p></authorialNote> the International Covenant on Civil and Political Rights,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">		See resolution <a href="https://undocs.org//en/A/RES/2200 (XXI)">2200 A (XXI)</a>, annex.</p></authorialNote> the International Covenant on Economic, Social and Cultural Rights,<sup>2</sup> the Convention on the Elimination of All Forms of Discrimination against Women,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">		United Nations, <span class="italic">Treaty Series</span>, vol. 1249, No. 20378.</p></authorialNote> the Convention on the Rights of the Child,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">		Ibid., vol. 1577, No. 27531.</p></authorialNote> the Convention on the Rights of Persons with Disabilities,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">		Ibid., vol. 2515, No. 44910.</p></authorialNote> the International Convention on the Elimination of All Forms of Racial Discrimination<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">		Ibid., vol. 660, No. 9464.</p></authorialNote> and other relevant human rights instruments,</p>
+      </container>
+      <container name="Reaffirming also" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming also</span> the commitment made to gender equality and the empowerment of all women and girls, contained in the outcome documents of relevant international conferences and summits, in particular the Beijing Declaration and Platform for Action adopted at the Fourth World Conference on Women<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"><span class="italic">Report of the Fourth World Conference on Women, Beijing, 4–15 September 1995</span> (United Nations publication, Sales No. E.96.IV.13), chap. I, resolution 1, annexes I and II.</p></authorialNote> and the outcomes of the twenty-third special session of the General Assembly, entitled “Women 2000: gender equality, development and peace for the twenty-first century”,<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">		Resolution <a href="https://undocs.org/en/A/RES/S-23/2">S-23/2</a>, annex, and resolution <a href="https://undocs.org/en/A/RES/S-23/3">S-23/3</a>, annex.</p></authorialNote></p>
+      </container>
+      <container name="Recalling" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> that the 2030 Agenda for Sustainable Development<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">		Resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a>.</p></authorialNote> addresses the need to achieve gender equality and the empowerment of all women and girls, in order to ensure that no one is left behind, and that the systematic mainstreaming of a gender perspective in the implementation of the 2030 Agenda is crucial,</p>
+      </container>
+      <container name="Recalling also" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> the commitment to achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities, and equal pay for work of equal value, contained in the Sustainable Development Goals, in particular target 8.5,</p>
+      </container>
+      <container name="Noting" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the work of the Equal Pay International Coalition, which was established to contribute to the achievement of equal pay for work of equal value and the relevant Sustainable Development Goals, in particular target 8.5,</p>
+      </container>
+      <container name="Taking note" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Taking note</span> of the Secretary-General’s High-level Panel on Women’s Economic Empowerment,</p>
+      </container>
+      <container name="Taking note with appreciation" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Taking note with appreciation</span> of the major contributions made by civil society, including women’s and community-based organizations and feminist groups, as well as businesses and workers’ and employers’ organizations, to promoting equal pay for work of equal value and the economic empowerment of women and girls,</p>
+      </container>
+      <container name="Recognizing" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that progress on the achievement of gender equality and the empowerment of women and girls has been held back owing to the persistence of historical and structural unequal power relations between women and men, poverty and inequalities and disadvantages in access to resources and opportunities that limit women’s and girls’ capabilities,</p>
+      </container>
+      <container name="Expressing deep concern" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Expressing deep concern</span> that this progress has been particularly slow when it comes to women’s economic empowerment, that work traditionally held by women has been undervalued and that tackling pay inequality has proved to be particularly difficult,</p>
+      </container>
+      <container name="Recalling" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> in this regard Human Rights Council resolution <a href="https://undocs.org/en/A/HRC/RES/41/14">41/14</a> of 11 July 2019 on equal pay<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve">		See <span class="italic">Official Records of the General Assembly, Seventy-fourth Session, Supplement No. 53</span> (<a href="https://undocs.org/en/A/74/53">A/74/53</a>), chap. II.</p></authorialNote> and its recommendation to declare an International Equal Pay Day, in order to celebrate the efforts of all stakeholders to achieve equal pay for work of equal value and urge further action for the goal of equal pay for work of equal value for all,</p>
+      </container>
+      <container name="Reaffirming" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> its resolutions <a href="https://undocs.org/en/A/RES/53/199">53/199</a> of 15 December 1998 and <a href="https://undocs.org/en/A/RES/61/185">61/185</a> of 20 December 2006 on the proclamation of international years and Economic and Social Council resolution 1980/67 of 25 July 1980 on international years and anniversaries, particularly paragraphs 1 to 10 of the annex thereto on the agreed criteria for the proclamation of international years, and paragraphs 13 and 14, in which it is stated that an international day or year should not be proclaimed before the basic arrangements for its organization and financing have been made,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_13" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_13__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> to proclaim 18 September as International Equal Pay Day, to be observed each year beginning in 2020;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_14" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_14__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> all Member States, relevant organizations of the United Nations system, other international organizations and civil society, including non‑governmental organizations and the private sector, to observe International Equal Pay Day in an appropriate manner, in order to celebrate the efforts of all stakeholders to achieve equal pay for work of equal value and urge the further action required to achieve the goal of equal pay for work of equal value for all, and encourages all stakeholders to continue to support the goal of equal pay for work of equal value;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_15" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_15__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> the United Nations Entity for Gender Equality and the Empowerment of Women (UN-Women) and the International Labour Organization, within their respective mandates and existing resources, in collaboration with all relevant organizations already involved in the promotion of equal pay for work of equal value, to work together to facilitate the observance of International Equal Pay Day and to support Member States, upon their request, in observing the Day;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_16" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_16__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to bring the present resolution to the attention of all Member States and organizations of the United Nations system;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_17" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_17__content">
+          <p xml:space="preserve">
+            <span class="italic">Stresses</span> that the cost of all activities that may arise from the implementation of the present resolution shall be met from voluntary contributions.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="50th">50th plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-18" refersTo="#adoptionDate">18 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

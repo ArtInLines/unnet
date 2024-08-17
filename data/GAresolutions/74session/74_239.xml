@@ -1,0 +1,222 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-19/74-239/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-19/74-239/"></FRBRuri>
+          <FRBRdate date="2019-12-19" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-19/74-239/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-19/74-239/eng@/"></FRBRuri>
+          <FRBRdate date="2020-01-21" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-19/74-239/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-19/74-239/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2.a" href="http://metadata.un.org/sdg/2.a" showAs="sdg_2.a" dictionary="SDGO"></keyword>
+        <keyword value="agricultural_policy" href="http://eurovoc.europa.eu/2442" showAs="agricultural_policy" dictionary="EuroVoc"></keyword>
+        <keyword value="economic_policy" href="http://eurovoc.europa.eu/2497" showAs="economic_policy" dictionary="EuroVoc"></keyword>
+        <keyword value="power_of_implementation" href="http://eurovoc.europa.eu/2577" showAs="power_of_implementation" dictionary="EuroVoc"></keyword>
+        <keyword value="agricultural_policy" href="http://metadata.un.org/thesaurus/1000150" showAs="agricultural_policy" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="economic_policy" href="http://metadata.un.org/thesaurus/1001863" showAs="economic_policy" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-11-20" outcome="draftResolution" as="A/C.2/74/L.65" by="submitted by the Vice-Chair of the Committee" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/385/Add.2" by="" refersTo="8" />
+        <step date="2019-12-19" outcome="adopted" as="A/74/PV.52" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="secondCommittee" href="#secondCommittee" showAs="Second Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-22513 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/239</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-01-21" class="rightSmall" refersTo="#dateOfIssuance">21 January 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 23 (b)</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Operational activities for development: South-South cooperation for development</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 19 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#secondCommittee">[on the report of the Second Committee (<inline name="originating document">A/74/385/Add.2</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/239.</docNumber>
+        <docTitle refersTo="#resolutionTitle">South-South cooperation</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Reaffirming" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> its resolution <a href="https://undocs.org/en/A/RES/73/291">73/291</a> of 15 April 2019, in which it endorsed the Buenos Aires outcome document of the second High-level United Nations Conference on South-South Cooperation,</p>
+      </container>
+      <container name="Reaffirming also" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming also</span> its resolution <a href="https://undocs.org/en/A/RES/64/222">64/222</a> of 21 December 2009, in which it endorsed the Nairobi outcome document of the High-level United Nations Conference on South-South Cooperation,</p>
+      </container>
+      <container name="Reaffirming further" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming further</span> its resolution <a href="https://undocs.org/en/A/RES/33/134">33/134</a> of 19 December 1978, in which it endorsed the Buenos Aires Plan of Action for Promoting and Implementing Technical Cooperation among Developing Countries,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"><span class="italic">Report of the United Nations Conference on Technical Cooperation among Developing Countries, Buenos Aires, 30 August–12 September 1978</span> (United Nations publication, Sales No. E.78.II.A.11 and corrigendum), chap. I.</p></authorialNote></p>
+      </container>
+      <container name="Recalling" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolutions <a href="https://undocs.org/en/A/RES/57/270b">57/270 B</a> of 23 June 2003, <a href="https://undocs.org/en/A/RES/60/212">60/212</a> of 22 December 2005, <a href="https://undocs.org/en/A/RES/62/209">62/209</a> of 19 December 2007, <a href="https://undocs.org/en/A/RES/63/233">63/233</a> of 19 December 2008, <a href="https://undocs.org/en/A/RES/64/1">64/1</a> of 6 October 2009, <a href="https://undocs.org/en/A/RES/66/219">66/219</a> of 22 December 2011, <a href="https://undocs.org/en/A/RES/67/227">67/227</a> of 21 December 2012, <a href="https://undocs.org/en/A/RES/68/230">68/230</a> of 20 December 2013, <a href="https://undocs.org/en/A/RES/69/239">69/239</a> of 19 December 2014, <a href="https://undocs.org/en/A/RES/70/222">70/222</a> of 22 December 2015, <a href="https://undocs.org/en/A/RES/71/244">71/244</a> of 21 December 2016, <a href="https://undocs.org/en/A/RES/72/237">72/237</a> of 20 December 2017 and <a href="https://undocs.org/en/A/RES/73/249">73/249</a> of 20 December 2018,</p>
+      </container>
+      <container name="Reaffirming" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> its resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a> of 25 September 2015, entitled “Transforming our world: the 2030 Agenda for Sustainable Development”, in which it adopted a comprehensive, far-reaching and people-centred set of universal and transformative Sustainable Development Goals and targets, its commitment to working tirelessly for the full implementation of the Agenda by 2030, its recognition that eradicating poverty in all its forms and dimensions, including extreme poverty, is the greatest global challenge and an indispensable requirement for sustainable development, its commitment to achieving sustainable development in its three dimensions – economic, social and environmental – in a balanced and integrated manner, and to building upon the achievements of the Millennium Development Goals and seeking to address their unfinished business,</p>
+      </container>
+      <container name="Reaffirming also" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming also</span> its resolution <a href="https://undocs.org/en/A/RES/69/313">69/313</a> of 27 July 2015 on the Addis Ababa Action Agenda of the Third International Conference on Financing for Development, which is an integral part of the 2030 Agenda for Sustainable Development, supports and complements it, helps to contextualize its means of implementation targets with concrete policies and actions and reaffirms the strong political commitment to address the challenge of financing and creating an enabling environment at all levels for sustainable development in the spirit of global partnership and solidarity,</p>
+      </container>
+      <container name="&#x9;Reaffirming further" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">	Reaffirming further</span> the Paris Agreement<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	Adopted under the United Nations Framework Convention on Climate Change in <a href="https://undocs.org/en/FCCC/CP/2015/10/Add.1">FCCC/CP/2015/10/Add.1</a>, decision 1/CP.21, annex.</p></authorialNote> and its early entry into force, encouraging all its parties to fully implement the Agreement, and parties to the United Nations Framework Convention on Climate Change<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vol. 1771, No. 30822.</p></authorialNote> that have not yet done so to deposit their instruments of ratification, acceptance, approval or accession, where appropriate, as soon as possible,</p>
+      </container>
+      <container name="Reiterating" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Reiterating</span> the pledge that no one will be left behind, reaffirming the recognition that the dignity of the human person is fundamental, and the wish to see the Goals and targets met for all nations and peoples and for all segments of society, and recommitting to endeavour to reach the furthest behind first,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_10" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_10__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the convening of the second High-level United Nations Conference on South-South Cooperation in Buenos Aires from 20 to 22 March 2019 and its outcome document,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/73/291">73/291</a>, annex.</p></authorialNote> and calls upon the international community to support the full implementation of the outcome document of the second High-level Conference;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_11" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_11__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of the report of the Secretary-General on the state of South-South cooperation;<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/336">A/74/336</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_12__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms its support</span> for the High-level Committee on South-South Cooperation, and calls upon the Committee to dedicate its twentieth session, to be held in 2020, to the implementation of the Buenos Aires outcome document of the second High-level United Nations Conference on South-South Cooperation;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_13" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_13__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> the commitment at the very heart of the 2030 Agenda to leave no one behind and commit to taking more tangible steps to support people in vulnerable situations and the most vulnerable countries and to reach the furthest behind first;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_14" class="MercuryDocument">
+        <num>	5.</num>
+        <content eId="para_14__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> to include in the provisional agenda of its seventy-fifth session, under the item entitled “Operational activities for development”, the sub-item entitled “South-South cooperation for development”, and requests the Secretary-General to submit to the General Assembly at its seventy-fifth session a comprehensive report on the state of South-South cooperation, including the implementation of the outcome document of the second High-level Conference.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="52nd">52nd plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-19" refersTo="#adoptionDate">19 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

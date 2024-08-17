@@ -1,0 +1,188 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-06-30/74-249B/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-06-30/74-249B/"></FRBRuri>
+          <FRBRdate date="2020-06-30" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-06-30/74-249B/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-06-30/74-249B/eng@/"></FRBRuri>
+          <FRBRdate date="2020-07-09" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-06-30/74-249B/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-06-30/74-249B/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-10-04" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <workflow source="#un">
+        <step date="2020-06-25" outcome="draftResolution" as="A/C.5/74/L.33" by="submitted by the Chair of the Committee following informal consultations" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/603/Add.1" refersTo="6" by="" />
+        <step date="2020-07-09" outcome="adopted" as="Adopted through silence procedure" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="fifthCommittee" href="#fifthCommittee" showAs="Fifth Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">20-08782 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/249 B</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-07-09" class="rightSmall" refersTo="#dateOfIssuance">9 July 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 132</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Financial reports and audited financial statements, and reports of the Board of Auditors</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 30 June 2020</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#fifthCommittee">[on the report of the Fifth Committee (<inline name="originating document">A/74/603/Add.1</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/249.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Financial reports and audited financial statements, and reports of the Board of Auditors</docTitle>
+        <docNumber>B</docNumber>
+            <authorialNote marker="1" placement="bottom" eId="authorialNote_1">
+              <p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/74/249">74/249</a>, in section VI of the <span class="italic">Official Records of the General Assembly, Seventy-fourth Session, Supplement No. 49</span> (<a href="https://undocs.org/en/A/74/49">A/74/49</a>), vol. I, becomes resolution <a href="https://undocs.org/en/A/RES/74/249">74/249</a> A.</p>
+            </authorialNote>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Recalling " eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">	Recalling </span>its resolutions <a href="https://undocs.org/en/A/RES/73/268 B">73/268</a><a href="https://undocs.org/en/A/RES/73/268 B"> B</a> of 3 July 2019 and <a href="https://undocs.org/en/A/RES/74/249">74/249</a> A of 27 December 2019,</p>
+      </container>
+      <container name="Having considered" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">	Having considered</span> the financial report and audited financial statements for the 12-month period from 1 July 2018 to 30 June 2019 and the report of the Board of Auditors on United Nations peacekeeping operations,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"><span class="italic">Official Records of the General Assembly, Seventy-fourth Session, Supplement No. 5</span>, vol. II (<a href="https://undocs.org/en/A/74/5(Vol.II)">A/74/5 (Vol. II)</a>).</p></authorialNote> the report of the Secretary-General on the implementation of the recommendations of the Board of Auditors concerning United Nations peacekeeping operations for the financial period ended 30 June 2019<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/709">A/74/709</a>.</p></authorialNote> and the related report of the Advisory Committee on Administrative and Budgetary Questions,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/806">A/74/806</a>.</p></authorialNote></p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_4" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_4__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of the audit opinions and findings, and endorses the recommendations, contained in the report of the Board of Auditors;<sup>2</sup></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_5" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_5__content">
+          <p xml:space="preserve">
+            <span class="italic">Endorses</span> the conclusions and recommendations contained in the report of the Advisory Committee on Administrative and Budgetary Questions;<sup>4</sup></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_6" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_6__content">
+          <p xml:space="preserve">
+            <span class="italic">Commends </span>the Board of Auditors for the quality of its report and the streamlined format thereof;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_7__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of the report of the Secretary-General on the implementation of the recommendations of the Board of Auditors concerning United Nations peacekeeping operations for the financial period ended 30 June 2019;<sup>3</sup></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_8__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to ensure the full implementation of the recommendations of the Board of Auditors and the related recommendations of the Advisory Committee in a prompt and timely manner;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_9__content">
+          <p xml:space="preserve">
+            <span class="italic">Also requests</span> the Secretary-General to continue to indicate an expected time frame for the implementation of the recommendations of the Board of Auditors and the priorities for their implementation, including the office holders to be held accountable and measures taken in that regard; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_10" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_10__content">
+          <p xml:space="preserve">
+            <span class="italic">Further requests</span> the Secretary-General to provide, in his next report on the implementation of the recommendations of the Board of Auditors concerning United Nations peacekeeping operations, a full explanation for the delays in the implementation of all outstanding recommendations of the Board, the root causes of the recurring issues and the measures to be taken. </p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <docDate date="2020-06-30" refersTo="#adoptionDate">30 June 2020</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

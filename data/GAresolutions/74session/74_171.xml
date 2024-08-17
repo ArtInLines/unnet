@@ -1,0 +1,350 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-171/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-171/"></FRBRuri>
+          <FRBRdate date="2019-12-18" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-171/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-171/eng@/"></FRBRuri>
+          <FRBRdate date="2020-01-07" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-171/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-171/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="10" href="http://metadata.un.org/sdg/10" showAs="sdg_10" dictionary="SDGO"></keyword>
+        <keyword value="social_inequality" href="http://eurovoc.europa.eu/1420" showAs="social_inequality" dictionary="EuroVoc"></keyword>
+        <keyword value="equality" href="http://metadata.un.org/thesaurus/1002102" showAs="equality" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-09-20" outcome="draftResolution" as="A/C.3/74/L.3" by="submitted by the Chair of the Committee on the recommendation of the Economic and Social Council" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/400" by="" refersTo="29" />
+        <step date="2019-12-18" outcome="adopted" as="A/74/PV.50" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="thirdCommittee" href="#thirdCommittee" showAs="Third Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-22317 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/171</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-01-07" class="rightSmall" refersTo="#dateOfIssuance">7 January 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 106</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Crime prevention and criminal justice</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 18 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#thirdCommittee">[on the report of the Third Committee (<inline name="originating document">A/74/400</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/171.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Follow-up to the Thirteenth United Nations Congress on Crime Prevention and Criminal Justice and preparations for the Fourteenth United Nations Congress on Crime Prevention and Criminal Justice</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Emphasizing" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Emphasizing</span> the responsibility assumed by the United Nations in the field of crime prevention and criminal justice in pursuance of Economic and Social Council resolution <a href="https://undocs.org/en/e/res/155 (VII)">155 C (VII)</a> of 13 August 1948 and General Assembly resolution <a href="https://undocs.org/en/a/res/415 (V)">415 (V)</a> of 1 December 1950,</p>
+      </container>
+      <container name="Acknowledging" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging</span> that the United Nations congresses on crime prevention and criminal justice, as major intergovernmental forums, have influenced national policies and practices and promoted international cooperation in that field by facilitating the exchange of views and experience, mobilizing public opinion and identifying policy options at the national, regional and international levels,</p>
+      </container>
+      <container name="Recognizing" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the significant contributions of the United Nations congresses on crime prevention and criminal justice in promoting the exchange of experience in research, law and policy development and the identification of emerging trends and issues in crime prevention and criminal justice among States, intergovernmental organizations, non-governmental organizations and individual experts representing various professions and disciplines,</p>
+      </container>
+      <container name="Recalling" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolution <a href="https://undocs.org/A/RES/56/119">56/119</a> of 19 December 2001 on the role, function, periodicity and duration of the United Nations congresses on the prevention of crime and the treatment of offenders, in which it stipulated the guidelines in accordance with which, beginning in 2005, the congresses, pursuant to paragraphs 29 and 30 of the statement of principles and programme of action of the United Nations crime prevention and criminal justice programme,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/A/RES/46/152">46/152</a>, annex.</p></authorialNote> should be held,</p>
+      </container>
+      <container name="Recalling also" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> its resolution <a href="https://undocs.org/A/RES/70/174">70/174</a> of 17 December 2015 and its resolutions <a href="https://undocs.org/A/RES/71/206">71/206</a> of 19 December 2016, <a href="https://undocs.org/A/RES/72/192">72/192</a> of 19 December 2017 and <a href="https://undocs.org/A/RES/73/184">73/184</a> of 17 December 2018 on the follow-up to the Thirteenth United Nations Congress on Crime Prevention and Criminal Justice and preparations for the Fourteenth United Nations Congress on Crime Prevention and Criminal Justice,</p>
+      </container>
+      <container name="Recalling further" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Recalling further</span>, in particular, that in its resolution <a href="https://undocs.org/A/RES/73/184">73/184</a> it decided to hold the Fourteenth Congress in Kyoto, Japan, from 20 to 27 April 2020, with pre-Congress consultations to be held on 19 April 2020,</p>
+      </container>
+      <container name="Mindful" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Mindful</span> that in its resolution <a href="https://undocs.org/A/RES/73/184">73/184</a> it decided that the high-level segment of the Fourteenth Congress would be held during the first two days of the Congress in order to allow Heads of State or Government and government ministers to focus on the main theme of the Congress<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	“Advancing crime prevention, criminal justice and the rule of law: towards the achievement of the 2030 Agenda”.</p></authorialNote> and to enhance the possibility of generating useful feedback, </p>
+      </container>
+      <container name="Mindful also" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Mindful also</span> that in its resolution <a href="https://undocs.org/A/RES/73/184">73/184</a> it decided that, in accordance with its resolution <a href="https://undocs.org/A/RES/56/119">56/119</a>, the Fourteenth Congress would adopt a single declaration, to be submitted to the Commission on Crime Prevention and Criminal Justice for its consideration,</p>
+      </container>
+      <container name="Recognizing" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the efforts made by the Government of Japan to ensure an effective preparatory process for the Fourteenth Congress,</p>
+      </container>
+      <container name="Noting with appreciation" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Noting with appreciation</span> the holding of the European Regional Preparatory Meeting for the first time since 1995,</p>
+      </container>
+      <container name="Welcoming with appreciation" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming with appreciation</span> the decision of the Government of Japan, building upon the initiative taken by the host country of the Thirteenth Congress, to organize the Youth Forum, which is to precede the Fourteenth Congress,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_13" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_13__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Governments to consider taking into account the Doha Declaration on Integrating Crime Prevention and Criminal Justice into the Wider United Nations Agenda to Address Social and Economic Challenges and to Promote the Rule of Law at the National and International Levels, and Public Participation<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/A/RES/70/174">70/174</a>, annex.</p></authorialNote> when formulating legislation and policy directives and to make all efforts, where appropriate, to implement the principles contained therein, in conformity with the purposes and principles of the Charter of the United Nations;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_14" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_14__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Governments and relevant intergovernmental and non-governmental organizations to inform the Fourteenth United Nations Congress on Crime Prevention and Criminal Justice about their activities aimed at the implementation of the Doha Declaration with a view to providing guidance on the formulation of legislation, policies and programmes in the field of crime prevention and criminal justice at the national and international levels, and to that end requests the Secretary-General to prepare a report on the subject, to be submitted to the Fourteenth Congress for its consideration;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_15" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_15__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes with appreciation</span> the progress made thus far in the preparations for the Fourteenth Congress;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_16" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_16__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the work undertaken by the United Nations Office on Drugs and Crime in following up on the implementation of the Doha Declaration;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_17" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_17__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note with appreciation</span> of the report of the Secretary-General;<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"><a href="https://undocs.org/E/CN.15/2019/11">E/CN.15/2019/11</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_18" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_18__content">
+          <p xml:space="preserve">
+            <span class="italic">Also takes note with appreciation</span> of the discussion guide prepared by the Secretary-General, in cooperation with the institutes of the United Nations crime prevention and criminal justice programme network, for the regional preparatory meetings and for the Fourteenth Congress;<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"><a href="https://undocs.org/A/CONF.234/PM.1">A/CONF.234/PM.1</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_19" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_19__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the regional preparatory meetings, which were held in all five regions and at which the overall theme of the Fourteenth Congress was examined, together with the substantive items on the agenda and the workshop topics, and takes note of the outcomes, to be taken into account during the preparations for and the deliberations of the Congress;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_20" class="SingleTxt">
+        <num>	8.</num>
+        <content eId="para_20__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States to consider, as part of the overall theme and substantive agenda items to be discussed at the Fourteenth Congress, focusing on the work of practitioners, to prioritize strengthening international cooperation and capacity-building and to highlight public-private partnership in efforts related to crime prevention, criminal justice and enhancing the rule of law;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_21" class="SingleTxt">
+        <num>	9.</num>
+        <content eId="para_21__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Commission on Crime Prevention and Criminal Justice, in accordance with its resolution <a href="https://undocs.org/A/RES/73/184">73/184</a>, to begin to prepare, at intersessional meetings to be held well in advance of the Fourteenth Congress, a structured, short and concise draft declaration with a robust overarching political message addressing the main topics to be discussed at the Congress, taking into account the outcomes of the regional preparatory meetings, consultations with relevant organizations and entities and the relevant discussions held in preparation for the Congress, as well as the mandate and objectives of the United Nations congresses on crime prevention and criminal justice;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_22" class="SingleTxt">
+        <num>	10.</num>
+        <content eId="para_22__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to finalize their negotiation of the Kyoto declaration in a timely manner prior to the commencement of the Fourteenth Congress;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_23" class="SingleTxt">
+        <num>	11.</num>
+        <content eId="para_23__content">
+          <p xml:space="preserve">
+            <span class="italic">Emphasizes</span> the importance of the workshops to be held during the Fourteenth Congress, and invites Member States, intergovernmental and non-governmental organizations and other relevant entities to provide financial, organizational and technical support to the United Nations Office on Drugs and Crime and to the institutes of the United Nations crime prevention and criminal justice programme network for the preparations for the workshops, including the preparation and circulation of relevant background material;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_24" class="SingleTxt">
+        <num>	12.</num>
+        <content eId="para_24__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States to include in their delegations panellists and experts who may contribute their substantive expertise to the workshops and thus enable active and meaningful discussions during those workshops; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_25" class="SingleTxt">
+        <num>	13.</num>
+        <content eId="para_25__content">
+          <p xml:space="preserve">
+            <span class="italic">Reiterates its request</span> to the Secretary-General, subject to the availability of extrabudgetary resources, to facilitate the participation of developing countries in the workshops, and reiterates its encouragement to States, the institutes of the United Nations crime prevention and criminal justice programme network, other concerned entities and the Secretary-General to work together in order to ensure that the workshops are well focused and achieve practical results, leading to technical cooperation ideas and projects and documents for enhancing bilateral and multilateral technical assistance activities in crime prevention and criminal justice;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_26" class="SingleTxt">
+        <num>	14.</num>
+        <content eId="para_26__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to make available the resources necessary to ensure the participation of the least developed countries in the Fourteenth Congress, in accordance with past practice;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_27" class="SingleTxt">
+        <num>	15.</num>
+        <content eId="para_27__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Governments to make preparations for the Fourteenth Congress at an early stage by all appropriate means, including, where appropriate, by establishing national preparatory committees, with a view to contributing to a focused and productive discussion on the topics and to participating actively in the organization and conduct of the workshops, by submitting national position papers on the various substantive items of the agenda and by encouraging contributions from the academic community and relevant scientific institutions;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_28" class="SingleTxt">
+        <num>	16.</num>
+        <content eId="para_28__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States to send representatives to the Fourteenth Congress of the highest appropriate level, for example Heads of State or Government or government ministers and attorneys general, to make statements in the high-level segment on the theme and substantive items of the Congress and to participate actively in its proceedings by sending legal and policy experts with special training and practical experience in crime prevention and criminal justice;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_29" class="SingleTxt">
+        <num>	17.</num>
+        <content eId="para_29__content">
+          <p xml:space="preserve">
+            <span class="italic">Reiterates its request</span> to the Secretary-General to facilitate the organization of ancillary meetings of non-governmental and professional organizations participating in the Fourteenth Congress, in accordance with past practice, as well as meetings of professional and geographical interest groups, and to take appropriate measures to encourage the participation of the academic and research community in the Congress;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_30" class="SingleTxt">
+        <num>	18.</num>
+        <content eId="para_30__content">
+          <p xml:space="preserve">
+            <span class="italic">Also reiterates its request</span> to the Secretary-General to encourage the participation of representatives from relevant entities of the United Nations system in the Fourteenth Congress, bearing in mind the main theme, agenda items and workshop topics of the Congress;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_31" class="SingleTxt">
+        <num>	19.</num>
+        <content eId="para_31__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the plan for the documentation of the Fourteenth Congress, prepared by the Secretary-General in consultation with the extended Bureau of the Commission on Crime Prevention and Criminal Justice;<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"><a href="https://undocs.org/E/2017/30">E/CN.15/2019/11</a>, sect. II.D.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_32" class="SingleTxt">
+        <num>	20.</num>
+        <content eId="para_32__content">
+          <p xml:space="preserve">
+            <span class="italic">Also welcomes</span> the appointment by the Secretary-General of a Secretary-General and an Executive Secretary of the Fourteenth Congress, who will perform their functions under the rules of procedure for United Nations congresses on crime prevention and criminal justice;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_33" class="SingleTxt">
+        <num>	21.</num>
+        <content eId="para_33__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to prepare an overview of the state of crime and criminal justice worldwide for presentation at the Fourteenth Congress;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_34" class="SingleTxt">
+        <num>	22.</num>
+        <content eId="para_34__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Commission to give high priority at its twenty-ninth session to considering the declaration of the Fourteenth Congress, with a view to recommending, through the Economic and Social Council, appropriate follow-up by the General Assembly at its seventy-fifth session;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_35" class="MercuryDocument">
+        <num>	23.</num>
+        <content eId="para_35__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to ensure proper follow-up to the present resolution and to report thereon, through the Commission, to the General Assembly at its seventy-fifth session.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="50th">50th plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-18" refersTo="#adoptionDate">18 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

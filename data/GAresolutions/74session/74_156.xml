@@ -1,0 +1,420 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-156/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-156/"></FRBRuri>
+          <FRBRdate date="2019-12-18" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-156/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-156/eng@/"></FRBRuri>
+          <FRBRdate date="2020-01-23" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-156/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-156/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16.9" href="http://metadata.un.org/sdg/16.9" showAs="sdg_16.9" dictionary="SDGO"></keyword>
+        <keyword value="human_rights" href="http://eurovoc.europa.eu/584" showAs="human_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="birth_reporting" href="http://metadata.un.org/thesaurus/1000633" showAs="birth_reporting" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="civil_registration" href="http://metadata.un.org/thesaurus/1001008" showAs="civil_registration" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="human_rights" href="http://metadata.un.org/thesaurus/1002975" showAs="human_rights" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="human_rights" href="http://metadata.un.org/thesaurus/140202" showAs="human_rights" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16.a" href="http://metadata.un.org/sdg/16.a" showAs="sdg_16.a" dictionary="SDGO"></keyword>
+      </classification>      
+      <workflow source="#un">
+        <step date="2019-11-12" outcome="draftResolution" as="A/C.3/74/L.44/Rev.1" by="Albania, Andorra, Armenia, Australia, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Cabo Verde, Canada, Chile, Croatia, Cyprus, Czechia, Denmark, Dominican Republic, Ecuador, Estonia, Finland, France, Georgia, Germany, Greece, Honduras, Hungary, Iceland, Ireland, Italy, Jordan, Latvia, Liberia, Liechtenstein, Luxembourg, Malta, Marshall Islands, Mexico, Montenegro, Morocco, Netherlands, New Zealand, North Macedonia, Norway, Poland, Qatar, Republic of Korea, Republic of Moldova, Romania, Samoa, Slovakia, Slovenia, Spain, Sweden, Togo, Ukraine, United Kingdom of Great Britain and Northern Ireland and Vanuatu" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="Afghanistan, Argentina, Colombia, Costa Rica, Democratic Republic of the Congo, Egypt, El Salvador, Gambia, Guatemala, Guinea, Haiti, Israel, Lebanon, Libya, Lithuania, Madagascar, Mali, Mongolia, Panama, Paraguay, Peru, Portugal, Rwanda, Sao Tome and Principe, Senegal, Serbia, South Africa, Sri Lanka, Switzerland, Thailand, Tunisia, Turkey, United States, Uruguay and Zimbabwe" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/399/Add.2" by="" refersTo="90" />
+        <step date="2019-12-18" outcome="adopted" as="A/74/PV.50" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="thirdCommittee" href="#thirdCommittee" showAs="Third Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-22282 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/156</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-01-23" class="rightSmall" refersTo="#dateOfIssuance">23 January 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 70 (b)</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Promotion and protection of human rights: human rights questions, including alternative approaches for improving the effective enjoyment of human rights and fundamental freedoms</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 18 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#thirdCommittee">[on the report of the Third Committee (<inline name="originating document">A/74/399/Add.2</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/156.</docNumber>
+        <docTitle refersTo="#resolutionTitle">National human rights institutions</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Recalling" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> all its relevant resolutions, as well as those of the Human Rights Council and the Commission on Human Rights on national institutions for the promotion and protection of human rights, including most recently Council resolution <a href="https://undocs.org/en/A/HRC/RES/39/17">39/17</a> of 28 September 2018<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">	 	See <span class="italic">Official Records of the General Assembly, Seventy-third Session, Supplement No. 53A</span> (<a href="https://undocs.org/en/A/73/53/Add.1">A/73/53/Add.1</a>), chap. III.</p></authorialNote> and General Assembly resolution <a href="https://undocs.org/en/A/RES/72/181">72/181</a> of 19 December 2017, as well as the previous resolutions on the role of the Ombudsman, mediator institutions and other national human rights institutions<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	“National human rights institutions” and “national institutions for the promotion and protection of human rights” are used synonymously.</p></authorialNote> in the promotion and protection of human rights,</p>
+      </container>
+      <container name="Recalling also" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> the principles relating to the status of national institutions for the promotion and protection of human rights (the Paris Principles),<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/48/134">48/134</a>, annex.</p></authorialNote> welcoming the twenty-fifth anniversary of the adoption of the Principles, and noting with appreciation the establishment of the Global Alliance of National Human Rights Institutions, </p>
+      </container>
+      <container name="Recalling further" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Recalling further</span> the Vienna Declaration and Programme of Action adopted by the World Conference on Human Rights on 25 June 1993,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"><a href="https://undocs.org/en/A/CONF.157/24 (Part I)">A/CONF.157/24 (Part I)</a>, chap. III.</p></authorialNote> which reaffirmed the important and constructive role played by national human rights institutions, in particular in their advisory capacity to the competent authorities and their role in preventing and remedying human rights violations, in disseminating information on human rights and in education in human rights,</p>
+      </container>
+      <container name="Reaffirming" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the importance of, and welcoming the rapidly growing interest throughout the world in, establishing and strengthening independent and pluralistic national human rights institutions in accordance with the Paris Principles,</p>
+      </container>
+      <container name="Reaffirming also" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming also</span> the important role that such national institutions play and will continue to play in promoting and protecting human rights and fundamental freedoms, strengthening participation, in particular of civil society organizations, promoting the rule of law and contributing to the prevention of human rights violations and abuses,</p>
+      </container>
+      <container name="Encouraging" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Encouraging</span> greater efforts to investigate and respond to increasing reports of cases of reprisal against national human rights institutions, their members and staff and those who cooperate or seek to cooperate with them,</p>
+      </container>
+      <container name="Recognizing" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the role that national human rights institutions can play in preventing and addressing cases of reprisal as part of supporting the cooperation between States and the United Nations in the promotion of human rights, including by contributing to follow-up actions, as appropriate, to recommendations made by international human rights mechanisms,</p>
+      </container>
+      <container name="Taking note " eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Taking note </span>of the Belgrade principles on the relationship between national human rights institutions and parliaments,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"><a href="https://undocs.org/en/A/HRC/20/9">A/HRC/20/9</a>, annex.</p></authorialNote></p>
+      </container>
+      <container name="Recognizing" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the important role of the United Nations, in particular the Office of the United Nations High Commissioner for Human Rights, in assisting the development of independent and effective national human rights institutions, guided by the Paris Principles, and recognizing also in this regard the potential for strengthened and complementary cooperation among the United Nations, the Global Alliance of National Human Rights Institutions and its regional coordinating networks and those national institutions in the promotion and protection of human rights, </p>
+      </container>
+      <container name="Recalling" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the programme of action adopted by national institutions for the promotion and protection of human rights at their meeting held in Vienna in June 1993 during the World Conference on Human Rights, in which it was recommended that United Nations activities and programmes should be reinforced to meet the requests for assistance from States wishing to establish or strengthen their national institutions for the promotion and protection of human rights,</p>
+      </container>
+      <container name="Taking note with appreciation " eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Taking note with appreciation </span>of the reports of the Secretary-General on national institutions for the promotion and protection of human rights<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"><a href="https://undocs.org/en/A/HRC/39/20">A/HRC/39/20</a>.</p></authorialNote> and on the activities of the Global Alliance of National Human Rights Institutions in accrediting national institutions in compliance with the principles relating to the status of institutions for the promotion and protection of human rights (Paris Principles),<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"><a href="https://undocs.org/en/A/HRC/39/21">A/HRC/39/21</a>.</p></authorialNote></p>
+      </container>
+      <container name="Welcoming" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> efforts to strengthen United Nations system-wide coordination in support of national human rights institutions and their networks, including the establishment of the tripartite partnership between the United Nations Development Programme, the Office of the High Commissioner and the Global Alliance of National Human Rights Institutions, and recognizing the potential for further cooperation in this regard between the United Nations mechanisms and processes and with national human rights institutions,</p>
+      </container>
+      <container name="Welcoming also" eId="container_14">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming also</span> the strengthening in all regions of regional cooperation among national human rights institutions, and welcoming further the continuing work of the Network of African National Human Rights Institutions, the Network of National Institutions for the Promotion and Protection of Human Rights in the Americas, the Asia-Pacific Forum of National Human Rights Institutions and the European Network of National Human Rights Institutions,</p>
+      </container>
+      <container name="Welcoming further" eId="container_15">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming further</span> the contribution of the Global Alliance of National Human Rights Institutions to the strengthening of cooperation among existing national human rights institutions in all regions and the enhancement of the engagement of national human rights institutions compliant with the Paris Principles with relevant United Nations mechanisms and processes,</p>
+      </container>
+      <container name="Welcoming" eId="container_16">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the progress made to date by Member States and all other stakeholders, including the Global Alliance of National Human Rights Institutions and its regional coordinating networks and relevant United Nations mechanisms and processes, in the implementation of resolution <a href="https://undocs.org/en/A/RES/72/181">72/181</a>,</p>
+      </container>
+      <container name="Welcoming also" eId="container_17">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming also</span> that the Open-ended Working Group on Ageing is implementing its decision 7/1 of 12 December 2016, entitled “Modalities of participation of national human rights institutions in the work of the Open-ended Working Group on Ageing”,<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">	 	See <a href="https://undocs.org/en/A/AC.278/2016/2">A/AC.278/2016/2</a>, para. 10.</p></authorialNote> and that it invites national human rights institutions fully compliant with the Paris Principles to participate in its work in their own capacity,</p>
+      </container>
+      <container name="Noting with appreciation" eId="container_18">
+        <p xml:space="preserve">
+          <span class="italic">Noting with appreciation</span> the opportunities afforded to national human rights institutions to contribute to the Conference of States Parties to the Convention on the Rights of Persons with Disabilities and to the Commission on the Status of Women, and noting in this regard the efforts to further enhance the participation of national human rights institutions compliant with the Paris Principles at the sessions of the Commission, in compliance with the rules of procedure of the Economic and Social Council, </p>
+      </container>
+      <container name="Welcoming" eId="container_19">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> in this regard the decision of the Commission on the Status of Women to encourage the secretariat to continue its consideration of how to enhance the participation, including at the sixty-fourth session of the Commission, of national human rights institutions that are fully compliant with the Paris Principles, where they exist, in compliance with the rules of procedure of the Economic and Social Council,<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">	 	See <span class="italic">Official Records of the Economic and Social Council, 2019, Supplement No. 7</span> (<a href="https://undocs.org/en/E/2019/27">E/2019/27</a>), chap. I, sect. A.</p></authorialNote></p>
+      </container>
+      <container name="Recalling" eId="container_20">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the invitation to national human rights institutions compliant with the Paris Principles to register with the Secretariat in order to participate in the international migration review forums, including the informal interactive multi‑stakeholder hearings, and inviting the institutions, as well as the Global Alliance of National Human Rights Institutions and its regional networks, to submit inputs prior to the forums,</p>
+      </container>
+      <container name="Welcoming" eId="container_21">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the continued contribution of national human rights institutions to the work of the United Nations human rights treaty bodies, as well as the efforts of the treaty bodies, within their respective mandates and in accordance with the treaties establishing these mechanisms, to promote the effective and enhanced participation by national human rights institutions compliant with the Paris Principles at all relevant stages of their work, and noting with appreciation the ongoing efforts of the treaty bodies, including by the continued consideration of a common treaty body approach to the engagement of the treaty bodies with national human rights institutions at all relevant stages of their work,</p>
+      </container>
+      <container name="Taking note " eId="container_22">
+        <p xml:space="preserve">
+          <span class="italic">Taking note </span>of the Marrakech Declaration adopted at the thirteenth International Conference of National Human Rights Institutions,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_23" class="MercuryDocument">
+        <num>	1.</num>
+        <content eId="para_23__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note with appreciation</span> of the report of the Secretary-General;<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/226">A/74/226</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_24" class="MercuryDocument">
+        <num>	2.</num>
+        <content eId="para_24__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> the importance of the development of effective, independent and pluralistic national institutions for the promotion and protection of human rights, in accordance with the principles relating to the status of national institutions for the promotion and protection of human rights (the Paris Principles);<sup>3</sup></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_25" class="MercuryDocument">
+        <num>	3.</num>
+        <content eId="para_25__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> the role of independent national institutions for the promotion and protection of human rights in working together with Governments to ensure full respect for human rights at the national level, including by contributing to follow-up actions, as appropriate, to the recommendations resulting from the international human rights mechanisms; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_26" class="MercuryDocument">
+        <num>	4.</num>
+        <content eId="para_26__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the increasingly important role of national institutions for the promotion and protection of human rights in supporting cooperation between their Governments and the United Nations in the promotion and protection of human rights; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_27" class="MercuryDocument">
+        <num>	5.</num>
+        <content eId="para_27__content">
+          <p xml:space="preserve">
+            <span class="italic">Underlines</span> the value of national human rights institutions, established and operating in accordance with the Paris Principles, in the continued monitoring of existing legislation and in consistently informing the State about the impact of such legislation on the activities of human rights defenders, including by making relevant and concrete recommendations; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_28" class="MercuryDocument">
+        <num>	6.</num>
+        <content eId="para_28__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> the role that national human rights institutions can play in preventing and addressing cases of reprisals as part of supporting the cooperation between their Governments and the United Nations in the promotion of human rights, including by contributing to follow-up actions, as appropriate, to recommendations made by international human rights mechanisms, and in that regard takes note of the Marrakech Declaration adopted at the thirteenth International Conference of National Human Rights Institutions; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_29" class="MercuryDocument">
+        <num>	7.</num>
+        <content eId="para_29__content">
+          <p xml:space="preserve">
+            <span class="italic">Also recognizes</span> that, in accordance with the Vienna Declaration and Programme of Action,<sup>4</sup> it is the right of each State to choose the framework for national institutions that is best suited to its particular needs at the national level in order to promote human rights in accordance with international human rights standards; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_30" class="MercuryDocument">
+        <num>	8.</num>
+        <content eId="para_30__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> all Member States to establish effective, independent and pluralistic national institutions or, where they already exist, to strengthen them for the promotion and protection of all human rights and fundamental freedoms for all, as outlined in the Vienna Declaration and Programme of Action, and welcomes the growing number of States establishing national human rights institutions in line with the Paris Principles, including as one of the means for accelerating and guaranteeing progress for the implementation of the 2030 Agenda for Sustainable Development;<authorialNote marker="11" placement="bottom" eId="authorialNote_11"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_31" class="MercuryDocument">
+        <num>	9.</num>
+        <content eId="para_31__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> national institutions for the promotion and protection of human rights established by Member States to continue to play an active role in preventing and combating all violations of human rights as enumerated in the Vienna Declaration and Programme of Action and relevant international human rights instruments;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_32" class="MercuryDocument">
+        <num>	10.</num>
+        <content eId="para_32__content">
+          <p xml:space="preserve">
+            <span class="italic">Stresses</span> that national human rights institutions and their respective members and staff should not face any form of reprisal or intimidation, including political pressure, physical intimidation, harassment or unjustifiable budgetary limitations, as a result of activities undertaken in accordance with their respective mandates, including when taking up individual cases or when reporting on serious or systematic violations in their countries, and calls upon States to promptly and thoroughly investigate cases of alleged reprisal or intimidation against members or staff of national human rights institutions or against individuals who cooperate or seek to cooperate with them and to bring perpetrators to justice; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_33" class="MercuryDocument">
+        <num>	11.</num>
+        <content eId="para_33__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> the role played by national institutions for the promotion and protection of human rights in the Human Rights Council, including its universal periodic review mechanism, in both preparation and follow-up, and the special procedures, in accordance with Council resolutions 5/1 and 5/2 of 18 June 2007<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve">	 	See <span class="italic">Official Records of the General Assembly, Sixty-second Session, Supplement No. 53</span> (<a href="https://undocs.org/en/A/62/53">A/62/53</a>), chap. IV, sect. A.</p></authorialNote> and Commission on Human Rights resolution 2005/74 of 20 April 2005,<authorialNote marker="13" placement="bottom" eId="authorialNote_13"><p xml:space="preserve">	 	See <span class="italic">Official Records of the Economic and Social Council, 2005, Supplement No. 3</span> and corrigenda (<a href="https://undocs.org/en/e/2005/23(supp)">E/2005/23</a>, <a href="https://undocs.org/en/e/2005/23/corr.1(supp)">E/2005/23/Corr.1</a> and <a href="https://undocs.org/en/e/2005/23/corr.2(supp)">E/2005/23/Corr.2</a>), chap. II, sect. A.</p></authorialNote> and in the human rights treaty bodies, as well as the strengthening of opportunities for such participation stipulated in the outcome of the review of the work and functioning of the Council annexed to Council resolution <a href="https://undocs.org/en/A/HRC/RES/16/21">16/21</a> of 25 March 2011<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve">	 	See <span class="italic">Official Records of the General Assembly, Sixty-sixth Session, Supplement No. 53</span> (<a href="https://undocs.org/en/A/66/53">A/66/53</a>), chap. II, sect. A.</p></authorialNote> and adopted in General Assembly resolution <a href="https://undocs.org/en/A/RES/65/281">65/281</a> of 17 June 2011; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_34" class="MercuryDocument">
+        <num>	12.</num>
+        <content eId="para_34__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the contribution of national human rights institutions compliant with the Paris Principles to the work of the United Nations, including of the Commission on the Status of Women, the Conference of States Parties to the Convention on the Rights of Persons with Disabilities, the Open-ended Working Group on Ageing and the intergovernmental process of the General Assembly on strengthening and enhancing the effective functioning of the human rights treaty body system; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_35" class="MercuryDocument">
+        <num>	13.</num>
+        <content eId="para_35__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> national human rights institutions compliant with the Paris Principles to continue to participate in and to contribute to deliberations in all relevant United Nations mechanisms and processes in accordance with their respective mandates, including the discussions on the implementation of the 2030 Agenda for Sustainable Development;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_36" class="MercuryDocument">
+        <num>	14.</num>
+        <content eId="para_36__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> all relevant United Nations mechanisms and processes, in accordance with their respective mandates, including the Commission on the Status of Women, the Conference of States Parties to the Convention on the Rights of Persons with Disabilities, the Open-ended Working Group on Ageing and the 2030 Agenda for Sustainable Development, including the high-level political forum on sustainable development and related global and regional preparatory processes as well as the Sustainable Development Goals Summit, to further enhance the participation of national human rights institutions compliant with the Paris Principles and to allow for their contribution to these United Nations mechanisms and processes, bearing in mind the relevant provisions dealing with their participation contained in General Assembly resolution <a href="https://undocs.org/en/A/RES/60/251">60/251</a> of 15 March 2006, Human Rights Council resolutions 5/1, 5/2 and <a href="https://undocs.org/en/A/HRC/RES/16/21">16/21</a> and Commission on Human Rights resolution 2005/74; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_37" class="MercuryDocument">
+        <num>	15.</num>
+        <content eId="para_37__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> all other relevant United Nations forums and meetings, in accordance with their respective mandates, existing rules of procedure and modalities, to provide for the engagement of national human rights institutions compliant with the Paris Principles and to allow for their contribution to these forums and meetings; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_38" class="MercuryDocument">
+        <num>	16.</num>
+        <content eId="para_38__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> the human rights treaty bodies, within their respective mandates and in accordance with the treaties establishing these mechanisms, to provide for ways to ensure the effective and enhanced participation by national human rights institutions compliant with the Paris Principles at all relevant stages of their work; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_39" class="MercuryDocument">
+        <num>	17.</num>
+        <content eId="para_39__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> all United Nations human rights mechanisms and relevant United Nations agencies, funds and programmes to work, within their respective mandates, with Member States and national institutions in the promotion and protection of human rights with respect to, inter alia, projects in the area of good governance and the rule of law, welcomes in this regard the efforts made by the United Nations High Commissioner for Human Rights to develop partnerships in support of national institutions, including the tripartite partnership between the United Nations Development Programme, the Office of the High Commissioner and the Global Alliance of National Human Rights Institutions, and in this respect encourages all United Nations human rights mechanisms and relevant United Nations agencies, funds and programmes to enhance their interaction with national human rights institutions, including by facilitating their access to relevant information and documentation; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_40" class="MercuryDocument">
+        <num>	18.</num>
+        <content eId="para_40__content">
+          <p xml:space="preserve">
+            <span class="italic">Stresses</span> the importance of the financial and administrative independence and stability of national human rights institutions, notes with satisfaction the efforts of those States that have provided their national institutions with more autonomy and independence, including by giving them an investigative role or enhancing such a role, and encourages other Governments to consider taking similar steps; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_41" class="MercuryDocument">
+        <num>	19.</num>
+        <content eId="para_41__content">
+          <p xml:space="preserve">
+            <span class="italic">Underlines</span> the importance of the autonomy and independence of ombudsman institutions, encourages increased cooperation between national human rights institutions and regional and international associations of ombudsmen, and encourages ombudsman institutions to actively draw on the standards enumerated in international instruments and the Paris Principles to strengthen their independence and increase their capacity to act as national human rights protection mechanisms; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_42" class="MercuryDocument">
+        <num>	20.</num>
+        <content eId="para_42__content">
+          <p xml:space="preserve">
+            <span class="italic">Commends</span> the high priority given by the Office of the High Commissioner to work on national human rights institutions, encourages the High Commissioner, in view of the expanded activities relating to national institutions, to ensure that appropriate arrangements are made and budgetary resources provided to continue and further extend activities in support of national institutions, and invites States to contribute additional voluntary funds to that end; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_43" class="MercuryDocument">
+        <num>	21.</num>
+        <content eId="para_43__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the important role played by the Global Alliance of National Human Rights Institutions, in close cooperation with the Office of the High Commissioner, in assisting, when requested, in the establishment of, and in strengthening the compliance of, national human rights institutions with the Paris Principles, in assessing the conformity of national human rights institutions with the Paris Principles and in providing technical assistance to strengthen national human rights institutions, upon request, with a view to enhancing the compliance of national human rights institutions with the Paris Principles, and calls upon Member States and other stakeholders, including United Nations agencies, to follow up on the recommendations of the Subcommittee on Accreditation of the Global Alliance of National Human Rights Institutions, with a view to enabling national human rights institutions to fully comply with the Paris Principles in both law and practice; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_44" class="MercuryDocument">
+        <num>	22.</num>
+        <content eId="para_44__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> national institutions, including ombudsman and mediator institutions, to seek accreditation status through the Global Alliance of National Human Rights Institutions;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_45" class="MercuryDocument">
+        <num>	23.</num>
+        <content eId="para_45__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> all Member States to take appropriate steps to promote the exchange of information and experience concerning the establishment and effective operation of national human rights institutions and to support the work of the Global Alliance of National Human Rights Institutions and its regional coordinating networks in this regard, including through support for the relevant technical assistance programmes of the Office of the High Commissioner;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_46" class="MercuryDocument">
+        <num>	24.</num>
+        <content eId="para_46__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to continue to provide support to national human rights institutions compliant with the Paris Principles, as they engage with relevant United Nations mechanisms and processes, with full respect for their respective mandates, and with a view to enabling their most effective contributions, in order to further the implementation of international human rights obligations and commitments; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_47" class="MercuryDocument">
+        <num>	25.</num>
+        <content eId="para_47__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> the Secretary-General to continue to give high priority to requests from Member States for assistance in the establishment and strengthening of national human rights institutions in line with the Paris Principles, including as one of the means of accelerating and guaranteeing progress in the implementation of the 2030 Agenda for Sustainable Development, and encourages the Secretary-General to strengthen cooperation between the United Nations and the Global Alliance of National Human Rights Institutions in this regard;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_48" class="MercuryDocument">
+        <num>	26.</num>
+        <content eId="para_48__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> the Secretary-General to continue to encourage national human rights institutions to interact with and advocate independent participation in all relevant United Nations mechanisms and processes, in accordance with their respective mandates, existing rules of procedure and modalities; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_49" class="MercuryDocument">
+        <num>	27.</num>
+        <content eId="para_49__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to continue to provide the assistance necessary for holding international and regional meetings of national institutions, including meetings of the Global Alliance of National Human Rights Institutions, in cooperation with the Office of the High Commissioner;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_50" class="MercuryDocument">
+        <num>	28.</num>
+        <content eId="para_50__content">
+          <p xml:space="preserve">
+            <span class="italic">Also requests</span> the Secretary-General, in consultation with Member States and national human rights institutions, to report to the General Assembly at its seventy-sixth session on the implementation of the present resolution, including on best practices among national human rights institutions.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="50th">50th plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-18" refersTo="#adoptionDate">18 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

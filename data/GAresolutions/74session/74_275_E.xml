@@ -1,0 +1,255 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-05-28/74-275/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-05-28/74-275/"></FRBRuri>
+          <FRBRdate date="2020-05-28" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-05-28/74-275/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-05-28/74-275/eng@/"></FRBRuri>
+          <FRBRdate date="2020-05-29" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-05-28/74-275/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-05-28/74-275/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-10-04" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="4" href="http://metadata.un.org/sdg/4" showAs="sdg_4" dictionary="SDGO"></keyword>
+        <keyword value="education" href="http://eurovoc.europa.eu/668" showAs="education" dictionary="EuroVoc"></keyword>
+        <keyword value="right_to_education" href="http://eurovoc.europa.eu/512" showAs="right_to_education" dictionary="EuroVoc"></keyword>
+        <keyword value="education" href="http://metadata.un.org/thesaurus/1001893" showAs="education" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women&amp;#39;s_rights" href="http://eurovoc.europa.eu/585" showAs="women&amp;#39;s_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="11" href="http://metadata.un.org/sdg/11" showAs="sdg_11" dictionary="SDGO"></keyword>
+        <keyword value="urban_area" href="http://eurovoc.europa.eu/4809" showAs="urban_area" dictionary="EuroVoc"></keyword>
+        <keyword value="cities" href="http://metadata.un.org/thesaurus/1000995" showAs="cities" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="human_settlements" href="http://metadata.un.org/thesaurus/1002986" showAs="human_settlements" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2020-05-12" outcome="draftResolution" as="A/74/L.66" by="Argentina, Armenia, Austria, Canada, Costa Rica, Croatia, France, Ireland, Italy, Jordan, Kyrgyzstan, Luxembourg, Malta, Netherlands, Peru, Poland, Portugal, Qatar, Romania, San Marino, Spain, Turkey, Ukraine and Uruguay" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="Andorra, Antigua and Barbuda, Belgium, Bosnia and Herzegovina, Bulgaria, Burkina Faso, Côte d’Ivoire, Czechia, Denmark, Djibouti, Ecuador, El Salvador, Estonia, Finland, Georgia, Germany, Greece, Kenya, Latvia, Lebanon, Madagascar, Mexico, Monaco, Montenegro, Morocco, Nigeria, Norway, Palau, Rwanda, Serbia, Slovakia, Slovenia, Somalia, Sweden, Turkmenistan and Zambia" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="" />
+        <step date="2020-04-20" outcome="adopted" as="Adopted through silence procedure" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="noMainCommittee" href="#noMainCommittee" showAs="Without reference to a main committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">20-07227 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/275</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-05-29" class="rightSmall" refersTo="#dateOfIssuance">29 May 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 117</inline>
+      </p>
+      <p>
+        <docTitle></docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#noMainCommittee">[without reference to a Main Committee (<inline name="originating document">A/74/L.66 and A/74/L.66/Add.1</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/275.</docNumber>
+        <docTitle refersTo="#resolutionTitle">International Day to Protect Education from Attack</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Reaffirming" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> that everyone has the right to education, and recalling in that regard the Universal Declaration of Human Rights,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/217 (III)">217 A (III)</a>.</p></authorialNote> the International Covenant on Economic, Social and Cultural Rights,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	See resolution <a href="https://undocs.org/en/A/RES/2200 (XXI)">2200 A (XXI)</a>, annex.</p></authorialNote> the 1951 Convention relating to the Status of Refugees,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vol. 189, No. 2545.</p></authorialNote> the Geneva Convention relative to the Protection of Civilian Persons in Time of War, of 12 August 1949,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">	 	Ibid., vol. 75, No. 973.</p></authorialNote> the Convention on the Elimination of All Forms of Discrimination against Women,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	 	Ibid., vol. 1249, No. 20378.</p></authorialNote> the International Convention on the Elimination of All Forms of Racial Discrimination,<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">	 	Ibid., vol. 660, No. 9464.</p></authorialNote> the Convention on the Rights of the Child<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve">	 	Ibid., vol. 1577, No. 27531.</p></authorialNote> and the Convention on the Rights of Persons with Disabilities,<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">	 	Ibid., vol. 2515, No. 44910.</p></authorialNote></p>
+      </container>
+      <container name="Reaffirming also" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming also</span> its resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a> of 25 September 2015, entitled “Transforming our world: the 2030 Agenda for Sustainable Development”, in which it committed to providing inclusive and equitable quality education at all levels – early childhood, primary, secondary, tertiary, technical and vocational training; all people, irrespective of sex, age, race or ethnicity, and persons with disabilities, migrants, indigenous peoples, children and youth, especially those in vulnerable situations, should have access to lifelong learning opportunities that help them to acquire the knowledge and skills needed to exploit opportunities and to participate fully in society,</p>
+      </container>
+      <container name="Recalling" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolution <a href="https://undocs.org/en/A/RES/64/290">64/290</a> of 9 July 2010 on the right to education in emergency situations, in which it condemned the targeting of civilians as such in situations of armed conflict, including schoolchildren, students and teachers, as well as attacks on civilian objects such as educational institutions, where prohibited under international law, recognized that such acts may constitute grave breaches of the Geneva Conventions of 1949<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">	 	Ibid., vol. 75, Nos. 970–973.</p></authorialNote> and, for States parties, war crimes under the Rome Statute of the International Criminal Court,<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve">	 	Ibid., vol. 2187, No. 38544.</p></authorialNote> and reminded all parties to armed conflict of their obligations under international law to refrain from the use of civilian objects, including educational institutions, for military purposes and child recruitment,</p>
+      </container>
+      <container name="Recognizing" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the importance of ensuring inclusive and equitable quality education and promoting lifelong learning opportunities for all,</p>
+      </container>
+      <container name="Emphasizing" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Emphasizing</span> the need to take steps to achieve the full realization of the right to education for all children and, in particular, to take all feasible measures to protect schools from attacks, as well as persons entitled to protection in relation to them in situations of armed conflict, to refrain from actions that impede children’s access to education, and to facilitate access to education in armed conflict,</p>
+      </container>
+      <container name="Expressing particular concern" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Expressing particular concern</span> that many children in armed conflict, in particular girls, lack access to education owing to attacks against schools, damaged or destroyed school buildings, mines and unexploded ordnance, insecurity, the prevalence of violence, including gender-based violence, in and around schools and loss of documentation,</p>
+      </container>
+      <container name="Noting" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> efforts aimed at promoting and protecting the right to education and facilitating continuation of education in armed conflict, including the efforts of Member States that are signatories to the Safe Schools Declaration,</p>
+      </container>
+      <container name="Recalling" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolutions <a href="https://undocs.org/en/A/RES/53/199">53/199</a> of 15 December 1998 and <a href="https://undocs.org/en/A/RES/61/185">61/185</a> of 20 December 2006 on the proclamation of international years and Economic and Social Council resolution <a href="https://undocs.org/en/E/RES/1980/67">1980/67</a> of 25 July 1980 on international years and anniversaries,</p>
+      </container>
+      <container name="Expressing its dismay" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Expressing its dismay</span> at the aggravation of attacks on educational institutions, their students and staff, in contravention of international humanitarian law, recognizing the grave impact that such attacks have on the full realization of the right to education, in particular of women and girls, and reiterating its condemnation in the strongest terms of all such attacks,<authorialNote marker="11" placement="bottom" eId="authorialNote_11"><p xml:space="preserve">	 	See resolution <a href="https://undocs.org/en/A/RES/70/137">70/137</a>.</p></authorialNote></p>
+      </container>
+      <container name="Profoundly concerned" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Profoundly concerned</span> about the growing number of attacks and threats of attacks against schools, and recognizing the grave impact of such attacks on children’s and teachers’ safety, as well as on the full realization of the right to education, expressing its concern also that the military use of schools in contravention of applicable international law may also affect the safety of children and teachers and the right of the child to education, and encouraging all States to strengthen efforts to prevent the military use of schools in contravention of international law,</p>
+      </container>
+      <container name="Deeply concerned" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Deeply concerned</span> that school-related violence against girls, including sexual violence and harassment on the way to and from and at school, such as violence perpetrated by teachers, continues to deter girls’ education and, in many cases, the transition to and completion of secondary education, and that these risks may influence parents’ decision to allow girls to attend school,</p>
+      </container>
+      <container name="Urging" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Urging</span> all parties to armed conflict to fulfil their applicable obligations under international humanitarian law and international human rights law, including to respect civilians, including students and educational personnel, and civilian objects such as educational institutions,</p>
+      </container>
+      <container name="Calling upon" eId="container_14">
+        <p xml:space="preserve">
+          <span class="italic">Calling upon</span> all Member States, including donors, and inviting the private sector and all concerned individuals and institutions to continue to support diverse humanitarian funding channels and to consider increasing their contributions to education programmes defined in humanitarian appeals, including humanitarian consolidated and flash appeals, based on and in proportion to assessed needs, as a means of ensuring adequate, timely, predictable, flexible and needs-based resources,</p>
+      </container>
+      <container name="Noting" eId="container_15">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the work of the Special Representative of the Secretary-General for Children and Armed Conflict on the six grave violations committed against children in armed conflict,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_16" class="MercuryDocument">
+        <num>	1.</num>
+        <content eId="para_16__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> to proclaim 9 September the International Day to Protect Education from Attack;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_17" class="MercuryDocument">
+        <num>	2.</num>
+        <content eId="para_17__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> the right to education for all and the importance of ensuring safe enabling learning environments in humanitarian emergencies, as well as quality education at all levels, including for girls, including technical and vocational training opportunities, where possible, including through adequate funding and infrastructural investments, for the well-being of all, in this regard recognizes that access to quality education in humanitarian emergencies can contribute to long-term development goals and reiterates the need to protect and respect educational facilities in accordance with international humanitarian law, strongly condemns all attacks directed against schools and the use of schools for military purposes, when in contravention of international humanitarian law, and encourages efforts to promote safe and protective school environments in humanitarian emergencies;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_18" class="MercuryDocument">
+        <num>	3.</num>
+        <content eId="para_18__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> all Member States, organizations of the United Nations system, other international and regional organizations, the private sector and civil society, including non-governmental organizations, academic institutions, individuals and other relevant stakeholders, to observe the International Day to Protect Education from Attacks in an appropriate manner;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_19" class="MercuryDocument">
+        <num>	4.</num>
+        <content eId="para_19__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> the United Nations Educational, Scientific and Cultural Organization and the United Nations Children’s Fund to facilitate the observance of 9 September of every year as the International Day to Protect Education from Attack, mindful of the provisions contained in the annex to Economic and Social Council resolution <a href="https://undocs.org/en/E/RES/1980/67">1980/67</a>;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_20" class="MercuryDocument">
+        <num>	5.</num>
+        <content eId="para_20__content">
+          <p xml:space="preserve">
+            <span class="italic">Stresses</span> that the cost of all activities that may arise from the implementation of the present resolution should be met from voluntary contributions;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_21" class="MercuryDocument">
+        <num>	6.</num>
+        <content eId="para_21__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to bring the present resolution to the attention of all Member States, the organizations of the United Nations system and other relevant stakeholders for appropriate observance.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <docDate date="2020-05-28" refersTo="#adoptionDate">28 May 2020</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

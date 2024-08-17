@@ -1,0 +1,218 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-09-04/74-303/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-09-04/74-303/"></FRBRuri>
+          <FRBRdate date="2020-09-04" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-09-04/74-303/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-09-04/74-303/eng@/"></FRBRuri>
+          <FRBRdate date="2020-09-09" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-09-04/74-303/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-09-04/74-303/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-10-04" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17.8" href="http://metadata.un.org/sdg/17.8" showAs="sdg_17.8" dictionary="SDGO"></keyword>
+        <keyword value="power_of_implementation" href="http://eurovoc.europa.eu/2577" showAs="power_of_implementation" dictionary="EuroVoc"></keyword>
+        <keyword value="information_technology" href="http://eurovoc.europa.eu/5188" showAs="information_technology" dictionary="EuroVoc"></keyword>
+        <keyword value="internet" href="http://eurovoc.europa.eu/6088" showAs="internet" dictionary="EuroVoc"></keyword>
+        <keyword value="communication_technology" href="http://metadata.un.org/thesaurus/1001133" showAs="communication_technology" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="information_technology" href="http://metadata.un.org/thesaurus/1003205" showAs="information_technology" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="physical_infrastructure" href="http://metadata.un.org/thesaurus/1004898" showAs="physical_infrastructure" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="internet" href="http://metadata.un.org/thesaurus/1003348" showAs="internet" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2020-08-27" outcome="draftResolution" as="A/74/L.90" by="submitted by the President of the General Assembly" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="" />
+        <step date="2020-09-04" outcome="adopted" as="A/74/PV.63" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="noMainCommittee" href="#noMainCommittee" showAs="Without reference to a main committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">20-11626 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/303</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-09-09" class="rightSmall" refersTo="#dateOfIssuance">9 September 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 121</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Revitalization of the work of the General Assembly</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 4 September 2020</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#noMainCommittee">[without reference to a Main Committee (<inline name="originating document">A/74/L.90</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/303.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Revitalization of the work of the General Assembly</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Bearing in mind" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Bearing in mind</span> the role and authority of the General Assembly as a principal organ of the United Nations and the importance of its effectiveness and efficiency in fulfilling its functions under the Charter of the United Nations, </p>
+      </container>
+      <container name="Reiterating" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Reiterating</span> that the revitalization of the work of the General Assembly is a critical component of the overall reform of the United Nations, </p>
+      </container>
+      <container name="Welcoming" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the commemoration of the seventy-fifth anniversary of the United Nations in 2020 under the theme “The future we want, the United Nations we need: reaffirming our collective commitment to multilateralism”, </p>
+      </container>
+      <container name="Recognizing" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the impact of the coronavirus disease (COVID-19) pandemic on the work of the General Assembly during the seventy-fourth session, and welcoming the efforts of the President of the General Assembly at its seventy-fourth session to ensure the continued functioning of the General Assembly despite the limitations for its normal work as a consequence of the pandemic, </p>
+      </container>
+      <container name="Underlining" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Underlining</span> the need to further enhance the role, authority, effectiveness and efficiency of the General Assembly to address the evolving global challenges, </p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_7" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_7__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> its resolution <a href="https://undocs.org/en/A/RES/73/341">73/341</a> of 12 September 2019 and all other previous resolutions adopted by consensus relating to the revitalization of the work of the General Assembly, and agrees that resolution <a href="https://undocs.org/en/A/RES/73/341">73/341</a> as a whole will form the basis for the work of the Ad Hoc Working Group on the Revitalization of the Work of the General Assembly during the seventy-fifth session; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_8__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretariat to continue updating regularly and equally the multilingual web page devoted to the revitalization of the work of the General Assembly in all six official languages and its substantive content within existing resources in a cost-effective manner, including through the use of existing capabilities such as automation of translation, while ensuring the accuracy of translation; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_9__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> to establish, at its seventy-fifth session, an ad hoc working group on the revitalization of the work of the General Assembly, open to all Member States: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_10" class="SingleTxt">
+        <content eId="para_10__content">
+          <p xml:space="preserve">	(a)	To identify further ways to enhance the role, authority, effectiveness and efficiency of the Assembly, inter alia, by building on the progress achieved in past sessions as well as on previous resolutions, including evaluating the status of their implementation; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_11" class="SingleTxt">
+        <content eId="para_11__content">
+          <p xml:space="preserve">	(b)	To submit a report thereon to the Assembly at its seventy-fifth session; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_12__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to undertake within existing resources an analysis of the impact of the COVID-19 pandemic on the work of the General Assembly and to provide a briefing thereon to the Ad Hoc Working Group during the seventy-fifth session; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_13" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_13__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> that the Ad Hoc Working Group shall continue its review of the inventory of General Assembly resolutions on revitalization annexed to the report of the Ad Hoc Working Group submitted at the seventy-third session<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"><a href="https://undocs.org/en/A/73/956">A/73/956</a>.</p></authorialNote> and, as a result, continue to update the inventory to be attached to the report to be submitted at the seventy-fifth session of the Assembly, including the separate indication of relevant provisions that were not implemented, with reasons therefor; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_14" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_14__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the President of the General Assembly at its seventy-fifth session to identify proposals, in a timely manner, through consultations with all Member States, the President of the Economic and Social Council and the General Committee, within their respective mandates, aimed at addressing gaps, overlaps and duplication where they are found to exist in the agenda of the Assembly as they relate to the 2030 Agenda for Sustainable Development<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a>.</p></authorialNote> as a whole, and reaffirms the respective mandates of the Main Committees of the Assembly, and on that basis, calls upon all of them to continue their consideration of addressing gaps, overlaps and duplication in their respective agendas as they relate to the 2030 Agenda as a whole, and in this regard requests them to make proposals available for discussion during the seventy-fifth session of the Assembly; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_15" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_15__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of the report of the Secretary-General.<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/704">A/74/704</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="63rd">63rd plenary meeting</inline>
+        <eol />
+        <docDate date="2020-09-04" refersTo="#adoptionDate">4 September 2020</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

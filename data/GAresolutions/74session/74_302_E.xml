@@ -1,0 +1,882 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-09-03/74-302/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-09-03/74-302/"></FRBRuri>
+          <FRBRdate date="2020-09-03" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-09-03/74-302/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-09-03/74-302/eng@/"></FRBRuri>
+          <FRBRdate date="2020-09-08" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-09-03/74-302/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-09-03/74-302/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-10-04" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women&amp;#39;s_rights" href="http://eurovoc.europa.eu/585" showAs="women&amp;#39;s_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2020-08-27" outcome="draftResolution" as="A/74/L.69/Rev.1" by="Guyana (on behalf of the States Members of the United Nations that are members of the Group of 77 and China)" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="Turkey" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="" />
+        <step date="2020-09-03" outcome="adopted" as="A/74/PV.62" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedRecordedVote">
+            <count value="130" refersTo="inFavour">
+              <akn4un:voters>
+                <organization refersTo="memberState">AFGHANISTAN</organization>
+                <organization refersTo="memberState">ALGERIA</organization>
+                <organization refersTo="memberState">ANGOLA</organization>
+                <organization refersTo="memberState">ANTIGUA AND BARBUDA</organization>
+                <organization refersTo="memberState">ARGENTINA</organization>
+                <organization refersTo="memberState">AZERBAIJAN</organization>
+                <organization refersTo="memberState">BAHAMAS</organization>
+                <organization refersTo="memberState">BAHRAIN</organization>
+                <organization refersTo="memberState">BANGLADESH</organization>
+                <organization refersTo="memberState">BARBADOS</organization>
+                <organization refersTo="memberState">BELARUS</organization>
+                <organization refersTo="memberState">BELIZE</organization>
+                <organization refersTo="memberState">BENIN</organization>
+                <organization refersTo="memberState">BHUTAN</organization>
+                <organization refersTo="memberState">BOLIVIA (PLURINATIONAL STATE OF)</organization>
+                <organization refersTo="memberState">BOTSWANA</organization>
+                <organization refersTo="memberState">BRAZIL</organization>
+                <organization refersTo="memberState">BRUNEI DARUSSALAM</organization>
+                <organization refersTo="memberState">BURKINA FASO</organization>
+                <organization refersTo="memberState">BURUNDI</organization>
+                <organization refersTo="memberState">CABO VERDE</organization>
+                <organization refersTo="memberState">CAMBODIA</organization>
+                <organization refersTo="memberState">CAMEROON</organization>
+                <organization refersTo="memberState">CHAD</organization>
+                <organization refersTo="memberState">CHILE</organization>
+                <organization refersTo="memberState">CHINA</organization>
+                <organization refersTo="memberState">COLOMBIA</organization>
+                <organization refersTo="memberState">COMOROS</organization>
+                <organization refersTo="memberState">CONGO</organization>
+                <organization refersTo="memberState">COSTA RICA</organization>
+                <organization refersTo="memberState">COTE D'IVOIRE</organization>
+                <organization refersTo="memberState">CUBA</organization>
+                <organization refersTo="memberState">DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA</organization>
+                <organization refersTo="memberState">DEMOCRATIC REPUBLIC OF THE CONGO</organization>
+                <organization refersTo="memberState">DJIBOUTI</organization>
+                <organization refersTo="memberState">DOMINICA</organization>
+                <organization refersTo="memberState">DOMINICAN REPUBLIC</organization>
+                <organization refersTo="memberState">ECUADOR</organization>
+                <organization refersTo="memberState">EGYPT</organization>
+                <organization refersTo="memberState">EL SALVADOR</organization>
+                <organization refersTo="memberState">EQUATORIAL GUINEA</organization>
+                <organization refersTo="memberState">ERITREA</organization>
+                <organization refersTo="memberState">ETHIOPIA</organization>
+                <organization refersTo="memberState">FIJI</organization>
+                <organization refersTo="memberState">GABON</organization>
+                <organization refersTo="memberState">GAMBIA</organization>
+                <organization refersTo="memberState">GHANA</organization>
+                <organization refersTo="memberState">GRENADA</organization>
+                <organization refersTo="memberState">GUATEMALA</organization>
+                <organization refersTo="memberState">GUINEA-BISSAU</organization>
+                <organization refersTo="memberState">GUYANA</organization>
+                <organization refersTo="memberState">HAITI</organization>
+                <organization refersTo="memberState">HONDURAS</organization>
+                <organization refersTo="memberState">INDIA</organization>
+                <organization refersTo="memberState">INDONESIA</organization>
+                <organization refersTo="memberState">IRAN (ISLAMIC REPUBLIC OF)</organization>
+                <organization refersTo="memberState">IRAQ</organization>
+                <organization refersTo="memberState">JAMAICA</organization>
+                <organization refersTo="memberState">JORDAN</organization>
+                <organization refersTo="memberState">KAZAKHSTAN</organization>
+                <organization refersTo="memberState">KENYA</organization>
+                <organization refersTo="memberState">KIRIBATI</organization>
+                <organization refersTo="memberState">KUWAIT</organization>
+                <organization refersTo="memberState">KYRGYZSTAN</organization>
+                <organization refersTo="memberState">LAO PEOPLE'S DEMOCRATIC REPUBLIC</organization>
+                <organization refersTo="memberState">LEBANON</organization>
+                <organization refersTo="memberState">LESOTHO</organization>
+                <organization refersTo="memberState">LIBYA</organization>
+                <organization refersTo="memberState">MADAGASCAR</organization>
+                <organization refersTo="memberState">MALAWI</organization>
+                <organization refersTo="memberState">MALAYSIA</organization>
+                <organization refersTo="memberState">MALDIVES</organization>
+                <organization refersTo="memberState">MAURITANIA</organization>
+                <organization refersTo="memberState">MAURITIUS</organization>
+                <organization refersTo="memberState">MEXICO</organization>
+                <organization refersTo="memberState">MONGOLIA</organization>
+                <organization refersTo="memberState">MOROCCO</organization>
+                <organization refersTo="memberState">MOZAMBIQUE</organization>
+                <organization refersTo="memberState">MYANMAR</organization>
+                <organization refersTo="memberState">NAMIBIA</organization>
+                <organization refersTo="memberState">NEPAL</organization>
+                <organization refersTo="memberState">NICARAGUA</organization>
+                <organization refersTo="memberState">NIGER</organization>
+                <organization refersTo="memberState">NIGERIA</organization>
+                <organization refersTo="memberState">OMAN</organization>
+                <organization refersTo="memberState">PAKISTAN</organization>
+                <organization refersTo="memberState">PALAU</organization>
+                <organization refersTo="memberState">PANAMA</organization>
+                <organization refersTo="memberState">PAPUA NEW GUINEA</organization>
+                <organization refersTo="memberState">PARAGUAY</organization>
+                <organization refersTo="memberState">PERU</organization>
+                <organization refersTo="memberState">PHILIPPINES</organization>
+                <organization refersTo="memberState">QATAR</organization>
+                <organization refersTo="memberState">RUSSIAN FEDERATION</organization>
+                <organization refersTo="memberState">RWANDA</organization>
+                <organization refersTo="memberState">SAINT LUCIA</organization>
+                <organization refersTo="memberState">SAINT VINCENT AND THE GRENADINES</organization>
+                <organization refersTo="memberState">SAMOA</organization>
+                <organization refersTo="memberState">SAO TOME AND PRINCIPE</organization>
+                <organization refersTo="memberState">SAUDI ARABIA</organization>
+                <organization refersTo="memberState">SENEGAL</organization>
+                <organization refersTo="memberState">SERBIA</organization>
+                <organization refersTo="memberState">SIERRA LEONE</organization>
+                <organization refersTo="memberState">SINGAPORE</organization>
+                <organization refersTo="memberState">SOLOMON ISLANDS</organization>
+                <organization refersTo="memberState">SOUTH AFRICA</organization>
+                <organization refersTo="memberState">SOUTH SUDAN</organization>
+                <organization refersTo="memberState">SRI LANKA</organization>
+                <organization refersTo="memberState">SUDAN</organization>
+                <organization refersTo="memberState">SURINAME</organization>
+                <organization refersTo="memberState">SYRIAN ARAB REPUBLIC</organization>
+                <organization refersTo="memberState">TAJIKISTAN</organization>
+                <organization refersTo="memberState">THAILAND</organization>
+                <organization refersTo="memberState">TIMOR-LESTE</organization>
+                <organization refersTo="memberState">TOGO</organization>
+                <organization refersTo="memberState">TRINIDAD AND TOBAGO</organization>
+                <organization refersTo="memberState">TUNISIA</organization>
+                <organization refersTo="memberState">TURKEY</organization>
+                <organization refersTo="memberState">TURKMENISTAN</organization>
+                <organization refersTo="memberState">TUVALU</organization>
+                <organization refersTo="memberState">UGANDA</organization>
+                <organization refersTo="memberState">UNITED ARAB EMIRATES</organization>
+                <organization refersTo="memberState">UNITED REPUBLIC OF TANZANIA</organization>
+                <organization refersTo="memberState">URUGUAY</organization>
+                <organization refersTo="memberState">UZBEKISTAN</organization>
+                <organization refersTo="memberState">VANUATU</organization>
+                <organization refersTo="memberState">VIET NAM</organization>
+                <organization refersTo="memberState">YEMEN</organization>
+                <organization refersTo="memberState">ZAMBIA</organization>
+                <organization refersTo="memberState">ZIMBABWE</organization>
+              </akn4un:voters>
+            </count>
+            <count value="31" refersTo="against">
+              <akn4un:voters>
+                <organization refersTo="memberState">ALBANIA</organization>
+                <organization refersTo="memberState">AUSTRALIA</organization>
+                <organization refersTo="memberState">AUSTRIA</organization>
+                <organization refersTo="memberState">BELGIUM</organization>
+                <organization refersTo="memberState">BULGARIA</organization>
+                <organization refersTo="memberState">CANADA</organization>
+                <organization refersTo="memberState">CROATIA</organization>
+                <organization refersTo="memberState">CZECHIA</organization>
+                <organization refersTo="memberState">DENMARK</organization>
+                <organization refersTo="memberState">ESTONIA</organization>
+                <organization refersTo="memberState">FINLAND</organization>
+                <organization refersTo="memberState">FRANCE</organization>
+                <organization refersTo="memberState">GEORGIA</organization>
+                <organization refersTo="memberState">GERMANY</organization>
+                <organization refersTo="memberState">HUNGARY</organization>
+                <organization refersTo="memberState">ISRAEL</organization>
+                <organization refersTo="memberState">JAPAN</organization>
+                <organization refersTo="memberState">LATVIA</organization>
+                <organization refersTo="memberState">LIECHTENSTEIN</organization>
+                <organization refersTo="memberState">LITHUANIA</organization>
+                <organization refersTo="memberState">MONACO</organization>
+                <organization refersTo="memberState">MONTENEGRO</organization>
+                <organization refersTo="memberState">NETHERLANDS</organization>
+                <organization refersTo="memberState">NEW ZEALAND</organization>
+                <organization refersTo="memberState">NORTH MACEDONIA</organization>
+                <organization refersTo="memberState">POLAND</organization>
+                <organization refersTo="memberState">ROMANIA</organization>
+                <organization refersTo="memberState">SLOVAKIA</organization>
+                <organization refersTo="memberState">SLOVENIA</organization>
+                <organization refersTo="memberState">UNITED KINGDOM</organization>
+                <organization refersTo="memberState">UNITED STATES</organization>
+              </akn4un:voters>
+            </count>
+            <count value="18" refersTo="abstaining">
+              <akn4un:voters>
+                <organization refersTo="memberState">ANDORRA</organization>
+                <organization refersTo="memberState">BOSNIA AND HERZEGOVINA</organization>
+                <organization refersTo="memberState">CYPRUS</organization>
+                <organization refersTo="memberState">GREECE</organization>
+                <organization refersTo="memberState">ICELAND</organization>
+                <organization refersTo="memberState">IRELAND</organization>
+                <organization refersTo="memberState">ITALY</organization>
+                <organization refersTo="memberState">LUXEMBOURG</organization>
+                <organization refersTo="memberState">MALTA</organization>
+                <organization refersTo="memberState">NORWAY</organization>
+                <organization refersTo="memberState">PORTUGAL</organization>
+                <organization refersTo="memberState">REPUBLIC OF KOREA</organization>
+                <organization refersTo="memberState">REPUBLIC OF MOLDOVA</organization>
+                <organization refersTo="memberState">SAN MARINO</organization>
+                <organization refersTo="memberState">SPAIN</organization>
+                <organization refersTo="memberState">SWEDEN</organization>
+                <organization refersTo="memberState">SWITZERLAND</organization>
+                <organization refersTo="memberState">UKRAINE</organization>
+              </akn4un:voters>
+            </count>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="noMainCommittee" href="#noMainCommittee" showAs="Without reference to a main committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">20-11527 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/302</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-09-08" class="rightSmall" refersTo="#dateOfIssuance">8 September 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 64 (b)</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">New Partnership for Africa’s Development: progress in implementation and international support: causes of conflict and the promotion of durable peace and sustainable development in Africa</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 3 September 2020</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#noMainCommittee">[without reference to a Main Committee (<inline name="originating document">A/74/L.69/Rev.1 and A/74/L.69/Rev.1/Add.1</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/302.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Implementation of the recommendations contained in the report of the Secretary-General on the causes of conflict and the promotion of durable peace and sustainable development in Africa</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Recalling" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the report of the Open-ended Ad Hoc Working Group on the Causes of Conflict and the Promotion of Durable Peace and Sustainable Development in Africa,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"><span class="italic">Official Records of the General Assembly, Fifty-sixth Session, Supplement No. 45</span> (<a href="https://undocs.org/en/A/56/45">A/56/45</a>).</p></authorialNote> its resolution <a href="https://undocs.org/en/A/RES/53/92">53/92</a> of 7 December 1998 and all subsequent annual resolutions, including resolution <a href="https://undocs.org/en/A/RES/73/336">73/336</a> of 10 September 2019, as well as all its resolutions on the New Partnership for Africa’s Development, including resolution <a href="https://undocs.org/en/A/RES/73/335">73/335</a> of 10 September 2019, and its resolutions <a href="https://undocs.org/en/A/RES/59/213">59/213</a> of 20 December 2004, <a href="https://undocs.org/en/A/RES/63/310">63/310</a> of 14 September 2009, <a href="https://undocs.org/en/A/RES/65/274">65/274</a> of 18 April 2011 and <a href="https://undocs.org/en/A/RES/67/302">67/302</a> of 16 September 2013 on cooperation between the United Nations and the African Union,</p>
+      </container>
+      <container name="Recalling also" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span>, in this context, Security Council resolutions <a href="https://undocs.org/en/S/RES/1809(2008)">1809 (2008)</a> of 16 April 2008 on peace and security in Africa, <a href="https://undocs.org/en/S/RES/1325(2000)">1325 (2000)</a> of 31 October 2000, <a href="https://undocs.org/en/S/RES/1820(2008)">1820 (2008)</a> of 19 June 2008, <a href="https://undocs.org/en/S/RES/1888(2009)">1888 (2009)</a> of 30 September 2009, <a href="https://undocs.org/en/S/RES/1889(2009)">1889 (2009)</a> of 5 October 2009, <a href="https://undocs.org/en/S/RES/1960(2010)">1960 (2010)</a> of 16 December 2010, <a href="https://undocs.org/en/S/RES/2106(2013)">2106 (2013)</a> of 24 June 2013, <a href="https://undocs.org/en/S/RES/2122(2013)">2122 (2013)</a> of 18 October 2013, <a href="https://undocs.org/en/S/RES/2242(2015)">2242 (2015)</a> of 13 October 2015 and <a href="https://undocs.org/en/S/RES/2467(2019)">2467 (2019)</a> of 23 April 2019 on women and peace and security, <a href="https://undocs.org/en/S/RES/2250(2015)">2250 (2015)</a> of 9 December 2015 and <a href="https://undocs.org/en/S/RES/2419(2018)">2419 (2018)</a> of 6 June 2018 on youth, peace and security, <a href="https://undocs.org/en/S/RES/1366(2001)">1366 (2001)</a> of 30 August 2001 on the role of the Council in the prevention of armed conflicts, <a href="https://undocs.org/en/S/RES/1612(2005)">1612 (2005)</a> of 26 July 2005, <a href="https://undocs.org/en/S/RES/1882(2009)">1882 (2009)</a> of 4 August 2009, <a href="https://undocs.org/en/S/RES/1998(2011)">1998 (2011)</a> of 12 July 2011, <a href="https://undocs.org/en/S/RES/2068(2012)">2068 (2012)</a> of 19 September 2012, <a href="https://undocs.org/en/S/RES/2225(2015)">2225 (2015)</a> of 18 June 2015 and <a href="https://undocs.org/en/S/RES/2427(2018)">2427 (2018)</a> of 9 July 2018 on children and armed conflict, <a href="https://undocs.org/en/S/RES/1625(2005)">1625 (2005)</a> of 14 September 2005 on strengthening the effectiveness of the role of the Council in conflict prevention, particularly in Africa, <a href="https://undocs.org/en/S/RES/2195(2014)">2195 (2014)</a> of 19 December 2014 and <a href="https://undocs.org/en/S/RES/2379(2017)">2379 (2017)</a> of 21 September 2017 on threats to international peace and security, <a href="https://undocs.org/en/S/RES/1631(2005)">1631 (2005)</a> of 17 October 2005, <a href="https://undocs.org/en/S/RES/2033(2012)">2033 (2012)</a> of 12 January 2012 and <a href="https://undocs.org/en/S/RES/2320(2016)">2320 (2016)</a> of 18 November 2016, as well as the statements by the President of the Security Council of 16 December 2014<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"><a href="https://undocs.org/en/S/PRST/2014/27">S/PRST/2014/27</a>; see <span class="italic">Resolutions and Decisions of the Security Council, 1 August 2014–31 July 2015</span> (<a href="https://undocs.org/en/S/INF/70">S/INF/70</a>).</p></authorialNote> and 24 May 2016<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"><a href="https://undocs.org/en/S/PRST/2016/8">S/PRST/2016/8</a>; see <span class="italic">Resolutions and Decisions of the Security Council, 1 August 2015–31 December 2016</span> (<a href="https://undocs.org/en/S/INF/71">S/INF/71</a>).</p></authorialNote> on cooperation between the United Nations and regional and subregional organizations in maintaining international peace and security, and resolutions <a href="https://undocs.org/en/S/RES/2167(2014)">2167 (2014)</a> of 28 July 2014 and <a href="https://undocs.org/en/S/RES/2447(2018)">2447 (2018)</a> of 13 December 2018 on United Nations peacekeeping operations,</p>
+      </container>
+      <container name="Recalling further" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Recalling further</span> the United Nations Conference on Sustainable Development, held in Rio de Janeiro, Brazil, from 20 to 22 June 2012, and its outcome document entitled “The future we want”,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/66/288">66/288</a>, annex.</p></authorialNote></p>
+      </container>
+      <container name="Reaffirming" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> its resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a> of 25 September 2015, entitled “Transforming our world: the 2030 Agenda for Sustainable Development”, in which it adopted a comprehensive, far-reaching and people-centred set of universal and transformative Sustainable Development Goals and targets, its commitment to working tirelessly for the full implementation of the Agenda by 2030, its recognition that eradicating poverty in all its forms and dimensions, including extreme poverty, is the greatest global challenge and an indispensable requirement for sustainable development, its commitment to achieving sustainable development in its three dimensions – economic, social and environmental – in a balanced and integrated manner, and to building upon the achievements of the Millennium Development Goals and seeking to address their unfinished business,</p>
+      </container>
+      <container name="Recalling" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the 2015 high-level plenary meeting of the General Assembly on the Sustainable Development Goals and its outcome document,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a>.</p></authorialNote> and recognizing that development, peace and security and human rights are closely interlinked and mutually reinforcing, </p>
+      </container>
+      <container name="Reaffirming" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> its resolution <a href="https://undocs.org/en/A/RES/69/313">69/313</a> of 27 July 2015 on the Addis Ababa Action Agenda of the Third International Conference on Financing for Development, which is an integral part of the 2030 Agenda for Sustainable Development, supports and complements it, and helps to contextualize its means of implementation targets with concrete policies and actions, and reaffirms the strong political commitment to address the challenge of financing and creating an enabling environment at all levels for sustainable development in the spirit of global partnership and solidarity, </p>
+      </container>
+      <container name="Recalling" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the 2005 World Summit Outcome,<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/60/1">60/1</a>.</p></authorialNote> through which world leaders reaffirmed their commitment to addressing the special needs of Africa, and its resolution <a href="https://undocs.org/en/A/RES/60/265">60/265</a> of 30 June 2006,</p>
+      </container>
+      <container name="Reaffirming" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the need to strengthen the synergy between Africa’s economic and social development programmes and its peace and security agenda,</p>
+      </container>
+      <container name="Recognizing" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span>, in particular, the capacity of the African Union and subregional organizations to address the causes of conflict in Africa,</p>
+      </container>
+      <container name="Reaffirming" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the political declaration on Africa’s development needs adopted at the high-level meeting on 22 September 2008,<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/63/1">63/1</a>.</p></authorialNote></p>
+      </container>
+      <container name="Recalling" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolution <a href="https://undocs.org/en/A/RES/66/293">66/293</a> of 17 September 2012 establishing a monitoring mechanism to review commitments made towards Africa’s development, </p>
+      </container>
+      <container name="Reaffirming" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the political declaration on the peaceful resolution of conflicts in Africa adopted at the high-level meeting of the General Assembly held on 25 April 2013,<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/67/259">67/259</a>.</p></authorialNote></p>
+      </container>
+      <container name="Reaffirming also" eId="container_14">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming also</span> the importance of supporting the African Union Agenda 2063, as a strategic vision and an action plan for ensuring a positive socioeconomic transformation in Africa by 2063, and acknowledging the emphasis in Agenda 2063 on peace and security as critical enablers for sustainable development, </p>
+      </container>
+      <container name="Stressing" eId="container_15">
+        <p xml:space="preserve">
+          <span class="italic">Stressing</span> that the responsibility for peace and security in Africa, including the capacity to address the root causes of conflict and to resolve conflicts in a peaceful manner, lies primarily with African countries, while recognizing the need for the provision of support by the international community and the United Nations, taking into account the responsibilities of the Organization in this regard according to the Charter of the United Nations,</p>
+      </container>
+      <container name="Underscoring" eId="container_16">
+        <p xml:space="preserve">
+          <span class="italic">Underscoring</span> the importance of continuing the efforts of the African Union and subregional organizations to prevent and settle conflicts and promote human rights, democracy, the rule of law and constitutional order in Africa,</p>
+      </container>
+      <container name="Noting" eId="container_17">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> that, despite the positive trends and advances in obtaining durable peace in Africa, the conditions required for sustainable development have yet to be consolidated throughout the continent and that there is therefore an urgent need to continue to develop African human and institutional capacities, particularly in countries emerging from conflict,</p>
+      </container>
+      <container name="Reaffirming" eId="container_18">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the commitment to ensure that there will be no tolerance for impunity for genocide, war crimes and crimes against humanity or for violations of international humanitarian law and gross violations of human rights law, and that such violations will be properly investigated and appropriately sanctioned, including by bringing the perpetrators of any crimes to justice, through national mechanisms or, where appropriate, regional or international mechanisms, in accordance with international law, and for that purpose encouraging Member States to strengthen national judicial systems and institutions,</p>
+      </container>
+      <container name="Underscoring" eId="container_19">
+        <p xml:space="preserve">
+          <span class="italic">Underscoring</span> the importance of taking into account lessons learned from the 1994 genocide against the Tutsi in Rwanda, during which Hutu and others who opposed the genocide were also killed,</p>
+      </container>
+      <container name="Recognizing" eId="container_20">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the importance of aligning international support with Africa’s own priorities, including but not limited to industrialization, equal access to work opportunities, youth employment, access to quality education and high-quality and resilient infrastructure, the eradication of poverty, environmentally sustainable and climate-resilient economies and communities, and the reduction of inequalities, aimed at the implementation of the 2030 Agenda for Sustainable Development through action-oriented efforts,</p>
+      </container>
+      <container name="Underlining" eId="container_21">
+        <p xml:space="preserve">
+          <span class="italic">Underlining</span> the importance of enhancing national and regional initiatives, with international support, to address the negative implications of the illegal exploitation of natural resources in all its aspects for peace, security and development in Africa, and condemning the illicit trade in and proliferation of arms, especially small arms and light weapons, </p>
+      </container>
+      <container name="Acknowledging" eId="container_22">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging</span> that the achievement of durable peace and sustainable development in countries affected by conflict, in conflict and in post-conflict situations requires that national Governments and international partners continue to develop coordinated approaches tailored to the peacebuilding needs and challenges faced by those countries, </p>
+      </container>
+      <container name="Emphasizing" eId="container_23">
+        <p xml:space="preserve">
+          <span class="italic">Emphasizing</span> the importance of a comprehensive approach to sustaining peace, particularly through the prevention of conflict and addressing its root causes, strengthening the rule of law at the international and national levels, and promoting sustained and sustainable economic growth, poverty eradication, social development, sustainable development, national reconciliation and unity, including through inclusive dialogue and mediation, access to justice and transitional justice, accountability, good governance, democracy, accountable institutions, gender equality and respect for, and protection of, human rights and fundamental freedoms, </p>
+      </container>
+      <container name="Recognizing" eId="container_24">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that effective peacebuilding must involve the entire United Nations system, consistent with the respective mandates of missions and the Charter, and in this regard emphasizing the importance of joint analysis and effective strategic planning across the United Nations system in its long-term engagement in conflict-affected countries, and where appropriate, in cooperation and coordination with regional and subregional organizations,</p>
+      </container>
+      <container name="Reaffirming" eId="container_25">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span>, in this regard, the importance of the Peacebuilding Commission as a dedicated intergovernmental advisory body to address, within its existing mandate and in an integrated manner, the special needs of countries affected by conflict and to assist them in laying the foundation for peace and sustainable development, taking into consideration national priorities and the principle of national ownership,</p>
+      </container>
+      <container name="Welcoming" eId="container_26">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the work of the Peacebuilding Commission in bringing a strategic approach and coherence to international peacebuilding efforts, and recognizing the valuable work done in all its configurations and meetings,</p>
+      </container>
+      <container name="Reaffirming" eId="container_27">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the primary responsibility of national Governments and authorities in identifying, driving and directing priorities, strategies and activities for peacebuilding and sustaining peace, and in this regard emphasizing that inclusivity is key to advancing national peacebuilding processes and objectives in order to ensure that the needs of all segments of society are taken into account,</p>
+      </container>
+      <container name="Recalling" eId="container_28">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the adoption of Security Council resolution <a href="https://undocs.org/en/S/RES/2413(2018)">2413 (2018)</a> and General Assembly resolution <a href="https://undocs.org/en/A/RES/72/276">72/276</a>, on 26 April 2018, reaffirming Council resolution <a href="https://undocs.org/en/S/RES/2282(2016)">2282 (2016)</a> and Assembly resolution <a href="https://undocs.org/en/A/RES/70/262">70/262</a>, both of 27 April 2016, on the review of the United Nations peacebuilding architecture, affirming the importance of peacebuilding and sustaining peace, and recognizing the importance of their implementation for strengthening the Peacebuilding Commission and enabling it to realize its full potential, in accordance with Assembly resolution <a href="https://undocs.org/en/A/RES/60/180">60/180</a> and Council resolution <a href="https://undocs.org/en/S/RES/1645(2005)">1645 (2005)</a>, both of 20 December 2005, and Assembly resolution <a href="https://undocs.org/en/A/RES/65/7">65/7</a> and Council resolution <a href="https://undocs.org/en/S/RES/1947(2010)">1947 (2010)</a>, both of 29 October 2010, and in this regard welcoming the workshop on the theme “Peacebuilding and sustaining peace in Africa: towards a coherent approach to the peace continuum”, held in Addis Ababa on 12 and 13 November 2019, which provided perspectives from Africa on the 2020 review process and the need to consolidate the regional dimension in the activities of the Peacebuilding Commission in Africa,</p>
+      </container>
+      <container name="Renewing its unwavering commitment" eId="container_29">
+        <p xml:space="preserve">
+          <span class="italic">Renewing its unwavering commitment</span> to strengthening international cooperation to prevent and combat terrorism in all its forms and manifestations, and reaffirming that any acts of terrorism are criminal and unjustifiable, regardless of their motivation, wherever, whenever and by whomsoever committed,</p>
+      </container>
+      <container name="Recognizing" eId="container_30">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that international cooperation and any measures taken by Member States to prevent and combat terrorism, as well as to prevent violent extremism as and when conducive to terrorism, must fully comply with their obligations under international law, including the Charter, in particular the purposes and principles thereof, and relevant international conventions and protocols, as well as their obligations under international human rights law, refugee law and international humanitarian law, </p>
+      </container>
+      <container name="Reaffirming" eId="container_31">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> that terrorism and violent extremism as and when conducive to terrorism cannot and should not be associated with any religion, nationality, civilization or ethnic group,</p>
+      </container>
+      <container name="Encouraging" eId="container_32">
+        <p xml:space="preserve">
+          <span class="italic">Encouraging</span> the United Nations system, the African Union and subregional organizations to enhance their interaction with civil society, including women’s and youth associations, academia and research institutions, on issues relevant to the promotion of peace, security and sustainable development in Africa, and welcoming the ongoing efforts in this regard, including by the Office of the Special Adviser on Africa,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_33" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_33__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of the report of the Secretary-General on the implementation of the recommendations contained in his report on the causes of conflict and the promotion of durable peace and sustainable development in Africa;<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/301">A/74/301-S/2019/645</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_34" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_34__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> the adoption of the African Union Agenda 2063 and its first 10‑year implementation plan (2014–2023), which outlines key African flagship projects, fast-track programmes, priority areas, specific targets and African strategies and policy measures at all levels, and acknowledges the importance of supporting the implementation of the plan;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_35" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_35__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span>, in this regard, the high-level events organized during the 2020 Africa Dialogue Series on the theme “COVID-19 and silencing the guns in Africa: challenges and opportunities”, organized by the Office of the Special Adviser on Africa, in close partnership with the African Union Commission, the African Union Development Agency, the African Peer Review Mechanism, regional economic communities and the United Nations system;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_36" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_36__content">
+          <p xml:space="preserve">
+            <span class="italic">Also welcomes</span> the progress made by African countries, the African Union and subregional organizations in conflict prevention, peacemaking, peacekeeping, peacebuilding and development, calls for intensified efforts and a coordinated approach among national Governments, the African Union, subregional organizations, the United Nations system and relevant partners in addressing those challenges, with a view to achieving further progress towards the goal of a conflict-free Africa, and in this regard recognizes the important role played by civil society organizations, including women’s organizations; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_37" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_37__content">
+          <p xml:space="preserve">
+            <span class="italic">Stresses</span> the importance of creating an environment conducive to national reconciliation, transitional justice and social and economic recovery in countries emerging from conflict, and calls upon the United Nations system, the international community and all partners to support the efforts of African countries to promote political, social and economic inclusion;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_38" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_38__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> that international and regional efforts to prevent conflict and consolidate peace in Africa should be channelled towards the sustainable development of Africa and the human and institutional capacity-building of African countries and organizations, particularly in priority areas identified at the continental level;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_39" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_39__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> African Governments to strengthen structures and policies in order to create an environment conducive to the promotion of sustainable, inclusive economic growth and to attracting foreign direct investment, and invites the international community to assist in that process by providing adequate financial and technical assistance and by renewing its commitment to efforts aimed at combating the illegal exploitation of the natural resources of those countries, in conformity with international law;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_40" class="SingleTxt">
+        <num>	8.</num>
+        <content eId="para_40__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> the international community to enhance support and fulfil its commitments to take further action in areas critical to Africa’s economic and social development, in the spirit of win-win cooperation and to create a shared future, based upon our common humanity, and welcomes the efforts by development partners to strengthen cooperation with the New Partnership for Africa’s Development;<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve"><a href="https://undocs.org/en/A/57/304">A/57/304</a>, annex.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_41" class="SingleTxt">
+        <num>	9.</num>
+        <content eId="para_41__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> the need for African countries to make continued efforts to create enabling environments for inclusive growth in support of sustainable development and for the international community to make continued efforts to increase the flow of new and additional resources for financing for development from all sources, public and private, domestic and foreign, to support those development efforts by African countries, and welcomes the various important initiatives established between African countries and their development partners in this regard; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_42" class="SingleTxt">
+        <num>	10.</num>
+        <content eId="para_42__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> continued support for measures to address the challenges of poverty eradication and hunger, decent job creation and sustainable development in Africa, including, as appropriate, debt relief, improved market access, regional integration and intra-African trade, including through the African Continental Free Trade Area, support for the private sector and entrepreneurship, fulfilment of commitments on official development assistance and increased flows of foreign direct investment and transfer of technology on mutually agreed terms;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_43" class="SingleTxt">
+        <num>	11.</num>
+        <content eId="para_43__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span>, in this regard, the high-level expert group meeting on the theme “Tackling the socioeconomic root causes of conflict towards achieving the goal of a conflict-free Africa in the context of the implementation of Africa’s transformative Agenda 2063 and the global 2030 Agenda for Sustainable Development”, held in Cairo on 16 and 17 November 2015;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_44" class="SingleTxt">
+        <num>	12.</num>
+        <content eId="para_44__content">
+          <p xml:space="preserve">
+            <span class="italic">Underlines</span> the importance of the strategic partnerships among the United Nations, the African Union and the regional economic communities, including in promoting an integrated and coherent implementation of the 2030 Agenda for Sustainable Development<sup>5</sup> and the African Union Agenda 2063;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_45" class="SingleTxt">
+        <num>	13.</num>
+        <content eId="para_45__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> the adverse effects of climate change and natural disasters on the sustainable development of African Member States, including through drought, desertification, biodiversity loss, land degradation, flooding and food insecurity, and emphasizes the need for adequate risk assessment and risk management strategies by the respective Governments of African Member States and the United Nations; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_46" class="SingleTxt">
+        <num>	14.</num>
+        <content eId="para_46__content">
+          <p xml:space="preserve">
+            <span class="italic">Underlines</span> the need to address the economic, social and environmental impact of climate change, desertification and land degradation in Africa, and highlights the importance of supporting efforts to strengthen the implementation of initiatives aimed at enhancing resilience in Africa, in particular the Comprehensive Africa Agriculture Development Programme and other initiatives launched under the leadership of the African Union Commission such as the Great Green Wall and the Land Policy Initiative, as well as initiatives launched by African countries such as the Adaptation of African Agriculture and the Security, Stability and Sustainability initiatives; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_47" class="SingleTxt">
+        <num>	15.</num>
+        <content eId="para_47__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span>, in this regard, the endorsement by African Heads of State and Government of the Inter-Basin Water Transfer initiative, as a pan-African project to restore Lake Chad and promote its navigation and industrial and economic development, and encourages relevant United Nations entities and development partners to support such African-oriented initiatives for stabilization, recovery and climate resilience;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_48" class="SingleTxt">
+        <num>	16.</num>
+        <content eId="para_48__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> the African Union Convention for the Protection and Assistance of Internally Displaced Persons in Africa, which entered into force on 6 December 2012, and the Kampala Declaration on Refugees, Returnees and Internally Displaced Persons in Africa, adopted on 23 October 2009;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_49" class="SingleTxt">
+        <num>	17.</num>
+        <content eId="para_49__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> the need to promote and protect effectively the human rights and fundamental freedoms of all migrants, regardless of their migration status, especially those of women and children, and to address international migration through international, regional or bilateral cooperation and dialogue and through a comprehensive and balanced approach, recognizing the roles and responsibilities of countries of origin, transit and destination in promoting and protecting the human rights of all migrants and avoiding approaches that might aggravate their vulnerability, and recognizes in this regard the importance of the New York Declaration for Refugees and Migrants, adopted at the high-level plenary meeting of the General Assembly on addressing large movements of refugees and migrants, held on 19 September 2016;<authorialNote marker="11" placement="bottom" eId="authorialNote_11"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/71/1">71/1</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_50" class="SingleTxt">
+        <num>	18.</num>
+        <content eId="para_50__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls for</span> the safeguarding of the principle of refugee protection in Africa and the resolution of the plight of refugees, including through support for efforts aimed at addressing the causes of refugee movement and bringing about the voluntary, dignified, safe and sustainable return and reintegration of those populations, and calls upon the international community, including Member States, the Office of the United Nations High Commissioner for Refugees and other relevant United Nations organizations, within their respective mandates, to take concrete action to meet the protection and assistance needs of refugees, returnees and internally displaced persons and stateless persons and to contribute generously to projects and programmes aimed at alleviating their plight, facilitating durable solutions for refugees and internally displaced persons and supporting vulnerable local host communities;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_51" class="SingleTxt">
+        <num>	19.</num>
+        <content eId="para_51__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> the convening of the intergovernmental conference held on 10 and 11 December 2018 in Marrakech, Morocco, and recalls that it adopted the Global Compact for Safe, Orderly and Regular Migration, also known as the Marrakech Compact on Migration;<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/73/195">73/195</a>, annex.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_52" class="SingleTxt">
+        <num>	20.</num>
+        <content eId="para_52__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> the adoption of its resolution <a href="https://undocs.org/en/A/RES/73/150">73/150</a> of 17 December 2018 on assistance to refugees, returnees and displaced persons in Africa, and further recalls the decision of African Heads of State and Government to proclaim 2019 the African Year of Refugees, Returnees and Internally Displaced Persons: Towards Durable Solutions to Forced Displacement in Africa;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_53" class="SingleTxt">
+        <num>	21.</num>
+        <content eId="para_53__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes</span> the opportunities presented by Africa’s demographic structure, and stresses the importance of addressing the socioeconomic dimension of youth unemployment as well as facilitating the enhanced participation of youth in decision-making processes, with a view to addressing social, political and economic challenges, including the eradication of child labour and gender stereotypes;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_54" class="SingleTxt">
+        <num>	22.</num>
+        <content eId="para_54__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> the important and positive contribution of youth to the efforts for the maintenance and promotion of peace and security and the role young people play in the prevention and resolution of conflicts, and as a key aspect of the sustainability, inclusiveness and success of peacekeeping and peacebuilding efforts, as well as in post-conflict situations, and encourages all those involved in planning for disarmament, demobilization and reintegration to consider the needs of youth affected by armed conflict, including the problem of youth unemployment on the continent, by investing in building young people’s capabilities and skills to meet labour demands through relevant education opportunities designed in a manner that promotes a culture of peace;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_55" class="SingleTxt">
+        <num>	23.</num>
+        <content eId="para_55__content">
+          <p xml:space="preserve">
+            <span class="italic">Expresses grave concern</span> about the growing threat posed by terrorism, violent extremism as and when conducive to terrorism, and foreign terrorist fighters to the peace, security and social and economic development of Africa;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_56" class="SingleTxt">
+        <num>	24.</num>
+        <content eId="para_56__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> the initiative by the Secretary-General and his Plan of Action to Prevent Violent Extremism;<authorialNote marker="13" placement="bottom" eId="authorialNote_13"><p xml:space="preserve">	 	See <a href="https://undocs.org/en/A/70/674">A/70/674</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_57" class="SingleTxt">
+        <num>	25.</num>
+        <content eId="para_57__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> relevant United Nations entities, within their existing mandates, to intensify cooperation, assistance and capacity-building, for African Member States, the African Union and African subregional organizations, upon their request, in the fight against terrorism and violent extremism as and when conducive to terrorism, through the implementation of relevant international and regional treaties and protocols, and in this regard welcomes in particular African initiatives, namely the African Union Plan of Action on the Prevention and Combating of Terrorism in Africa, the African Centre for Studies and Research on Terrorism, based in Algiers, and the Intergovernmental Authority on Development Centre of Excellence in Preventing and Countering Violent Extremism in the Horn of Africa, based in Djibouti, as well as the Community of Sahel-Saharan States Counter-Terrorism Centre, based in Cairo;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_58" class="SingleTxt">
+        <num>	26.</num>
+        <content eId="para_58__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> the decision on the establishment of the African Union Special Fund on the Prevention and Combating of Terrorism and Violent Extremism in Africa, adopted in Kigali in July 2016, and encourages the United Nations system and Member States to support the efforts of the African Union in this regard;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_59" class="SingleTxt">
+        <num>	27.</num>
+        <content eId="para_59__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes</span> the ongoing efforts of the African Union, in collaboration with regional economic communities and development partners, including the United Nations system, to “silence the guns in Africa by 2020”, and welcomes the African Union summit decision, adopted in February 2020, proclaiming “Silencing the guns: creating conducive conditions for Africa’s development” as the theme for 2020, as well as the African Union decision on the implementation of the African Union Master Road Map of Practical Steps for Silencing the Guns in Africa by 2020, and calls upon Member States and the United Nations system, as appropriate, to intensify their support and cooperation with African countries, the African Union and the African regional economic communities and relevant regional mechanisms towards the timely realization of this goal;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_60" class="SingleTxt">
+        <num>	28.</num>
+        <content eId="para_60__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of the convening of a general debate on cooperation between the United Nations and regional and subregional organizations in maintaining international peace and security: silencing the guns in Africa by the Security Council, and welcomes its adoption of resolution <a href="https://undocs.org/en/S/RES/2457(2019)">2457 (2019)</a> on 27 February 2019;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_61" class="SingleTxt">
+        <num>	29.</num>
+        <content eId="para_61__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes</span> that in some armed conflict situations, the illicit exploitation, trafficking and trade in natural resources has contributed to the outbreak, escalation or continuation of such conflicts, and further notes resolutions adopted on this issue to support the prevention of the illegal exploitation of natural resources;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_62" class="SingleTxt">
+        <num>	30.</num>
+        <content eId="para_62__content">
+          <p xml:space="preserve">
+            <span class="italic">Stresses</span> the critical importance of a regional approach to conflict prevention, in particular with respect to cross-border issues such as transnational organized crime, drug trafficking, disarmament, demobilization, repatriation, resettlement and reintegration programmes, the prevention of illegal exploitation of natural resources and trafficking in high-value commodities and the illicit trade in small arms and light weapons in all its aspects, and emphasizes in this regard the central role of the African Union and subregional organizations in addressing such issues;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_63" class="SingleTxt">
+        <num>	31.</num>
+        <content eId="para_63__content">
+          <p xml:space="preserve">
+            <span class="italic">Emphasizes</span> that the illicit flow of arms, particularly small arms and light weapons, to rebel armed groups, terrorists and criminals contributes significantly to insecurity and violence in various parts of Africa and undermines social cohesion, public security, socioeconomic development and the normal functioning of State institutions;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_64" class="SingleTxt">
+        <num>	32.</num>
+        <content eId="para_64__content">
+          <p xml:space="preserve">
+            <span class="italic">Underlines</span> the link in certain circumstances between illicit financial flows, organized crime, transnational crime, terrorism, poaching and the illicit proliferation of conventional weapons, and in this regard urges Member States to take effective measures to holistically address all root causes of conflicts and redouble efforts to effectively curb the illicit flow of conventional weapons into and within Africa, including by taking the necessary steps at the national level to implement the Programme of Action to Prevent, Combat and Eradicate the Illicit Trade in Small Arms and Light Weapons in All Its Aspects;<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve"><span class="italic">Report of the United Nations Conference on the Illicit Trade in Small Arms and Light Weapons in All Its Aspects, New York, 9–20 July 2001</span> (<a href="https://undocs.org/en/A/CONF.192/15">A/CONF.192/15</a>), chap. IV, para. 24.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_65" class="SingleTxt">
+        <num>	33.</num>
+        <content eId="para_65__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> the United Nations system, and invites Member States, to assist African countries emerging from conflict, upon their request as appropriate, in their efforts to build national capacities, including through national security sector reform strategies, transitional justice and the disarmament, demobilization and reintegration of ex-combatants, including children formerly associated with armed forces or armed groups;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_66" class="SingleTxt">
+        <num>	34.</num>
+        <content eId="para_66__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the ongoing efforts of the African Union and subregional organizations to strengthen their capacity in peacekeeping operations on the continent, in accordance with Chapter VIII of the Charter of the United Nations and in close coordination with the United Nations, through the Peace and Security Council of the African Union, as well as the ongoing efforts to develop a continental early warning system, strengthen the readiness of the African Standby Force and enhance mediation capacity and preventive diplomacy, including through the Panel of the Wise;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_67" class="SingleTxt">
+        <num>	35.</num>
+        <content eId="para_67__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> the growing and emerging challenges and risks facing United Nations peacekeeping operations and political missions, and in this regard recalls the Action for Peacekeeping initiative, the report of the High-level Independent Panel on Peace Operations<authorialNote marker="15" placement="bottom" eId="authorialNote_15"><p xml:space="preserve">	 	See <a href="https://undocs.org/en/A/70/95">A/70/95-S/2015/446</a>.</p></authorialNote> and the report of the Secretary-General entitled “The future of United Nations peace operations: implementation of the recommendations of the High-level Independent Panel on Peace Operations”,<authorialNote marker="16" placement="bottom" eId="authorialNote_16"><p xml:space="preserve"><a href="https://undocs.org/en/A/70/357">A/70/357-S/2015/682</a>.</p></authorialNote> as well as recommendations supported by Member States in the report of the Special Committee on Peacekeeping Operations,<authorialNote marker="17" placement="bottom" eId="authorialNote_17"><p xml:space="preserve"><span class="italic">Official Records of the General Assembly, Seventy-fourth Session, Supplement No. 19</span> (<a href="https://undocs.org/en/A/74/19">A/74/19</a>).</p></authorialNote> in particular on prevention, mediation and stronger global regional partnerships, including between the United Nations and the African Union, and encourages the Security Council, as appropriate, to consult with relevant regional organizations, particularly the African Union, especially if transitioning from a regional to a United Nations peacekeeping operation;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_68" class="SingleTxt">
+        <num>	36.</num>
+        <content eId="para_68__content">
+          <p xml:space="preserve">
+            <span class="italic">Also recognizes</span> the role of the Peacebuilding Commission in ensuring that national ownership of the peacebuilding process in countries under consideration is observed and that nationally identified priorities are at the core of international and regional efforts in peacebuilding and sustaining peace in the countries under consideration, notes the important steps taken by the Commission in engaging with a broad range of country and regional situations, and calls for sustained regional and international commitment to the implementation of nationally identified peacebuilding priorities;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_69" class="SingleTxt">
+        <num>	37.</num>
+        <content eId="para_69__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the bridging role of the Peacebuilding Commission as a dedicated intergovernmental advisory body to bring together all the relevant actors in the United Nations system in accordance with its mandate to promote a strategic approach and coherence in international peacebuilding efforts, and invites in this regard the Commission, in exercising its advisory role to the General Assembly, to provide written input/advice on the engagement of the Commission in efforts aimed at addressing the root causes of conflicts and building peace in Africa, for the consideration by the General Assembly at upcoming sessions of the item on the causes of conflict and the promotion of durable peace and sustainable development in Africa;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_70" class="SingleTxt">
+        <num>	38.</num>
+        <content eId="para_70__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> the progress made by the Peacebuilding Commission in enhancing its relationship with regional and subregional organizations in Africa, in particular the African Union, and in this regard recalls the signing of a memorandum of understanding on peacebuilding between the Peacebuilding Support Office and the African Union Commission on 18 September 2017 with a view to strengthening the collaboration between the United Nations and the African Union to provide a framework and strengthen cooperation in support of peacebuilding and sustaining peace efforts in Africa;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_71" class="SingleTxt">
+        <num>	39.</num>
+        <content eId="para_71__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span>, in this regard, decision Assembly/AU/Dec.729(XXXII) of 11 February 2019 of the Assembly of Heads of State and Government of the African Union on revitalizing and operationalizing the African Union Policy on Post-Conflict Reconstruction and Development, while aligning it with the evolving international discourse on peacebuilding and sustaining peace and the actual needs of countries emerging from conflict in Africa, and calls upon the United Nations system and Member States to support the peace consolidation mechanisms and processes, including the African Peace and Security Architecture, the African Governance Architecture, the African Union Post-Conflict Reconstruction and Development Framework and the African Union Centre for Post-Conflict Reconstruction and Development, in order to fully contribute to conflict prevention, peacemaking initiatives, peacebuilding and post-conflict reconstruction;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_72" class="SingleTxt">
+        <num>	40.</num>
+        <content eId="para_72__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to assist African countries in post-conflict situations, at their request, in achieving a smooth transition from relief to development and to support relevant United Nations bodies, including the Peacebuilding Commission, and encourage increased efforts to support ongoing regional efforts to build African mediation and negotiation capacity;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_73" class="SingleTxt">
+        <num>	41.</num>
+        <content eId="para_73__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> the United Nations system and Member States to support the African Union in its effort to effectively integrate training in international humanitarian law and international human rights law, with particular emphasis on the rights of women and children, into the training of civilian, police and military personnel of national standby contingents at both the operational and tactical levels, as set out in article 13 of the Protocol relating to the Establishment of the Peace and Security Council of the African Union;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_74" class="SingleTxt">
+        <num>	42.</num>
+        <content eId="para_74__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes with concern</span> that conflict-related sexual violence continues and may increase even as armed conflicts draw to an end, urges further progress in the implementation of policies and guidelines relating to the protection of and assistance to women and children in conflict and post-conflict situations in Africa, including more systematic monitoring and reporting, notes the adoption by the General Assembly and the Security Council of relevant resolutions, including Council resolution <a href="https://undocs.org/en/S/RES/2467(2019)">2467 (2019)</a>, and encourages the entities that compose United Nations Action against Sexual Violence in Conflict, as well as other relevant parts of the United Nations system, to assist the Special Representative of the Secretary-General on Sexual Violence in Conflict in the implementation of her mandate, including in Africa; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_75" class="SingleTxt">
+        <num>	43.</num>
+        <content eId="para_75__content">
+          <p xml:space="preserve">
+            <span class="italic">Reiterates</span> the calls for the full, effective and meaningful participation of women in conflict prevention and resolution, peacekeeping and peacebuilding, consistent with relevant Security Council resolutions, including resolutions <a href="https://undocs.org/en/S/RES/1325(2000)">1325 (2000)</a>, <a href="https://undocs.org/en/S/RES/1820(2008)">1820 (2008)</a> and <a href="https://undocs.org/en/S/RES/2242(2015)">2242 (2015)</a> on women and peace and security, and recalls in this regard the report of the Secretary-General containing the results of the global study on the implementation of resolution <a href="https://undocs.org/en/S/RES/1325(2000)">1325 (2000)</a>,<authorialNote marker="18" placement="bottom" eId="authorialNote_18"><p xml:space="preserve"><a href="https://undocs.org/en/S/2015/716">S/2015/716</a>.</p></authorialNote> recognizes with appreciation all the work undertaken for the global study, and encourages follow-up of its recommendations;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_76" class="SingleTxt">
+        <num>	44.</num>
+        <content eId="para_76__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> the ongoing efforts of African countries and the African Union, including the work of the African Union Special Envoy on Women, Peace and Security, to ensure the protection of the rights of women in conflict and post-conflict situations, recalls in this regard the adoption of national action plans on women, peace and security by several African countries, the various initiatives of the African Union, the adoption and entry into force of the Protocol to the African Charter on Human and Peoples’ Rights on the Rights of Women in Africa, the Solemn Declaration on Gender Equality in Africa, the African Union Gender Policy, the African Union five-year Gender, Peace and Security Programme, 2015–2020, and the Southern African Development Community Protocol on Gender and Development, as well as the Framework of Cooperation concerning the Prevention and Response to Conflict-related Sexual Violence in Africa signed by the African Union Commission and the United Nations, stresses the significance of those instruments for all countries in Africa for strengthening the role of women in peace and conflict prevention on the continent, and strongly urges the United Nations and all relevant parties to redouble their efforts and provide support in this regard;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_77" class="SingleTxt">
+        <num>	45.</num>
+        <content eId="para_77__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes with concern</span> the tragic plight of children in conflict situations in Africa, in particular the phenomenon of the recruitment and use of children by parties to armed conflicts, sexual exploitation and abuse, as well as other violations and abuses committed against children, and in this regard takes note of efforts aimed at promoting education and the right to education and facilitating the continuation of education in situations of armed conflict and protracted crises, stresses the need for the protection of children in armed conflicts and for ensuring that the protection and rights of children in armed conflicts are integrated into all peace processes, also stresses the need for post-conflict, reintegration, rehabilitation and education, with due regard for the relevant resolutions of the General Assembly and the Security Council, and encourages the relevant parts of the United Nations system to assist the Special Representative of the Secretary-General for Children and Armed Conflict in the implementation of her mandate, including in Africa;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_78" class="SingleTxt">
+        <num>	46.</num>
+        <content eId="para_78__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span>, in this regard, the ongoing efforts of the African Union to ensure the protection of children in armed conflict and post-conflict situations, recalls the adoption and entry into force of the African Charter on the Rights and Welfare of the Child, as well as the declaration signed on 17 September 2013 by the Office of the Special Representative of the Secretary-General for Children and Armed Conflict and the Peace and Security Department of the African Union Commission, in order to mainstream protection mechanisms in all peace and security activities of the African Union, in close partnership with the United Nations Children’s Fund, and stresses the significance of those instruments for all countries in Africa in protecting children affected by armed conflicts on the continent;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_79" class="SingleTxt">
+        <num>	47.</num>
+        <content eId="para_79__content">
+          <p xml:space="preserve">
+            <span class="italic">Acknowledges</span> the particular challenges that infectious disease outbreaks, including the Ebola virus disease and especially the impact of the coronavirus disease (COVID-19) pandemic, pose in conflict-affected areas and their effect on health crisis management, as health systems in areas of conflict are often compromised and ill‑equipped to deal with the threat posed by infectious disease outbreaks, and strongly condemns violent attacks and threats directed against medical personnel and facilities, which have long-term consequences for the civilian population and the health-care systems of the countries concerned, as well as for the neighbouring regions, and have a negative impact on sustainable development;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_80" class="SingleTxt">
+        <num>	48.</num>
+        <content eId="para_80__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> African-led initiatives to strengthen political, economic and corporate governance, such as the African Charter on Democracy, Elections and Governance and the African Peer Review Mechanism, encourages more African countries to participate in this process, and calls upon the United Nations system and Member States to assist African countries and regional and subregional organizations, upon their request, in their ongoing efforts to promote democracy, constitutional order and the rule of law, to enhance good governance and to continue to fight against impunity, as well as in the holding of free, fair, inclusive, peaceful and transparent elections;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_81" class="SingleTxt">
+        <num>	49.</num>
+        <content eId="para_81__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span>, in this regard, the important contribution of the African Peer Review Mechanism since its inception in improving governance and supporting socioeconomic development in African countries, and takes note of the decision adopted by the Assembly of Heads of State and Government of the African Union in January 2017 on the revitalization of the African Peer Review Mechanism, expanding the monitoring and evaluation mandate of the Mechanism, and invites the United Nations system and Member States to provide voluntary substantial financial and capacity-building support to the Mechanism to advance its activities;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_82" class="SingleTxt">
+        <num>	50.</num>
+        <content eId="para_82__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> the importance of the role of the Interdepartmental Task Force on African Affairs and the Regional Coordination Mechanism for Africa in ensuring greater coherence and coordination of United Nations system support to Africa, including support to the African Union, particularly in the areas of conflict prevention and conflict resolution, human rights, governance and the rule of law, and post-conflict reconstruction and development;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_83" class="SingleTxt">
+        <num>	51.</num>
+        <content eId="para_83__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> the commitment of the African leaders to Africa’s political, social and economic integration agenda and to the ideal of pan-Africanism and African renaissance, as well as their effort to achieve the goal of a conflict-free Africa by 2020, as affirmed in the solemn declaration adopted on 26 May 2013 on the occasion of the fiftieth anniversary of the Organization of African Unity/African Union, expresses its readiness to contribute, and calls upon all, in particular relevant United Nations entities, to help to achieve this goal;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_84" class="SingleTxt">
+        <num>	52.</num>
+        <content eId="para_84__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> the adoption of its resolution <a href="https://undocs.org/en/A/RES/71/254">71/254</a> of 23 December 2016 on the Framework for a Renewed United Nations-African Union Partnership on Africa’s Integration and Development Agenda 2017–2027, and calls upon the Secretary-General to provide, as appropriate, predictable support for full, effective and efficient implementation of the Framework;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_85" class="SingleTxt">
+        <num>	53.</num>
+        <content eId="para_85__content">
+          <p xml:space="preserve">
+            <span class="italic">Also recalls</span> relevant resolutions on the strengthening of cooperation and communication between the United Nations and regional and subregional organizations or arrangements, and encourages enhanced coordination and cooperation in advocacy and in the mobilization of the support of the international community for African countries and towards the priorities of their continental and regional institutions;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_86" class="SingleTxt">
+        <num>	54.</num>
+        <content eId="para_86__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> the United Nations system and Member States, bilateral and multilateral partners and new partners to deliver expeditiously on commitments and to ensure the full and speedy implementation of the provisions of the political declaration on Africa’s development needs,<sup>7</sup> as well as the implementation of the New Partnership for Africa’s Development;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_87" class="SingleTxt">
+        <num>	55.</num>
+        <content eId="para_87__content">
+          <p xml:space="preserve">
+            <span class="italic">Emphasizes</span> the importance of deepening cooperation between the United Nations and the African Union, based on consultations, regular meetings at all levels, shared analysis, comparative advantages and division of labour to better address today’s challenges, in accordance with Chapter VIII of the Charter of the United Nations;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_88" class="SingleTxt">
+        <num>	56.</num>
+        <content eId="para_88__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> the convening of the third United Nations-African Union annual conference at the level of the Secretary-General and the Chairperson of the African Union Commission at United Nations Headquarters on 6 May 2019, and reaffirms the commitment to continue to deepen the strategic partnership between the United Nations and the African Union in addressing peace and security issues, achieving sustainable development and implementing Agenda 2063 in Africa;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_89" class="SingleTxt">
+        <num>	57.</num>
+        <content eId="para_89__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of the recommendations presented by the Secretary-General to the General Assembly at its sixty-seventh session on possible ways to strengthen the interdepartmental task force on African affairs,<authorialNote marker="19" placement="bottom" eId="authorialNote_19"><p xml:space="preserve">	 	See <a href="https://undocs.org/en/A/67/205/Add.1">A/67/205/Add.1-S/2012/715/Add.1</a>.</p></authorialNote> and reaffirms the need to ensure further coherence and an integrated approach for United Nations support to Africa, including in following up on the implementation of all global summit and conference outcomes related to Africa;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_90" class="SingleTxt">
+        <num>	58.</num>
+        <content eId="para_90__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to continue to monitor and report to the General Assembly on an annual basis on persistent and emerging challenges to the promotion of durable peace and sustainable development in Africa, including the root causes of conflict and conditions to promote sustainable development, as well as on the approach and support of the United Nations system. </p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="62nd">62nd plenary meeting</inline>
+        <eol />
+        <docDate date="2020-09-03" refersTo="#adoptionDate">3 September 2020</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

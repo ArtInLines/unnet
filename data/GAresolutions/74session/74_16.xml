@@ -1,0 +1,345 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-09/74-16/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-09/74-16/"></FRBRuri>
+          <FRBRdate date="2019-12-09" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-09/74-16/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-09/74-16/eng@/"></FRBRuri>
+          <FRBRdate date="2019-12-13" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-09/74-16/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-09/74-16/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-28" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="4" href="http://metadata.un.org/sdg/4" showAs="sdg_4" dictionary="SDGO"></keyword>
+        <keyword value="education" href="http://eurovoc.europa.eu/668" showAs="education" dictionary="EuroVoc"></keyword>
+        <keyword value="right_to_education" href="http://eurovoc.europa.eu/512" showAs="right_to_education" dictionary="EuroVoc"></keyword>
+        <keyword value="education" href="http://metadata.un.org/thesaurus/1001893" showAs="education" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-11-26" outcome="draftResolution" as="A/74/L.18" by="Antigua and Barbuda, Armenia, Australia, Austria, Bangladesh, Brazil, Chile, China, Dominican Republic, Ecuador, Equatorial Guinea, Finland, Israel, Jamaica, Japan, Kenya, Lao People's Democratic Republic, Latvia, Lebanon, Lithuania, Malaysia, Monaco, New Zealand, Nicaragua, Norway, Palau, Panama, Paraguay, Romania, Russian Federation, Samoa, Spain, Sri Lanka, Tunisia, Turkey, United Arab Emirates, United Kingdom of Great Britain and Northern Ireland and Uruguay" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="Afghanistan, Albania, Algeria, Andorra, Angola, Argentina, Azerbaijan, Bahamas, Bahrain, Barbados, Belarus, Belgium, Belize, Benin, Bhutan, Bolivia (Plurinational State of), Bosnia and Herzegovina, Botswana, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Canada, Central African Republic, Chad, Colombia, Comoros, Congo, Costa Rica, Côte d'Ivoire, Croatia, Cuba, Cyprus, Czechia, Denmark, Djibouti, Egypt, El Salvador, Eritrea, Estonia, Ethiopia, Fiji, France, Gabon, Gambia, Georgia, Germany, Ghana, Greece, Grenada, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hungary, Iceland, India, Indonesia, Iraq, Ireland, Italy, Jordan, Kazakhstan, Kiribati, Kuwait, Kyrgyzstan, Lesotho, Liberia, Libya, Liechtenstein, Luxembourg, Madagascar, Malawi, Maldives, Mali, Malta, Marshall Islands, Mauritania, Mauritius, Mexico, Micronesia (Federated States of), Mongolia, Montenegro, Morocco, Mozambique, Myanmar, Namibia, Nauru, Nepal, Netherlands, Niger, Nigeria, North Macedonia, Oman, Pakistan, Papua New Guinea, Peru, Philippines, Poland, Portugal, Qatar, Republic of Korea, Republic of Moldova, Rwanda, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, San Marino, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Slovakia, Slovenia, Solomon Islands, Somalia, South Africa, South Sudan, Sudan, Suriname, Sweden, Switzerland, Syrian Arab Republic, Tajikistan, Thailand, Timor-Leste, Togo, Tonga, Trinidad and Tobago, Turkmenistan, Tuvalu, Uganda, Ukraine, United Republic of Tanzania, United States, Uzbekistan, Vanuatu, Viet Nam, Yemen, Zambia and Zimbabwe" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="" />
+        <step date="2019-12-09" outcome="adopted" as="A/74/PV.41" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="noMainCommittee" href="#noMainCommittee" showAs="Without reference to a main committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-21185 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/16</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2019-12-13" class="rightSmall" refersTo="#dateOfIssuance">13 December 2019</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 11</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Sport for development and peace: building a peaceful and better world through sport and the Olympic ideal</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 9 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#noMainCommittee">[without reference to a Main Committee (<inline name="originating document">A/74/L.18 and A/74/L.18/Add.1</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/16.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Building a peaceful and better world through sport and the Olympic ideal</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Recalling" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolution <a href="https://undocs.org/en/A/RES/72/6">72/6</a> of 13 November 2017, in which it decided to include in the provisional agenda of its seventy-fourth session the sub-item entitled “Building a peaceful and better world through sport and the Olympic ideal”, and recalling also its prior decision to consider the sub-item every two years, in advance of the Summer and Winter Olympic Games,</p>
+      </container>
+      <container name="Recalling also" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> its resolution <a href="https://undocs.org/en/A/RES/48/11">48/11</a> of 25 October 1993, which, inter alia, revived the ancient Greek tradition of <span class="italic">ekecheiria</span> (“Olympic Truce”) calling for a truce during the Olympic Games to encourage a peaceful environment and ensure safe passage, access and participation for athletes and relevant persons at the Games, thereby mobilizing the youth of the world to the cause of peace,</p>
+      </container>
+      <container name="Recalling further" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Recalling further</span> that the core concept of <span class="italic">ekecheiria</span>, historically, has been the cessation of hostilities from seven days before until seven days after the Olympic Games, which, according to the legendary oracle of Delphi, was to replace the cycle of conflict with a friendly athletic competition every four years, </p>
+      </container>
+      <container name="Recognizing" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the valuable contribution of sport in promoting education, sustainable development, peace, cooperation, solidarity, fairness, social inclusion and health at the local, regional and international levels, and noting that, as declared in the 2005 World Summit Outcome,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/60/1">60/1</a>.</p></authorialNote> sports can contribute to an atmosphere of tolerance and understanding among peoples and nations, </p>
+      </container>
+      <container name="Recognizing also" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing also</span> the role that sports can play to prevent and counter terrorism and violent extremism as and when conducive to terrorism, and its contributions to building resilience against radicalization to violence and terrorist recruitment, </p>
+      </container>
+      <container name="Welcoming" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the designation of 6 April as the International Day of Sport for Development and Peace, </p>
+      </container>
+      <container name="Recalling" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the inclusion in the United Nations Millennium Declaration<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/55/2">55/2</a>.</p></authorialNote> of an appeal for the observance of the Olympic Truce now and in the future and for support for the International Olympic Committee in its efforts to promote peace and human understanding through sport and the Olympic ideal, </p>
+      </container>
+      <container name="Recalling also" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> that, in the 2030 Agenda for Sustainable Development,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a>.</p></authorialNote> sport is recognized as an important enabler of sustainable development, in particular for its growing contribution to the realization of development and peace in its promotion of tolerance and respect and the contributions it makes to the empowerment of women and of young people, individuals and communities as well as to health, education and social inclusion objectives,</p>
+      </container>
+      <container name="Acknowledging" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging</span> the valuable contribution that the appeal launched by the International Olympic Committee on 21 July 1992 for an Olympic Truce could make towards advancing the purposes and principles of the Charter of the United Nations, </p>
+      </container>
+      <container name="Recalling" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolution <a href="https://undocs.org/en/A/RES/73/24">73/24</a> of 3 December 2018 on sport as an enabler of sustainable development, in which it called upon future hosts of the Olympic Games and the Paralympic Games and other Member States to include sport, as appropriate, in conflict prevention activities and to ensure the effective implementation of the Olympic Truce during the Games, </p>
+      </container>
+      <container name="Noting" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> that the Games of the XXXII Olympiad will be held from 24 July to 9 August 2020 and that the XVI Paralympic Games will be held from 25 August to 6 September 2020, in Tokyo, </p>
+      </container>
+      <container name="Noting also" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Noting also</span> that the vision of the Tokyo 2020 Games is to bring positive reform by encouraging people to achieve their personal best, raising awareness of unity in diversity among citizens of the world and leaving a positive legacy for future generations, </p>
+      </container>
+      <container name="Expressing the expectation" eId="container_14">
+        <p xml:space="preserve">
+          <span class="italic">Expressing the expectation</span> that the Tokyo 2020 Games will be a meaningful opportunity to harness the power of sport to advance the world by fostering an atmosphere of peace, development, resilience, tolerance and understanding, and welcoming all the delegations of National Olympic and Paralympic Committees and the Refugee Olympic and Paralympic Teams admitted by the International Olympic Committee and the International Paralympic Committee to participate in the Games,</p>
+      </container>
+      <container name="Recalling" eId="container_15">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> that Tokyo 2020 is the second of three consecutive Olympic and Paralympic Games to be held in Asia, following Pyeongchang 2018 and preceding Beijing 2022, thereby enhancing trilateral partnership in sports and beyond,</p>
+      </container>
+      <container name="Recognizing" eId="container_16">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the contribution of Japan through the Sport for Tomorrow programme, a public-private initiative to promote the Olympic and Paralympic Movements that aims to share the values of sports with people of all generations around the world, including in developing countries, as well as the efforts by Japan to promote exchanges between Japan’s local citizens and participating athletes from other countries through the Host Town Initiative, through which the long-lasting relationships at the grass-roots level can be expected well beyond 2020,</p>
+      </container>
+      <container name="Recognizing also" eId="container_17">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing also</span> that Tokyo 2020 aims to ensure a sustainable delivery of the Games, building on its sustainability principle “Be better, together: for the planet and the people”, thereby contributing to the achievement of the United Nations Sustainable Development Goals, </p>
+      </container>
+      <container name="Noting" eId="container_18">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> that the Tokyo 2020 Games will present an opportunity for Japan to express its people’s heartfelt gratitude for the solidarity and support demonstrated from all around the world at the time of the 2011 great east-Japan earthquake and to deliver a powerful message to the world on how it has been recovering from the earthquake, thereby encouraging not only those who suffered from the earthquake, but also those afflicted by natural disasters around the world,</p>
+      </container>
+      <container name="Recognizing" eId="container_19">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the imperative need to engage women and girls in the practice of sport for development and peace, and welcoming activities that aim to foster and encourage initiatives in this regard at the global level, </p>
+      </container>
+      <container name="Recalling" eId="container_20">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> article 31 of the Convention on the Rights of the Child,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vol. 1577, No. 27531.</p></authorialNote> which outlines the right of the child to engage in play and recreational activities, and the outcome document of the twenty-seventh special session of the General Assembly on children, entitled “A world fit for children”,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/S-27/2">S-27/2</a>, annex.</p></authorialNote> which stresses the promotion of physical, mental and emotional health through play and sports, </p>
+      </container>
+      <container name="Welcoming" eId="container_21">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the significant impetus that the Olympic Games, the Paralympic Games and the Youth Olympic Games give to the volunteer movement around the world, acknowledging the contributions of volunteers to the success of the Games, and in this regard calling upon host countries to promote social inclusion without discrimination of any kind, </p>
+      </container>
+      <container name="Noting" eId="container_22">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the successful conclusion of the XXIII Olympic Winter Games and the XII Paralympic Winter Games, held in Pyeongchang, Republic of Korea, from 9 to 25 February and from 9 to 18 March 2018, respectively, and welcoming the XXIV Olympic Winter Games and the XIII Paralympic Winter Games, to be held in Beijing from 4 to 20 February and from 4 to 13 March 2022, respectively, and the Games of the XXXIII Olympiad and the XVII Paralympic Games, to be held in Paris from 26 July to 11 August and from 28 August to 8 September 2024, respectively, </p>
+      </container>
+      <container name="Acknowledging" eId="container_23">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging</span> the joint endeavours of the International Olympic Committee, the International Paralympic Committee and relevant United Nations entities in such fields as the promotion of human rights, human development, poverty alleviation, humanitarian assistance, health promotion, HIV and AIDS prevention, child and youth education, gender equality, peacebuilding and sustainable development, </p>
+      </container>
+      <container name="Acknowledging also" eId="container_24">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging also</span> the importance of the Youth Olympic Games in inspiring youth through integrated sports and cultural and educational experiences, noting in this regard the successful conclusion of the third Youth Summer Olympic Games, held in Buenos Aires from 6 to 18 October 2018, and welcoming the third Youth Olympic Winter Games to be held in Lausanne, Switzerland, from 9 to 22 January 2020, </p>
+      </container>
+      <container name="Recognizing" eId="container_25">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the role that the Paralympic Movement plays in showcasing the achievements of athletes with disabilities to a global audience and in acting as a primary vehicle to promote positive perceptions and greater inclusion of persons with disabilities in sport and society, </p>
+      </container>
+      <container name="Recognizing also" eId="container_26">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing also</span> the important role of supporters working alongside persons with disabilities to organize and develop disability-specific sports,</p>
+      </container>
+      <container name="Recognizing further" eId="container_27">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing further</span> that the active involvement of persons with disabilities in sports and the Paralympic Games contributes to the full and equal realization of their human rights, as well as respect for their inherent dignity, recalling articles 1 and 30 of the Convention on the Rights of Persons with Disabilities,<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vol. 2515, No. 44910.</p></authorialNote> in which States parties recognized the right of persons with disabilities, including those with long-term physical, mental, intellectual or sensory impairments, to take part on an equal basis with others in cultural life, with a view to enabling persons with disabilities to participate on an equal basis with others in recreational, leisure and sporting activities, and noting in this regard the need for appropriate instruction, training and resources alongside accessibility of venues, and welcoming plans to stage integrated and inclusive Games, </p>
+      </container>
+      <container name="Welcoming" eId="container_28">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the commitment made by various States Members of the United Nations and other relevant stakeholders to developing national and international programmes that promote peace and conflict resolution, the Olympic and Paralympic values and the Olympic Truce ideals through sport and through culture, education, sustainable development and wider public engagement, and acknowledging the contribution of former hosts of the Olympic and Paralympic Games in this regard,</p>
+      </container>
+      <container name="Recognizing" eId="container_29">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the humanitarian opportunities presented by the Olympic Truce and by other initiatives supported by the United Nations to achieve the cessation of conflict, </p>
+      </container>
+      <container name="Recalling" eId="container_30">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> that, in its resolution <a href="https://undocs.org/en/A/RES/73/24">73/24</a>, it supported the independence and autonomy of sport as well as the mission of the International Olympic Committee in leading the Olympic Movement and of the International Paralympic Committee in leading the Paralympic Movement, and recognized the unifying and conciliative nature of major international sport events and that such events should be organized in the spirit of peace, mutual understanding, friendship, tolerance and inadmissibility of discrimination of any kind, </p>
+      </container>
+      <container name="Acknowledging" eId="container_31">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging</span> the fundamental principles of the Olympic Charter, including principle 6, which states that the enjoyment of the rights and freedoms set forth in the Olympic Charter shall be secured for all, without discrimination of any kind, </p>
+      </container>
+      <container name="Noting with satisfaction" eId="container_32">
+        <p xml:space="preserve">
+          <span class="italic">Noting with satisfaction</span> that the United Nations flag will be flown at the Olympic stadium and in the Olympic and Paralympic villages of the Games of the XXXII Olympiad and the XVI Paralympic Games, </p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_33" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_33__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> Member States to observe the Olympic Truce individually and collectively, within the framework of the Charter of the United Nations, throughout the period from the seventh day before the start of the Games of the XXXII Olympiad until the seventh day following the end of the XVI Paralympic Games, to be held in Tokyo in 2020, in particular, to ensure the safe passage, access and participation of athletes, officials and all other accredited persons taking part in the Games of the Olympiad and the Paralympic Games, and to contribute through other appropriate measures to the safe organization of the Games; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_34" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_34__content">
+          <p xml:space="preserve">
+            <span class="italic">Underlines</span> the importance of cooperation among Member States to collectively implement the values of the Olympic Truce around the world, and emphasizes the important role of the International Olympic Committee, the International Paralympic Committee and the United Nations in this regard; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_35" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_35__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the work of the International Olympic Committee and the International Paralympic Committee, as well as the International Olympic Truce Foundation and the International Olympic Truce Centre, in mobilizing national and international sports federations and organizations, National Olympic and Paralympic Committees and associations of these organizations to take concrete actions at the local, national, regional and international levels to promote and strengthen a culture of peace based on the spirit of the Olympic Truce, and invites those organizations and national committees to cooperate and share information and best practices, as appropriate; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_36" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_36__content">
+          <p xml:space="preserve">
+            <span class="italic">Also welcomes</span> the leadership of Olympic and Paralympic athletes in promoting peace and human understanding through sport and the Olympic ideal; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_37" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_37__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> all Member States to cooperate with the International Olympic Committee and the International Paralympic Committee in their efforts to use sport as a tool to promote peace, dialogue and reconciliation in areas of conflict during and beyond the period of the Olympic and Paralympic Games; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_38" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_38__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> that sport and the Olympic and Paralympic Games can be used to promote human rights and strengthen universal respect for such rights, thus contributing to their full realization; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_39" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_39__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the cooperation among Member States, the United Nations and the specialized agencies, funds and programmes, and the International Olympic Committee and the International Paralympic Committee, to maximize the potential of sport to make a meaningful and sustainable contribution to the achievement of the Sustainable Development Goals within the 2030 Agenda for Sustainable Development,<sup>3</sup> and encourages the Olympic and Paralympic Movements to work closely with national and international sports organizations on the use of sport to this end; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_40" class="SingleTxt">
+        <num>	8.</num>
+        <content eId="para_40__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General and the President of the General Assembly to promote the observance of the Olympic Truce among Member States and support for human development initiatives through sport and to continue to cooperate effectively with the International Olympic Committee, the International Paralympic Committee and the sporting community in general in the realization of those objectives; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_41" class="SingleTxt">
+        <num>	9.</num>
+        <content eId="para_41__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> to include in the provisional agenda of its seventy-sixth session the sub-item entitled “Building a peaceful and better world through sport and the Olympic ideal” of the item entitled “Sport for development and peace” and to consider the sub-item before the XXIV Olympic Winter Games and the XIII Paralympic Winter Games, to be held in Beijing in 2022.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="41st">41st plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-09" refersTo="#adoptionDate">9 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

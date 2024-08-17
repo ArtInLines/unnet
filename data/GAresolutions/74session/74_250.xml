@@ -1,0 +1,1756 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <documentCollection name="publication">
+    <meta>         
+      <identification source="#DGACM">
+      <FRBRWork>
+        <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-27/74-250/!main/"></FRBRthis>
+        <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-27/74-250/"></FRBRuri>
+        <FRBRdate date="2019-12-27" name="adoption"></FRBRdate>
+        <FRBRauthor href="ga" as="author"></FRBRauthor>
+        <FRBRcountry value="un"></FRBRcountry>
+      </FRBRWork>
+      <FRBRExpression>
+        <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-27/74-250/eng@!main/"></FRBRthis>
+        <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-27/74-250/eng@/"></FRBRuri>
+        <FRBRdate date="2020-01-13" name="publication"></FRBRdate>
+        <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+        <FRBRlanguage language="eng"></FRBRlanguage>
+      </FRBRExpression>
+      <FRBRManifestation>
+        <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-27/74-250/eng@/!main.xml"></FRBRthis>
+        <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-27/74-250/eng@.xml"></FRBRuri>
+        <FRBRdate date="2020-07-31" name="markup"></FRBRdate>
+        <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+      </FRBRManifestation>
+    </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="4" href="http://metadata.un.org/sdg/4" showAs="sdg_4" dictionary="SDGO"></keyword>
+        <keyword value="education" href="http://eurovoc.europa.eu/668" showAs="education" dictionary="EuroVoc"></keyword>
+        <keyword value="right_to_education" href="http://eurovoc.europa.eu/512" showAs="right_to_education" dictionary="EuroVoc"></keyword>
+        <keyword value="education" href="http://metadata.un.org/thesaurus/1001893" showAs="education" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-12-27" outcome="draftResolution" as="A/C.5/74/L.14" by="submitted by the Chair of the Committee" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/606" by="" refersTo="6" />
+        <step date="2019-12-27" outcome="adopted" as="A/74/PV.52" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="fifthCommittee" href="#fifthCommittee" showAs="Fifth Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-22678 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/250 A-B</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-01-13" class="rightSmall" refersTo="#dateOfIssuance">13 January 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 134</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Programme budget for the biennium 2018–2019</inline>
+      </p>
+      <p>
+        <docTitle>Resolutions adopted by the General Assembly on 27 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#fifthCommittee">[on the report of the Fifth Committee (<inline name="originating document">A/74/606</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/250.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Programme budget for the biennium 2018–2019</docTitle>
+      </p>
+    </preface>
+    <collectionBody>
+      <component eId="comp_def_0">
+        <documentRef eId="compRef_0" href="comp_0" showAs="Resolution A"></documentRef>
+      </component>
+      <component eId="comp_def_1">
+        <documentRef eId="compRef_1" href="comp_1" showAs="Resolution B"></documentRef>
+      </component>
+    </collectionBody>
+  </documentCollection>
+  <components>
+    <component eId="comp_0">
+      <statement name="resolution">
+        <meta>
+          <identification source="#DGACM">
+            <FRBRWork>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-27/74-250A/!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-27/74-250A/"></FRBRuri>
+              <FRBRdate date="2019-12-27" name="adoption"></FRBRdate>
+              <FRBRauthor href="ga" as="author"></FRBRauthor>
+              <FRBRcountry value="un"></FRBRcountry>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-27/74-250A/eng@!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-27/74-250A/eng@/"></FRBRuri>
+              <FRBRdate date="2020-01-13" name="publication"></FRBRdate>
+              <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+              <FRBRlanguage language="eng"></FRBRlanguage>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-27/74-250A/eng@/!main.xml"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-27/74-250A/eng@.xml"></FRBRuri>
+              <FRBRdate date="2020-07-31" name="markup"></FRBRdate>
+              <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <preface>
+          <p>
+            <docNumber>A</docNumber>
+            <docTitle refersTo="#resolutionTitle">Final budget appropriations for the biennium 2018–2019</docTitle>
+          </p>
+        </preface>
+        <preamble>
+          <formula name="enactingFormula" eId="formula_1">
+            <p xml:space="preserve">
+              <span class="italic">The General Assembly</span>
+            </p>
+          </formula>
+        </preamble>
+        <mainBody>
+          <paragraph eId="para_2" class="SingleTxt">
+            <num>	1.</num>
+            <content eId="para_2__content">
+              <p xml:space="preserve">
+                <span class="italic">Takes note</span> of the second performance report of the Secretary-General on the programme budget for the biennium 2018–2019,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"><a href="https://undocs.org/A/74/570">A/74/570</a>.</p></authorialNote> and endorses the conclusions and recommendations contained in the related report of the Advisory Committee on Administrative and Budgetary Questions,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"><a href="https://undocs.org/A/74/583">A/74/583</a>.</p></authorialNote> subject to the provisions of the present resolution;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_3" class="SingleTxt">
+            <num>	2.</num>
+            <content eId="para_3__content">
+              <p xml:space="preserve">
+                <span class="italic">Resolves</span> that, for the biennium 2018–2019:</p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_4" class="SingleTxt">
+            <content eId="para_4__content">
+              <p xml:space="preserve">	(a)	The amount of 5,873,652,300 United States dollars appropriated by it in its resolutions <a href="https://undocs.org/A/RES/73/280 A-C">73/280</a> A of 22 December 2018, <a href="https://undocs.org/A/RES/73/279b">73/279</a> B of 15 April 2019 and <a href="https://undocs.org/A/RES/73/306">73/306</a> of 3 July 2019 shall be as follows:</p>
+            </content>
+          </paragraph>
+          <container name="table" eId="container_5">
+            <table eId="container_5_table_1" akn4un:data-width-type="5000-pct">
+              <tr>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct"></th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="italic">Amount approved in resolutions </span>
+                    <span class="italic">
+                      <a href="https://undocs.org/A/RES/73/280 A-C">73/280</a>
+                    </span>
+                    <span class="italic"> A, </span>
+                    <span class="italic">
+                      <a href="https://undocs.org/A/RES/73/279 B">73/279</a>
+                    </span>
+                    <span class="italic"> B and </span>
+                    <span class="italic">
+                      <a href="https://undocs.org/A/RES/73/306">73/306</a>
+                    </span>
+                  </p>
+                </th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="italic">Increase/ (decrease)</span>
+                  </p>
+                </th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="italic">Final appropriation</span>
+                  </p>
+                </th>
+              </tr>
+              <tr>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct">
+                  <p>
+                    <span class="italic">Section</span>
+                  </p>
+                </th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct"></th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" colspan="3" akn4un:data-width-type="2027-pct" akn4un:data-justification="Center">
+                  <p>
+                    <span class="italic">(United States dollars)</span>
+                  </p>
+                </th>
+              </tr>
+              <tr>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct"></th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right"></th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right"></th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right"></th>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Part I. <span class="italic">Overall policymaking, direction and coordination</span></p>
+                </td>
+                <td akn4un:data-width-type="777-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-width-type="595-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-width-type="655-pct" akn4un:data-justification="Right"></td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>1</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Overall policymaking, direction and coordination</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>137 295 900 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>3 219 000 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>140 514 900 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct">
+                  <p>2</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>General Assembly and Economic and Social Council affairs and conference management </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>641 479 700 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>(18 012 700)</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>623 467 000 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>
+                    <span class="bold">Subtotal, part I</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">778 775 600 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">(14 793 700)</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">763 981 900 </span>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right"></td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Part II. <span class="italic">Political affairs</span></p>
+                </td>
+                <td akn4un:data-width-type="777-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-width-type="595-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-width-type="655-pct" akn4un:data-justification="Right"></td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>3</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Political affairs</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>1 477 234 300 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>(45 795 200)</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>1 431 439 100 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>4</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Disarmament</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>25 289 400 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>(1 094 500)</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>24 194 900 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>5</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Peacekeeping operations</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>106 125 000 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>(1 631 700)</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>104 493 300 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct">
+                  <p>6</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Peaceful uses of outer space</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>7 795 700 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p> (237 000)</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>7 558 700 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>
+                    <span class="bold">Subtotal, part II</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">1 616 444 400 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">(48 758 400)</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">1 567 686 000 </span>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Part III. <span class="italic">International justice and law</span></p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right"></td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>7</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>International Court of Justice</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>49 549 200 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>2 187 900 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>51 737 100 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct">
+                  <p>8</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Legal affairs</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>73 068 200 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>2 608 300 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>75 676 500 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>
+                    <span class="bold">Subtotal, part III</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">122 617 400 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">4 796 200 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">127 413 600 </span>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Part IV. <span class="italic">International cooperation for development</span></p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right"></td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>9</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Economic and social affairs</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>162 317 700 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>1 116 700 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>163 434 400 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>10</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Least developed countries, landlocked developing countries and small island developing States</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p> 10 908 200 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>427 600 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>11 335 800 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>11</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>United Nations support for the New Partnership for Africa’s Development</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>16 419 000 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>(1 188 900)</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>15 230 100 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>12</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Trade and development</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>135 478 400 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>1 512 200 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>136 990 600 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>13</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>International Trade Centre </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>37 354 000 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>– </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>37 354 000 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>14</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Environment</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>40 529 400 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>3 793 300 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>44 322 700 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>15</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Human settlements</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>22 502 900 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>642 100 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>23 145 000 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>16</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>International drug control, crime and terrorism prevention and criminal justice</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p> 40 788 800 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>2 317 500 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>43 106 300 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct">
+                  <p>17</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>UN-Women</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>16 544 100 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>2 027 600 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>18 571 700 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>
+                    <span class="bold">Subtotal, part IV</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">482 842 500 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">10 648 100 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">493 490 600 </span>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Part V. <span class="italic">Regional cooperation for development</span></p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right"></td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>18</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Economic and social development in Africa</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>164 308 700 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p> (8 354 300)</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>155 954 400 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>19</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Economic and social development in Asia and the Pacific</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>105 246 900 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>197 800 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>105 444 700 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>20</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Economic development in Europe</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>63 683 400 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>3 438 800 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>67 122 200 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>21</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Economic and social development in Latin America and the Caribbean</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>116 813 100 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>660 400 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>117 473 500 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>22</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Economic and social development in Western Asia</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>73 375 700 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p> (102 100)</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>73 273 600 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct">
+                  <p>23</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Regular programme of technical cooperation</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>65 816 600 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p> (289 000)</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>65 527 600 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>
+                    <span class="bold">Subtotal, part V</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">589 244 400 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">(4 448 400)</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">584 796 000 </span>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Part VI. <span class="italic">Human rights and humanitarian affairs</span></p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right"></td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>24</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Human rights</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>230 021 900 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p> (2 069 900)</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>227 952 000 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>25</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>International protection, durable solutions and assistance to refugees</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>86 133 700 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>170 300 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>86 304 000 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>26</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Palestine refugees</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>54 964 300 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>2 800 200 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>57 764 500 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct">
+                  <p>27</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Humanitarian assistance</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>36 244 700 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>4 553 800 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>40 798 500 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>
+                    <span class="bold">Subtotal, part VI</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">407 364 600 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">5 454 400 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">412 819 000 </span>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right"></td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Part VII. <span class="italic">Public information</span></p>
+                </td>
+                <td akn4un:data-width-type="777-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-width-type="595-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-width-type="655-pct" akn4un:data-justification="Right"></td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct">
+                  <p>28</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Global communications</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>182 177 200 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p> (709 800)</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>181 467 400 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>
+                    <span class="bold">Subtotal, part VII</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">182 177 200 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold"> (709 800)</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">181 467 400 </span>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Part VIII. <span class="italic">Common support services</span></p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right"></td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>29A (2018)</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Office of the Under-Secretary-General for Management</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>9 860 200 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>2 627 000 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>12 487 200 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>29B (2018)</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Office of Programme Planning, Budget and Accounts</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>17 195 400 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p> (769 800)</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>16 425 600 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>29C (2018)</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Office of Human Resources Management</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>32 062 200 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p> (1 287 500)</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>30 774 700 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>29D (2018)</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Office of Central Support Services</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>75 353 100 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>13 608 400 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>88 961 500 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>29E (2018)</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Office of Information and Communications Technology</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>48 018 400 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>(1 526 400)</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>46 492 000 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>29F</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Administration, Geneva</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>136 724 900 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>4 111 100 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>140 836 000 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>29G</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Administration, Vienna</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>37 467 400 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p> (797 700)</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>36 669 700 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>29H</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Administration, Nairobi</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>32 294 800 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p> (222 600)</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>32 072 200 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>29A (2019)</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Department of Management Strategy, Policy and Compliance</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>55 153 600 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p> (199 900)</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>54 953 700 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>29B (2019)</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Department of Operational Support</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>96 972 200 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p> (8 648 300)</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>88 323 900 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct">
+                  <p>29C (2019)</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Office of Information and Communications Technology</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>47 834 300 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>4 428 500 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>52 262 800 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>
+                    <span class="bold">Subtotal, part VIII</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">588 936 500 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">11 322 800 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">600 259 300 </span>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Part IX. <span class="italic">Internal oversight</span></p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right"></td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct">
+                  <p>30</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Internal oversight</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>40 749 000 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>1 047 700 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>41 796 700 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>
+                    <span class="bold">Subtotal, part IX</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">40 749 000 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">1 047 700 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">41 796 700 </span>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Part X. <span class="italic">Jointly financed administrative activities and special expenses</span></p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right"></td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct">
+                  <p>31</p>
+                </td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Jointly financed administrative activities</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>12 358 800 </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>– </p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>12 358 800 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct">
+                  <p>32</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Special expenses</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>131 902 100 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>18 120 700 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>150 022 800 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>
+                    <span class="bold">Subtotal, part X</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">144 260 900 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">18 120 700 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">162 381 600 </span>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Part XI. <span class="italic">Capital expenditures</span></p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right"></td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct">
+                  <p>33</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Construction, alteration, improvement and major maintenance</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>130 057 300 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>6 455 400 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>136 512 700 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>
+                    <span class="bold">Subtotal, part XI</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">130 057 300 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">6 455 400 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">136 512 700 </span>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Part XII. <span class="italic">Safety and security</span></p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right"></td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct">
+                  <p>34</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Safety and security</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>242 912 700 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>5 404 700 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>248 317 400 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>
+                    <span class="bold">Subtotal, part XII</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">242 912 700 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">5 404 700 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">248 317 400 </span>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Part XIII. <span class="italic">Development Account</span></p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right"></td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct">
+                  <p>35</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Development Account</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>28 398 800 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>– </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>28 398 800 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>
+                    <span class="bold">Subtotal, part XIII</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">28 398 800 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">– </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">28 398 800 </span>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right"></td>
+              </tr>
+              <tr>
+                <td akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-width-type="2699-pct">
+                  <p>Part XIV. <span class="italic">Staff assessment</span></p>
+                </td>
+                <td akn4un:data-width-type="777-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-width-type="595-pct" akn4un:data-justification="Right"></td>
+                <td akn4un:data-width-type="655-pct" akn4un:data-justification="Right"></td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct">
+                  <p>36</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>Staff assessment</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>518 871 000 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>5 460 300 </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>524 331 300 </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>
+                    <span class="bold">Subtotal, part XIV</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">518 871 000 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">5 460 300 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">524 331 300 </span>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="274-pct"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="2699-pct">
+                  <p>
+                    <span class="bold">Total</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="777-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">5 873 652 300 </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="595-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">– </span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-width-type="655-pct" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">5 873 652 300 </span>
+                  </p>
+                </td>
+              </tr>
+            </table>
+          </container>
+          <paragraph eId="para_6" class="SingleTxt">
+            <content eId="para_6__content">
+              <p xml:space="preserve">	(b)	The Secretary-General shall be authorized to transfer credits between sections of the budget, with the concurrence of the Advisory Committee;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_7" class="SingleTxt">
+            <content eId="para_7__content">
+              <p xml:space="preserve">	(c)	In addition to the appropriations approved under paragraph 2 (a) above, an amount of 75,000 dollars shall be appropriated for 2020 from the accumulated income of the Library Endowment Fund for the purchase of books, periodicals, maps and library equipment and for such other expenses of the Library at the Palais des Nations in Geneva as are in accordance with the objects and provisions of the endowment; </p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_8" class="SingleTxt">
+            <num>	3.</num>
+            <content eId="para_8__content">
+              <p xml:space="preserve">
+                <span class="italic">Takes note</span> of paragraph 15 of the report of the Advisory Committee, decides not to approve a temporary suspension of the surrender of the unspent appropriations of the regular budget for 2016–2017 for the 2020 financial year, and requests the Secretary-General to return the amount of 25.19 million dollars to the Member States, in accordance with regulations 3.2 (d) and 5.4 of the Financial Regulations and Rules of the United Nations;<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"><a href="https://undocs.org/ST/SGB/2013/4">ST/SGB/2013/4</a> and <a href="https://undocs.org/ST/SGB/2013/4/Amend.1">ST/SGB/2013/4/Amend.1</a>.</p></authorialNote></p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_9" class="SingleTxt">
+            <num>	4.</num>
+            <content eId="para_9__content">
+              <p xml:space="preserve">
+                <span class="italic">Requests</span> the Secretary-General to consult delegations on possible austerity measures that could have an impact on their work in the main organs of the United Nations and to make every effort to mitigate their impact.</p>
+            </content>
+          </paragraph>
+        </mainBody>
+        <conclusions eId="conclusions">
+          <p>
+            <inline name="adoptionMeeting" title="52nd">52nd (resumed) plenary meeting</inline>
+            <eol />
+            <docDate date="2019-12-27" refersTo="#adoptionDate">27 December 2019</docDate>
+          </p>
+        </conclusions>
+      </statement>
+    </component>
+    <component eId="comp_1">
+      <statement name="resolution">
+        <meta>
+          <identification source="#DGACM">
+            <FRBRWork>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-27/74-250B/!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-27/74-250B/"></FRBRuri>
+              <FRBRdate date="2019-12-27" name="adoption"></FRBRdate>
+              <FRBRauthor href="ga" as="author"></FRBRauthor>
+              <FRBRcountry value="un"></FRBRcountry>
+            </FRBRWork>
+            <FRBRExpression>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-27/74-250B/eng@!main/"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-27/74-250B/eng@/"></FRBRuri>
+              <FRBRdate date="2020-01-13" name="publication"></FRBRdate>
+              <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+              <FRBRlanguage language="eng"></FRBRlanguage>
+            </FRBRExpression>
+            <FRBRManifestation>
+              <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-27/74-250B/eng@/!main.xml"></FRBRthis>
+              <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-27/74-250B/eng@.xml"></FRBRuri>
+              <FRBRdate date="2020-07-31" name="markup"></FRBRdate>
+              <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+            </FRBRManifestation>
+          </identification>
+        </meta>
+        <preface>
+          <p>
+            <docNumber>B</docNumber>
+            <docTitle refersTo="#resolutionTitle">Final income estimates for the biennium 2018–2019</docTitle>
+          </p>
+        </preface>
+        <preamble>
+          <formula name="enactingFormula" eId="formula_1">
+            <p xml:space="preserve">
+              <span class="italic">The General Assembly</span>
+            </p>
+          </formula>
+        </preamble>
+        <mainBody>
+          <paragraph eId="para_2" class="SingleTxt">
+            <content eId="para_2__content">
+              <p xml:space="preserve">
+                <span class="italic">Resolves</span> that, for the biennium 2018–2019:</p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_3" class="SingleTxt">
+            <content eId="para_3__content">
+              <p xml:space="preserve">	(a)	The estimates of income of 563,399,800 United States dollars approved by it in its resolutions <a href="https://undocs.org/A/RES/73/280 A-C">73/280</a> B of 22 December 2018, <a href="https://undocs.org/A/RES/73/279 B">73/279</a> B of 15 April 2019 and <a href="https://undocs.org/A/RES/73/306">73/306</a> of 3 July 2019 shall be increased by 8,654,100 dollars, as follows:</p>
+            </content>
+          </paragraph>
+          <container name="table" eId="container_4">
+            <table eId="container_4_table_1" akn4un:data-width-type="9846-dxa">
+              <tr>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="270-dxa"></th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="4590-dxa"></th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="1662-dxa" akn4un:data-justification="Right">
+                  <p>
+                    <span class="italic">Approved estimates of income</span>
+                  </p>
+                </th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="1662-dxa" akn4un:data-justification="Right">
+                  <p>
+                    <span class="italic">Increase/ (decrease)</span>
+                  </p>
+                </th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="1662-dxa" akn4un:data-justification="Right">
+                  <p>
+                    <span class="italic">Final estimates of income</span>
+                  </p>
+                </th>
+              </tr>
+              <tr>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" colspan="2" akn4un:data-width-type="4860-dxa">
+                  <p>
+                    <span class="italic">Income section</span>
+                  </p>
+                </th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" colspan="3" akn4un:data-width-type="4986-dxa" akn4un:data-justification="Center">
+                  <p>
+                    <span class="italic">(United States dollars)</span>
+                  </p>
+                </th>
+              </tr>
+              <tr>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="270-dxa"></th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="4590-dxa"></th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="1662-dxa" akn4un:data-justification="Right"></th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="1662-dxa" akn4un:data-justification="Right"></th>
+                <th akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:null,&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="1662-dxa" akn4un:data-justification="Right"></th>
+              </tr>
+              <tr>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="270-dxa">
+                  <p>1</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="4590-dxa">
+                  <p>Income from staff assessment</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="1662-dxa" akn4un:data-justification="Right">
+                  <p>523 015 000</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="1662-dxa" akn4un:data-justification="Right">
+                  <p>5 189 100</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="1662-dxa" akn4un:data-justification="Right">
+                  <p>528 204 100</p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="270-dxa">
+                  <p>2</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="4590-dxa">
+                  <p>General income</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="1662-dxa" akn4un:data-justification="Right">
+                  <p> 43 674 200</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="1662-dxa" akn4un:data-justification="Right">
+                  <p>2 415 000</p>
+                </td>
+                <td akn4un:data-vertical-align="bottom" akn4un:data-width-type="1662-dxa" akn4un:data-justification="Right">
+                  <p>46 089 200</p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="270-dxa">
+                  <p>3</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="4590-dxa">
+                  <p>Services to the public</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="1662-dxa" akn4un:data-justification="Right">
+                  <p>(3 289 400)</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="1662-dxa" akn4un:data-justification="Right">
+                  <p>1 050 000</p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:null,&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="1662-dxa" akn4un:data-justification="Right">
+                  <p>(2 239 400)</p>
+                </td>
+              </tr>
+              <tr>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="270-dxa"></td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="4590-dxa">
+                  <p>
+                    <span class="bold">Total</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="1662-dxa" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">563 399 800</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="1662-dxa" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">8 654 100</span>
+                  </p>
+                </td>
+                <td akn4un:data-borders-info="{&quot;Top&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:4,&quot;Space&quot;:0},&quot;Right&quot;:null,&quot;Bottom&quot;:{&quot;Style&quot;:&quot;single&quot;,&quot;Size&quot;:12,&quot;Space&quot;:0},&quot;Left&quot;:null,&quot;InsideHorizontal&quot;:null,&quot;InsideVertical&quot;:null}" akn4un:data-vertical-align="bottom" akn4un:data-width-type="1662-dxa" akn4un:data-justification="Right">
+                  <p>
+                    <span class="bold">572 053 900</span>
+                  </p>
+                </td>
+              </tr>
+            </table>
+          </container>
+          <paragraph eId="para_5" class="SingleTxt">
+            <content eId="para_5__content">
+              <p xml:space="preserve">	(b)	The income from staff assessment shall be credited to the Tax Equalization Fund in accordance with the provisions of General Assembly resolution <a href="https://undocs.org/en/A/RES/973 (X)">973 (X)</a> of 15 December 1955;</p>
+            </content>
+          </paragraph>
+          <paragraph eId="para_6" class="MercuryDocument">
+            <content eId="para_6__content">
+              <p xml:space="preserve">	(c)	Direct expenses of the United Nations Postal Administration, services to visitors, catering and related services, garage operations, television services and the sale of publications not provided for under the budget appropriations shall be charged against the income derived from those activities.</p>
+            </content>
+          </paragraph>
+        </mainBody>
+        <conclusions eId="conclusions">
+          <p>
+            <inline name="adoptionMeeting" title="52nd">52nd (resumed) plenary meeting</inline>
+            <eol />
+            <docDate date="2019-12-27" refersTo="#adoptionDate">27 December 2019</docDate>
+          </p>
+        </conclusions>
+      </statement>
+    </component>
+  </components>
+</akomaNtoso>

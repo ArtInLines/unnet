@@ -1,0 +1,633 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-11/74-20/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-11/74-20/"></FRBRuri>
+          <FRBRdate date="2019-12-11" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-11/74-20/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-11/74-20/eng@/"></FRBRuri>
+          <FRBRdate date="2020-01-28" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-11/74-20/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-11/74-20/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-28" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+        <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women&amp;#39;s_rights" href="http://eurovoc.europa.eu/585" showAs="women&amp;#39;s_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-12-04" outcome="draftResolution" as="A/74/L.26" by="Brazil, Ecuador, France, Norway, South Africa, Thailand and Viet Nam" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="Albania, Andorra, Argentina, Austria, Bangladesh, Belgium, Bosnia and Herzegovina, Bulgaria, Burkina Faso, Cabo Verde, Canada, Central African Republic, Chad, Chile, Congo, Costa Rica, Côte d'Ivoire, Croatia, Cyprus, Czechia, Denmark, Djibouti, El Salvador, Estonia, Finland, Gambia, Georgia, Germany, Greece, Guinea, Guinea-Bissau, Haiti, Honduras, Iceland, India, Indonesia, Ireland, Italy, Japan, Jordan, Kazakhstan, Latvia, Lebanon, Lithuania, Luxembourg, Malta, Mauritius, Mexico, Monaco, Mongolia, Montenegro, Morocco, Netherlands, Niger, Palau, Panama, Philippines, Portugal, Romania, Rwanda, Senegal, Serbia, Slovenia, Spain, Sri Lanka, Sweden, Togo, Tunisia, Turkey, Ukraine, United Kingdom, Uruguay and Zambia. - Viet Nam was removed from the list of sponsors of the draft resolution" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="" />
+        <step date="2019-12-11" outcome="adopted" as="A/74/PV.44" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="noMainCommittee" href="#noMainCommittee" showAs="Without reference to a main committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-21394 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/20</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-01-28" class="rightSmall" refersTo="#dateOfIssuance">28 January 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 126</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Global health and foreign policy</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 11 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#noMainCommittee">[without reference to a Main Committee (<inline name="originating document">A/74/L.26 and A/74/L.26/Add.1</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/20.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Global health and foreign policy: an inclusive approach to strengthening health systems</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Recalling" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolutions <a href="https://undocs.org/A/RES/63/33">63/33</a> of 26 November 2008, <a href="https://undocs.org/A/RES/64/108">64/108</a> of 10 December 2009, <a href="https://undocs.org/A/RES/65/95">65/95</a> of 9 December 2010, <a href="https://undocs.org/A/RES/66/115">66/115</a> of 12 December 2011, <a href="https://undocs.org/A/RES/67/81">67/81</a> of 12 December 2012, <a href="https://undocs.org/A/RES/68/98">68/98</a> of 11 December 2013, <a href="https://undocs.org/A/RES/69/132">69/132</a> of 11 December 2014, <a href="https://undocs.org/A/RES/70/183">70/183</a> of 17 December 2015, <a href="https://undocs.org/A/RES/71/159">71/159</a> of 15 December 2016, <a href="https://undocs.org/A/RES/72/139">72/139</a> of 12 December 2017 and <a href="https://undocs.org/A/RES/73/132">73/132</a> of 13 December 2018, </p>
+      </container>
+      <container name="Reaffirming" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> its resolution <a href="https://undocs.org/A/RES/70/1">70/1</a> of 25 September 2015, entitled “Transforming our world: the 2030 Agenda for Sustainable Development”, in which it adopted a wide, far-reaching and people-centred set of universal and transformative Sustainable Development Goals and targets, its commitment to working tirelessly for the full implementation of the Agenda by 2030, its recognition that eradicating poverty in all its forms and dimensions, including extreme poverty, is the greatest global challenge and an indispensable requirement for sustainable development, its commitment to achieving sustainable development goals that are integrated and indivisible and balanced in its three dimensions – economic, social and environmental – and its commitment to building upon the achievements of the Millennium Development Goals and seeking to address their unfinished business, recommitting that no one will be left behind and endeavouring to reach the furthest behind first,</p>
+      </container>
+      <container name="Reaffirming also" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming also</span> its resolution <a href="https://undocs.org/A/RES/69/313">69/313</a> of 27 July 2015 on the Addis Ababa Action Agenda of the Third International Conference on Financing for Development, which is an integral part of the 2030 Agenda for Sustainable Development, supports and complements it, helps to contextualize its means of implementation targets with concrete policies and actions, and reaffirms the strong political commitment to address the challenge of financing and creating an enabling environment at all levels for sustainable development in the spirit of global partnership and solidarity, </p>
+      </container>
+      <container name="Reaffirming further" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming further</span> the strong commitments made through the political declarations adopted at the high-level meetings of the General Assembly on universal health coverage, on ending AIDS, on tackling antimicrobial resistance, on ending tuberculosis and on the prevention and control of non-communicable diseases, as well as the resolutions of the Assembly on consolidating gains and accelerating efforts to control and eliminate malaria in developing countries, particularly in Africa, by 2030, </p>
+      </container>
+      <container name="Recalling" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the Universal Declaration of Human Rights,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/217 (III)">217 A (III)</a>.</p></authorialNote> the International Covenant on Economic, Social and Cultural Rights,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	See resolution <a href="https://undocs.org/en/A/RES/2200 (XXI)">2200 A (XXI)</a>, annex.</p></authorialNote> the International Convention on the Elimination of All Forms of Racial Discrimination,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vol. 660, No. 9464.</p></authorialNote> the Convention on the Elimination of All Forms of Discrimination against Women,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">	 	Ibid., vol. 1249, No. 20378.</p></authorialNote> the Convention on the Rights of the Child,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	 	Ibid., vol. 1577, No. 27531.</p></authorialNote> the Convention on the Rights of Persons with Disabilities,<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">	 	Ibid., vol. 2515, No. 44910.</p></authorialNote> the Constitution of the World Health Organization<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve">	 	Ibid., vol. 14, No. 221.</p></authorialNote> and relevant provisions of international humanitarian law, </p>
+      </container>
+      <container name="Noting" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the significant role of the Foreign Policy and Global Health Initiative in promoting synergies between foreign policy and global health, as well as the contribution of the Oslo Ministerial Declaration of 20 March 2007, entitled “Global health: a pressing foreign policy issue of our time”,<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve"><a href="https://undocs.org/A/63/591">A/63/591</a>, annex.</p></authorialNote> which was reaffirmed, with renewed actions and commitments, in the ministerial communiqué of the Initiative, entitled “Renewing 10 years of concerted efforts and preparing for new challenges”, of 22 September 2017,<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve"><a href="https://undocs.org/A/72/559">A/72/559</a>, annex.</p></authorialNote></p>
+      </container>
+      <container name="Reaffirming" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> that health is a precondition for and an outcome and indicator of the social, economic and environmental dimensions of sustainable development and the implementation of the 2030 Agenda for Sustainable Development, that, despite progress made, challenges in global health still remain, with special regard to inequities and inequalities within and among countries, regions and populations, and that investments in health contribute to sustainable, inclusive economic growth, social development, environmental protection, eradication of poverty, hunger and malnutrition, achieving gender equality and the empowerment of all women and girls and reducing inequalities, and acknowledging the reciprocal benefits between the attainment of Sustainable Development Goal 3 and the achievement of all other Goals,</p>
+      </container>
+      <container name="Reaffirming also" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming also</span> the right of every human being, without distinction of any kind, to the enjoyment of the highest attainable standard of physical and mental health and to a standard of living adequate for the health and well-being of oneself and one’s family, including adequate food, safe drinking water, clothing and housing, and to the continuous improvement of living conditions, with particular attention to the alarming situation of millions of people for whom access to health-care services and medicines remains a distant goal, in particular those who are vulnerable or in vulnerable situations, </p>
+      </container>
+      <container name="Recognizing" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that all human rights are important for a transparent, responsible, accountable, open and participatory health system governance responsive to the needs and aspiration of persons to realize the right to the highest attainable standard of physical and mental health, </p>
+      </container>
+      <container name="Recalling" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the Rio Political Declaration on Social Determinants of Health, adopted at the 2011 World Conference on Social Determinants of Health, which reaffirmed that health inequities within and between countries are politically, socially and economically unacceptable, as well as unfair and largely avoidable, and noting that many of the underlying determinants of health and risk factors of communicable and non-communicable diseases are associated with social, economic, environmental and behavioural conditions, </p>
+      </container>
+      <container name="Recognizing" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the need to tackle health inequities and inequalities within and among countries through political commitment, policies and international cooperation, including those that address social, economic and environmental determinants of health, </p>
+      </container>
+      <container name="Recognizing also" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing also</span> the fundamental importance of equity, social justice and social protection mechanisms as well as the elimination of the root causes of discrimination and stigma in health-care settings to ensure universal and equitable access to quality health services without financial hardship for all people, particularly for those who are vulnerable or in vulnerable situations, </p>
+      </container>
+      <container name="Reaffirming" eId="container_14">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the commitment to ensure universal access to sexual and reproductive health and reproductive rights as agreed in accordance with the Programme of Action of the International Conference on Population and Development<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve"><span class="italic">Report of the International Conference on Population and Development, Cairo, 5–13 September 1994</span> (United Nations publication, Sales No. E.95.XIII.18), chap. I, resolution 1, annex.</p></authorialNote> and the Beijing Platform for Action<authorialNote marker="11" placement="bottom" eId="authorialNote_11"><p xml:space="preserve"><span class="italic">Report of the Fourth World Conference on Women, Beijing, 4–15 September 1995</span> (United Nations publication, Sales No. E.96.IV.13), chap. I, resolution 1, annex II.</p></authorialNote> and the outcome documents of their review conferences,</p>
+      </container>
+      <container name="Reaffirming also" eId="container_15">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming also</span> the importance of national ownership and the primary responsibility of Member States to determine and promote their own path towards achieving universal health coverage, including through community outreach and private sector engagement, and with the support of the international community, </p>
+      </container>
+      <container name="Recognizing" eId="container_16">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that universal health coverage implies that all people have access, without discrimination, to nationally determined sets of the needed promotive, preventive, curative, rehabilitative and palliative essential health services, and essential, safe, affordable, effective and quality medicines and vaccines, while ensuring that the use of these services does not expose the users to financial hardship, with a special emphasis on the poor, vulnerable and marginalized segments of the population, </p>
+      </container>
+      <container name="Noting" eId="container_17">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> that “health in all policies” refers to taking the health implications of decisions systemically into account in public policies across sectors, seeking synergies and avoiding harmful health impacts, in order to improve population health and health equity through assessing the consequences of public policies on the determinants of health and well-being and on health systems, </p>
+      </container>
+      <container name="Recognizing" eId="container_18">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that good health requires a universal, inclusive, equitable, effective, responsive and accessible quality health system and that it is also dependent on the involvement of and dialogue with other sectors and actors, as their performance may have significant health impacts, and collaboration in coordinated and intersectoral policy actions in an effective way, </p>
+      </container>
+      <container name="Recognizing also" eId="container_19">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing also</span> that the promotion of people’s engagement, particularly of women and girls, families and communities, and inclusiveness is fundamental for the effective implementation of health policies, strategies and plans, especially in the context of health emergencies preparedness and response, </p>
+      </container>
+      <container name="Recognizing further" eId="container_20">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing further</span> that women and girls play a vital role as agents of development, acknowledging that achieving gender equality and the empowerment of all women and girls and the elimination of all forms of violence against women and girls are crucial to the full implementation of the 2030 Agenda for Sustainable Development, and recognizing also that nutrition and other related policies should be sensitive to the needs of women and empower women and girls, thereby contributing to women’s equal access to social protection and resources, including income, land, water, finance, education, training, science and technology, and health services, thus promoting food security and health, </p>
+      </container>
+      <container name="Recognizing" eId="container_21">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that adequate quality antenatal care reduces the risks of maternal mortality and morbidity, premature births and other complications of pregnancy and delivery that can result in poor health outcomes for mothers and neonates, and also that universal access to cost-effective perinatal and neonatal health interventions, including through the application of outreach, family, community and facility-based prevention, promotion and treatment services, significantly reduces a huge proportion of perinatal and neonatal deaths worldwide, </p>
+      </container>
+      <container name="Acknowledging" eId="container_22">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging</span> that the promotion of health equity and the elimination of stigma and discrimination in health-care settings are important for achieving the Sustainable Development Goals and building a more inclusive society whereby those who are vulnerable or in vulnerable situations, especially women and girls, children, youth, older persons, indigenous peoples, refugees, internally displaced persons and migrants, persons with disabilities, persons living with mental health conditions or psychological disabilities, and those living with, at risk of or affected by communicable diseases, including HIV/AIDS, tuberculosis and cholera, and non‑communicable and other diseases, will have a better quality of life and well-being, and in this regard taking note of the joint United Nations statement on ending discrimination in health-care settings, </p>
+      </container>
+      <container name="Promoting" eId="container_23">
+        <p xml:space="preserve">
+          <span class="italic">Promoting</span> increased access to affordable, safe, effective and quality medicines, including generics, vaccines, diagnostics and health technologies, reaffirming the World Trade Organization Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS Agreement) as amended, and also reaffirming the 2001 World Trade Organization Doha Declaration on the TRIPS Agreement and Public Health, which recognizes that intellectual property rights should be interpreted and implemented in a manner supportive of the right of Member States to protect public health and, in particular, to promote access to medicines for all, and notes the need for appropriate incentives in the development of new health products, </p>
+      </container>
+      <container name="Recalling" eId="container_24">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the World Health Organization Global Strategy and Plan of Action on Public Health, Innovation and Intellectual Property,<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve">	 	See World Health Organization, document WHA61/2008/REC/1.</p></authorialNote> designed to promote medicinal innovation, build capacity and improve access to medicines, encouraging further discussions on access to medicines, and reiterating that health research and development should be needs-driven, evidence-based, guided by the core principles of affordability, effectiveness, efficiency and equity and considered a shared responsibility, recalling the report of the High-level Panel on Access to Medicines, including its recommendations, </p>
+      </container>
+      <container name="Recognizing" eId="container_25">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that effective and financially sustainable implementation of universal health coverage is based on a resilient and responsive health system with capacities for broad public health measures, disease prevention, health protection, health promotion and addressing of determinants of health through coherent policies across sectors, including the promotion of the health literacy of the population, </p>
+      </container>
+      <container name="Recognizing also" eId="container_26">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing also</span> the need for health systems that are strong, resilient, functional, well governed, responsive, accountable, integrated, community-based, people-centred and capable of quality service delivery, supported by a competent health workforce, adequate health infrastructure, enabling legislative and regulatory frameworks as well as sufficient and sustainable funding, </p>
+      </container>
+      <container name="Recognizing further" eId="container_27">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing further</span> that primary health care brings people into first contact with the health system and is the most inclusive, effective and efficient approach to enhance people’s physical and mental health, as well as social well-being, and that primary health care is the cornerstone of a sustainable health system for universal health coverage and health-related Sustainable Development Goals, as was declared in the Declaration of Alma-Ata and reaffirmed in the Declaration of Astana, </p>
+      </container>
+      <container name="Recalling" eId="container_28">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the adoption of the Rome Declaration on Nutrition,<authorialNote marker="13" placement="bottom" eId="authorialNote_13"><p xml:space="preserve">	 	World Health Organization, document EB136/8, annex I.</p></authorialNote> which reaffirmed that national health systems should integrate nutrition while providing access for all to integrated health services, a continuum of care approach and a set of voluntary policy options and strategies for Governments, as well as its Framework for Action,<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve">	 	Ibid., annex II.</p></authorialNote></p>
+      </container>
+      <container name="Recalling also" eId="container_29">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> the importance of taking multisectoral action to promote active and healthy lifestyles, including physical activity for the benefit of all people throughout their life course, and to ensure a world free from malnutrition in all its forms, where all people are empowered to take responsibility for their own health supported by public regulatory measures, and have access to safe drinking water and sanitation and safe, sufficient and nutritious food and enjoy diversified, balanced and healthy diets throughout their life course, and taking note of the Nutrition for Growth initiative, and in this regard looking forward to its upcoming summit in Tokyo in 2020,</p>
+      </container>
+      <container name="Recognizing" eId="container_30">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the consequence of the adverse impact of climate change, natural disasters, extreme weather events as well as other environmental determinants of health, such as clean air, safe drinking water, sanitation, safe, sufficient and nutritious food and secure shelter, for health, and in this regard underscoring the need to foster health in climate change adaptation efforts, underlining that resilient and people-centred health systems are necessary to protect the health of all people, in particular those who are vulnerable or in vulnerable situations, particularly those living in small island developing States, </p>
+      </container>
+      <container name="Noting" eId="container_31">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> that the increasing number of complex emergencies is hindering the achievement of universal health coverage and that coherent and inclusive approaches to safeguard universal health coverage in emergencies are essential, including through international cooperation, ensuring the continuum and provision of essential health services and public health functions, in line with humanitarian principles, </p>
+      </container>
+      <container name="Expressing the importance" eId="container_32">
+        <p xml:space="preserve">
+          <span class="italic">Expressing the importance</span> of respecting and protecting, in accordance with international humanitarian law, in situations of armed conflict, medical personnel and humanitarian personnel exclusively engaged in medical duties, their means of transport and equipment, and hospitals and other medical facilities, which must not be unlawfully attacked, and ensuring that the wounded and sick receive, to the fullest extent practicable and with the least possible delay, the medical care and attention required, </p>
+      </container>
+      <container name="Expressing concern" eId="container_33">
+        <p xml:space="preserve">
+          <span class="italic">Expressing concern</span> at the global shortfall of 18 million health workers, primarily in low- and middle-income countries, and recognizing the need to train, build and retain a skilled and health workforce, including nurses, midwives and community health workers, who are an important element of strong and resilient health systems, and further recognizing that increased investment in a more effective and socially accountable health workforce can unleash significant socioeconomic gains and contribute to the eradication of poverty in all its forms and dimensions, empowerment of all women and girls and reduction of inequality, </p>
+      </container>
+      <container name="Recognizing" eId="container_34">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the importance of human resources in strengthening health systems and in the successful realization of the internationally agreed goals contained in the 2030 Agenda for Sustainable Development, and noting with concern that highly trained and skilled health personnel from the developing countries continue to emigrate at an increasing rate to certain countries, which weakens health systems in the countries of origin, </p>
+      </container>
+      <container name="Reaffirming" eId="container_35">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the importance of creating adequate national human resources management frameworks to substantially increase health worker training, recruitment, deployment, regulation, support and retention, </p>
+      </container>
+      <container name="Acknowledging" eId="container_36">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging</span> that rapidly changing technologies, particularly digital technologies, have the potential to enhance people’s access to health services, to improve the responsiveness of the health system to the needs of individuals and communities, to increase the quality and efficiency of health services and to empower patients, giving them access to their own health-care information, promoting health literacy and strengthening patient involvement in clinical decision-making with a focus on health professional-patient communication,</p>
+      </container>
+      <container name="Recognizing" eId="container_37">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the global challenge of antimicrobial resistance, which requires multisectoral actions, through the One Health approach involving Member States, the World Health Organization, the Food and Agriculture Organization of the United Nations, the World Organization for Animal Health and other relevant stakeholders, reaffirming the importance of the political declaration of the high-level meeting of the General Assembly on antimicrobial resistance,<authorialNote marker="15" placement="bottom" eId="authorialNote_15"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/A/RES/71/3">71/3</a>.</p></authorialNote> and acknowledging that, owing to antimicrobial resistance, many achievements of the twentieth century are being gravely challenged, in particular, the reduction in illness and death from infectious diseases achieved through social and economic development; access to health services and to quality, safe, efficacious and affordable medicines; hygiene, safe drinking water and sanitation; disease prevention in community and health-care settings, including immunization; safe and nutritious food; improvements in human and veterinary medicine; and the introduction of new antimicrobial and other medicines,</p>
+      </container>
+      <container name="Underscoring" eId="container_38">
+        <p xml:space="preserve">
+          <span class="italic">Underscoring</span> the fact that global health is a long-term objective which is national, regional and international in scope and requires sustained high-level commitment and closer international cooperation, including far-reaching partnerships among stakeholders, and the need to safeguard the progress made and to advance by paying due attention to the continuity and sustainability of current actions on global health, </p>
+      </container>
+      <container name="Underscoring also" eId="container_39">
+        <p xml:space="preserve">
+          <span class="italic">Underscoring also</span> the importance of enhanced international cooperation to support the efforts of Member States to achieve health goals, including the target of achieving universal health coverage, including financial risk protection, access to quality essential health-care services and access to safe, effective, quality and affordable essential medicines and vaccines for all,</p>
+      </container>
+      <container name="Reaffirming" eId="container_40">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the importance of revitalizing and promoting strong global partnerships with all relevant stakeholders to collaboratively support the efforts of Member States, as appropriate, to achieve universal health coverage and other health-related targets of the Sustainable Development Goals, including through technical support, capacity-building and strengthening advocacy, building on existing global networks such as the International Health Partnership for UHC2030, </p>
+      </container>
+      <container name="Taking note" eId="container_41">
+        <p xml:space="preserve">
+          <span class="italic">Taking note</span> of the launch of the Global Action Plan for Healthy Lives and Well-being for All, in New York on 24 September 2019, </p>
+      </container>
+      <container name="Taking note also" eId="container_42">
+        <p xml:space="preserve">
+          <span class="italic">Taking note also</span> of the Inter-Parliamentary Union resolution of 17 October 2019, entitled “Achieving universal health coverage by 2030: the role of parliaments in ensuring the right to health”, </p>
+      </container>
+      <container name="Emphasizing" eId="container_43">
+        <p xml:space="preserve">
+          <span class="italic">Emphasizing</span> that the United Nations system has an important responsibility and role to assist Member States, upon their request, in the follow-up to and full implementation of agreements and commitments reached at the major United Nations conferences and summits, especially those focusing on health-related areas, and emphasizing also the primary role of the World Health Organization as the United Nations specialized agency for health, and other relevant international organizations, in providing technical support to countries on how to best engage populations, civil society and communities in national health policy, </p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_44" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_44__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to strengthen health systems, notably in terms of primary health care, in order to provide universal access to a wide range of health-care services that are safe, quality, accessible, available and affordable, timely, clinically and financially integrated, people-centred, gender-sensitive and community-based, which will help to empower those who are vulnerable or in vulnerable situations in addressing their physical and mental health needs, enhance health equity and equality, end discrimination and stigma, eliminate gaps in coverage and create a more inclusive society;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_45" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_45__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the high-level meeting on universal health coverage, held in New York on 23 September 2019, and reaffirms its political declaration, entitled “Universal health coverage: moving together to build a healthier world”;<authorialNote marker="16" placement="bottom" eId="authorialNote_16"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/A/RES/74/2">74/2</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_46" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_46__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to accelerate efforts towards the achievement of universal health coverage by 2030 to ensure healthy lives and promote well-being for all throughout the life course, and in this regard re-emphasizes the resolve: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_47" class="SingleTxt">
+        <content eId="para_47__content">
+          <p xml:space="preserve">	(a)	To progressively cover 1 billion additional people by 2023 with quality essential health services and quality, safe, effective, affordable and essential medicines, vaccines, diagnostics and health technologies, with a view to covering all people by 2030; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_48" class="SingleTxt">
+        <content eId="para_48__content">
+          <p xml:space="preserve">	(b)	To stop the rise and reverse the trend of catastrophic out-of-pocket health expenditure by providing measures to ensure financial risk protection and eliminate impoverishment due to health-related expenses by 2030, with special emphasis on the poor as well as those who are vulnerable or in vulnerable situations;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_49" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_49__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> that people’s engagement, particularly of women and girls, families and communities, and the inclusion of all relevant stakeholders is one of the core components of health system governance, to fully empower all people in improving and protecting their own health, giving due regard to addressing and managing conflicts of interest and undue influence, contributing to the achievement of universal health coverage for all, with a focus on health outcomes; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_50" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_50__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to ensure that no one is left behind, with an endeavour to reach the furthest behind first, founded on the dignity of the human person and reflecting the principles of equality and non-discrimination, as well as to empower those who are in vulnerable situations and address their physical and mental health needs which are reflected in the 2030 Agenda for Sustainable Development,<authorialNote marker="17" placement="bottom" eId="authorialNote_17"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/A/RES/70/1">70/1</a>.</p></authorialNote> including all children, youth, persons with disabilities, people living with HIV/AIDS, older persons, indigenous peoples, refugees and internally displaced persons and migrants; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_51" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_51__content">
+          <p xml:space="preserve">
+            <span class="italic">Also calls upon</span> Member States to promote social protection mechanisms to ensure access to quality-assured and affordable essential health services, including medicines, vaccines, diagnostics, medical products and health technologies; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_52" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_52__content">
+          <p xml:space="preserve">
+            <span class="italic">Further calls upon</span> Member States to take measures to share and implement the vision and commitments of the Declaration of Astana, while reiterating the commitment of the Declaration of Alma-Ata, including to promote the empowerment of individuals and communities, in the context of primary health care;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_53" class="SingleTxt">
+        <num>	8.</num>
+        <content eId="para_53__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to ensure the right of every human being, without distinction of any kind, to the enjoyment of the highest attainable standard of physical and mental health, while recalling that everyone has the right, individually or in association with others, to promote and strive for the protection and the realization of particularly this right, and encouraging leaders in all sectors of society and in their respective communities to express public support for it; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_54" class="SingleTxt">
+        <num>	9.</num>
+        <content eId="para_54__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to engage all relevant stakeholders, including civil society, the private sector and academia, as appropriate, through the establishment of participatory and transparent multi-stakeholder platforms and partnerships, to provide input to the development, implementation and evaluation of health- and social-related policies and reviewing progress for the achievement of national objectives for universal health coverage, while giving due regard to addressing and managing conflicts of interest and undue influence; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_55" class="SingleTxt">
+        <num>	10.</num>
+        <content eId="para_55__content">
+          <p xml:space="preserve">
+            <span class="italic">Also encourages</span> Member States to mainstream a gender perspective on a systems-wide basis when designing, implementing and monitoring health policies, taking into account the specific needs of all women and girls, with a view to achieving gender equality and the empowerment of women in health policies and health systems delivery;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_56" class="SingleTxt">
+        <num>	11.</num>
+        <content eId="para_56__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to promote more coherent and inclusive approaches to safeguard universal health coverage in emergencies, including through international cooperation, ensuring the continuum and provision of essential health services and public health functions, in line with humanitarian principles; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_57" class="SingleTxt">
+        <num>	12.</num>
+        <content eId="para_57__content">
+          <p xml:space="preserve">
+            <span class="italic">Also calls upon</span> Member States to ensure that persons affected by sexual violence in natural disasters, humanitarian emergencies and armed conflicts have safe access to non-discriminatory health-care services;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_58" class="SingleTxt">
+        <num>	13.</num>
+        <content eId="para_58__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> all Member States, as appropriate to local and national contexts and with the objective of the success of primary health care and the achievement of universal health coverage, to implement community health worker programmes in order to enable community health workers to deliver safe and high-quality care and to optimize community health worker programmes at the national level as part of national health workforce and broader health sector, employment and economic development strategies, in line with national priorities, resources and specificities; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_59" class="SingleTxt">
+        <num>	14.</num>
+        <content eId="para_59__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> Member States to scale up efforts to promote the recruitment and retention of competent, skilled and motivated health workers, including community health workers and mental health professionals, and encourage incentives to secure the equitable distribution of qualified health workers especially in rural, hard-to-reach and underserved areas and in fields with high demands for services, including by providing decent and safe working conditions and appropriate remuneration for health workers working in these areas, consistent with the World Health Organization Global Code of Practice on International Recruitment of Health Personnel,<authorialNote marker="18" placement="bottom" eId="authorialNote_18"><p xml:space="preserve">	 	World Health Organization, document WHA63/2010/REC/1, annex 5.</p></authorialNote> noting with concern that highly trained and skilled health personnel continue to emigrate, which weakens health systems in the countries of origin; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_60" class="SingleTxt">
+        <num>	15.</num>
+        <content eId="para_60__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to develop evidence-based training that is sensitive to different cultures and the specific needs of women, children and persons with disabilities, skills enhancement and education of health workers, including midwives and community health workers, as well as promote a continued education and lifelong learning agenda and expand community-based health education and training in order to provide quality care for people throughout the life course; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_61" class="SingleTxt">
+        <num>	16.</num>
+        <content eId="para_61__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to fulfil their commitment to, by 2030, ensure universal access to sexual and reproductive health-care services, including for family planning, information and education, and the integration of reproductive health into national strategies and programmes; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_62" class="SingleTxt">
+        <num>	17.</num>
+        <content eId="para_62__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to strengthen efforts to address communicable diseases, including HIV/AIDS, tuberculosis, malaria and hepatitis, as part of universal health coverage and to ensure that the fragile gains are sustained and expanded by advancing comprehensive approaches and integrated service delivery and ensuring that no one is left behind; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_63" class="SingleTxt">
+        <num>	18.</num>
+        <content eId="para_63__content">
+          <p xml:space="preserve">
+            <span class="italic">Also calls upon</span> Member States to further strengthen efforts to address non‑communicable diseases, including cardiovascular diseases, cancer, chronic respiratory diseases, diabetes, as well as kidney diseases, as part of universal health coverage;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_64" class="SingleTxt">
+        <num>	19.</num>
+        <content eId="para_64__content">
+          <p xml:space="preserve">
+            <span class="italic">Further calls upon</span> Member States to take steps to promote actions to raise international awareness on the issue of waterborne diseases, in particular cholera and child diarrhoea, which can be prevented through safe drinking water and adequate sanitation and hygiene, engaging in partnerships with relevant stakeholders to implement projects aimed at scaling up access to safe water and sanitation in developing countries; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_65" class="SingleTxt">
+        <num>	20.</num>
+        <content eId="para_65__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to develop health- and nutrition-promoting environments, including through nutrition education in schools and other education institutions, as appropriate, and to scale up community-based actions that support children and families, through the promotion of maternal health and recommended infant feeding practices such as breastfeeding; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_66" class="SingleTxt">
+        <num>	21.</num>
+        <content eId="para_66__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States, in partnership with other relevant stakeholders, including international and regional organizations and academia, to consider scaling up research and knowledge dissemination on the correlations between health, notably its economic and social determinants, and nutrition and food systems to generate evidence and guidance on effective nutrition programmes and policies; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_67" class="SingleTxt">
+        <num>	22.</num>
+        <content eId="para_67__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States and relevant organizations to reinforce immunization and vaccination as one of the most important ways to reduce the number of deaths caused by preventable diseases and also to reinforce in their societies the safety and efficacy of vaccines, aiming at eliminating vaccine-preventable diseases, and calls upon Member States to strengthen public health surveillance and data systems, improve routine immunization and vaccination capacities, including by providing evidence-based information on countering vaccine hesitancy, and expand vaccine coverage to prevent outbreaks as well as the spread and re-emergence of communicable and non-communicable diseases, including for vaccine-preventable diseases already eliminated as well as for ongoing eradication efforts, such as for poliomyelitis; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_68" class="SingleTxt">
+        <num>	23.</num>
+        <content eId="para_68__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to scale up efforts to promote healthy and active ageing, to maintain and improve quality of life of older persons and to respond to the needs of the rapidly ageing population, especially the need for promotive, preventive, curative, rehabilitative and palliative care as well as specialized care and the sustainable provision of long-term care, taking into account national contexts and priorities; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_69" class="SingleTxt">
+        <num>	24.</num>
+        <content eId="para_69__content">
+          <p xml:space="preserve">
+            <span class="italic">Also calls upon</span> Member States to increase access to health services for all persons with disabilities, remove physical, attitudinal, social, structural and financial barriers, provide quality standard of care and scale up efforts for their empowerment and inclusion, noting that persons with disabilities, who represent 15 per cent of the global population, continue to experience unmet health needs;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_70" class="SingleTxt">
+        <num>	25.</num>
+        <content eId="para_70__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to incorporate the health needs of migrants into national and local health-care policies and plans, such as by strengthening capacities for service provision, facilitating affordable and non-discriminatory access, reducing communication barriers, and training health-care providers on culturally sensitive service delivery, in order to promote the physical and mental health of migrants and communities overall;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_71" class="SingleTxt">
+        <num>	26.</num>
+        <content eId="para_71__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to enhance cooperation at the national, regional and global levels to address antimicrobial resistance, using an integrated and systems-based one-health approach, including through health system strengthening, capacity-building, including for research and regulatory capacity, and technical support and ensure equitable access to affordable, safe, effective and quality existing and new antimicrobial medicines, vaccines and diagnostics as well as effective stewardship, as antimicrobial resistance poses a challenge to achieving universal health coverage, noting the work of the ad hoc inter-agency coordination group on antimicrobial resistance and its recommendations as contained in the report of the Secretary-General on antimicrobial resistance,<authorialNote marker="19" placement="bottom" eId="authorialNote_19"><p xml:space="preserve">	 	A/73/869.</p></authorialNote> and looking forward to the discussion thereof during the seventy-fourth session of the General Assembly, taking into account World Health Assembly resolution 72.5 of 28 May 2019;<authorialNote marker="20" placement="bottom" eId="authorialNote_20"><p xml:space="preserve">	 	See World Health Organization, document WHA72/2019/REC/1.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_72" class="SingleTxt">
+        <num>	27.</num>
+        <content eId="para_72__content">
+          <p xml:space="preserve">
+            <span class="italic">Also calls upon</span> Member States to promote equitable distribution of and increased access to quality, safe, effective, affordable and essential medicines, including generics, vaccines, diagnostics and health technologies, to ensure affordable quality health services and their timely delivery; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_73" class="SingleTxt">
+        <num>	28.</num>
+        <content eId="para_73__content">
+          <p xml:space="preserve">
+            <span class="italic">Further calls upon</span> Member States to improve availability, affordability and efficiency of health products by increasing transparency of prices of medicines, vaccines, medical devices, diagnostics, assistive products, cell- and gene-based therapies and other health technologies across the value chain, including through improved regulations and building constructive engagement and a stronger partnership with relevant stakeholders, including industries, the private sector and civil society, in accordance with national and regional legal frameworks and contexts, to address the global concern about the high prices of some health products and in this regard encourages the World Health Organization to continue its efforts to biennially convene the Fair Pricing Forum with Member States and all relevant stakeholders to discuss the affordability and transparency of prices and costs relating to health products; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_74" class="SingleTxt">
+        <num>	29.</num>
+        <content eId="para_74__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> the right to use, to the fullest extent, the provisions contained in the World Trade Organization Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS Agreement), which provides flexibilities for the protection of public health and promotes access to medicines for all, in particular for developing countries, and the Doha Declaration on the TRIPS Agreement and Public Health, which recognizes that intellectual property protection is important for the development of new medicines and also recognizes the concerns about its effects on prices;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_75" class="SingleTxt">
+        <num>	30.</num>
+        <content eId="para_75__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to explore, encourage and promote a range of innovative incentives and financing mechanisms for health research and development, including a stronger and transparent partnership between the public and the private sectors as well as academia, recognizing the need for increasing public health-driven research and development that is needs-driven and evidence-based, guided by the core principles of safety, affordability, effectiveness, efficiency, equity and considered as a shared responsibility, as well as appropriate incentives in the development of new health products and technologies; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_76" class="SingleTxt">
+        <num>	31.</num>
+        <content eId="para_76__content">
+          <p xml:space="preserve">
+            <span class="italic">Also calls upon</span> Member States to recognize the important role played by the private sector in research and development of innovative medicines, encourage the use, where appropriate, of alternative financing mechanisms for research and development as a driver of innovation for new medicines and new uses for medicines and continue to support voluntary initiatives and incentive mechanisms that separate the cost of investment in research and development from the price and volume of sales, facilitate equitable and affordable access to new tools and other results to be gained through research and development; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_77" class="SingleTxt">
+        <num>	32.</num>
+        <content eId="para_77__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> Member States to improve the digital skills of all persons, including through working with civil society to build public trust and support for digital health solutions, and to promote the application of digital health technology in the provision of, and access to, everyday health-care services, with emphasis on health promotion and predictive testing and screening, while ensuring access to important clinical information, safety risks and protection of privacy; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_78" class="SingleTxt">
+        <num>	33.</num>
+        <content eId="para_78__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to invest in and encourage ethical and public health-driven use of relevant evidence-based and user-friendly technologies, including digital technologies, and innovation to increase access to quality health and related social services and relevant information, improve the cost-effectiveness of health systems and efficiency in the provision and delivery of quality care in a manner that recognizes the need to build and strengthen interoperable and integrated health information systems for the management of health systems and public health surveillance, as well as the need to protect data and privacy and narrow the digital divide; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_79" class="SingleTxt">
+        <num>	34.</num>
+        <content eId="para_79__content">
+          <p xml:space="preserve">
+            <span class="italic">Also calls upon</span> Member States to explore ways to consider integrating, as appropriate, safe and evidence-based traditional and complementary medicine services within national and/or subnational health systems, particularly at the level of primary health care, according to national context and priorities; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_80" class="SingleTxt">
+        <num>	35.</num>
+        <content eId="para_80__content">
+          <p xml:space="preserve">
+            <span class="italic">Further calls upon</span> Member States to encourage engagement among Governments, international organizations, non-governmental organizations, academic and research institutions, philanthropic foundations and the private sector and greater policy coherence and coordinated actions through whole-of-government and health-in-all-policies approaches to find solutions to health challenges, such as the need for public health-driven research and development, improved existing and alternative frameworks to adequately reward innovation, pricing and affordability of health products, and leveraging innovative technologies, including digital technologies, and solutions for health; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_81" class="SingleTxt">
+        <num>	36.</num>
+        <content eId="para_81__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to strengthen health information systems and collect quality, timely and reliable data, including vital statistics, disaggregated by income, sex, age, race, ethnicity, migratory status, disability, geographical location and other characteristics relevant in national contexts as required to monitor progress and identify gaps in the universal and inclusive achievement of Sustainable Development Goal 3 and all other health-related Sustainable Development Goals, while protecting the privacy of data that could be linked to individuals, and to ensure that the statistics used in the monitoring progress can capture the actual progress made on the ground, for the achievement of universal health coverage, in line with the 2030 Agenda for Sustainable Development;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_82" class="SingleTxt">
+        <num>	37.</num>
+        <content eId="para_82__content">
+          <p xml:space="preserve">
+            <span class="italic">Also calls upon</span> Member States to set measurable national targets and strengthen national monitoring and evaluation platforms, as appropriate, in line with the 2030 Agenda for Sustainable Development, to support regular tracking of the progress made for the achievement of universal health coverage by 2030;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_83" class="SingleTxt">
+        <num>	38.</num>
+        <content eId="para_83__content">
+          <p xml:space="preserve">
+            <span class="italic">Further calls upon</span> Member States to provide strategic leadership on universal health coverage at the highest political level and promote greater policy coherence and coordinated actions through whole-of-government and health-in-all-policies approaches, and forge a coordinated and integrated whole-of-society and multisectoral response, while recognizing the need to align support from all stakeholders to achieve national health goals; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_84" class="SingleTxt">
+        <num>	39.</num>
+        <content eId="para_84__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to enhance international cooperation and official development assistance for health, and to develop primary health care preparedness for health emergencies, to support and complement national and regional strategies, policies and programmes, and surveillance initiatives; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_85" class="SingleTxt">
+        <num>	40.</num>
+        <content eId="para_85__content">
+          <p xml:space="preserve">
+            <span class="italic">Also encourages</span> Member States to ensure sufficient domestic public spending on health, where appropriate, expand pooling of resources allocated to health, maximize efficiency and ensure equitable allocation of health spending, to deliver cost-effective, essential, affordable, timely and quality health services, improve service coverage, reduce impoverishment from health expenditure and ensure financial risk protection, while noting the role of private sector investment, as appropriate; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_86" class="SingleTxt">
+        <num>	41.</num>
+        <content eId="para_86__content">
+          <p xml:space="preserve">
+            <span class="italic">Further encourages</span> Member States to mobilize all relevant development cooperation partners and stakeholders from the health sector and beyond within their respective mandates, to ensure necessary and sustained financing for health system strengthening, including through the implementation of innovative mechanisms, enhancement of international cooperation and promotion of universal access to quality health-care services, including through partnerships with civil society, relevant research institutions and the private sector; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_87" class="SingleTxt">
+        <num>	42.</num>
+        <content eId="para_87__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> the Secretary-General to promote discussion among Member States and relevant stakeholders, in particular United Nations agencies, on appropriate policy options to promote access to medicines, innovation and health technologies in the context of strengthening health systems; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_88" class="SingleTxt">
+        <num>	43.</num>
+        <content eId="para_88__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General, in close collaboration with the Director General of the World Health Organization, to address, inter alia, the challenges and opportunities of inclusive approaches to strengthening health systems in the context of the progress report to be submitted during the seventy-fifth session of the General Assembly as requested in the political declaration of the high-level meeting on universal health coverage. </p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="44th">44th plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-11" refersTo="#adoptionDate">11 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

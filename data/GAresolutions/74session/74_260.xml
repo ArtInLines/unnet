@@ -1,0 +1,216 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-27/74-260/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-27/74-260/"></FRBRuri>
+          <FRBRdate date="2019-12-27" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-27/74-260/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-27/74-260/eng@/"></FRBRuri>
+          <FRBRdate date="2020-01-09" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-27/74-260/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-27/74-260/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="10" href="http://metadata.un.org/sdg/10" showAs="sdg_10" dictionary="SDGO"></keyword>
+        <keyword value="social_inequality" href="http://eurovoc.europa.eu/1420" showAs="social_inequality" dictionary="EuroVoc"></keyword>
+        <keyword value="equality" href="http://metadata.un.org/thesaurus/1002102" showAs="equality" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-12-27" outcome="draftResolution" as="A/C.5/74/L.16" by="submitted by the Chair of the Committee" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/608" by="" refersTo="6" />
+        <step date="2019-12-27" outcome="adopted" as="A/74/PV.52" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="fifthCommittee" href="#fifthCommittee" showAs="Fifth Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-22726 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/260</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-01-09" class="rightSmall" refersTo="#dateOfIssuance">9 January 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 156</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Financing of the United Nations Mission for Justice Support in Haiti</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 27 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#fifthCommittee">[on the report of the Fifth Committee (<inline name="originating document">A/74/608</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/260.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Financing of the United Nations Mission for Justice Support in Haiti</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Having considered" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Having considered</span> the report of the Secretary-General on the financing of the United Nations Mission for Justice Support in Haiti<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/532">A/74/532</a>.</p></authorialNote> and the related report of the Advisory Committee on Administrative and Budgetary Questions,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/589">A/74/589</a>.</p></authorialNote></p>
+      </container>
+      <container name="Recalling" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> Security Council resolution <a href="https://undocs.org/en/S/RES/2350 (2017)">2350 (2017)</a> of 13 April 2017, by which the Council established the United Nations Mission for Justice Support in Haiti as a follow-on peacekeeping mission in Haiti, for an initial period of six months from 16 October 2017 until 15 April 2018, and the subsequent resolutions by which the Council extended the mandate of the Mission, the latest of which was <a href="https://undocs.org/en/S/RES/2466 (2019)">2466 (2019)</a> of 12 April 2019, by which the Council extended the mandate of the Mission for a final period of six months, until 15 October 2019,</p>
+      </container>
+      <container name="Recalling also" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> its resolution <a href="https://undocs.org/en/A/RES/72/260">72/260</a> A of 24 December 2017 on the financing of the Mission and its subsequent resolutions thereon, the latest of which was resolution <a href="https://undocs.org/en/A/RES/73/317">73/317</a> of 3 July 2019, as well as its decision 73/555 of 3 July 2019,</p>
+      </container>
+      <container name="Reaffirming" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the general principles underlying the financing of United Nations peacekeeping operations, as stated in its resolutions <a href="https://undocs.org/en/A/RES/1874 (S-IV)">1874 (S</a><a href="https://undocs.org/en/A/RES/1874 (S-IV)">-</a><a href="https://undocs.org/en/A/RES/1874 (S-IV)">IV)</a> of 27 June 1963, <a href="https://undocs.org/en/A/RES/3101 (XXVIII)">3101 (XXVIII)</a> of 11 December 1973 and <a href="https://undocs.org/en/A/RES/55/235">55/235</a> of 23 December 2000,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_6" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_6__content">
+          <p xml:space="preserve">
+            <span class="italic">Endorses</span> the conclusions and recommendations contained in the report of the Advisory Committee on Administrative and Budgetary Questions,<sup>2</sup> and requests the Secretary-General to ensure their full implementation;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_7" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_7__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> paragraph 9 of the report of the Advisory Committee, and requests the Secretary-General to settle all outstanding reimbursements in a timely manner;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="H23">
+        <subheading>		Budget estimates for the period from 1 July 2019 to 30 June 2020</subheading>
+      </paragraph>
+      <paragraph eId="para_9" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_9__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> to appropriate to the Special Account for the United Nations Mission for Justice Support in Haiti the amount of 49,122,900 United States dollars for the period from 1 July 2019 to 30 June 2020, which supersedes the authority of the Secretary-General to enter into commitments in an amount not exceeding 49,450,100 dollars previously authorized for the Mission for the period from 1 July to 31 December 2019 under the terms of its resolution <a href="https://undocs.org/en/A/RES/73/317">73/317</a>;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_10" class="H23">
+        <subheading>		Financing of the appropriation</subheading>
+      </paragraph>
+      <paragraph eId="para_11" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_11__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> that Member States that have fulfilled their financial obligations to the Mission shall be credited with their respective share of the amount of 327,200 dollars, representing the difference between the amount of 49,122,900 dollars and the amount of 49,450,100 dollars already apportioned under the terms of its resolution <a href="https://undocs.org/en/A/RES/73/317">73/317</a>, in accordance with the levels updated in its resolution <a href="https://undocs.org/en/A/RES/73/272">73/272</a> of 22 December 2018, and taking into account the scale of assessments for 2019 and 2020, as set out in its resolution <a href="https://undocs.org/en/A/RES/73/271">73/271</a> of 22 December 2018;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_12__content">
+          <p xml:space="preserve">
+            <span class="italic">Also decides</span> that, for Member States that have not fulfilled their financial obligations to the Mission, their respective share of the amount of 327,200 dollars shall be set off against their outstanding obligations, in accordance with the scheme set out in paragraph 4 above;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_13" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_13__content">
+          <p xml:space="preserve">
+            <span class="italic">Further decides</span> that, in accordance with the provisions of its resolution <a href="https://undocs.org/en/A/RES/973 (X)">973 (X)</a> of 15 December 1955, there shall be set off against the credits to Member States, as provided for in paragraphs 4 and 5 above, their respective share in the Tax Equalization Fund of 289,300 dollars, representing the decrease in the estimated staff assessment income, compared with the amount of 1,412,100 dollars approved for the Mission;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_14" class="MercuryDocument">
+        <num>	7.</num>
+        <content eId="para_14__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> to keep under review, during its seventy-fourth session, the item entitled “Financing of the United Nations Mission for Justice Support in Haiti”.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="52nd">52nd (resumed) plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-27" refersTo="#adoptionDate">27 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

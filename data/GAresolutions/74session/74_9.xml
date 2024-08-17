@@ -1,0 +1,917 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-11-27/74-9/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-11-27/74-9/"></FRBRuri>
+          <FRBRdate date="2019-11-27" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-11-27/74-9/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-11-27/74-9/eng@/"></FRBRuri>
+          <FRBRdate date="2019-12-06" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-11-27/74-9/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-11-27/74-9/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-22" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women&amp;#39;s_rights" href="http://eurovoc.europa.eu/585" showAs="women&amp;#39;s_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-11-22" outcome="draftResolution" as="A/74/L.13" by="Germany" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="Afghanistan, Albania, Andorra, Australia, Austria, Azerbaijan, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Dominican Republic, Equatorial Guinea, Estonia, Finland, France, Georgia, Greece, Hungary, Iceland, India, Indonesia, Iraq, Ireland, Italy, Japan, Kazakhstan, Kuwait, Kyrgyzstan, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, Mongolia, Nepal, Netherlands, New Zealand, North Macedonia, Norway, Pakistan, Poland, Portugal, Qatar, Republic of Korea, Romania, San Marino, Slovakia, Slovenia, Spain, Sri Lanka, Sweden, Switzerland, Tajikistan, Thailand, Turkey, Turkmenistan, Ukraine, United Arab Emirates, United Kingdom, United States and Uzbekistan" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="" />
+        <step date="2019-11-27" outcome="adopted" as="A/74/PV.36" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedRecordedVote">
+            <count value="137" refersTo="inFavour">
+              <akn4un:voters>
+                <organization refersTo="memberState">AFGHANISTAN</organization>
+                <organization refersTo="memberState">ALBANIA</organization>
+                <organization refersTo="memberState">ALGERIA</organization>
+                <organization refersTo="memberState">ANDORRA</organization>
+                <organization refersTo="memberState">ANGOLA</organization>
+                <organization refersTo="memberState">ARGENTINA</organization>
+                <organization refersTo="memberState">ARMENIA</organization>
+                <organization refersTo="memberState">AUSTRALIA</organization>
+                <organization refersTo="memberState">AUSTRIA</organization>
+                <organization refersTo="memberState">AZERBAIJAN</organization>
+                <organization refersTo="memberState">BAHAMAS</organization>
+                <organization refersTo="memberState">BAHRAIN</organization>
+                <organization refersTo="memberState">BANGLADESH</organization>
+                <organization refersTo="memberState">BELGIUM</organization>
+                <organization refersTo="memberState">BHUTAN</organization>
+                <organization refersTo="memberState">BOLIVIA (PLURINATIONAL STATE OF)</organization>
+                <organization refersTo="memberState">BOSNIA AND HERZEGOVINA</organization>
+                <organization refersTo="memberState">BRAZIL</organization>
+                <organization refersTo="memberState">BRUNEI DARUSSALAM</organization>
+                <organization refersTo="memberState">BULGARIA</organization>
+                <organization refersTo="memberState">BURKINA FASO</organization>
+                <organization refersTo="memberState">CAMBODIA</organization>
+                <organization refersTo="memberState">CAMEROON</organization>
+                <organization refersTo="memberState">CANADA</organization>
+                <organization refersTo="memberState">CENTRAL AFRICAN REPUBLIC</organization>
+                <organization refersTo="memberState">CHAD</organization>
+                <organization refersTo="memberState">CHILE</organization>
+                <organization refersTo="memberState">CHINA</organization>
+                <organization refersTo="memberState">COLOMBIA</organization>
+                <organization refersTo="memberState">COSTA RICA</organization>
+                <organization refersTo="memberState">COTE D'IVOIRE</organization>
+                <organization refersTo="memberState">CROATIA</organization>
+                <organization refersTo="memberState">CUBA</organization>
+                <organization refersTo="memberState">CYPRUS</organization>
+                <organization refersTo="memberState">CZECHIA</organization>
+                <organization refersTo="memberState">DENMARK</organization>
+                <organization refersTo="memberState">DJIBOUTI</organization>
+                <organization refersTo="memberState">DOMINICAN REPUBLIC</organization>
+                <organization refersTo="memberState">ECUADOR</organization>
+                <organization refersTo="memberState">EGYPT</organization>
+                <organization refersTo="memberState">EL SALVADOR</organization>
+                <organization refersTo="memberState">EQUATORIAL GUINEA</organization>
+                <organization refersTo="memberState">ERITREA</organization>
+                <organization refersTo="memberState">ESTONIA</organization>
+                <organization refersTo="memberState">ETHIOPIA</organization>
+                <organization refersTo="memberState">FIJI</organization>
+                <organization refersTo="memberState">FINLAND</organization>
+                <organization refersTo="memberState">FRANCE</organization>
+                <organization refersTo="memberState">GAMBIA</organization>
+                <organization refersTo="memberState">GEORGIA</organization>
+                <organization refersTo="memberState">GERMANY</organization>
+                <organization refersTo="memberState">GREECE</organization>
+                <organization refersTo="memberState">GUATEMALA</organization>
+                <organization refersTo="memberState">GUINEA</organization>
+                <organization refersTo="memberState">HAITI</organization>
+                <organization refersTo="memberState">HONDURAS</organization>
+                <organization refersTo="memberState">HUNGARY</organization>
+                <organization refersTo="memberState">ICELAND</organization>
+                <organization refersTo="memberState">INDIA</organization>
+                <organization refersTo="memberState">INDONESIA</organization>
+                <organization refersTo="memberState">IRAN (ISLAMIC REPUBLIC OF)</organization>
+                <organization refersTo="memberState">IRAQ</organization>
+                <organization refersTo="memberState">IRELAND</organization>
+                <organization refersTo="memberState">ISRAEL</organization>
+                <organization refersTo="memberState">ITALY</organization>
+                <organization refersTo="memberState">JAPAN</organization>
+                <organization refersTo="memberState">JORDAN</organization>
+                <organization refersTo="memberState">KAZAKHSTAN</organization>
+                <organization refersTo="memberState">KIRIBATI</organization>
+                <organization refersTo="memberState">KUWAIT</organization>
+                <organization refersTo="memberState">KYRGYZSTAN</organization>
+                <organization refersTo="memberState">LAO PEOPLE'S DEMOCRATIC REPUBLIC</organization>
+                <organization refersTo="memberState">LATVIA</organization>
+                <organization refersTo="memberState">LEBANON</organization>
+                <organization refersTo="memberState">LIECHTENSTEIN</organization>
+                <organization refersTo="memberState">LITHUANIA</organization>
+                <organization refersTo="memberState">LUXEMBOURG</organization>
+                <organization refersTo="memberState">MALAYSIA</organization>
+                <organization refersTo="memberState">MALDIVES</organization>
+                <organization refersTo="memberState">MALTA</organization>
+                <organization refersTo="memberState">MARSHALL ISLANDS</organization>
+                <organization refersTo="memberState">MAURITIUS</organization>
+                <organization refersTo="memberState">MEXICO</organization>
+                <organization refersTo="memberState">MICRONESIA (FEDERATED STATES OF)</organization>
+                <organization refersTo="memberState">MONACO</organization>
+                <organization refersTo="memberState">MONGOLIA</organization>
+                <organization refersTo="memberState">MONTENEGRO</organization>
+                <organization refersTo="memberState">MOROCCO</organization>
+                <organization refersTo="memberState">NAURU</organization>
+                <organization refersTo="memberState">NEPAL</organization>
+                <organization refersTo="memberState">NETHERLANDS</organization>
+                <organization refersTo="memberState">NEW ZEALAND</organization>
+                <organization refersTo="memberState">NICARAGUA</organization>
+                <organization refersTo="memberState">NORTH MACEDONIA</organization>
+                <organization refersTo="memberState">NORWAY</organization>
+                <organization refersTo="memberState">PAKISTAN</organization>
+                <organization refersTo="memberState">PANAMA</organization>
+                <organization refersTo="memberState">PAPUA NEW GUINEA</organization>
+                <organization refersTo="memberState">PARAGUAY</organization>
+                <organization refersTo="memberState">PERU</organization>
+                <organization refersTo="memberState">PHILIPPINES</organization>
+                <organization refersTo="memberState">POLAND</organization>
+                <organization refersTo="memberState">PORTUGAL</organization>
+                <organization refersTo="memberState">QATAR</organization>
+                <organization refersTo="memberState">REPUBLIC OF KOREA</organization>
+                <organization refersTo="memberState">ROMANIA</organization>
+                <organization refersTo="memberState">SAINT VINCENT AND THE GRENADINES</organization>
+                <organization refersTo="memberState">SAMOA</organization>
+                <organization refersTo="memberState">SAN MARINO</organization>
+                <organization refersTo="memberState">SAUDI ARABIA</organization>
+                <organization refersTo="memberState">SERBIA</organization>
+                <organization refersTo="memberState">SINGAPORE</organization>
+                <organization refersTo="memberState">SLOVAKIA</organization>
+                <organization refersTo="memberState">SLOVENIA</organization>
+                <organization refersTo="memberState">SOLOMON ISLANDS</organization>
+                <organization refersTo="memberState">SOUTH AFRICA</organization>
+                <organization refersTo="memberState">SPAIN</organization>
+                <organization refersTo="memberState">SRI LANKA</organization>
+                <organization refersTo="memberState">SURINAME</organization>
+                <organization refersTo="memberState">SWEDEN</organization>
+                <organization refersTo="memberState">SWITZERLAND</organization>
+                <organization refersTo="memberState">TAJIKISTAN</organization>
+                <organization refersTo="memberState">THAILAND</organization>
+                <organization refersTo="memberState">TUNISIA</organization>
+                <organization refersTo="memberState">TURKEY</organization>
+                <organization refersTo="memberState">TURKMENISTAN</organization>
+                <organization refersTo="memberState">TUVALU</organization>
+                <organization refersTo="memberState">UKRAINE</organization>
+                <organization refersTo="memberState">UNITED ARAB EMIRATES</organization>
+                <organization refersTo="memberState">UNITED KINGDOM</organization>
+                <organization refersTo="memberState">UNITED STATES</organization>
+                <organization refersTo="memberState">URUGUAY</organization>
+                <organization refersTo="memberState">UZBEKISTAN</organization>
+                <organization refersTo="memberState">VENEZUELA (BOLIVARIAN REPUBLIC OF)</organization>
+                <organization refersTo="memberState">VIET NAM</organization>
+                <organization refersTo="memberState">YEMEN</organization>
+                <organization refersTo="memberState">ZAMBIA</organization>
+              </akn4un:voters>
+            </count>
+            <count value="2" refersTo="abstaining">
+              <akn4un:voters>
+                <organization refersTo="memberState">PALAU</organization>
+                <organization refersTo="memberState">RUSSIAN FEDERATION</organization>
+              </akn4un:voters>
+            </count>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="noMainCommittee" href="#noMainCommittee" showAs="Without reference to a main committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-20508 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/9</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2019-12-06" class="rightSmall" refersTo="#dateOfIssuance">6 December 2019</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 36</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">The situation in Afghanistan</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 27 November 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#noMainCommittee">[without reference to a Main Committee (<inline name="originating document">A/74/L.13 and A/74/L.13/Add.1</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/9.</docNumber>
+        <docTitle refersTo="#resolutionTitle">The situation in Afghanistan</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Recalling" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolution <a href="https://undocs.org/A/RES/73/88">73/88</a> of 6 December 2018 and all its previous relevant resolutions,</p>
+      </container>
+      <container name="Recalling also" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> all relevant Security Council resolutions and statements by the President of the Council on the situation in Afghanistan, in particular resolutions <a href="https://undocs.org/S/RES/2189(2014)">2189</a><a href="https://undocs.org/S/RES/2189(2014)"> </a><a href="https://undocs.org/S/RES/2189(2014)">(2014)</a> of 12 December 2014, <a href="https://undocs.org/S/RES/2210(2015)">2210 (2015)</a> of 16 March 2015, <a href="https://undocs.org/S/RES/2274(2016)">2274 (2016)</a> of 15 March 2016, <a href="https://undocs.org/S/RES/2344(2017)">2344 (2017)</a> of 17 March 2017, <a href="https://undocs.org/S/RES/2405(2018)">2405 (2018)</a> of 8 March 2018 and <a href="https://undocs.org/S/RES/2489(2019)">2489 (2019)</a> of 17 September 2019,</p>
+      </container>
+      <container name="Reaffirming its strong commitment" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming its strong commitment</span> to the sovereignty, independence, territorial integrity and national unity of Afghanistan, and respecting its multicultural, multi‑ethnic and historical heritage,</p>
+      </container>
+      <container name="Welcoming" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the efforts by Afghanistan in the framework of the Transformation Decade (2015–2024) to consolidate its sovereignty through strengthening a fully functioning, sustainable State in the service of its people, with the goal of becoming fully self-reliant,</p>
+      </container>
+      <container name="Recalling" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the importance of the development of the institutions of the Government of Afghanistan, including at the subnational level, the strengthening of the rule of law, democratic processes and civil society, the fight against corruption, the continuation of justice sector reform, the promotion of the peace process, including women’s full and meaningful participation in the peace process, without prejudice to the fulfilment of the measures introduced by the Security Council in its relevant resolutions, in particular resolutions <a href="https://undocs.org/S/RES/1267(1999)">1267 (1999)</a> of 15 October 1999 and <a href="https://undocs.org/S/RES/1988(2011)">1988 (2011)</a> of 17 June 2011, and of an Afghan-led transitional justice process, the safe, voluntary, dignified and sustainable return of Afghan refugees and internally displaced persons, the promotion and protection of all human rights, including the rights of women and girls, interfaith and intrafaith tolerance and the advancement of economic and social development,</p>
+      </container>
+      <container name="Reaffirming" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the long-term partnership between the Government of Afghanistan and the international community based on their renewed mutual commitments, as laid down in the Geneva Mutual Accountability Framework, as agreed upon at the Geneva Conference on Afghanistan held on 27 and 28 November 2018, and recalling the long-term commitment of the international community to Afghanistan, reaffirmed at the Geneva Conference, with the aim of continuing to strengthen national ownership and leadership,</p>
+      </container>
+      <container name="Reaffirming also" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming also</span> the commitment of the international community to continuing to support the training, equipping, financing and development of the capacity of the Afghan National Defence and Security Forces, including as agreed upon in the Summit Declarations of the North Atlantic Treaty Organization on Afghanistan, and honouring the memory of the men and women of the Afghan and international security forces who have given their lives in the course of duty,</p>
+      </container>
+      <container name="Reiterating its serious concern" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Reiterating its serious concern</span> about the security situation in Afghanistan and the urgent need to tackle the challenges facing the country, in particular the region-based violence, attacks and all forms of terrorist and criminal activities and violent extremist activities of the Taliban, including the Haqqani Network, as well as Al‑Qaida, Islamic State in Iraq and the Levant (ISIL) (Da’esh) and their affiliates, in particular ISIL-Khorasan Province, and other terrorist groups, and foreign terrorist fighters,</p>
+      </container>
+      <container name="Expressing its deep concern" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Expressing its deep concern</span> about the continuing high level of violence in Afghanistan, especially the number of civilian casualties, including the continuing high number of women and children killed and maimed, urging an immediate reduction in current levels of violence, condemning in the strongest terms all terrorist activity and all violent and unlawful attacks and killings, recalling that the Taliban, including the Haqqani Network, as well as Al-Qaida, Islamic State in Iraq and the Levant (ISIL) (Da’esh) and their affiliates, in particular ISIL-Khorasan Province, and other terrorist groups, and foreign terrorist fighters, are responsible for the significant majority of the civilian casualties, including those involving humanitarian and medical personnel, in Afghanistan, calling for compliance with international humanitarian law and international human rights law, as applicable, calling upon all parties to armed conflict to take all measures necessary and appropriate to ensure respect for and the protection of civilians and humanitarian and medical personnel, as well as aid and humanitarian and medical facilities, and urging that credible reports of civilian casualties be thoroughly investigated and steps taken to avoid such incidents,</p>
+      </container>
+      <container name="Welcoming" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the efforts made by the Government of Afghanistan to promote an Afghan-led and Afghan-owned peace process, and calling upon the Taliban to respond to the call for peace from the people and the Government of Afghanistan,</p>
+      </container>
+      <container name="Welcoming also" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming also</span> the achievements of the National Unity Government in political, economic, governance and social reforms and in the management of the transition, underlining the need to preserve past achievements, and urging further improvement in this regard, in particular to address poverty and the delivery of services, stimulate economic growth, create employment opportunities, tackle corruption, enhance transparency, increase domestic revenue and promote and implement commitments on human rights, especially women’s full and equal enjoyment of these rights, the rights of the child, the rights of persons belonging to minorities and the freedom of expression and opinion, as envisaged in the Constitution of Afghanistan, including for journalists and in accordance with obligations under international law,</p>
+      </container>
+      <container name="Emphasizing" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Emphasizing</span> the important role of regional cooperation to promote long-term peace, security, prosperity, sustainable development and human rights in Afghanistan,</p>
+      </container>
+      <container name="Welcoming" eId="container_14">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the inauguration of the new parliament on 26 April 2019, noting the holding of the presidential election on 28 September 2019, which marked another important step towards the consolidation of democracy in the country, commending the people of Afghanistan for their courage and determination in defying terrorism and violence to take part in that national process, as well as the Afghan National Defence and Security Forces for the effective manner in which they provided security for the elections, and condemning in the strongest terms all terrorist activity and violent attacks aimed at disrupting the elections,</p>
+      </container>
+      <container name="Emphasizing" eId="container_15">
+        <p xml:space="preserve">
+          <span class="italic">Emphasizing</span> the central and impartial role of the United Nations in promoting peace and stability in Afghanistan, expressing its appreciation and strong support for all the efforts of the Secretary-General and his Special Representative for Afghanistan in this regard, expressing its appreciation also for the work of the United Nations Assistance Mission in Afghanistan in accordance with Security Council resolution <a href="https://undocs.org/S/RES/2489(2019)">2489 (2019)</a>, and stressing the important role of the Assistance Mission in seeking to further improve the coherence and coordination of international civilian efforts, based on the “One United Nations” approach and guided by the principle of reinforcing Afghan ownership and leadership,</p>
+      </container>
+      <container name="Recalling with appreciation" eId="container_16">
+        <p xml:space="preserve">
+          <span class="italic">Recalling with appreciation</span> the visit of the Security Council to Kabul in January 2018 in the context of peace and security, and welcoming the joint high-level visit by the Deputy Secretary-General and other senior United Nations officials to Afghanistan in July 2019 in the context of women and peace and security,</p>
+      </container>
+      <container name="Welcoming also" eId="container_17">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming also</span> the reports of the Secretary-General and the recommendations contained therein,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"><a href="https://undocs.org/A/71/682">A/71/682-S/2016/1049</a>, <a href="https://undocs.org/A/71/826">A/71/826-S/2017/189</a>, <a href="https://undocs.org/A/71/932">A/71/932-S/2017/508</a>, <a href="https://undocs.org/A/72/392">A/72/392-S/2017/783</a>, A/73/374/Rev.1-S/2018/824/Rev.1 and <a href="https://undocs.org/A/74/348">A/74/348-S/2019/703</a>.</p></authorialNote></p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_18" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_18__content">
+          <p xml:space="preserve">
+            <span class="italic">Pledges its continued support</span> to the Government and people of Afghanistan as they rebuild a stable, secure and economically self-sufficient State, free of terrorism and narcotics, and strengthen the foundations of a constitutional democracy as a responsible member of the international community;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_19" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_19__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> all partners to constructively support the reform agenda of the Government of Afghanistan, as envisaged in the Afghanistan National Peace and Development Framework and the Geneva Mutual Accountability Framework, so as to secure a prosperous and democratic Afghanistan, focusing on strengthening the constitutional checks and balances that guarantee citizens’ rights and obligations and implementing structural reform to enable an accountable and effective Government to deliver concrete progress to its people;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_20" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_20__content">
+          <p xml:space="preserve">
+            <span class="italic">Supports</span> the continuing and growing ownership of reconstruction and development efforts by the Government of Afghanistan, emphasizes the crucial need to achieve ownership and accountability in all fields of governance and to improve institutional capabilities, including at the subnational level, in order to use aid more effectively, and reiterates in this regard the importance of effectively implementing mutual commitments of the Government of Afghanistan and the international community on a reciprocal basis, as underscored in the Geneva Mutual Accountability Framework;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_21" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_21__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes</span> that the funding commitments made at the Brussels Conference on Afghanistan will end in 2020, and underlines, in the light of the continued acute development and humanitarian needs, the necessity for a ministerial pledging conference to be held in late 2020 to set frameworks both for sustained assistance for the remainder of the Transformation Decade (2015–2024) to address this need and for future donor assistance to Afghanistan beyond 2024;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_22" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_22__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls with appreciation</span> the adoption of the Geneva Mutual Accountability Framework, as reflected in the communiqué adopted at the international Geneva Conference on Afghanistan, which underscores the importance of effectively implementing mutual commitments of the Government of Afghanistan and the international community on a reciprocal basis;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_23" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_23__content">
+          <p xml:space="preserve">
+            <span class="italic">Emphasizes</span> that threats to stability and development in Afghanistan and the region require closer and more coordinated cooperation as well as greater coherence and complementarity of approach between countries of the region and the international community, for the long-term peace, security, prosperity and sustainable development of the country, and underscores in this regard the standing of Afghanistan as a platform for such international cooperation;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_24" class="H23">
+        <subheading>		Security</subheading>
+      </paragraph>
+      <paragraph eId="para_25" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_25__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> the commitment of the international community to supporting the training, equipping, financing and development of capacity-building for the Afghan National Defence and Security Forces throughout the Transformation Decade (2015–2024), as agreed upon most recently in the Brussels Summit Declaration in 2018, including through the Resolute Support Mission, as welcomed by the Security Council in its resolution <a href="https://undocs.org/S/RES/2189(2014)">2189 (2014)</a>;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_26" class="SingleTxt">
+        <num>	8.</num>
+        <content eId="para_26__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the pledges and commitments made, most recently at the Brussels Summit of the North Atlantic Treaty Organization, held on 11 and 12 July 2018, to continuing national contributions to the financial sustainment of the Afghan National Defence and Security Forces until the end of 2024, to sustaining the Resolute Support Mission and to continuing to deliver training, advice and assistance to the Afghan security institutions, including the police, the air force and special operations forces;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_27" class="SingleTxt">
+        <num>	9.</num>
+        <content eId="para_27__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> the positive impact and ongoing importance of commitments made by the European Union as part of the continued international support for security, development and stability in Afghanistan;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_28" class="SingleTxt">
+        <num>	10.</num>
+        <content eId="para_28__content">
+          <p xml:space="preserve">
+            <span class="italic">Reiterates once again its serious concern</span> about the security situation in Afghanistan, stresses the need to continue to address the threat to the security and stability of Afghanistan caused by the region-based violent extremist and other illegal armed groups and criminals, including those involved in the narcotics trade, the Taliban, including the Haqqani Network, as well as Al-Qaida, Islamic State in Iraq and the Levant (ISIL) (Da’esh) and their affiliates, in particular ISIL-Khorasan Province, and other terrorist groups, and foreign terrorist fighters, expresses concern about the serious threat posed by the presence of foreign terrorist fighters, reiterates in this regard its call for the full and serious implementation of measures and the application of procedures introduced in relevant Security Council resolutions, in particular resolutions <a href="https://undocs.org/S/RES/1267(1999)">1267 (1999)</a>, <a href="https://undocs.org/S/RES/1988(2011)">1988 (2011)</a>, <a href="https://undocs.org/S/RES/1989(2011)">1989 (2011)</a> of 17 June 2011, <a href="https://undocs.org/S/RES/2082(2012)">2082</a><a href="https://undocs.org/S/RES/2082(2012)"> </a><a href="https://undocs.org/S/RES/2082(2012)">(2012)</a> and <a href="https://undocs.org/S/RES/2083(2012)">2083 (2012)</a> of 17 December 2012, <a href="https://undocs.org/S/RES/2160(2014)">2160 (2014)</a> and <a href="https://undocs.org/S/RES/2161(2014)">2161 (2014)</a> of 17 June 2014, <a href="https://undocs.org/S/RES/2253(2015)">2253 (2015)</a> of 17 December 2015, <a href="https://undocs.org/S/RES/2255(2015)">2255 (2015)</a> of 21 December 2015 and <a href="https://undocs.org/S/RES/2368(2017)">2368 (2017)</a> of 20 July 2017, and calls upon all States to strengthen their international and regional cooperation to enhance information-sharing, border control, law enforcement and criminal justice to better counter the threat posed by foreign terrorist fighters and returning foreign terrorist fighters in Afghanistan and the region;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_29" class="SingleTxt">
+        <num>	11.</num>
+        <content eId="para_29__content">
+          <p xml:space="preserve">
+            <span class="italic">Expresses its serious concern</span> regarding the presence of terrorist organizations, such as Islamic State in Iraq and the Levant (ISIL) (Da’esh) and its affiliates, in particular ISIL-Khorasan Province, and other terrorist groups, and foreign terrorist fighters, and the increased number of cowardly and heinous terrorist attacks for which they have claimed responsibility, including killings of Afghan nationals, and their deplorable attempts to undermine relations between communities, posing a serious threat to the security of Afghanistan and the countries of the region, commends the progress of the Government of Afghanistan in combating these threats in the country, calls for enhanced regional cooperation in the fight against these groups, and affirms its support for continued efforts in this regard;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_30" class="SingleTxt">
+        <num>	12.</num>
+        <content eId="para_30__content">
+          <p xml:space="preserve">
+            <span class="italic">Condemns in the strongest terms</span> all unlawful acts of violence, intimidation and attacks, including improvised explosive device attacks, suicide attacks, assassinations, including of public figures, abductions, indiscriminate attacks against civilians, violence perpetrated against women and children and sexual and gender-based violence, killings, attacks against individuals, media groups and organs of society engaged in the promotion and protection of universally recognized human rights, attacks against development aid, humanitarian and medical personnel and civilian infrastructure facilities, including schools, health clinics and hospitals, as such, and the targeting of Afghan and international forces, which have a deleterious effect on stabilization and development efforts in Afghanistan, and condemns the use of civilians as human shields, as well as Taliban attacks and acts of international terrorists;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_31" class="SingleTxt">
+        <num>	13.</num>
+        <content eId="para_31__content">
+          <p xml:space="preserve">
+            <span class="italic">Stresses</span> the need for the Government of Afghanistan and the international community to continue to work closely together and to improve coordination in countering such acts, which are threatening peace and stability in Afghanistan and the democratic process, the achievements and the continued implementation of the development process in Afghanistan, as well as humanitarian aid measures, recognizes the achievements of the Afghan National Defence and Security Forces in this regard, and calls upon all Member States, in particular neighbouring countries, to deny those groups any form of sanctuary, freedom of operations, movement, recruitment and financial, material or political support;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_32" class="SingleTxt">
+        <num>	14.</num>
+        <content eId="para_32__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the assumption of full security responsibility by the Afghan National Defence and Security Forces, commends the resilience and courage displayed in this regard, calls upon the international community to provide the support necessary to increase security, including public order, law enforcement, the security of Afghanistan’s borders and the preservation of the constitutional rights of Afghan citizens, as well as to provide continued support by training, equipping and contributing to the financing of the Forces to take on the task of securing their country and fighting against terrorism, and underscores the importance of all the Summit Declarations of the North Atlantic Treaty Organization on Afghanistan and other relevant agreements with regional and international partners;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_33" class="SingleTxt">
+        <num>	15.</num>
+        <content eId="para_33__content">
+          <p xml:space="preserve">
+            <span class="italic">Also welcomes</span>, in this regard, the presence of the Resolute Support Mission, expresses its appreciation to Member States for having contributed personnel, equipment and other resources to the Mission and for the support provided to the Afghan National Defence and Security Forces by all international partners, in particular by the North Atlantic Treaty Organization through its previous combat and current non-combat missions in Afghanistan, as well as other bilateral training programmes, and encourages further coordination, where appropriate;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_34" class="SingleTxt">
+        <num>	16.</num>
+        <content eId="para_34__content">
+          <p xml:space="preserve">
+            <span class="italic">Further welcomes</span> the commitment of the Government of Afghanistan, with a view to ensuring stability and providing conditions for the effective rule of law and respect for human rights for all, including women’s full and equal enjoyment of these rights, to continuing its security sector reform by making the security provision, management and oversight of the Afghan National Defence and Security Forces more effective and accountable, welcomes in this regard the progress being made in the Afghan national security institutions, as presented at the Geneva Conference on Afghanistan, and expresses its appreciation for the support that States have provided to the Forces;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_35" class="SingleTxt">
+        <num>	17.</num>
+        <content eId="para_35__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> that regional security cooperation plays a key role in maintaining stability in Afghanistan and the region, welcomes the progress achieved by Afghanistan and regional partners in this regard, calls for further efforts by Afghanistan and regional partners and organizations, including the Shanghai Cooperation Organization, to strengthen their partnership and cooperation, takes note of the discussion related to Afghanistan at the meeting of the Council of Heads of State of the Shanghai Cooperation Organization held in Bishkek on 13 and 14 June 2019, and in this regard also takes note of the meeting of the Shanghai Cooperation Organization-Afghanistan Contact Group held in Bishkek on 19 April 2019;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_36" class="SingleTxt">
+        <num>	18.</num>
+        <content eId="para_36__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the efforts of the United Nations Regional Centre for Preventive Diplomacy for Central Asia to address regional security cooperation, including its holding of a preventive diplomacy academy and cross-border workshop with Afghan participants,</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_37" class="SingleTxt">
+        <num>	19.</num>
+        <content eId="para_37__content">
+          <p xml:space="preserve">
+            <span class="italic">Remains deeply concerned</span> about the persistent problem of anti-personnel landmines, explosive remnants of war and improvised explosive devices, welcomes the achievements to date in the implementation of the Mine Action Programme for Afghanistan, aimed at declaring Afghanistan mine-free by 2023, underscores the importance of sustained international assistance, encourages the Government of Afghanistan, with the support of the United Nations and all relevant actors, to continue its efforts to meet its responsibilities under the Convention on the Prohibition of the Use, Stockpiling, Production and Transfer of Anti-Personnel Mines and on Their Destruction,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vol. 2056, No. 35597.</p></authorialNote> expresses concern at the use of improvised explosive devices by the Taliban against civilians and the Afghan security forces, and notes the need to enhance coordination and information-sharing between both Member States and the private sector to prevent the flow of improvised explosive device components to the Taliban;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_38" class="H23">
+        <subheading>		Peace and reconciliation</subheading>
+      </paragraph>
+      <paragraph eId="para_39" class="SingleTxt">
+        <num>	20.</num>
+        <content eId="para_39__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> that an Afghan-led and Afghan-owned inclusive peace process backed by regional actors, in particular Pakistan, and supported by the international community, is essential for achieving long-term peace and stability in Afghanistan, reiterating its firm commitment to supporting the Government of Afghanistan in its efforts in this regard, and that, to be successful, a political solution must ensure the renunciation of violence and the breaking of all ties to international terrorism, protect the human rights of all, including women, children and persons belonging to minorities, in accordance with international law and as enshrined in the Constitution of Afghanistan, and build a peaceful Afghanistan, with full respect for the implementation of the measures and application of the procedures introduced by the Security Council in its resolutions <a href="https://undocs.org/S/RES/1267(1999)">1267 (1999)</a>, <a href="https://undocs.org/S/RES/1988(2011)">1988 (2011)</a>, <a href="https://undocs.org/S/RES/2082(2012)">2082 (2012)</a>, <a href="https://undocs.org/S/RES/2160(2014)">2160</a><a href="https://undocs.org/S/RES/2160(2014)"> </a><a href="https://undocs.org/S/RES/2160(2014)">(2014)</a> and <a href="https://undocs.org/S/RES/2255(2015)">2255 (2015)</a>, as well as other relevant resolutions of the Council, calls upon all relevant States, especially neighbouring countries, and international organizations to remain engaged in the Afghan-led and Afghan-owned peace process, and recognizes the impact that terrorist attacks have on the Afghan people, while underlining that such acts should not hinder efforts to achieve a peace settlement;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_40" class="SingleTxt">
+        <num>	21.</num>
+        <content eId="para_40__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the efforts made by the Government of Afghanistan to begin direct negotiations within the framework of a comprehensive peace plan, as laid out in the declaration of the consultative peace loya jirga held from 29 April to 3 May 2019,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"><a href="https://undocs.org/S/2019/410">S/2019/410</a>, annex.</p></authorialNote> calls upon the Taliban to accept this offer without any preconditions and without the threat of violence, and calls for the resumption of the peace process, for the continuation of the intra-Afghan dialogue and for the start of inclusive direct talks of the Government of Afghanistan and the Taliban, with the aim of agreeing on a political settlement that leads to sustainable peace for the people of Afghanistan;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_41" class="SingleTxt">
+        <num>	22.</num>
+        <content eId="para_41__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Afghanistan and Pakistan to enhance their relationship, which could lead to cooperation to combat terrorism effectively and move forward the Afghan-led and Afghan-owned peace process, and to effectively implement the Afghanistan-Pakistan Action Plan for Peace and Solidarity as an important mechanism of cooperation;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_42" class="SingleTxt">
+        <num>	23.</num>
+        <content eId="para_42__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> that women play a vital role in the peace process, as recognized by the Security Council in its resolution <a href="https://undocs.org/S/RES/1325(2000)">1325 (2000)</a> of 31 October 2000 and in related resolutions, including resolution <a href="https://undocs.org/S/RES/2242(2015)">2242 (2015)</a> of 13 October 2015, welcomes the steps taken by the Government of Afghanistan in implementing its national action plan on women, peace and security and in enhancing the role of women in the peace process, as manifested in their contribution to the development of the Afghanistan peace and reconciliation strategy, and encourages the Government of Afghanistan to further implement the women and peace and security agenda, including by supporting the full and meaningful participation of women, locally and at the highest level, in peace and transition;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_43" class="SingleTxt">
+        <num>	24.</num>
+        <content eId="para_43__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> that there is no purely military solution to ensure the stability of Afghanistan and that sustainable peace can be achieved only through a negotiated political settlement that includes the Government of Afghanistan, calls for an immediate halt to unlawful violence to create an environment conducive to peace negotiations, welcomes the efforts made by the Government of Afghanistan, including the convening of the second meeting of the Kabul Process for Peace and Security Cooperation and the convening of the consultative peace loya jirga, as well as all other ongoing efforts to initiate a peace process in Afghanistan with Afghan-led and Afghan-owned negotiations inclusive of both the Government and civil society at its core, and commends the role of the Ulama of Afghanistan, Pakistan and Indonesia in advancing the peace process by sending a message of peace through the Trilateral Ulama Conference;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_44" class="SingleTxt">
+        <num>	25.</num>
+        <content eId="para_44__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> all Afghan, regional and international parties to continue to support these peace efforts to include the effective and meaningful participation of women and to safeguard and further consolidate the achievements with regard to State-building, social, political and economic reforms and the implementation of obligations and commitments relating to fundamental freedoms and human rights in Afghanistan, especially those of women and children;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_45" class="SingleTxt">
+        <num>	26.</num>
+        <content eId="para_45__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes</span> the work of regional and international partners and formats, including the Quadrilateral Coordination Group, the International Contact Group on Afghanistan, the Tashkent dialogue consultations, the Moscow format consultations and the intra-Afghan dialogue, including the dialogues held in Doha and in Moscow, to facilitate Afghan-led and Afghan-owned efforts towards direct peace talks between the Government of Afghanistan and the Taliban, and calls upon all regional and international partners of Afghanistan to continue their efforts, recognizing that success can be achieved only through the unified and close coordination of efforts under the leadership and ownership of the Government of Afghanistan;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_46" class="H23">
+        <subheading>		Democracy</subheading>
+      </paragraph>
+      <paragraph eId="para_47" class="SingleTxt">
+        <num>	27.</num>
+        <content eId="para_47__content">
+          <p xml:space="preserve">
+            <span class="italic">Emphasizes</span> the importance of all parties in Afghanistan working together to achieve a unified, peaceful, democratic and prosperous future for all the people of Afghanistan;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_48" class="SingleTxt">
+        <num>	28.</num>
+        <content eId="para_48__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> the commitment and welcomes the efforts of the Government of Afghanistan to improving and reforming the electoral process in Afghanistan and the holding of presidential elections on 28 September 2019, condemns in the strongest terms all terrorist activity and violent attacks aimed at disrupting the elections, commends the commitment shown by Afghans in exercising their right to vote and their belief in democracy, emphasizes the important role of the independent Afghan electoral institutions in upholding the integrity of the electoral process, including by clearly communicating their decisions to all stakeholders, urges all stakeholders to support the elections commissioners in delivering an election result that is credible and transparent, and calls upon the Government of Afghanistan and its institutions, including the Independent Election Commission and the Electoral Complaints Commission, to ensure that future elections are credible and transparent by building on the lessons learned in 2019 and continuing to implement the electoral reforms and further technical and operational improvements necessary to strengthen voter trust and confidence;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_49" class="SingleTxt">
+        <num>	29.</num>
+        <content eId="para_49__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the increasingly wide and comprehensive dialogue on the political transition towards strengthening the unity of the Afghan people, and underscores its importance for consolidating democracy and Afghan political stability;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_50" class="SingleTxt">
+        <num>	30.</num>
+        <content eId="para_50__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> the Government of Afghanistan to continue to effectively reform the public administration sector in order to implement the rule of law and to ensure good governance and accountability, and welcomes the commitments, efforts and progress made by the Government in this regard;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_51" class="H23">
+        <subheading>		Rule of law, human rights and good governance</subheading>
+      </paragraph>
+      <paragraph eId="para_52" class="SingleTxt">
+        <num>	31.</num>
+        <content eId="para_52__content">
+          <p xml:space="preserve">
+            <span class="italic">Emphasizes</span> that the rule of law, human rights and good governance form the foundation for the achievement of a stable and prosperous Afghanistan;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_53" class="SingleTxt">
+        <num>	32.</num>
+        <content eId="para_53__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> the constitutional guarantee of respect for human rights and fundamental freedoms for all Afghans, without discrimination of any kind, stresses the need to fully implement the human rights provisions of the Constitution of Afghanistan, in accordance with obligations under applicable international law, in particular those regarding the full enjoyment by women, children, persons with disabilities and persons belonging to ethnic and religious minorities of their human rights, and acknowledges efforts of the Government of Afghanistan in this regard;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_54" class="SingleTxt">
+        <num>	33.</num>
+        <content eId="para_54__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> the membership of Afghanistan in the Human Rights Council, and welcomes the commitment and responsibility assumed in upholding and promoting human rights at the national, regional and international levels, within the framework of relevant international human rights instruments to which it is a party;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_55" class="SingleTxt">
+        <num>	34.</num>
+        <content eId="para_55__content">
+          <p xml:space="preserve">
+            <span class="italic">Reiterates its concern</span> at the destructive consequences of violent and terrorist activities, including against persons belonging to ethnic and religious minorities, for the enjoyment of human rights and for the capacity of the Government to ensure human rights and fundamental freedoms for all Afghans, and stresses the need to further promote tolerance and to ensure respect for the right to freedom of expression, including for journalists, and the right to freedom of thought, conscience, religion or belief as enshrined in the Constitution of Afghanistan and the international covenants to which Afghanistan is a party;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_56" class="SingleTxt">
+        <num>	35.</num>
+        <content eId="para_56__content">
+          <p xml:space="preserve">
+            <span class="italic">Emphasizes</span> the necessity of investigating allegations of current and past violations, and stresses the importance of facilitating the provision of efficient and effective remedies to the victims and of bringing the perpetrators to justice in accordance with national and international law;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_57" class="SingleTxt">
+        <num>	36.</num>
+        <content eId="para_57__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls for</span> the full implementation of the Mass Media Law, while noting with concern and condemning the continuing intimidation and violence targeting Afghan journalists, such as cases of abduction and even the killing of journalists by terrorist and violent extremist and criminal groups, and urges that the harassment of and attacks on journalists be investigated by Afghan authorities and that those responsible be brought to justice;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_58" class="SingleTxt">
+        <num>	37.</num>
+        <content eId="para_58__content">
+          <p xml:space="preserve">
+            <span class="italic">Reiterates its unwavering commitment</span> and that of the Government of Afghanistan to the promotion and protection of women’s full enjoyment of human rights in Afghanistan, in particular the achievement of equality between men and women, the full and equal participation of women in all spheres of Afghan life, the eradication of sexual and gender-based violence, including against children, and the provision of humanitarian responses that are principled and targeted towards the individuals most in need, including by offering psychosocial support and seeking to end all forms of gender-based violence;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_59" class="SingleTxt">
+        <num>	38.</num>
+        <content eId="para_59__content">
+          <p xml:space="preserve">
+            <span class="italic">Commends</span> the achievements and efforts of the Government aimed at increasing women’s participation in policymaking and decision-making, countering discrimination and protecting and promoting the equal rights of women and men consistent with its international obligations under the Convention on the Elimination of All Forms of Discrimination against Women<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vol. 1249, No. 20378.</p></authorialNote> and pursuant to the Constitution of Afghanistan, the National Action Plan for the Women of Afghanistan, the Afghan national action plan on women, peace and security, the Law on the Elimination of Violence against Women and the national strategy to prevent violence against women;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_60" class="SingleTxt">
+        <num>	39.</num>
+        <content eId="para_60__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> recent measures taken by the Government of Afghanistan towards the protection of women’s and girls’ full and equal enjoyment of human rights, including the establishment of a special secretariat within the Afghanistan Independent Human Rights Commission to investigate allegations of harassment of women in government institutions and the appointment of women ambassadors, deputy ministers, human rights commissioners and heads of electoral bodies and a woman Inspector General;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_61" class="SingleTxt">
+        <num>	40.</num>
+        <content eId="para_61__content">
+          <p xml:space="preserve">
+            <span class="italic">Emphasizes</span> the need to ensure respect for the rights of the child and their fundamental freedoms in Afghanistan and to prevent grave human rights violations and abuses against children as a result of the ongoing armed conflict, condemns the continued recruitment and use of child soldiers, including sexual violence and sexual exploitation, recalls the need for the full implementation of the Convention on the Rights of the Child,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	 	Ibid., vol. 1577, No. 27531.</p></authorialNote> its Optional Protocol on the sale of children, child prostitution and child pornography<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">	 	Ibid., vol. 2171, No. 27531.</p></authorialNote> and its Optional Protocol on the involvement of children in armed conflict<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve">	 	Ibid., vol. 2173, No. 27531.</p></authorialNote> by all States parties, as well as of Security Council resolution <a href="https://undocs.org/S/RES/1612(2005)">1612</a><a href="https://undocs.org/S/RES/1612(2005)"> </a><a href="https://undocs.org/S/RES/1612(2005)">(2005)</a> of 26 July 2005, and all other subsequent resolutions on children and armed conflict, and Council resolutions <a href="https://undocs.org/S/RES/1998(2011)">1998 (2011)</a> of 12 July 2011 and <a href="https://undocs.org/S/RES/2286(2016)">2286 (2016)</a> of 3 May 2016 on attacks against schools and hospitals, in particular by terrorist and violent extremist and criminal groups, commends the Government of Afghanistan for implementing the law on the protection of child rights, adopting a new Penal Code that envisages punishment for the perpetrators of crimes against children, including of bacha bazi, for introducing legislation banning the recruitment and use of child soldiers and for establishing, equipping, staffing, training and providing adequate oversight of local child protection units;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_62" class="SingleTxt">
+        <num>	41.</num>
+        <content eId="para_62__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the progress made in the implementation of the action plan for the prevention of underage recruitment, signed in January 2011, and the annex thereto on children associated with the Afghan National Defence and Security Forces, and of the road map towards compliance, as well as the signing in 2017 of a child protection policy to protect children from the effects of armed conflict, as reflected in the seventh report of the Government of Afghanistan on the implementation of the Joint Action Plan on Children and Armed Conflict, released in April 2019, continues to call for an end to the recruitment and use of children by all parties within all ranks, and stresses the need to refrain from detaining children on national security-related charges and the importance of considering children primarily as victims;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_63" class="SingleTxt">
+        <num>	42.</num>
+        <content eId="para_63__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> Security Council resolutions <a href="https://undocs.org/S/RES/2250(2015)">2250 (2015)</a> of 9 December 2015 on the maintenance of international peace and security and <a href="https://undocs.org/S/RES/2419(2018)">2419 (2018)</a> of 6 June 2018 on youth, peace and security, in which the Council reaffirmed the important role that youth can play in the prevention and resolution of conflicts, welcomes the appointment of Afghanistan’s youth representative to the United Nations, recognizes in this regard the efforts of the Government of Afghanistan in enhancing the representation of youth for the prevention and resolution of conflict, and encourages continued efforts in this regard;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_64" class="SingleTxt">
+        <num>	43.</num>
+        <content eId="para_64__content">
+          <p xml:space="preserve">
+            <span class="italic">Reiterates its appreciation</span> for the anti-corruption commitment made by the Government of Afghanistan, welcomes in this respect the reform efforts of the Government, including the adoption of a law protecting whistle-blowers, the revision of the access to information law, the continuation of reform measures in the civil service through the successful completion of merit-based recruitment for 11,500 teaching positions and 6,500 entry-level civil servant positions in the capital and provinces, the establishment of the National High Council for Rule of Law and Anti-Corruption, the Anti-Corruption Justice Centre and the National Procurement Commission, the adoption of the updated Afghanistan National Strategy for Combating Corruption at the end of 2018, the enactment of the revised Penal Code and the anti-corruption law of 2018 and the finalization of anti-corruption action plans for various ministries as measures taken by the Government to implement its comprehensive reform agenda, strengthen governance and achieve a more effective, accountable and transparent administration at the national, provincial and local levels of government, takes note in this regard of the progress made thus far against the benchmarks of its comprehensive reform agenda presented and endorsed at the third Senior Officials Meeting and at the Geneva Conference on Afghanistan, urges the Government of Afghanistan to take continued decisive action and accelerate implementation, promote the rule of law and address impunity for corruption, and establish a more effective, accountable and transparent administration at the national, provincial and local levels of government in order to create conditions for sustained future peace;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_65" class="SingleTxt">
+        <num>	44.</num>
+        <content eId="para_65__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> the international community to support the efforts of Afghanistan to meet governance objectives in this regard;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_66" class="H23">
+        <subheading>		Counter-narcotics</subheading>
+      </paragraph>
+      <paragraph eId="para_67" class="SingleTxt">
+        <num>	45.</num>
+        <content eId="para_67__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the efforts of the Government of Afghanistan in fighting drug production in Afghanistan, including recent law enforcement operations aimed at seizing, dismantling and destroying drug stockpiles and laboratories, as reflected in the report of the Secretary-General,<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve"><a href="https://undocs.org/A/74/348">A/74/348-S/2019/703</a>.</p></authorialNote> encourages international and regional cooperation with Afghanistan in its sustained efforts to address illicit drug production and trafficking, recognizes the threat posed by illicit drug production, trade and trafficking to international peace and stability in different regions of the world, and the important role played by the United Nations Office on Drugs and Crime in this regard, expresses its continued deep concern at the serious harm that opium cultivation, production and trafficking continue to cause to the security, development and governance of Afghanistan, as well as to the region and beyond, and that such activities can also significantly contribute to the financial resources of terrorist groups, as reflected in the report of the Office entitled <span class="italic">Afghanistan Opium Survey 2018: Challenges to Sustainable Development, Peace and Security</span>, released on 30 July 2019;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_68" class="SingleTxt">
+        <num>	46.</num>
+        <content eId="para_68__content">
+          <p xml:space="preserve">
+            <span class="italic">Stresses</span> the importance of a comprehensive and balanced approach in addressing the drug problem of Afghanistan, which, to be effective, must be integrated into the wider context of efforts carried out in the areas of security, governance, the rule of law, human rights, public health and economic and social development, in particular in rural areas, including the development of improved alternative livelihood programmes;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_69" class="SingleTxt">
+        <num>	47.</num>
+        <content eId="para_69__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes with great concern</span> the strong nexus between drug trafficking and the terrorist activities of the Taliban, including the Haqqani Network, as well as Al‑Qaida, Islamic State in Iraq and the Levant (ISIL) (Da’esh) and their affiliates, in particular ISIL-Khorasan Province, and other terrorist groups, and foreign terrorist fighters, which pose a serious threat to security, the rule of law and development in Afghanistan and the region, and stresses the importance of the full implementation of all relevant Security Council resolutions in this regard, including resolutions <a href="https://undocs.org/S/RES/2255(2015)">2255 (2015)</a> and <a href="https://undocs.org/S/RES/2368(2017)">2368 (2017)</a>, and in this regard emphasizes the need for the Security Council Committee established pursuant to resolution <a href="https://undocs.org/S/RES/1988(2011)">1988 (2011)</a> and the Committee pursuant to resolutions <a href="https://undocs.org/S/RES/1267(1999)">1267 (1999)</a>, <a href="https://undocs.org/S/RES/1989(2011)">1989 (2011)</a> and <a href="https://undocs.org/S/RES/2253(2015)">2253 (2015)</a> to continue to pay attention to the linkages between the proceeds of organized crime, inter alia, the illicit production of and trafficking in drugs and their chemical precursors and the financing, respectively, of the Taliban, including the Haqqani Network, and of ISIL (Da’esh), Al‑Qaida and associated individuals, groups, undertakings and entities;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_70" class="SingleTxt">
+        <num>	48.</num>
+        <content eId="para_70__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> the international community to continue to assist the Government of Afghanistan in its National Drug Control Strategy and National Drug Action Plan, calls for such efforts to eliminate the cultivation and production of, trafficking in and consumption of illicit drugs, increase support for Afghan law enforcement and criminal justice agencies, agricultural and rural development for the creation of improved alternative, licit livelihoods for farmers and demand reduction support, increase public awareness of counter-narcotics issues and build the capacity of drug control institutions and care and treatment centres for drug users, reiterates its call upon the international community to channel counter-narcotics funding through the Government of Afghanistan, the United Nations Office on Drugs and Crime and other relevant organizations and mechanisms to the extent possible, notes that the problem of the production, cultivation, trafficking and consumption of narcotic drugs, as well as the problem of precursors, should be addressed on the basis of the principle of common and shared responsibility of the Government and the international community, and welcomes and supports relevant international and regional projects and activities, including those carried out by Afghanistan, Iran (Islamic Republic of) and Pakistan within the framework of the triangular initiative to counter narcotics, as well as the Paris Pact initiative,<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">	 	See <a href="https://undocs.org/S/2003/641">S/2003/641</a>, annex.</p></authorialNote> stresses the need to further strengthen joint, coordinated and resolute efforts by the Government, supported by the international community and regional partners, to intensify sustained efforts to address drug production and trafficking through a balanced and integrated approach, in accordance with the principle of common and shared responsibility in addressing the drug problem of Afghanistan, and welcomes the holding of the Joint Regional Conference on Counter-Terrorism and Counter-Narcotics in Almaty, Kazakhstan, on 22 July 2019, within the framework of the Heart of Asia-Istanbul Process on Regional Security and Cooperation for a Secure and Stable Afghanistan;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_71" class="H23">
+        <subheading>		Social and economic development</subheading>
+      </paragraph>
+      <paragraph eId="para_72" class="SingleTxt">
+        <num>	49.</num>
+        <content eId="para_72__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> the position of Afghanistan as the top improver in the World Bank Doing Business 2019 report and the work of the Government of Afghanistan in implementing reforms to improve the business regulatory framework;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_73" class="SingleTxt">
+        <num>	50.</num>
+        <content eId="para_73__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the Afghanistan National Peace and Development Framework setting out the strategic policy priorities of Afghanistan towards achieving self-reliance and the presentation of five national priority programmes, on a citizens’ charter, women’s economic empowerment, urban development, comprehensive agriculture and national infrastructure, to improve the conditions for advancing sustainable development and stability;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_74" class="SingleTxt">
+        <num>	51.</num>
+        <content eId="para_74__content">
+          <p xml:space="preserve">
+            <span class="italic">Renews its commitment</span> to long-term support for the economic development of Afghanistan on the basis of mutual accountability, as stated in the Geneva Mutual Accountability Framework, urgently appeals to all States, the United Nations system and international and non-governmental organizations, including the international and regional financial institutions, to continue to provide, in close coordination with the Government of Afghanistan and in accordance with the Afghanistan National Peace and Development Framework and the national priority programmes contained therein, all possible and necessary humanitarian, recovery, reconstruction, development, financial, educational, technical and material assistance for Afghanistan, and underscores the crucial importance of continued and sequenced implementation of the reform agenda, national priority programmes and the development and governance goals as agreed upon in the Geneva Mutual Accountability Framework;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_75" class="SingleTxt">
+        <num>	52.</num>
+        <content eId="para_75__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> the substantial development and notable progress achieved by Afghanistan with the steadfast support of the international community in the past years, expresses its support for the reaffirmation and consolidation of the partnership between Afghanistan and the international community midway through the Transformation Decade (2015–2024), during which Afghanistan will consolidate its sovereignty through strengthening a fully functioning, sustainable State in the service of its people, urges the Government of Afghanistan to involve all elements of Afghan society, in particular women, in the development and implementation of relief, rehabilitation, recovery and reconstruction programmes, recalls with appreciation the presentation by the Government of Afghanistan of the National Priority Programme on Women’s Economic Empowerment and encourages its continued implementation, and recalls with appreciation the launch of the women’s economic empowerment plan in March 2017 and the creation of a coordination unit for the Programme within the Ministry of Labour, Social Affairs, Martyrs and Disabled as important measures for the implementation of the Programme;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_76" class="SingleTxt">
+        <num>	53.</num>
+        <content eId="para_76__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the progress made in implementing the Self-Reliance through Mutual Accountability Framework and the commitment to continuing the reforms agreed upon in the Geneva Mutual Accountability Framework and the monitoring mechanism included therein, in which the Government of Afghanistan reaffirmed its commitment to strengthening governance, grounded in human rights, the rule of law and adherence to the Constitution of Afghanistan and held it as integral to sustained growth and economic development, and in which the international community committed to enhancing the efficiency of development aid by aligning assistance with the Afghan national priority programmes and by channelling assistance through the national budget of the Government, as outlined in the Tokyo Declaration: Partnership for Self-Reliance in Afghanistan – From Transition to Transformation<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve">	 	A/66/867-S/2012/532, annex I.</p></authorialNote> and reaffirmed in the communiqué of the Brussels Conference on Afghanistan and the new Geneva Mutual Accountability Framework indicators;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_77" class="SingleTxt">
+        <num>	54.</num>
+        <content eId="para_77__content">
+          <p xml:space="preserve">
+            <span class="italic">Commends</span> the Government of Afghanistan for aligning its new development strategy with the 2030 Agenda for Sustainable Development,<authorialNote marker="11" placement="bottom" eId="authorialNote_11"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/A/RES/70/1">70/1</a>.</p></authorialNote> and urges the international community to assist the Government in achieving the Sustainable Development Goals;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_78" class="SingleTxt">
+        <num>	55.</num>
+        <content eId="para_78__content">
+          <p xml:space="preserve">
+            <span class="italic">Also commends</span> the Government of Afghanistan for improving budgetary transparency and its efforts to reach fiscal sustainability, notes the challenges ahead, and urges that continued efforts be made to meet revenue targets;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_79" class="SingleTxt">
+        <num>	56.</num>
+        <content eId="para_79__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> the necessity for further improvement in the living conditions of the Afghan people, and emphasizes the need to strengthen and support the development of the capacity of the Government of Afghanistan to deliver basic social services at the national, provincial and local levels, in particular education and public health services;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_80" class="SingleTxt">
+        <num>	57.</num>
+        <content eId="para_80__content">
+          <p xml:space="preserve">
+            <span class="italic">Reiterates</span> the necessity of providing Afghan children, especially Afghan girls, with educational and health facilities in all parts of the country, and welcomes the progress achieved in the sector of public education;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_81" class="SingleTxt">
+        <num>	58.</num>
+        <content eId="para_81__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes with concern</span> the dire humanitarian situation affecting Afghanistan, with millions of people facing emergency levels of food insecurity and hundreds of thousands of Afghans displaced by conflict since January 2019, and urges the international community to assist in providing the necessary support and to work with the Government of Afghanistan and humanitarian organizations to respond effectively to the needs identified in the Humanitarian Response Plan;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_82" class="SingleTxt">
+        <num>	59.</num>
+        <content eId="para_82__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> the need to address the impacts of climate change in Afghanistan, and emphasizes the need for local, subnational, national, regional and international action to enhance efforts to build resilience, especially for the most vulnerable, by investing in resilience, including disaster risk reduction, strengthening adaptation strategies and enhancing joint risk assessments and risk management strategies, including early warning systems in the country to monitor environmental changes, to cut the impact and cost of natural disasters;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_83" class="H23">
+        <subheading>		Refugees</subheading>
+      </paragraph>
+      <paragraph eId="para_84" class="SingleTxt">
+        <num>	60.</num>
+        <content eId="para_84__content">
+          <p xml:space="preserve">
+            <span class="italic">Expresses its appreciation</span> to those Governments that continue to host Afghan refugees, in particular Pakistan and the Islamic Republic of Iran, acknowledging the huge burden that they have so far shouldered in this regard, asks for continued generous support by the international community, and also asks relevant international organizations, in particular the Office of the United Nations High Commissioner for Refugees and the International Organization for Migration, to continue to work closely with Afghanistan and the countries hosting Afghan refugees with a view to facilitating their voluntary, safe, dignified and sustainable return, rehabilitation and reintegration;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_85" class="SingleTxt">
+        <num>	61.</num>
+        <content eId="para_85__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the outcome of the high-level segment on the Afghan refugee problem of the sixty-sixth session of the Executive Committee of the Programme of the United Nations High Commissioner for Refugees,<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve">	 	See <span class="italic">Official Records of the General Assembly, Seventieth Session, Supplement No. 12A</span> (<a href="https://undocs.org/A/70/12/Add.1">A/70/12/Add.1</a>), annex II.</p></authorialNote> emphasizes the importance of the Solutions Strategy for Afghan Refugees to Support Voluntary Repatriation, Sustainable Reintegration and Assistance to Host Countries, and looks forward to the further implementation of the joint communiqué of the Conference, aimed at increased sustainability of returns and continued support for host countries, through the sustained support and the directed efforts of the international community;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_86" class="SingleTxt">
+        <num>	62.</num>
+        <content eId="para_86__content">
+          <p xml:space="preserve">
+            <span class="italic">Expresses its concern</span> over the increase in the number of internally displaced persons and refugees from Afghanistan, stresses that stability and development in Afghanistan can be achieved if its citizens can see a future for themselves within their country, reiterates to host countries and the international community the obligations under international refugee law with respect to the protection of refugees, the principle of voluntary return and the right to seek asylum and to ensure full, safe and unhindered access for humanitarian relief agencies in order to provide protection and assistance to internally displaced persons and refugees, and calls upon countries to continue to accept an appropriate number of Afghan refugees for resettlement, as a manifestation of their shared responsibility and solidarity;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_87" class="SingleTxt">
+        <num>	63.</num>
+        <content eId="para_87__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of the cooperation framework signed between the Government of Afghanistan and the European Union, entitled “Joint way forward on migration issues”, and in this context underscores the importance of close and effective cooperation to address the problem of irregular migration in a comprehensive manner, with due focus on and consideration of addressing the root causes of migration, including through job creation and the establishment of returnees’ livelihoods in Afghanistan, and in accordance with international commitments and obligations, including the human rights and legal rights of all migrants and the rights of persons in need of international protection in line with the provisions of the 1951 Convention relating to the Status of Refugees<authorialNote marker="13" placement="bottom" eId="authorialNote_13"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vol. 189, No. 2545.</p></authorialNote> and the 1967 Protocol thereto,<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve">	 	Ibid., vol. 606, No. 8791.</p></authorialNote> as applicable;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_88" class="SingleTxt">
+        <num>	64.</num>
+        <content eId="para_88__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the commitment of the Government of Afghanistan to making the repatriation and reintegration of Afghan refugees one of its highest national priorities, including their voluntary, safe and dignified return and their sustainable reintegration into national development planning and prioritization processes, takes note in this regard of the accession of Afghanistan to the Protocol against the Smuggling of Migrants by Land, Sea and Air, supplementing the United Nations Convention against Transnational Organized Crime,<authorialNote marker="15" placement="bottom" eId="authorialNote_15"><p xml:space="preserve">	 	Ibid., vol. 2241, No. 39574.</p></authorialNote> on 2 February 2017, and encourages and supports all efforts of the Government towards the implementation of this commitment;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_89" class="SingleTxt">
+        <num>	65.</num>
+        <content eId="para_89__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms its firm support</span> for the implementation of the Solutions Strategy for Afghan Refugees to Support Voluntary Repatriation, Sustainable Reintegration and Assistance to Host Countries endorsed by the international community in 2012, and acknowledges the Enhanced Voluntary Return and Reintegration Package for Afghan Refugees as an innovative way to enhance sustainable return and reintegration;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_90" class="SingleTxt">
+        <num>	66.</num>
+        <content eId="para_90__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the continued return of Afghan refugees and internally displaced persons, in a voluntary, safe, dignified and sustainable manner, while noting with concern the security challenges of Afghanistan;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_91" class="H23">
+        <subheading>		Regional cooperation</subheading>
+      </paragraph>
+      <paragraph eId="para_92" class="SingleTxt">
+        <num>	67.</num>
+        <content eId="para_92__content">
+          <p xml:space="preserve">
+            <span class="italic">Stresses</span> the crucial importance of advancing constructive and sustainable regional cooperation as an effective means of promoting and complementing peace, security, stability and economic and social development in Afghanistan, recognizes in this regard the importance of the contribution of neighbouring and regional partners and regional organizations, recalls the importance of the Kabul Declaration on Good-neighbourly Relations of 22 December 2002,<authorialNote marker="16" placement="bottom" eId="authorialNote_16"><p xml:space="preserve"><a href="https://undocs.org/S/2002/1416">S/2002/1416</a>, annex</p></authorialNote> welcomes in this regard the continued commitment of the international community to supporting the stability and development of Afghanistan, encourages further improved relations and enhanced engagement between Afghanistan and its neighbours, calls for further efforts in this regard, including in the framework of the Heart of Asia-Istanbul Process on Regional Security and Cooperation for a Secure and Stable Afghanistan and by regional organizations and long-term strategic partnerships and other agreements aimed at achieving a peaceful, stable and prosperous Afghanistan, and welcomes international and regional initiatives in this regard, such as those of the Collective Security Treaty Organization, the South Asian Association for Regional Cooperation, the Economic Cooperation Organization, the Regional Economic Cooperation Conference on Afghanistan process, the European Union, the Organization for Security and Cooperation in Europe, the Quadrilateral Cooperation and Coordination Mechanism in Counter-Terrorism comprising the armed forces of Afghanistan, China, Pakistan and Tajikistan, the China-Afghanistan-Pakistan dialogues and the Conference on Interaction and Confidence-building Measures in Asia;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_93" class="SingleTxt">
+        <num>	68.</num>
+        <content eId="para_93__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the important initiatives for regional connectivity, notably in the frameworks for ongoing cooperation under the auspices of the Central Asia Regional Economic Cooperation Programme and of the Regional Economic Cooperation Conference on Afghanistan, including the inauguration of its Chamber of Commerce and Industries in Kabul on 10 July, and the Heart of Asia-Istanbul Process confidence-building measures to facilitate increased trade throughout the region, welcomes in this regard the holding of Senior Official Meetings of the Heart of Asia-Istanbul Process in June and September 2019, with a focus on the revision of the confidence-building measures, and looks forward to the forthcoming Heart of Asia Ministerial Conference, to be held in Istanbul, Turkey, on 9 December 2019;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_94" class="SingleTxt">
+        <num>	69.</num>
+        <content eId="para_94__content">
+          <p xml:space="preserve">
+            <span class="italic">Emphasizes</span>, in this regard, the importance of strengthening local and regional networks of transportation that will facilitate connectivity for economic development, stability and self-sustainability, particularly the completion and maintenance of local railroad and land routes, the development of regional projects to foster further connectivity and the enhancement of international civil aviation capabilities, and expresses its appreciation for all initiatives and efforts to advance partnership on connectivity;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_95" class="SingleTxt">
+        <num>	70.</num>
+        <content eId="para_95__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes and urges</span> further efforts to strengthen the process of regional economic cooperation, also welcomes joint efforts to enhance dialogue and collaboration and to advance economic development across the region, including measures to facilitate regional connectivity, trade and transit, acknowledges the progress made on such projects and initiatives as the Turkmenistan-Afghanistan-Pakistan-India (TAPI) gas pipeline project, the Central Asia South Asia Electricity Transmission and Trade Project (CASA-1000), the Turkmenistan-Afghanistan-Pakistan (TAP) 500 and Turkmenistan-Uzbekistan-Tajikistan-Afghanistan-Pakistan (TUTAP) electricity projects, the Pakistan-Afghanistan-Tajikistan Regional Integration Programme (PATRIP), the Chabahar agreement between Afghanistan, India and Iran (Islamic Republic of) and the transport of development assistance from India to Afghanistan through the Chabahar port, the Lapis Lazuli Transit, Trade and Transport Route agreement and the Turkmenistan-Aqina railway segment and on bilateral transit trade agreements, expanded consular visa cooperation and the facilitation of business travel, to expand trade, increase foreign investments and develop infrastructure, including infrastructural connectivity, energy supply, transport and integrated border management, with a view to promoting sustainable economic growth and the creation of jobs in Afghanistan and the region, notes the historical role of Afghanistan as a land bridge in Asia, recalls that such regional economic cooperation plays an important role in achieving stability and development in Afghanistan, in this regard urges all relevant stakeholders to create a feasible and secure environment for the full implementation of these development initiatives and trade agreements, and welcomes the progress made by these initiatives and projects in enhancing regional connectivity, trade and transit, including the creation of direct air freight corridors between Afghanistan and China, India, Italy, Kazakhstan, the Russian Federation, Saudi Arabia, Turkey and the United Arab Emirates;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_96" class="H23">
+        <subheading>		United Nations Assistance Mission in Afghanistan and Joint Coordination and Monitoring Board</subheading>
+      </paragraph>
+      <paragraph eId="para_97" class="SingleTxt">
+        <num>	71.</num>
+        <content eId="para_97__content">
+          <p xml:space="preserve">
+            <span class="italic">Expresses its appreciation</span> for the work of the United Nations Assistance Mission in Afghanistan, as mandated by the Security Council in its resolution <a href="https://undocs.org/S/RES/2489(2019)">2489</a><a href="https://undocs.org/S/RES/2489(2019)"> </a><a href="https://undocs.org/S/RES/2489(2019)">(2019)</a>, stresses the continued importance of the central and impartial coordinating role of the United Nations in promoting a more coherent international engagement, and acknowledges the central role played by the Joint Coordination and Monitoring Board in this regard;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_98" class="SingleTxt">
+        <num>	72.</num>
+        <content eId="para_98__content">
+          <p xml:space="preserve">
+            <span class="italic">Emphasizes the importance</span> of the strategic review of the mandated tasks, priorities and related resources of the United Nations Assistance Mission in Afghanistan, and calls for the continued implementation of the recommendations of the Secretary-General, with a view to supporting efforts for peace and ensuring greater coordination, coherence and efficiency among relevant United Nations agencies, funds and programmes, based on the “One United Nations” approach, in line with the reform agenda and the national priority programmes of the Government of Afghanistan;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_99" class="SingleTxt">
+        <num>	73.</num>
+        <content eId="para_99__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to continue to report every three months on developments in Afghanistan, as well as on the progress made in the implementation of the present resolution;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_100" class="SingleTxt">
+        <num>	74.</num>
+        <content eId="para_100__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> to include in the provisional agenda of its seventy-fifth session the item entitled “The situation in Afghanistan”.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="36th">36th plenary meeting</inline>
+        <eol />
+        <docDate date="2019-11-27" refersTo="#adoptionDate">27 November 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

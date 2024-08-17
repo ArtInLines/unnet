@@ -1,0 +1,227 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-184/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-184/"></FRBRuri>
+          <FRBRdate date="2019-12-18" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-184/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-184/eng@/"></FRBRuri>
+          <FRBRdate date="2019-12-27" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-184/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-184/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+        <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="10.a" href="http://metadata.un.org/sdg/10.a" showAs="sdg_10.a" dictionary="SDGO"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-10-31" outcome="draftResolution" as="A/C.6/74/L.9" by="introduced in the Committee by the representative of Austria on behalf of the Bureau" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/423" by="" refersTo="12" />
+        <step date="2019-12-18" as="A/74/PV.51" by="" outcome="adopted"/>
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""/>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="sixthCommittee" href="#sixthCommittee" showAs="Sixth Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-22344 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/184</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2019-12-27" class="rightSmall" refersTo="#dateOfIssuance">27 December 2019</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 77</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Report of the United Nations Commission on International Trade Law on the work of its fifty-second session</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 18 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#sixthCommittee">[on the report of the Sixth Committee (<inline name="originating document">A/74/423</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/184.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Model Law on Enterprise Group Insolvency of the United Nations Commission on International Trade Law</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Recalling" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolution <a href="https://undocs.org/en/A/RES/2205 (XXI)">2205 (XXI)</a> of 17 December 1966, by which it established the United Nations Commission on International Trade Law with a mandate to further the progressive harmonization and unification of the law of international trade and in that respect to bear in mind the interests of all peoples, in particular those of developing countries, in the extensive development of international trade,</p>
+      </container>
+      <container name="Recognizing" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that effective insolvency regimes are increasingly seen as a means of encouraging economic development and investment, as well as of fostering entrepreneurial activity and preserving employment,</p>
+      </container>
+      <container name="Noting" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> the significance of enterprise groups, whether formed domestically or internationally, to international trade and commerce in an increasingly globalized world economy,</p>
+      </container>
+      <container name="Recognizing" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that, where the business of an enterprise group fails, it is important not only to know how the group will be treated in insolvency proceedings, but also to ensure that such treatment facilitates, rather than hinders, the fast and efficient conduct of the insolvency proceedings,</p>
+      </container>
+      <container name="Aware" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Aware</span> that very few States, if any, have a comprehensive regime for the treatment of enterprise groups in insolvency, including effective mechanisms for coordination and cooperation in cases of insolvency involving enterprise groups, the development of a group insolvency solution and the cross-border recognition and implementation of that solution in multiple States,</p>
+      </container>
+      <container name="Recalling" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolution <a href="https://undocs.org/en/A/RES/52/158">52/158</a> of 15 December 1997, in which it expressed its appreciation to the Commission for the adoption of the Model Law on Cross-Border Insolvency of the United Nations Commission on International Trade Law,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"><span class="italic">Official Records of the General Assembly, Fifty-second Session, Supplement No. 17</span> (<a href="https://undocs.org/en/A/52/17(supp)">A/52/17</a>), annex I.</p></authorialNote> which deals with cross-border coordination, cooperation and recognition in relation to insolvency proceedings concerning a single debtor, and its resolution <a href="https://undocs.org/en/A/RES/65/24">65/24</a> of 6 December 2010, in which it expressed its appreciation to the Commission for the adoption of part three of the <span class="italic">Legislative Guide on Insolvency Law of the United Nations Commission on International Trade Law</span>,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	United Nations publication, Sales No. E.12.V.16.</p></authorialNote> which deals with the treatment of enterprise groups in insolvency,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"><span class="italic">Official Records of the General Assembly, Sixty-fifth Session, Supplement No. 17</span> (<a href="https://undocs.org/en/A/65/17">A/65/17</a>), chap. V.</p></authorialNote></p>
+      </container>
+      <container name="Recognizing" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the need for a generally acceptable model law that would focus on insolvency proceedings relating to multiple debtors that are members of the same enterprise group, thereby extending the provisions of the Model Law on Cross-Border Insolvency and part three of the <span class="italic">Legislative Guide on Insolvency Law</span>,</p>
+      </container>
+      <container name="Convinced" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Convinced</span> that the Model Law on Enterprise Group Insolvency,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">	 	Ibid., <span class="italic">Seventy-fourth Session, Supplement No. 17</span> (<a href="https://undocs.org/en/A/74/17">A/74/17</a>), chap. VI, sect. A, and annex II.</p></authorialNote> adopted by the Commission at its fifty-second session, fulfils that need and is expected to contribute to the establishment of fair and internationally harmonized legislation on enterprise group insolvency that respects national procedural and judicial systems,</p>
+      </container>
+      <container name="Convinced also" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Convinced also</span> that the Model Law on Enterprise Group Insolvency provides for the fair and efficient administration of enterprise group insolvencies, the protection and maximization of the overall combined value of the assets and operations of enterprise group members affected by insolvency and of the enterprise group as a whole, the facilitation of the rescue of financially troubled enterprise groups and the adequate protection of creditors and other interested persons, including debtors,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_11" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_11__content">
+          <p xml:space="preserve">
+            <span class="italic">Expresses its appreciation</span> to the United Nations Commission on International Trade Law for finalizing and adopting the Model Law on Enterprise Group Insolvency<sup>4</sup> and its guide to enactment;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_12__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to transmit the text of the Model Law, together with its guide to enactment, to Governments and interested bodies;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_13" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_13__content">
+          <p xml:space="preserve">
+            <span class="italic">Recommends</span> that all States give favourable consideration to the Model Law when revising or adopting legislation relevant to insolvency, bearing in mind the need for internationally harmonized legislation governing and facilitating instances of enterprise groups in insolvency, and invites States that have used the Model Law to advise the Commission accordingly;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_14" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_14__content">
+          <p xml:space="preserve">
+            <span class="italic">Also recommends</span> that all States, when revising or adopting legislation on enterprise group insolvency, also make use of part three of the <span class="italic">Legislative Guide on Insolvency Law of the United Nations Commission on International Trade Law</span>,<sup>2</sup> on the treatment of enterprise groups in insolvency,<sup>3</sup> as well as part four of the <span class="italic">Legislative Guide</span>,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	 	United Nations publication, Sales No. E.13.V.10.</p></authorialNote> addressing the obligations of directors of an enterprise in the period approaching the insolvency of that enterprise,<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"><span class="italic">Official Records of the General Assembly, Sixty-eighth Session, Supplement No. 17</span> (<a href="https://undocs.org/en/A/68/17">A/68/17</a>), chap. V, sect. B.</p></authorialNote> whose additional section,<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve">	 	Ibid., <span class="italic">Seventy-fourth Session, Supplement No. 17</span> (<a href="https://undocs.org/en/A/74/17">A/74/17</a>), chap. VI, sect. B.</p></authorialNote> adopted at the fifty-second session of the Commission, addresses the obligations of directors of enterprise group companies;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_15" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_15__content">
+          <p xml:space="preserve">
+            <span class="italic">Further recommends</span> that all States continue to consider the implementation of the Model Law on Cross-Border Insolvency<sup>1</sup> and of the Model Law on Recognition and Enforcement of Insolvency-related Judgments,<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">	 	Ibid., <span class="italic">Seventy-third Session, Supplement No. 17</span> (<a href="https://undocs.org/en/A/73/17">A/73/17</a>), annex III.</p></authorialNote> both of the Commission;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_16" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_16__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretariat to ensure close cooperation and coordination with international organizations active in the field of insolvency law reform to ensure the consistency and alignment of that work with all texts of the Commission in the area of insolvency law, including the Model Law on Enterprise Group Insolvency, the Model Law on Recognition and Enforcement of Insolvency-related Judgments and part four of the <span class="italic">Legislative Guide on Insolvency Law</span>, as amended by the Commission at its fifty-second session.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="51st">51st plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-18" refersTo="#adoptionDate">18 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

@@ -1,0 +1,459 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-19/74-231/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-19/74-231/"></FRBRuri>
+          <FRBRdate date="2019-12-19" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-19/74-231/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-19/74-231/eng@/"></FRBRuri>
+          <FRBRdate date="2020-01-24" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-19/74-231/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-19/74-231/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+        <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="10" href="http://metadata.un.org/sdg/10" showAs="sdg_10" dictionary="SDGO"></keyword>
+        <keyword value="social_inequality" href="http://eurovoc.europa.eu/1420" showAs="social_inequality" dictionary="EuroVoc"></keyword>
+        <keyword value="equality" href="http://metadata.un.org/thesaurus/1002102" showAs="equality" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-11-21" outcome="draftResolution" as="A/C.2/74/L.67" by="submitted by the Vice-Chair of the Committee" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/382/Add.4" by="" refersTo="8" />
+        <step date="2019-12-19" outcome="adopted" as="A/74/PV.52" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="secondCommittee" href="#secondCommittee" showAs="Second Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-22503 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/231</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-01-24" class="rightSmall" refersTo="#dateOfIssuance">24 January 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 20 (d)</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Globalization and interdependence: development cooperation with middle-income countries</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 19 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#secondCommittee">[on the report of the Second Committee (<inline name="originating document">A/74/382/Add.4</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/231.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Development cooperation with middle-income countries</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Recalling" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the outcomes of all the major United Nations conferences and summits in the economic, social, environmental and related fields, including the outcomes of the international conferences on development cooperation with middle-income countries,</p>
+      </container>
+      <container name="Reaffirming" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> its resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a> of 25 September 2015, entitled “Transforming our world: the 2030 Agenda for Sustainable Development”, in which it adopted a comprehensive, far-reaching and people-centred set of universal and transformative Sustainable Development Goals and targets, its commitment to working tirelessly for the full implementation of the Agenda by 2030, its recognition that eradicating poverty in all its forms and dimensions, including extreme poverty, is the greatest global challenge and an indispensable requirement for sustainable development, its commitment to achieving sustainable development in its three dimensions – economic, social and environmental – in a balanced and integrated manner, and to building upon the achievements of the Millennium Development Goals and seeking to address their unfinished business,</p>
+      </container>
+      <container name="Reaffirming also" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming also</span> its resolution <a href="https://undocs.org/en/A/RES/69/313">69/313</a> of 27 July 2015 on the Addis Ababa Action Agenda of the Third International Conference on Financing for Development, which is an integral part of the 2030 Agenda for Sustainable Development, supports and complements it, helps to contextualize its means of implementation targets with concrete policies and actions, and reaffirms the strong political commitment to address the challenge of financing and creating an enabling environment at all levels for sustainable development in the spirit of global partnership and solidarity,</p>
+      </container>
+      <container name="Reaffirming further" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming further</span> the Paris Agreement<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">	 	Adopted under the UNFCCC in <a href="https://undocs.org/en/FCCC/CP/2015/10/Add.1">FCCC/CP/2015/10/Add.1</a>, decision 1/CP.21.</p></authorialNote> and its early entry into force, encouraging all its parties to fully implement the Agreement, and parties to the United Nations Framework Convention on Climate Change<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vol. 1771, No. 30822.</p></authorialNote> that have not yet done so to deposit their instruments of ratification, acceptance, approval or accession, where appropriate, as soon as possible,</p>
+      </container>
+      <container name="Reaffirming" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the Sendai Framework for Disaster Risk Reduction 2015–2030,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/69/283">69/283</a>, annex II.</p></authorialNote> noting the findings of the 2019 <span class="italic">Global Assessment Report on Disaster Risk Reduction</span>, expressing concern that disaster risk and disaster economic losses are increasing in many middle-income countries, thus undermining the financing available for investment in sustainable development and stimulation of economic growth, and recognizing that financing disaster risk reduction efforts and building resilience to economic and environmental shocks remain a challenge in many middle-income countries,</p>
+      </container>
+      <container name="Welcoming" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the New Urban Agenda, adopted at the United Nations Conference on Housing and Sustainable Urban Development (Habitat III), held in Quito, Ecuador, from 17 to 20 October 2016,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/71/256">71/256</a>, annex.</p></authorialNote></p>
+      </container>
+      <container name="Recalling" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolutions <a href="https://undocs.org/en/A/RES/70/215">70/215</a> of 22 December 2015 and <a href="https://undocs.org/en/A/RES/72/230">72/230</a> of 20 December 2017,</p>
+      </container>
+      <container name="Recalling also" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> that the 2030 Agenda for Sustainable Development recognizes, inter alia, that middle-income countries still face significant challenges to achieve sustainable development and that, in order to ensure that achievements made to date are sustained, efforts to address ongoing challenges should be strengthened through the exchange of experiences, improved coordination and better and focused support of the United Nations development system, the international financial institutions, regional organizations and other stakeholders,</p>
+      </container>
+      <container name="Reaffirming" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> its resolution <a href="https://undocs.org/en/A/RES/71/243">71/243</a> of 21 December 2016 on the quadrennial comprehensive policy review of operational activities for development of the United Nations system, in which it recognized that middle-income countries still face specific challenges,</p>
+      </container>
+      <container name="Welcoming" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the ongoing efforts of the Secretary-General with regard to the repositioning of the United Nations development system, acknowledging the progress achieved thus far in advancing the mandates of its resolution <a href="https://undocs.org/en/A/RES/71/243">71/243</a> and its resolution <a href="https://undocs.org/en/A/RES/72/279">72/279</a> of 31 May 2018, and welcoming in this regard the discussions at the operational activities for development segment of the 2019 session of the Economic and Social Council,</p>
+      </container>
+      <container name="Noting with appreciation" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Noting with appreciation</span> the convening of the high-level meeting of the General Assembly to discuss the gaps and challenges of middle-income countries in the implementation of the 2030 Agenda for Sustainable Development, held on 4 December 2018 at United Nations Headquarters,</p>
+      </container>
+      <container name="Taking note" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Taking note</span> of the United Nations Industrial Development Organization Strategic Framework for Partnering with Middle-Income Countries, adopted by the General Conference of the United Nations Industrial Development Organization at its eighteenth session, held in Abu Dhabi from 3 to 7 November 2019, in its resolution GC.18/Res.9 of 7 November 2019,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	 	See <a href="https://undocs.org/en/GC.18/INF/4">GC.18/INF/4</a>.</p></authorialNote></p>
+      </container>
+      <container name="Emphasizing" eId="container_14">
+        <p xml:space="preserve">
+          <span class="italic">Emphasizing</span> that cohesive, nationally owned sustainable development strategies, supported by integrated national financing frameworks, will be at the heart of efforts by Member States, reiterating that each country has primary responsibility for its own economic and social development and that the role of national policies and development strategies cannot be overemphasized, highlighting the need to respect each country’s policy space and leadership in the implementation of policies for poverty eradication and sustainable development while remaining consistent with relevant international rules and commitments, recognizing that national development efforts need to be supported by an enabling international economic environment, including coherent and mutually supporting world trade, monetary and financial systems and strengthened and enhanced global economic governance, and highlighting the fact that processes to develop and facilitate the availability of appropriate knowledge and technologies globally, on mutually agreed terms, as well as capacity-building, are also critical, including pursuing policy coherence and an enabling environment for sustainable development at all levels and by all actors and reinvigorating the Global Partnership for Sustainable Development and for the achievement of the 2030 Agenda for Sustainable Development,</p>
+      </container>
+      <container name="Recognizing" eId="container_15">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that, as per capita income increases above low-income thresholds, access to external public finance often decreases faster than can be offset by commensurate increases in tax revenues in per capita terms,</p>
+      </container>
+      <container name="Recognizing also" eId="container_16">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing also</span> that the enhanced and revitalized Global Partnership for Sustainable Development, led by Governments, will be a vehicle for strengthening international cooperation and the implementation of the 2030 Agenda for Sustainable Development, while noting that multi-stakeholder partnerships and the resources, knowledge and ingenuity of the private sector, civil society, the scientific community, academia, philanthropy and foundations, parliaments, local authorities, volunteers and other stakeholders will be important in mobilizing and sharing knowledge, expertise, technology and financial resources, complementing the efforts of Governments and supporting the achievement of the Sustainable Development Goals, in particular in developing countries,</p>
+      </container>
+      <container name="Recalling" eId="container_17">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> that the most vulnerable countries and, in particular, African countries, the least developed countries, landlocked developing countries and small island developing States deserve special attention, as do countries in situations of conflict and post-conflict countries, and that there are also serious challenges within many middle-income countries,</p>
+      </container>
+      <container name="Recognizing" eId="container_18">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that there is no one-size-fits-all approach to development and that development cooperation by the United Nations development system should respond to the varying development needs of programme countries, including those of middle-income countries, in a manner that addresses their specific challenges while mindful of their diversity, and recognizing also that revitalized, strategic, flexible and results- and action-oriented United Nations Sustainable Development Cooperation Frameworks should be prepared and finalized in full consultation and agreement with national Governments and aligned with national development plans, strategies and circumstances in support of the implementation of the 2030 Agenda for Sustainable Development,</p>
+      </container>
+      <container name="Noting" eId="container_19">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> that, over the past 15 years, 35 low-income countries have transitioned to middle-income country status, reflecting the sustained economic growth achieved in most parts of the developing world,</p>
+      </container>
+      <container name="Noting also" eId="container_20">
+        <p xml:space="preserve">
+          <span class="italic">Noting also</span> that national averages based on criteria such as per capita income do not always reflect the actual particularities and development needs of middle-income countries and that, despite notable progress in reducing poverty levels in both absolute and relative terms, poverty remains a problem in many middle-income countries, as they are still home to 73 per cent of the world’s people living in poverty,</p>
+      </container>
+      <container name="Noting further" eId="container_21">
+        <p xml:space="preserve">
+          <span class="italic">Noting further</span> the willingness to develop a wider analysis of new measures, building on existing experiences with eligibility exception, for concessional finance and multidimensional assessments to address the limitations of an income-only assessment of development and graduation readiness,</p>
+      </container>
+      <container name="Recognizing with concern" eId="container_22">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing with concern</span> that hunger and malnutrition have been increasing in many countries, most of those (44 out of 65) being middle-income countries and countries that rely heavily on international trade in primary commodities,</p>
+      </container>
+      <container name="Recognizing" eId="container_23">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that inequality, or even a rise in inequality, remains pervasive in middle-income countries, even in those with high levels of economic growth, that further investments in social services and economic opportunities are needed in order to reduce inequalities and that economic growth needs to be sustained, inclusive and equitable,</p>
+      </container>
+      <container name="Stressing" eId="container_24">
+        <p xml:space="preserve">
+          <span class="italic">Stressing</span> that middle-income countries continue to face challenges related to, inter alia, job creation, natural resource management, reliance on primary commodity exports, the adverse effects of disaster risks and climate change, high levels of external debt and the volatility of exchange rates and capital flows and, in this regard, that efforts to create a national enabling environment for development should be complemented by a global enabling environment,</p>
+      </container>
+      <container name="Stressing also" eId="container_25">
+        <p xml:space="preserve">
+          <span class="italic">Stressing also</span> the importance that middle-income countries need access to and development of better technologies, research and innovation and better management practices, which can foster skills development, boost productivity and achieve sustainable and inclusive growth,</p>
+      </container>
+      <container name="Recognizing" eId="container_26">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that connectivity through quality, reliable, sustainable and resilient infrastructure, with a focus on affordable and equitable access for all, contributes to the sustainable development of middle-income countries,</p>
+      </container>
+      <container name="Recalling" eId="container_27">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> that, for all countries, public policies and the mobilization and effective use of domestic resources, underscored by the principle of national ownership, are central to our common pursuit of sustainable development, including achieving the Sustainable Development Goals,</p>
+      </container>
+      <container name="Recalling also" eId="container_28">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> the resolve of Member States to enhance and strengthen domestic resource mobilization and fiscal space, including, where appropriate, through modernized tax systems, more efficient tax collection, the broadening of the tax base and the effective combating of tax evasion and capital flight, and reiterating that, while each country is responsible for its tax system, it is important to support national efforts in these areas by strengthening technical assistance and enhancing international cooperation and participation in addressing international tax matters,</p>
+      </container>
+      <container name="Recalling further" eId="container_29">
+        <p xml:space="preserve">
+          <span class="italic">Recalling further</span> the importance of international support, in various forms, including North-South, South-South and triangular cooperation, that is well aligned with national priorities to contribute to addressing the development needs of middle-income countries, including through capacity-building,</p>
+      </container>
+      <container name="Recognizing" eId="container_30">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the need to better understand the multidimensional nature of development and poverty, and acknowledging the significant role that the United Nations system has played and should continue to play in this regard,</p>
+      </container>
+      <container name="Expressing concern" eId="container_31">
+        <p xml:space="preserve">
+          <span class="italic">Expressing concern</span> that climate change is adversely affecting productivity in every country, in particular developing countries, including middle-income countries, as extreme weather shocks directly affect productivity through the destruction of infrastructure and labour force displacement, and that a number of middle-income countries have sizeable sectors that are exposed to climate change, such as agriculture, construction, mining, tourism and transport,</p>
+      </container>
+      <container name="Reaffirming" eId="container_32">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> that achieving gender equality, empowering all women and girls, and the full realization of their human rights are essential to achieving sustained, inclusive and equitable economic growth and sustainable development, and in that regard reiterating the need for gender mainstreaming, including targeted actions and investments in the formulation and implementation of all financial, economic, environmental and social policies,</p>
+      </container>
+      <container name="Noting with concern" eId="container_33">
+        <p xml:space="preserve">
+          <span class="italic">Noting with concern</span> that the debt service of middle-income countries has increased since 2011, reaching more than 14 per cent of total exports and primary income,</p>
+      </container>
+      <container name="Recognizing with concern" eId="container_34">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing with concern</span> that total external debt stocks in middle-income countries, excluding small island developing States, grew by 8 per cent per annum over the period from 2009 to 2018, total external debt has grown by over 20 per cent since 2016 and the current debt represents 26.8 per cent of their combined gross domestic product, and that the debt of middle-income countries is not only growing at a faster pace than anticipated, but is a more costly debt with a shorter maturity,</p>
+      </container>
+      <container name="Reiterating" eId="container_35">
+        <p xml:space="preserve">
+          <span class="italic">Reiterating</span> the pledge that no one will be left behind, reaffirming the recognition that the dignity of the human person is fundamental, and the wish to see the Goals and targets met for all nations and peoples and for all segments of society, and recommitting to endeavour to reach the furthest behind first,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_36" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_36__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of the report of the Secretary-General;<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/269">A/74/269</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_37" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_37__content">
+          <p xml:space="preserve">
+            <span class="italic">Acknowledges</span> the efforts made and successes achieved by many middle-income countries in eradicating poverty and achieving the internationally agreed development goals, as well as their significant contribution to global and regional development and economic stability;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_38" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_38__content">
+          <p xml:space="preserve">
+            <span class="italic">Also acknowledges</span> that identifying structural gaps can improve the understanding of development needs of developing countries, including middle-income countries;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_39" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_39__content">
+          <p xml:space="preserve">
+            <span class="italic">Underlines</span> that, for many middle-income countries, official development assistance, including financing on concessional terms from different multilateral financial institutions, remains important;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_40" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_40__content">
+          <p xml:space="preserve">
+            <span class="italic">Also underlines</span> the need for sustained efforts towards achieving debt sustainability in middle-income countries in order to avoid a debt crisis, and the importance of debt restructurings being timely, orderly, effective, fair and negotiated in good faith;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_41" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_41__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> that, with 73 per cent of the world’s poor population concentrated in middle-income countries, development cooperation, policy dialogue and partnerships with those countries can contribute to the achievement of the internationally agreed development goals, including the Sustainable Development Goals and targets;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_42" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_42__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the solidarity of middle-income countries with other developing countries, in particular the financial, technical, technology transfer on mutually agreed terms and capacity-building support being provided by middle-income countries, particularly to the least developed countries, through South-South and triangular cooperation, while stressing that South-South cooperation is a complement to, and not a substitute for, North-South cooperation, and in this regard calls upon the United Nations development system to continue its ongoing efforts to mainstream support to South-South cooperation and triangular cooperation;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_43" class="SingleTxt">
+        <num>	8.</num>
+        <content eId="para_43__content">
+          <p xml:space="preserve">
+            <span class="italic">Also welcomes</span> the outcome document of the second High-level United Nations Conference on South-South Cooperation, held in Buenos Aires from 20 to 22 March 2019;<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/73/291">73/291</a>, annex.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_44" class="SingleTxt">
+        <num>	9.</num>
+        <content eId="para_44__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> that the creation, development and diffusion of new innovations and technologies and associated know-how, including the transfer of technology on mutually agreed terms, are powerful drivers of economic growth and sustainable development;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_45" class="SingleTxt">
+        <num>	10.</num>
+        <content eId="para_45__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the United Nations development system to ensure that it addresses the diverse development needs of middle-income countries in a coordinated manner through, inter alia, an accurate assessment of the national priorities and needs of these countries, taking into account the use of variables that go beyond per capita income criteria;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_46" class="SingleTxt">
+        <num>	11.</num>
+        <content eId="para_46__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> the United Nations development system, in line with its resolution <a href="https://undocs.org/en/A/RES/71/243">71/243</a>, to continue to support developing countries in their efforts to achieve the internationally agreed development goals and their development objectives, requests the development system to address, within existing resources and mandates, the special challenges facing the most vulnerable countries, as well as the specific challenges facing middle-income countries, in line with the Addis Ababa Action Agenda of the Third International Conference on Financing for Development<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/69/313">69/313</a>, annex.</p></authorialNote> and the 2030 Agenda for Sustainable Development,<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a>.</p></authorialNote> and in this regard requests the Secretary-General to present, as part of his report on the implementation of the present resolution, an assessment of the outcomes of existing strategies within the United Nations development system related to middle-income countries;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_47" class="SingleTxt">
+        <num>	12.</num>
+        <content eId="para_47__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> the President of the General Assembly to convene a meeting during the seventy-fifth session of the Assembly, within existing resources and in a format decided by the President, to discuss the gaps and challenges of middle-income countries in the implementation of the 2030 Agenda for Sustainable Development, with a focus on the economic dimension of sustainable development, and requests the Secretary-General to consider these discussions in the drafting of his report on the implementation of the present resolution;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_48" class="SingleTxt">
+        <num>	13.</num>
+        <content eId="para_48__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> the importance of the role of the private sector, as well as of the role of public-private partnerships, in meeting the challenges of sustainable development for middle-income countries and other developing countries;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_49" class="SingleTxt">
+        <num>	14.</num>
+        <content eId="para_49__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to advance innovative pathways to achieve sustainable consumption and production, in line with United Nations Environment Assembly resolution 4/1 of 15 March 2019;<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve"><a href="https://undocs.org/en/UNEP/EA.4/Res.1">UNEP/EA.4/Res.1</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_50" class="SingleTxt">
+        <num>	15.</num>
+        <content eId="para_50__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the establishment of the Technology Facilitation Mechanism and the work of the United Nations inter-agency task team on science, technology and innovation for the Sustainable Development Goals, urges the operationalization of the online platform, and in this regard welcomes the convening of the annual multi‑stakeholder forums on science, technology and innovation for the Sustainable Development Goals, held at United Nations Headquarters;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_51" class="SingleTxt">
+        <num>	16.</num>
+        <content eId="para_51__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> the great importance of providing trade-related capacity-building for developing countries, including African countries, the least developed countries, landlocked developing countries, small island developing States, countries in conflict and post-conflict situations and middle-income countries, including for the promotion of regional economic integration and interconnectivity;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_52" class="SingleTxt">
+        <num>	17.</num>
+        <content eId="para_52__content">
+          <p xml:space="preserve">
+            <span class="italic">Acknowledges</span> that good governance and the rule of law at the national and international levels are essential for sustained economic growth, sustainable development and the eradication of poverty and hunger;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_53" class="SingleTxt">
+        <num>	18.</num>
+        <content eId="para_53__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes with concern</span> that access to concessional finance is reduced as countries’ incomes grow, and that countries may not be able to access sufficient affordable financing from other sources to meet their needs, encourages shareholders in multilateral development banks to develop graduation policies that are sequenced, phased and gradual, and encourages multilateral development banks to explore ways to ensure that their assistance best addresses the opportunities and challenges presented by the diverse circumstances of middle-income countries;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_54" class="SingleTxt">
+        <num>	19.</num>
+        <content eId="para_54__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> that Governments will have the primary responsibility for follow-up and review at the national, regional and global levels in relation to the progress made in implementing the Sustainable Development Goals and targets and that quality, accessible, timely and reliable disaggregated data, including through strengthened capacity in improving access to data at the national and local levels, will be needed to help with the measurement of progress and to ensure that no one is left behind, and in this regard reiterates the commitment to intensifying efforts to strengthen statistical capacities in developing countries, including middle-income countries;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_55" class="SingleTxt">
+        <num>	20.</num>
+        <content eId="para_55__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> progress by middle-income countries in implementing the Sendai Framework for Disaster Risk Reduction 2015–2030<sup>3</sup> and in reporting through the Sendai Framework monitor, and encourages the United Nations system to support middle-income countries to develop national and local disaster risk reduction strategies by 2020;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_56" class="SingleTxt">
+        <num>	21.</num>
+        <content eId="para_56__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> the commitment at the very heart of the 2030 Agenda to leave no one behind and commit to taking more tangible steps to support people in vulnerable situations and the most vulnerable countries and to reach the furthest behind first;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_57" class="SingleTxt">
+        <num>	22.</num>
+        <content eId="para_57__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to submit to the General Assembly at its seventy-sixth session, within existing resources, an action-oriented report on the implementation of the present resolution, including a comprehensive and in-depth analysis of the particular challenges faced by middle-income countries, along with a concrete set of recommendations to promote and enhance their efforts in the achievement of the economic dimension of sustainable development, while recognizing that particular challenges in the environmental and social dimensions will require further analysis in subsequent reports;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_58" class="MercuryDocument">
+        <num>	23.</num>
+        <content eId="para_58__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> to include in the provisional agenda of its seventy-sixth session, under the item entitled “Globalization and interdependence”, the sub-item entitled “Development cooperation with middle-income countries”.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="52nd">52nd plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-19" refersTo="#adoptionDate">19 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

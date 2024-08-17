@@ -1,0 +1,567 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-27/74-251/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-27/74-251/"></FRBRuri>
+          <FRBRdate date="2019-12-27" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-27/74-251/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-27/74-251/eng@/"></FRBRuri>
+          <FRBRdate date="2020-01-13" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-27/74-251/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-27/74-251/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2.a" href="http://metadata.un.org/sdg/2.a" showAs="sdg_2.a" dictionary="SDGO"></keyword>
+        <keyword value="agricultural_policy" href="http://eurovoc.europa.eu/2442" showAs="agricultural_policy" dictionary="EuroVoc"></keyword>
+        <keyword value="economic_policy" href="http://eurovoc.europa.eu/2497" showAs="economic_policy" dictionary="EuroVoc"></keyword>
+        <keyword value="power_of_implementation" href="http://eurovoc.europa.eu/2577" showAs="power_of_implementation" dictionary="EuroVoc"></keyword>
+        <keyword value="agricultural_policy" href="http://metadata.un.org/thesaurus/1000150" showAs="agricultural_policy" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="economic_policy" href="http://metadata.un.org/thesaurus/1001863" showAs="economic_policy" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2.b" href="http://metadata.un.org/sdg/2.b" showAs="sdg_2.b" dictionary="SDGO"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-12-27" outcome="draftResolution" as="A/C.5/74/L.18" by="submitted by the Chair of the Committee" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/612" by="" refersTo="18" />
+        <step date="2019-12-27" outcome="adopted" as="A/74/PV.52" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedRecordedVote">
+            <count value="148" refersTo="inFavour">
+              <akn4un:voters>
+                <organization refersTo="memberState">AFGHANISTAN</organization>
+                <organization refersTo="memberState">ALBANIA</organization>
+                <organization refersTo="memberState">ALGERIA</organization>
+                <organization refersTo="memberState">ANDORRA</organization>
+                <organization refersTo="memberState">ANTIGUA AND BARBUDA</organization>
+                <organization refersTo="memberState">ARGENTINA</organization>
+                <organization refersTo="memberState">AUSTRALIA</organization>
+                <organization refersTo="memberState">AUSTRIA</organization>
+                <organization refersTo="memberState">BAHAMAS</organization>
+                <organization refersTo="memberState">BAHRAIN</organization>
+                <organization refersTo="memberState">BANGLADESH</organization>
+                <organization refersTo="memberState">BARBADOS</organization>
+                <organization refersTo="memberState">BELGIUM</organization>
+                <organization refersTo="memberState">BELIZE</organization>
+                <organization refersTo="memberState">BENIN</organization>
+                <organization refersTo="memberState">BHUTAN</organization>
+                <organization refersTo="memberState">BOLIVIA (PLURINATIONAL STATE OF)</organization>
+                <organization refersTo="memberState">BOSNIA AND HERZEGOVINA</organization>
+                <organization refersTo="memberState">BOTSWANA</organization>
+                <organization refersTo="memberState">BRAZIL</organization>
+                <organization refersTo="memberState">BRUNEI DARUSSALAM</organization>
+                <organization refersTo="memberState">BULGARIA</organization>
+                <organization refersTo="memberState">CABO VERDE</organization>
+                <organization refersTo="memberState">CAMBODIA</organization>
+                <organization refersTo="memberState">CAMEROON</organization>
+                <organization refersTo="memberState">CANADA</organization>
+                <organization refersTo="memberState">CENTRAL AFRICAN REPUBLIC</organization>
+                <organization refersTo="memberState">CHAD</organization>
+                <organization refersTo="memberState">CHILE</organization>
+                <organization refersTo="memberState">COLOMBIA</organization>
+                <organization refersTo="memberState">COSTA RICA</organization>
+                <organization refersTo="memberState">COTE D'IVOIRE</organization>
+                <organization refersTo="memberState">CROATIA</organization>
+                <organization refersTo="memberState">CYPRUS</organization>
+                <organization refersTo="memberState">CZECHIA</organization>
+                <organization refersTo="memberState">DENMARK</organization>
+                <organization refersTo="memberState">DJIBOUTI</organization>
+                <organization refersTo="memberState">DOMINICAN REPUBLIC</organization>
+                <organization refersTo="memberState">ECUADOR</organization>
+                <organization refersTo="memberState">EGYPT</organization>
+                <organization refersTo="memberState">EL SALVADOR</organization>
+                <organization refersTo="memberState">EQUATORIAL GUINEA</organization>
+                <organization refersTo="memberState">ERITREA</organization>
+                <organization refersTo="memberState">ESTONIA</organization>
+                <organization refersTo="memberState">ETHIOPIA</organization>
+                <organization refersTo="memberState">FINLAND</organization>
+                <organization refersTo="memberState">FRANCE</organization>
+                <organization refersTo="memberState">GAMBIA</organization>
+                <organization refersTo="memberState">GEORGIA</organization>
+                <organization refersTo="memberState">GERMANY</organization>
+                <organization refersTo="memberState">GHANA</organization>
+                <organization refersTo="memberState">GREECE</organization>
+                <organization refersTo="memberState">GUATEMALA</organization>
+                <organization refersTo="memberState">GUINEA</organization>
+                <organization refersTo="memberState">GUYANA</organization>
+                <organization refersTo="memberState">HAITI</organization>
+                <organization refersTo="memberState">HONDURAS</organization>
+                <organization refersTo="memberState">HUNGARY</organization>
+                <organization refersTo="memberState">ICELAND</organization>
+                <organization refersTo="memberState">INDIA</organization>
+                <organization refersTo="memberState">INDONESIA</organization>
+                <organization refersTo="memberState">IRAQ</organization>
+                <organization refersTo="memberState">IRELAND</organization>
+                <organization refersTo="memberState">ISRAEL</organization>
+                <organization refersTo="memberState">ITALY</organization>
+                <organization refersTo="memberState">JAMAICA</organization>
+                <organization refersTo="memberState">JAPAN</organization>
+                <organization refersTo="memberState">JORDAN</organization>
+                <organization refersTo="memberState">KENYA</organization>
+                <organization refersTo="memberState">KUWAIT</organization>
+                <organization refersTo="memberState">LAO PEOPLE'S DEMOCRATIC REPUBLIC</organization>
+                <organization refersTo="memberState">LATVIA</organization>
+                <organization refersTo="memberState">LEBANON</organization>
+                <organization refersTo="memberState">LIBERIA</organization>
+                <organization refersTo="memberState">LIBYA</organization>
+                <organization refersTo="memberState">LIECHTENSTEIN</organization>
+                <organization refersTo="memberState">LITHUANIA</organization>
+                <organization refersTo="memberState">LUXEMBOURG</organization>
+                <organization refersTo="memberState">MALAYSIA</organization>
+                <organization refersTo="memberState">MALDIVES</organization>
+                <organization refersTo="memberState">MALI</organization>
+                <organization refersTo="memberState">MALTA</organization>
+                <organization refersTo="memberState">MARSHALL ISLANDS</organization>
+                <organization refersTo="memberState">MAURITIUS</organization>
+                <organization refersTo="memberState">MEXICO</organization>
+                <organization refersTo="memberState">MICRONESIA (FEDERATED STATES OF)</organization>
+                <organization refersTo="memberState">MONACO</organization>
+                <organization refersTo="memberState">MONGOLIA</organization>
+                <organization refersTo="memberState">MONTENEGRO</organization>
+                <organization refersTo="memberState">MOROCCO</organization>
+                <organization refersTo="memberState">MOZAMBIQUE</organization>
+                <organization refersTo="memberState">MYANMAR</organization>
+                <organization refersTo="memberState">NAMIBIA</organization>
+                <organization refersTo="memberState">NEPAL</organization>
+                <organization refersTo="memberState">NETHERLANDS</organization>
+                <organization refersTo="memberState">NEW ZEALAND</organization>
+                <organization refersTo="memberState">NIGER</organization>
+                <organization refersTo="memberState">NIGERIA</organization>
+                <organization refersTo="memberState">NORTH MACEDONIA</organization>
+                <organization refersTo="memberState">NORWAY</organization>
+                <organization refersTo="memberState">OMAN</organization>
+                <organization refersTo="memberState">PAKISTAN</organization>
+                <organization refersTo="memberState">PANAMA</organization>
+                <organization refersTo="memberState">PAPUA NEW GUINEA</organization>
+                <organization refersTo="memberState">PARAGUAY</organization>
+                <organization refersTo="memberState">PERU</organization>
+                <organization refersTo="memberState">PHILIPPINES</organization>
+                <organization refersTo="memberState">POLAND</organization>
+                <organization refersTo="memberState">PORTUGAL</organization>
+                <organization refersTo="memberState">QATAR</organization>
+                <organization refersTo="memberState">REPUBLIC OF KOREA</organization>
+                <organization refersTo="memberState">REPUBLIC OF MOLDOVA</organization>
+                <organization refersTo="memberState">ROMANIA</organization>
+                <organization refersTo="memberState">SAINT KITTS AND NEVIS</organization>
+                <organization refersTo="memberState">SAINT LUCIA</organization>
+                <organization refersTo="memberState">SAINT VINCENT AND THE GRENADINES</organization>
+                <organization refersTo="memberState">SAN MARINO</organization>
+                <organization refersTo="memberState">SAUDI ARABIA</organization>
+                <organization refersTo="memberState">SENEGAL</organization>
+                <organization refersTo="memberState">SERBIA</organization>
+                <organization refersTo="memberState">SIERRA LEONE</organization>
+                <organization refersTo="memberState">SINGAPORE</organization>
+                <organization refersTo="memberState">SLOVAKIA</organization>
+                <organization refersTo="memberState">SLOVENIA</organization>
+                <organization refersTo="memberState">SOLOMON ISLANDS</organization>
+                <organization refersTo="memberState">SOUTH AFRICA</organization>
+                <organization refersTo="memberState">SPAIN</organization>
+                <organization refersTo="memberState">SRI LANKA</organization>
+                <organization refersTo="memberState">SUDAN</organization>
+                <organization refersTo="memberState">SWEDEN</organization>
+                <organization refersTo="memberState">SWITZERLAND</organization>
+                <organization refersTo="memberState">THAILAND</organization>
+                <organization refersTo="memberState">TIMOR-LESTE</organization>
+                <organization refersTo="memberState">TOGO</organization>
+                <organization refersTo="memberState">TRINIDAD AND TOBAGO</organization>
+                <organization refersTo="memberState">TUNISIA</organization>
+                <organization refersTo="memberState">TURKEY</organization>
+                <organization refersTo="memberState">TUVALU</organization>
+                <organization refersTo="memberState">UGANDA</organization>
+                <organization refersTo="memberState">UKRAINE</organization>
+                <organization refersTo="memberState">UNITED ARAB EMIRATES</organization>
+                <organization refersTo="memberState">UNITED KINGDOM</organization>
+                <organization refersTo="memberState">UNITED REPUBLIC OF TANZANIA</organization>
+                <organization refersTo="memberState">UNITED STATES</organization>
+                <organization refersTo="memberState">URUGUAY</organization>
+                <organization refersTo="memberState">VANUATU</organization>
+                <organization refersTo="memberState">VIET NAM</organization>
+                <organization refersTo="memberState">YEMEN</organization>
+              </akn4un:voters>
+            </count>
+            <count value="2" refersTo="against">
+              <akn4un:voters>
+                <organization refersTo="memberState">KAZAKHSTAN</organization>
+                <organization refersTo="memberState">SYRIAN ARAB REPUBLIC</organization>
+              </akn4un:voters>
+            </count>
+            <count value="4" refersTo="abstaining">
+              <akn4un:voters>
+                <organization refersTo="memberState">GABON</organization>
+                <organization refersTo="memberState">LESOTHO</organization>
+                <organization refersTo="memberState">MAURITANIA</organization>
+                <organization refersTo="memberState">ZAMBIA</organization>
+              </akn4un:voters>
+            </count>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="fifthCommittee" href="#fifthCommittee" showAs="Fifth Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-22679 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/251</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-01-13" class="rightSmall" refersTo="#dateOfIssuance">13 January 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 136</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Programme planning</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 27 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#fifthCommittee">[on the report of the Fifth Committee (<inline name="originating document">A/74/612</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/251.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Programme planning</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Recalling" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolutions <a href="https://undocs.org/A/RES/37/234">37/234</a> of 21 December 1982, <a href="https://undocs.org/A/RES/38/227">38/227</a> A of 20 December 1983, <a href="https://undocs.org/A/RES/41/213">41/213</a> of 19 December 1986, <a href="https://undocs.org/A/RES/55/234">55/234</a> of 23 December 2000, <a href="https://undocs.org/A/RES/56/253">56/253</a> of 24 December 2001, <a href="https://undocs.org/A/RES/57/282">57/282</a> of 20 December 2002, <a href="https://undocs.org/A/RES/58/268">58/268</a> and <a href="https://undocs.org/A/RES/58/269">58/269</a> of 23 December 2003, <a href="https://undocs.org/A/RES/59/275">59/275</a> of 23 December 2004, <a href="https://undocs.org/A/RES/60/257">60/257</a> of 8 May 2006, <a href="https://undocs.org/A/RES/61/235">61/235</a> of 22 December 2006, <a href="https://undocs.org/A/RES/62/224">62/224</a> of 22 December 2007, <a href="https://undocs.org/A/RES/63/247">63/247</a> of 24 December 2008, <a href="https://undocs.org/A/RES/64/229">64/229</a> of 22 December 2009, <a href="https://undocs.org/A/RES/65/244">65/244</a> of 24 December 2010, <a href="https://undocs.org/A/RES/66/8">66/8</a> of 11 November 2011, <a href="https://undocs.org/A/RES/67/236">67/236</a> of 24 December 2012, <a href="https://undocs.org/A/RES/68/20">68/20</a> of 4 December 2013, <a href="https://undocs.org/A/RES/69/17">69/17</a> of 18 November 2014, <a href="https://undocs.org/A/RES/70/8">70/8</a> of 13 November 2015, <a href="https://undocs.org/A/RES/71/6">71/6</a> of 27 October 2016, <a href="https://undocs.org/A/RES/72/9">72/9</a> of 17 November 2017, <a href="https://undocs.org/A/RES/72/266">72/266</a> A of 24 December 2017, <a href="https://undocs.org/A/RES/72/266b">72/266</a> B of 5 July 2018, section III of its resolution <a href="https://undocs.org/A/RES/72/262c">72/262</a> C of 5 July 2018 and its resolution <a href="https://undocs.org/A/RES/73/269">73/269</a> of 22 December 2018,</p>
+      </container>
+      <container name="Recalling also" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> the terms of reference of the Committee for Programme and Coordination, as outlined in the annex to Economic and Social Council resolution <a href="https://undocs.org/en/e/res/2008 (LX)">2008 (LX)</a> of 14 May 1976,</p>
+      </container>
+      <container name="Recalling further" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Recalling further</span> the Regulations and Rules Governing Programme Planning, the Programme Aspects of the Budget, the Monitoring of Implementation and the Methods of Evaluation,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"><a href="https://undocs.org/ST/SGB/2018/3">ST/SGB/2018/3</a>.</p></authorialNote> by which the relevant programmes and subprogrammes of the proposed strategic framework shall be reviewed by the relevant sectoral, functional and regional intergovernmental bodies, if possible during the regular cycle of their meetings,</p>
+      </container>
+      <container name="Having considered" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Having considered</span> the report of the Committee for Programme and Coordination on the work of its fifty-ninth session<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"><span class="italic">Official Records of the General Assembly, Seventy-fourth Session, Supplement No. 16</span> (<a href="https://undocs.org/A/74/16">A/74/16</a>).</p></authorialNote> and the reports of the Secretary-General on the proposed programme budget for 2020: part I, plan outline,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"><a href="https://undocs.org/A/74/6(Plan outline)">A/74/6 (Plan outline)</a>.</p></authorialNote> and part II, programme plan for programmes and subprogrammes and programme performance information,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"><a href="https://undocs.org/A/74/6(Sect.2)">A/74/6 (Sect. 2)</a>, <a href="https://undocs.org/A/74/6(Sect.3)">A/74/6 (Sect. 3)</a>, <a href="https://undocs.org/A/74/6(Sect.4)">A/74/6 (Sect. 4)</a>, <a href="https://undocs.org/A/74/6(Sect.5)">A/74/6 (Sect. 5)</a>, <a href="https://undocs.org/A/74/6(Sect.5)/Corr.1">A/74/6 (Sect. 5)/Corr.1</a>, <a href="https://undocs.org/A/74/6(Sect.6)">A/74/6 (Sect. 6)</a>, <a href="https://undocs.org/A/74/6(Sect.8)">A/74/6 (Sect. 8)</a>, <a href="https://undocs.org/A/74/6(Sect.8)/Corr.1">A/74/6 (Sect. 8)/Corr.1</a>, <a href="https://undocs.org/A/74/6(Sect.9)">A/74/6 (Sect. 9)</a>, <a href="https://undocs.org/A/74/6(Sect.10)">A/74/6 (Sect. 10)</a>, <a href="https://undocs.org/A/74/6(Sect.11)">A/74/6 (Sect. 11)</a>, <a href="https://undocs.org/A/74/6(Sect.12)">A/74/6 (Sect. 12)</a>, <a href="https://undocs.org/A/74/6(Sect.13)">A/74/6 (Sect. 13)</a>, <a href="https://undocs.org/A/74/6(Sect.14)">A/74/6 (Sect. 14)</a>, <a href="https://undocs.org/A/74/6(Sect.15)">A/74/6 (Sect. 15)</a>, <a href="https://undocs.org/A/74/6(Sect.16)">A/74/6 (Sect. 16)</a>, <a href="https://undocs.org/A/74/6(Sect.17)">A/74/6 (Sect. 17)</a>, <a href="https://undocs.org/A/74/6(Sect.18)">A/74/6 (Sect. 18)</a>, <a href="https://undocs.org/A/74/6(Sect.19)">A/74/6 (Sect. 19)</a>, <a href="https://undocs.org/A/74/6(Sect.20)">A/74/6 (Sect. 20)</a>, <a href="https://undocs.org/A/74/6(Sect.21)">A/74/6 (Sect. 21)</a>, <a href="https://undocs.org/A/74/6(Sect.22)">A/74/6 (Sect. 22)</a>, <a href="https://undocs.org/A/74/6(Sect.24)">A/74/6 (Sect. 24)</a>, <a href="https://undocs.org/A/74/6(Sect.25)">A/74/6 (Sect. 25)</a>, <a href="https://undocs.org/A/74/6(Sect.26)">A/74/6 (Sect. 26)</a>, <a href="https://undocs.org/A/74/6(Sect.27)">A/74/6 (Sect. 27)</a>, <a href="https://undocs.org/A/74/6(Sect.28)">A/74/6 (Sect. 28)</a>, <a href="https://undocs.org/A/74/6(Sect.29)">A/74/6 (Sect. 29)</a>, <a href="https://undocs.org/A/74/6(Sect.30)">A/74/6 (Sect. 30)</a>, <a href="https://undocs.org/A/74/6(Sect.31)">A/74/6 (Sect. 31)</a> and <a href="https://undocs.org/A/74/6(Sect.34)">A/74/6 (Sect. 34).</a></p></authorialNote></p>
+      </container>
+      <container name="Having also considered" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Having also considered</span> the report of the Office of Internal Oversight Services on strengthening the role of evaluation and the application of evaluation findings on programme design, delivery and policy directives,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"><a href="https://undocs.org/A/74/67">A/74/67</a> and <a href="https://undocs.org/A/74/67/Corr.1">A/74/67/Corr.1</a>.</p></authorialNote></p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_7" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_7__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> the role of the Committee for Programme and Coordination as the main subsidiary organ of the General Assembly and the Economic and Social Council for planning, programming and coordination; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_8__content">
+          <p xml:space="preserve">
+            <span class="italic">Also reaffirms</span> the role of the Committee for Programme and Coordination in verifying that the programmes of activities of the Organization are implemented in line with the legislative mandates and that the full implementation of regulations and rules is ensured; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_9__content">
+          <p xml:space="preserve">
+            <span class="italic">Re-emphasizes</span> the role of the plenary and the Main Committees of the General Assembly in reviewing and taking action on the appropriate recommendations of the Committee for Programme and Coordination relevant to their work, in accordance with regulation 4.10 of the Regulations and Rules Governing Programme Planning, the Programme Aspects of the Budget, the Monitoring of Implementation and the Methods of Evaluation;<sup>1</sup></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_10" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_10__content">
+          <p xml:space="preserve">
+            <span class="italic">Stresses</span> that setting the priorities of the United Nations is the prerogative of the Member States, as reflected in legislative mandates;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_11" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_11__content">
+          <p xml:space="preserve">
+            <span class="italic">Reiterates</span> the need for Member States to participate fully in the budget preparation process, from its early stages and throughout the process;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_12__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> its resolution <a href="https://undocs.org/A/RES/72/266">72/266</a> A, in which it approved the change from a biennial to an annual budget period on a trial basis, beginning with the programme budget for 2020;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_13" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_13__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to present a report as early as practicable, for the consideration of the General Assembly at its seventy-fourth session, on the impact of the changes to the budgetary cycle on the established budgetary procedures and practices as they pertain to the agreed sequential nature of the review processes of the proposed programme budget, and in this regard to present possible options to ensure the preservation of this sequence, including the possibility of the Advisory Committee on Administrative and Budgetary Questions preparing its conclusions and recommendations on the basis of a programme plan approved by the General Assembly in 2021;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_14" class="SingleTxt">
+        <num>	8.</num>
+        <content eId="para_14__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> paragraph 13 of its resolution <a href="https://undocs.org/A/RES/72/266">72/266</a> A, and reaffirms that no changes to the budget methodology, established budgetary procedures and practices or the financial regulations may be implemented without prior review and approval by the General Assembly in accordance with established budgetary procedures; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_15" class="SingleTxt">
+        <num>	9.</num>
+        <content eId="para_15__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to clearly identify those provisions and rules that are proposed to be formally suspended or no longer applied during the trial period; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_16" class="SingleTxt">
+        <num>	10.</num>
+        <content eId="para_16__content">
+          <p xml:space="preserve">
+            <span class="italic">Expresses its support</span> for the efforts of the Secretariat to better engage and support programme managers with the aim of making the Organization more effective, and welcomes the commitment and ongoing efforts of the Secretariat to improve the programmatic aspects of the programme budget; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_17" class="SingleTxt">
+        <num>	11.</num>
+        <content eId="para_17__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> the Secretary-General to ensure that objectives, results and performance measures that are put forward for consideration are strategic, measurable, achievable, realistic and time-bound; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_18" class="SingleTxt">
+        <num>	12.</num>
+        <content eId="para_18__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to ensure that the Regulations and Rules Governing Programme Planning, the Programme Aspects of the Budget, the Monitoring of Implementation and the Methods of Evaluation approved by the General Assembly in its resolutions <a href="https://undocs.org/A/RES/70/8">70/8</a> and <a href="https://undocs.org/A/RES/72/9">72/9</a> are fully respected, with the exception of regulations and rules that have been directly impacted by the decisions taken by the Assembly in its resolution <a href="https://undocs.org/A/RES/72/266">72/266</a> A; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_19" class="SingleTxt">
+        <num>	13.</num>
+        <content eId="para_19__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes</span> the repeated reference “in the context of the 2030 Agenda for Sustainable Development, the purposes stipulated in Article 1 of the Charter are embodied by the Sustainable Development Goals” across the programmes, underscores the primacy of the Charter of the United Nations, and reaffirms that the Sustainable Development Goals and the 2030 Agenda for Sustainable Development<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"> Resolution 70/1.</p></authorialNote> are guided by the purposes and principles of the Charter;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_20" class="SingleTxt">
+        <num>	14.</num>
+        <content eId="para_20__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to ensure that results and, where possible, performance measures actually reflect achievements in the implementation of the programmes of the Organization and not those of individual Member States; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_21" class="SingleTxt">
+        <num>	15.</num>
+        <content eId="para_21__content">
+          <p xml:space="preserve">
+            <span class="italic">Also requests</span> the Secretary-General, while still considering further areas of improvement, to apply the following guidelines when preparing the next proposed programme plan and programme performance documents for the remainder of the approved trial period, namely, for 2021 and 2022: </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_22" class="SingleTxt">
+        <content eId="para_22__content">
+          <p xml:space="preserve">	(a)	Adhering to a programme plan that contains the required level of detail and information, in particular keeping the objectives, results and corresponding performance measures at the subprogramme level, in line with the results-based budgeting framework; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_23" class="SingleTxt">
+        <content eId="para_23__content">
+          <p xml:space="preserve">	(b)	Including a detailed list of deliverables in the proposed programme budget and ensuring that resources are justified in terms of the requirements to implement deliverables as contributions to the planned results; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_24" class="SingleTxt">
+        <content eId="para_24__content">
+          <p xml:space="preserve">	(c)	Including clear, comprehensive explanations of the approved methodologies to be applied in the context of the programme budget proposals to be submitted in respect of the 2021 and 2022 budget periods, with reference to the applicable provisions of relevant General Assembly resolutions, including resolutions <a href="https://undocs.org/A/RES/47/212">47/212</a> A of 23 December 1992 and <a href="https://undocs.org/A/RES/72/266">72/266</a> A; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_25" class="SingleTxt">
+        <content eId="para_25__content">
+          <p xml:space="preserve">	(d)	Enhancing the link between the preceding programme plans and the proposed future plans, with a view to ensuring consistency and continuity; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_26" class="SingleTxt">
+        <content eId="para_26__content">
+          <p xml:space="preserve">	(e)	Incorporating more general information on programmes and subprogrammes by showing not only examples of actual and planned results, but also an overview of activities and general strategy that encompasses a comprehensive overall account of the actual and planned results; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_27" class="SingleTxt">
+        <content eId="para_27__content">
+          <p xml:space="preserve">	(f)	Presenting performance information on a comprehensive set of results, which would allow for enhanced oversight, transparency and accountability in the implementation of all activities in the programme plan as approved by the General Assembly; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_28" class="SingleTxt">
+        <content eId="para_28__content">
+          <p xml:space="preserve">	(g)	Providing, in the context of performance measures, at least three prior years of actual performance information to facilitate a better understanding and assessment of progress made at the programme and subprogramme levels; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_29" class="SingleTxt">
+        <content eId="para_29__content">
+          <p xml:space="preserve">	(h)	Including a strategy at both the programme and subprogramme levels; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_30" class="SingleTxt">
+        <content eId="para_30__content">
+          <p xml:space="preserve">	(i)	Incorporating the list of legislative mandates into the published official document and not into the supplementary document provided informally; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_31" class="SingleTxt">
+        <content eId="para_31__content">
+          <p xml:space="preserve">	(j)	Replacing the proposed section on alignment with the Sustainable Development Goals with concrete information regarding contributions to the implementation of the Goals by relevant programmes and subprogrammes in accordance with their specific related intergovernmental mandates; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_32" class="SingleTxt">
+        <content eId="para_32__content">
+          <p xml:space="preserve">	(k)	Using simplified and identifiable numbering to improve the readability and referencing of the proposed programme plan; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_33" class="SingleTxt">
+        <content eId="para_33__content">
+          <p xml:space="preserve">	(l)	Reducing the use of accompanying photographs in the foreword to each proposed programme plan; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_34" class="SingleTxt">
+        <content eId="para_34__content">
+          <p xml:space="preserve">	(m)	Ensuring that the use of anecdotal narratives in subprogrammes is only to provide examples of actual and planned results as referenced in (e) above; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_35" class="SingleTxt">
+        <content eId="para_35__content">
+          <p xml:space="preserve">	(n)	Ensuring that the terms and expressions referenced in the proposed programme plan have been intergovernmentally agreed; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_36" class="SingleTxt">
+        <num>	16.</num>
+        <content eId="para_36__content">
+          <p xml:space="preserve">
+            <span class="italic">Approves</span>, on an exceptional basis and without creating a precedent, for programmes 5, 8, 10, 12, 13, 16, 17, 19, 22, 27 and 28 of the proposed programme budget for 2020, the programme narrative that is composed solely of the “Mandates and background”, “Recent developments”, “Strategy and external factors for 2020” and “Evaluation activities” sections at the programme level and by objective at the subprogramme level; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_37" class="SingleTxt">
+        <num>	17.</num>
+        <content eId="para_37__content">
+          <p xml:space="preserve">
+            <span class="italic">Also approves</span>, on an exceptional basis and without creating a precedent, for programmes 1, 2, 3, 4, 7, 9, 11, 14, 15, 18, 20, 21, 23, 24, 25 and 26 of the proposed programme budget for 2020, a programme narrative that is composed solely of the list of mandates at the programme level and the objectives approved by the General Assembly in its resolution <a href="https://undocs.org/A/RES/71/6">71/6</a> and the deliverables for 2020 at the subprogramme level;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_38" class="SingleTxt">
+        <num>	18.</num>
+        <content eId="para_38__content">
+          <p xml:space="preserve">
+            <span class="italic">Further approves</span> the programme plan for programme 6, Legal affairs, of the proposed programme budget for 2020, as contained in the report of the Secretary-General;<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"><a href="https://undocs.org/A/74/6(Sect.8)">A/74/6 (Sect. 8)</a> and A/74/6 (Sect. 8)/Corr.1.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_39" class="SingleTxt">
+        <num>	19.</num>
+        <content eId="para_39__content">
+          <p xml:space="preserve">
+            <span class="italic">Approves</span>, on an exceptional basis and without creating a precedent, in the case of the programmes mentioned in paragraph 17 above, where new mandates imply changes to the objectives at the subprogramme level as approved in their agreed formulation under its resolution <a href="https://undocs.org/A/RES/71/6">71/6</a>, the relevant objectives as updated in the proposed programme budget for 2020; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_40" class="SingleTxt">
+        <num>	20.</num>
+        <content eId="para_40__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to ensure that the programme plan covers all activities, both substantive and servicing, including those to be financed partially or fully from extrabudgetary and other assessed resources; </p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_41" class="SingleTxt">
+        <num>	21.</num>
+        <content eId="para_41__content">
+          <p xml:space="preserve">
+            <span class="italic">Endorses</span> the conclusions and recommendations of the Committee for Programme and Coordination on evaluation<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve"><span class="italic">Official Records of the General Assembly, Seventy-fourth Session, Supplement No. 16</span> (<a href="https://undocs.org/A/74/16">A/74/16</a>), chap. II, sect. B.</p></authorialNote> contained in its report on the work of its fifty-ninth session, and requests the Secretary-General to ensure the timely implementation of the recommendations;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_42" class="MercuryDocument">
+        <num>	22.</num>
+        <content eId="para_42__content">
+          <p xml:space="preserve">
+            <span class="italic">Also endorses</span> the conclusions and recommendations of the Committee for Programme and Coordination on the annual overview report of the United Nations System Chief Executives Board for Coordination for 2018,<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">		Ibid., chap. III, sect. A.</p></authorialNote> contained in its report on the work of its fifty-ninth session, and requests the Secretary-General to ensure the timely implementation of the recommendations.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="52nd">52nd (resumed) plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-27" refersTo="#adoptionDate">27 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

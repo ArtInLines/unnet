@@ -1,0 +1,445 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-165/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-165/"></FRBRuri>
+          <FRBRdate date="2019-12-18" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-165/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-165/eng@/"></FRBRuri>
+          <FRBRdate date="2020-01-16" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-18/74-165/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-18/74-165/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-31" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="5" href="http://metadata.un.org/sdg/5" showAs="sdg_5" dictionary="SDGO"></keyword>
+        <keyword value="gender_equality" href="http://eurovoc.europa.eu/3913" showAs="gender_equality" dictionary="EuroVoc"></keyword>
+        <keyword value="participation_of_women" href="http://eurovoc.europa.eu/2265" showAs="participation_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women&amp;#39;s_rights" href="http://eurovoc.europa.eu/585" showAs="women&amp;#39;s_rights" dictionary="EuroVoc"></keyword>
+        <keyword value="position_of_women" href="http://eurovoc.europa.eu/81" showAs="position_of_women" dictionary="EuroVoc"></keyword>
+        <keyword value="women" href="http://metadata.un.org/thesaurus/1007029" showAs="women" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="gender_equality" href="http://metadata.un.org/thesaurus/1002612" showAs="gender_equality" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="girls" href="http://metadata.un.org/thesaurus/1002684" showAs="girls" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="4" href="http://metadata.un.org/sdg/4" showAs="sdg_4" dictionary="SDGO"></keyword>
+        <keyword value="education" href="http://eurovoc.europa.eu/668" showAs="education" dictionary="EuroVoc"></keyword>
+        <keyword value="right_to_education" href="http://eurovoc.europa.eu/512" showAs="right_to_education" dictionary="EuroVoc"></keyword>
+        <keyword value="education" href="http://metadata.un.org/thesaurus/1001893" showAs="education" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="10" href="http://metadata.un.org/sdg/10" showAs="sdg_10" dictionary="SDGO"></keyword>
+        <keyword value="social_inequality" href="http://eurovoc.europa.eu/1420" showAs="social_inequality" dictionary="EuroVoc"></keyword>
+        <keyword value="equality" href="http://metadata.un.org/thesaurus/1002102" showAs="equality" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-11-11" outcome="draftResolution" as="A/C.3/74/L.55/Rev.1" by="Armenia, Australia, Austria, Chile, Cyprus, Ecuador, Georgia, Honduras, Hungary, Russian Federation, Slovenia and Switzerland" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="Albania, Antigua and Barbuda, Argentina, Belarus, Belize, Benin, Bolivia (Plurinational State of), Bosnia and Herzegovina, Canada, Colombia, Costa Rica, Côte d'Ivoire, Croatia, Czechia, Denmark, Dominican Republic, El Salvador, Estonia, Ethiopia, Finland, Germany, Greece, Guatemala, Haiti, Iceland, Ireland, Italy, Japan, Latvia, Lebanon, Liechtenstein, Lithuania, Luxembourg, Malta, Mexico, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Panama, Paraguay, Peru, Poland, Republic of Korea, Romania, San Marino, Senegal, Serbia, Slovakia, South Africa, Sweden, Ukraine, United Kingdom, United States and Venezuela (Bolivarian Republic of)" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/399/Add.2" by="" refersTo="90" />
+        <step date="2019-12-18" outcome="adopted" as="A/74/PV.50" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="thirdCommittee" href="#thirdCommittee" showAs="Third Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-22293 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/165</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-01-16" class="rightSmall" refersTo="#dateOfIssuance">16 January 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 70 (b)</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Promotion and protection of human rights: human rights questions, including alternative approaches for improving the effective enjoyment of human rights and fundamental freedoms</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 18 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#thirdCommittee">[on the report of the Third Committee (<inline name="originating document">A/74/399/Add.2</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/165.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Effective promotion of the Declaration on the Rights of Persons Belonging to National or Ethnic, Religious and Linguistic Minorities</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Recalling" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> its resolution <a href="https://undocs.org/en/A/RES/47/135">47/135</a> of 18 December 1992, by which it adopted the Declaration on the Rights of Persons Belonging to National or Ethnic, Religious and Linguistic Minorities annexed to that resolution, and bearing in mind article 27 of the International Covenant on Civil and Political Rights<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">	 	See resolution <a href="https://undocs.org//en/A/RES/2200 (XXI)">2200 A (XXI)</a>, annex.</p></authorialNote> as well as other relevant existing international and regional standards and national legislation,</p>
+      </container>
+      <container name="Recalling also" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> its subsequent resolutions on the effective promotion of the Declaration and all relevant resolutions of the Human Rights Council,</p>
+      </container>
+      <container name="Recalling further" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Recalling further</span> Human Rights Council resolution <a href="https://undocs.org/en/A/HRC/RES/32/5">32/5</a> of 30 June 2016, entitled “Human rights and arbitrary deprivation of nationality”,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	See <span class="italic">Official Records of the General Assembly, Seventy-first Session, Supplement No. 53 </span>(<a href="https://undocs.org/en/A/71/53">A/71/53</a>), chap. V, sect. A.</p></authorialNote> and all previous resolutions adopted by the Human Rights Council and the Commission on Human Rights on the issue of human rights and the arbitrary deprivation of nationality,</p>
+      </container>
+      <container name="Recalling" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> Human Rights Council resolution <a href="https://undocs.org/en/A/HRC/RES/37/14">37/14</a> of 22 March 2018,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	 	Ibid., <span class="italic">Seventy-third Session, Supplement No. 53</span> (<a href="https://undocs.org/en/A/73/53">A/73/53</a>), chap. IV, sect. A.</p></authorialNote> in which the Council considered the recommendations of the Forum on Minority Issues at its tenth session, held in December 2017, on the rights of minority youth,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"><a href="https://undocs.org/en/A/HRC/37/73">A/HRC/37/73</a>.</p></authorialNote></p>
+      </container>
+      <container name="Affirming" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Affirming</span> that the promotion and protection of the rights of persons belonging to national or ethnic, religious and linguistic minorities and dialogue between these minorities and the rest of society, as well as the constructive and inclusive development of practices and institutional arrangements to accommodate diversity within societies, contribute to political and social stability and the prevention and peaceful resolution of conflicts involving the rights of persons belonging to national or ethnic, religious and linguistic minorities,</p>
+      </container>
+      <container name="Welcoming" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the adoption of the 2030 Agenda for Sustainable Development,<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a>.</p></authorialNote> of which the Addis Ababa Action Agenda of the Third International Conference on Financing for Development<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/69/313">69/313</a>, annex.</p></authorialNote> is an integral part, recalling that the Sustainable Development Goals and targets seek to realize the human rights of all, and stressing the need for Member States to integrate the 2030 Agenda into their respective national policies and development frameworks, as appropriate, to promote the effective implementation, follow-up and review of the 2030 Agenda, in order to ensure that no one is left behind,</p>
+      </container>
+      <container name="Expressing concern" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Expressing concern</span> at the frequency and severity of disputes and conflicts involving persons belonging to national or ethnic, religious and linguistic minorities in many countries and their often tragic consequences, and that such persons often suffer disproportionately from the effects of conflicts resulting in the violation of their human rights and are particularly vulnerable to forced displacement through, inter alia, population transfers, revocation of previously held identity documents, refugee flows and forced relocation,</p>
+      </container>
+      <container name="Emphasizing" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Emphasizing</span> the need for reinforced efforts to realize the rights of persons belonging to national or ethnic, religious and linguistic minorities, including by addressing economic and social conditions and marginalization, as well as to end any type of discrimination against them, including by addressing multiple, aggravated and intersecting forms of discrimination,</p>
+      </container>
+      <container name="Emphasizing also" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Emphasizing also</span> the fundamental importance of human rights education, training and learning as well as of dialogue, including intercultural and interfaith dialogue, and interaction among all relevant stakeholders and members of society on the promotion and protection of the rights of persons belonging to national or ethnic, religious and linguistic minorities,</p>
+      </container>
+      <container name="Recognizing" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the importance of realizing the right to education for all and, wherever possible, providing persons belonging to national or ethnic, religious and linguistic minorities with adequate opportunities to learn their own language or to have instruction in their own language,</p>
+      </container>
+      <container name="Emphasizing" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Emphasizing</span> the important role that national institutions can play in the promotion and protection of the rights of persons belonging to national or ethnic, religious and linguistic minorities, and acknowledging the role that the United Nations, its specialized agencies and other relevant organizations, and the Special Rapporteur of the Human Rights Council on minority issues, play in this regard by, inter alia, promoting the implementation of the Declaration,</p>
+      </container>
+      <container name="Recognizing" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that a vast majority of stateless persons are persons belonging to national or ethnic, religious and linguistic minorities,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_14" class="MercuryDocument">
+        <num>	1.</num>
+        <content eId="para_14__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> the obligation of States to ensure that persons belonging to national or ethnic, religious and linguistic minorities may exercise fully and effectively all human rights and fundamental freedoms without any discrimination and in full equality before the law, as proclaimed in the Declaration on the Rights of Persons Belonging to National or Ethnic, Religious and Linguistic Minorities,<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/47/135">47/135</a>, annex.</p></authorialNote> and draws attention to the relevant provisions of the Durban Declaration and Programme of Action,<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">	 	See <a href="https://undocs.org/en/A/CONF.189/12">A/CONF.189/12</a> and <a href="https://undocs.org/en/A/CONF.189/12/Corr.1">A/CONF.189/12/Corr.1</a>, chap. I.</p></authorialNote> including the provisions on forms of multiple discrimination;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_15" class="MercuryDocument">
+        <num>	2.</num>
+        <content eId="para_15__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> States and the international community to promote and protect the rights of persons belonging to national or ethnic, religious and linguistic minorities, as set out in the Declaration on the Rights of Persons Belonging to National or Ethnic, Religious and Linguistic Minorities, including through the encouragement of conditions for the promotion of their identity, the provision of adequate education and the facilitation of their participation in all aspects of the political, economic, social, religious and cultural life of society and in the economic progress and development of their country, without discrimination, and to apply a gender perspective while doing so;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_16" class="MercuryDocument">
+        <num>	3.</num>
+        <content eId="para_16__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> States to take appropriate measures so that, wherever possible, persons belonging to national or ethnic, religious and linguistic minorities may have adequate opportunities to learn their own language or to have instruction in their own language;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_17" class="MercuryDocument">
+        <num>	4.</num>
+        <content eId="para_17__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> States to take all appropriate measures, inter alia, constitutional, legislative, administrative and other measures, for the promotion and implementation of the Declaration, and appeals to States to cooperate bilaterally and multilaterally, in particular on the exchange of best practices and lessons learned, in accordance with the Declaration, in order to promote and protect the rights of persons belonging to national or ethnic, religious and linguistic minorities;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_18" class="MercuryDocument">
+        <num>	5.</num>
+        <content eId="para_18__content">
+          <p xml:space="preserve">
+            <span class="italic">Recommends</span> that States continue to reflect on current and emerging challenges facing persons belonging to national or ethnic, religious and linguistic minorities, including the rise in persecution on religious and ethnic grounds and increasing levels of hate crimes and hate speech targeting, among others, persons belonging to national or ethnic, religious and linguistic minorities;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_19" class="MercuryDocument">
+        <num>	6.</num>
+        <content eId="para_19__content">
+          <p xml:space="preserve">
+            <span class="italic">Also recommends</span> that States ensure that all measures taken with a view to implementing the Declaration are, to the fullest extent possible, developed, designed, implemented and reviewed with the full, effective and equal participation of persons belonging to national or ethnic, religious and linguistic minorities;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_20" class="MercuryDocument">
+        <num>	7.</num>
+        <content eId="para_20__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> States to undertake effective efforts to prevent and combat acts of violence specifically targeting persons belonging to national or ethnic, religious and linguistic minorities;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_21" class="MercuryDocument">
+        <num>	8.</num>
+        <content eId="para_21__content">
+          <p xml:space="preserve">
+            <span class="italic">Also calls upon</span> States to take all appropriate measures to ensure the protection of children who belong to national or ethnic, religious and linguistic minorities and who are at risk of becoming or have become stateless, in accordance with the relevant obligations under the Convention on the Rights of the Child;<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vol. 1577, No. 27531.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_22" class="MercuryDocument">
+        <num>	9.</num>
+        <content eId="para_22__content">
+          <p xml:space="preserve">
+            <span class="italic">Further calls upon</span> States to take all appropriate measures to ensure the protection of women and girls who belong to national or ethnic, religious and linguistic minorities and are exposed to discrimination on the grounds of being stateless, and also to give special attention to the specific needs of older persons and persons with disabilities who belong to national or ethnic, religious and linguistic minorities and who are stateless;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_23" class="MercuryDocument">
+        <num>	10.</num>
+        <content eId="para_23__content">
+          <p xml:space="preserve">
+            <span class="italic">Recommends</span> that States and other relevant actors ensure to the fullest extent possible that the Declaration is translated into all minority languages and disseminated widely;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_24" class="MercuryDocument">
+        <num>	11.</num>
+        <content eId="para_24__content">
+          <p xml:space="preserve">
+            <span class="italic">Expresses its appreciation</span> for the successful completion, in November 2018, of the eleventh session of the Forum on Minority Issues, on the theme “Statelessness: a minority issue”, which, through the widespread participation of stakeholders, provided an important platform for the promotion of dialogue on this topic and, as part of its outcome, produced recommendations to highlight the need for States to prevent and reduce statelessness by promoting the human rights of persons belonging to national or ethnic, religious and linguistic minorities and to stress the importance of inclusion of stateless persons belonging to national or ethnic, religious and linguistic minorities and their representatives in policy and decision-making processes affecting them,<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve"><a href="https://undocs.org/en/A/HRC/40/71">A/HRC/40/71</a>.</p></authorialNote> and encourages States to take into consideration the relevant recommendations of the Forum;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_25" class="MercuryDocument">
+        <num>	12.</num>
+        <content eId="para_25__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> States, while bearing in mind the theme of the eleventh session of the Forum on Minority Issues and with a view to enhancing the implementation of the Declaration and ensuring the realization of the rights of persons belonging to national or ethnic, religious and linguistic minorities, to take appropriate measures by, inter alia:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_26" class="MercuryDocument">
+        <content eId="para_26__content">
+          <p xml:space="preserve">	(a)	Reviewing any legislation, policy or practice that has a discriminatory or disproportionately negative effect on persons belonging to national or ethnic, religious and linguistic minorities and that may render them vulnerable, with a view to considering its amendment;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_27" class="MercuryDocument">
+        <content eId="para_27__content">
+          <p xml:space="preserve">	(b)	Considering ratifying, acceding to and adhering to all relevant international instruments that protect and promote the rights of persons belonging to national or ethnic, religious and linguistic minorities and those aiming to eliminate statelessness;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_28" class="MercuryDocument">
+        <content eId="para_28__content">
+          <p xml:space="preserve">	(c)	Refraining from arbitrary and discriminatory denial or deprivation of nationality of persons belonging to national or ethnic, religious and linguistic minorities;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_29" class="MercuryDocument">
+        <content eId="para_29__content">
+          <p xml:space="preserve">	(d)	Ensuring that human rights protection is provided to stateless persons belonging to national or ethnic, religious and linguistic minorities, as human rights are universal and apply to everyone;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_30" class="MercuryDocument">
+        <content eId="para_30__content">
+          <p xml:space="preserve">	(e)	Ensuring that birth registration, civil registration and national identification documents are provided without discrimination on any ground, in particular race, ethnicity, religion and language, in line with the 2030 Agenda for Sustainable Development,<sup>5</sup> especially the target aimed at providing a legal identity for all;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_31" class="MercuryDocument">
+        <content eId="para_31__content">
+          <p xml:space="preserve">	(f)	Ensuring that stateless persons belonging to national or ethnic, religious and linguistic minorities have access to justice and remedy for human rights violations and that these persons can appeal to relevant judicial and administrative bodies in case of denial or deprivation of nationality;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_32" class="MercuryDocument">
+        <content eId="para_32__content">
+          <p xml:space="preserve">	(g)	Ensuring full compliance with the Convention on the Rights of the Child, in particular articles 7 and 8 thereof, and considering removing all their reservations to them;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_33" class="MercuryDocument">
+        <content eId="para_33__content">
+          <p xml:space="preserve">	(h)	Ensuring that women enjoy equal rights with men to acquire, change or retain their nationality, as well as equal rights with men to confer their nationality upon their children;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_34" class="MercuryDocument">
+        <num>	13.</num>
+        <content eId="para_34__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of the report of the Secretary-General on the effective promotion of the Declaration<authorialNote marker="11" placement="bottom" eId="authorialNote_11"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/215">A/74/215</a>.</p></authorialNote> and the reports of the Special Rapporteur of the Human Rights Council on minority issues and their special focus on statelessness as an issue affecting persons belonging to national or ethnic, religious and linguistic minorities;<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve"><a href="https://undocs.org/en/A/73/205">A/73/205</a> and <a href="https://undocs.org/en/A/74/160">A/74/160</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_35" class="MercuryDocument">
+        <num>	14.</num>
+        <content eId="para_35__content">
+          <p xml:space="preserve">
+            <span class="italic">Commends</span> the Special Rapporteur for the work that has been done and the important role played in raising the level of awareness of and in giving added visibility to the rights of persons belonging to national or ethnic, religious and linguistic minorities;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_36" class="MercuryDocument">
+        <num>	15.</num>
+        <content eId="para_36__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> all States to cooperate with and assist the Special Rapporteur in the performance of the tasks and duties mandated to him, to provide him with all the necessary information requested and to seriously consider responding promptly and favourably to the requests of the Special Rapporteur to visit their countries in order to enable him to fulfil his duties effectively;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_37" class="MercuryDocument">
+        <num>	16.</num>
+        <content eId="para_37__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> the specialized agencies, regional organizations, national human rights institutions and non-governmental organizations to develop regular dialogue and cooperation with the Special Rapporteur, as well as to continue to contribute to the promotion and protection of the rights of persons belonging to national or ethnic, religious and linguistic minorities;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_38" class="MercuryDocument">
+        <num>	17.</num>
+        <content eId="para_38__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> the United Nations High Commissioner for Human Rights to continue to promote, within her mandate, the implementation of the Declaration, and to engage in a dialogue with Governments for that purpose and regularly update and disseminate widely the United Nations Guide for Minorities;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_39" class="MercuryDocument">
+        <num>	18.</num>
+        <content eId="para_39__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the inter-agency cooperation among United Nations agencies, funds and programmes on minority issues, led by the Office of the United Nations High Commissioner for Human Rights, and urges them to further increase their coordination and cooperation by, inter alia, developing policies on the promotion and protection of the rights of persons belonging to minorities, drawing also on relevant outcomes of the Forum on Minority Issues and taking into account the work of relevant regional organizations;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_40" class="MercuryDocument">
+        <num>	19.</num>
+        <content eId="para_40__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> the Secretary-General to make available, at the request of Governments concerned, qualified expertise on minority issues, including in the context of the prevention of and efforts to combat statelessness, to assist in resolving existing or potential situations involving minorities;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_41" class="MercuryDocument">
+        <num>	20.</num>
+        <content eId="para_41__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> the human rights treaty bodies, as well as special procedures of the Human Rights Council, to continue to give attention, within their respective mandates, to situations and rights of persons belonging to national or ethnic, religious and linguistic minorities and in this regard to take into consideration relevant recommendations of the Forum on Minority Issues;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_42" class="MercuryDocument">
+        <num>	21.</num>
+        <content eId="para_42__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> the United Nations mechanisms and bodies, the specialized agencies and regional organizations, within their respective mandates, to continue to contribute to the protection and the prevention of violations of the rights of persons belonging to national or ethnic, religious and linguistic minorities, including by strengthening cooperation in respect of information-gathering and improving the information flow between themselves and with States;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_43" class="MercuryDocument">
+        <num>	22.</num>
+        <content eId="para_43__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> regional intergovernmental bodies, within their respective regions, to promote greater attention to the rights of persons belonging to national or ethnic, religious and linguistic minorities by, inter alia, actively raising awareness of and promoting the Declaration in their work, encouraging its implementation at the national level and considering the creation of thematic and/or special mechanisms on this issue;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_44" class="MercuryDocument">
+        <num>	23.</num>
+        <content eId="para_44__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> national human rights institutions to pay due attention to the rights of persons belonging to national or ethnic, religious and linguistic minorities, including by monitoring situations of potential threats for persons belonging to national or ethnic, religious and linguistic minorities, and by investigating and reporting, in accordance with the principles relating to the status of national institutions for the promotion and protection of human rights (the Paris Principles)<authorialNote marker="13" placement="bottom" eId="authorialNote_13"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/48/134">48/134</a>, annex.</p></authorialNote> and their respective mandates, episodes of targeted violence against persons belonging to minorities, including, when necessary, to regional and international bodies;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_45" class="MercuryDocument">
+        <num>	24.</num>
+        <content eId="para_45__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> civil society, including non-governmental organizations, to promote awareness of the Declaration and to review the extent to which it integrates the rights of persons belonging to national or ethnic, religious and linguistic minorities and the Declaration into its work, as well as to inform persons belonging to national or ethnic, religious and linguistic minorities about their rights;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_46" class="MercuryDocument">
+        <num>	25.</num>
+        <content eId="para_46__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Special Rapporteur to report annually to the General Assembly and include recommendations for effective strategies for the better implementation of the rights of persons belonging to national or ethnic, religious and linguistic minorities;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_47" class="MercuryDocument">
+        <num>	26.</num>
+        <content eId="para_47__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> the Office of the High Commissioner, United Nations entities and Member States to support and collaborate in the organization of regional forums on minority issues initiated by the Special Rapporteur in accordance with his mandate, in order to complement and enrich the work and recommendations of the Forum on Minority Issues;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_48" class="MercuryDocument">
+        <num>	27.</num>
+        <content eId="para_48__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to submit to the General Assembly at its seventy-sixth session a report on the implementation of the present resolution, including information on activities undertaken by Member States, the Office of the High Commissioner, the Special Rapporteur, relevant United Nations entities and other relevant stakeholders to enhance the implementation of the Declaration and to ensure the realization of the rights of persons belonging to national or ethnic, religious and linguistic minorities;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_49" class="MercuryDocument">
+        <num>	28.</num>
+        <content eId="para_49__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> to continue consideration of the question at its seventy-sixth session under the item entitled “Promotion and protection of human rights”.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="50th">50th plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-18" refersTo="#adoptionDate">18 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

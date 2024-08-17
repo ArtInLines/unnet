@@ -1,0 +1,321 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-19/74-210/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-19/74-210/"></FRBRuri>
+          <FRBRdate date="2019-12-19" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-19/74-210/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-19/74-210/eng@/"></FRBRuri>
+          <FRBRdate date="2020-01-15" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-19/74-210/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-19/74-210/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-30" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="14" href="http://metadata.un.org/sdg/14" showAs="sdg_14" dictionary="SDGO"></keyword>
+        <keyword value="marine_life" href="http://eurovoc.europa.eu/3149" showAs="marine_life" dictionary="EuroVoc"></keyword>
+        <keyword value="marine_environment" href="http://eurovoc.europa.eu/5742" showAs="marine_environment" dictionary="EuroVoc"></keyword>
+        <keyword value="ocean" href="http://eurovoc.europa.eu/2107" showAs="ocean" dictionary="EuroVoc"></keyword>
+        <keyword value="sea" href="http://eurovoc.europa.eu/1870" showAs="sea" dictionary="EuroVoc"></keyword>
+        <keyword value="marine_resources" href="http://metadata.un.org/thesaurus/030800" showAs="marine_resources" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="marine_resources" href="http://metadata.un.org/thesaurus/1003922" showAs="marine_resources" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="oceans_and_seas" href="http://metadata.un.org/thesaurus/170600" showAs="oceans_and_seas" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-11-21" outcome="draftResolution" as="A/C.2/74/L.31/Rev.1" by="Benin, Cabo Verde, Cameroon, Central African Republic, Djibouti, Guinea-Bissau, Haiti, Indonesia, Mauritius, Monaco, Morocco, Nigeria, Papua New Guinea, Philippines, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Sri Lanka, Tajikistan, Togo and United Arab Emirates" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="Antigua and Barbuda, Bahrain, Bosnia and Herzegovina, Burkina Faso, Canada, Comoros, Côte d'Ivoire, Equatorial Guinea, France, Gabon, Gambia, Ghana, Grenada, Guinea, India, Jordan, Kenya, Liberia, Madagascar, Maldives, Mali, Rwanda, Saint Kitts and Nevis, Saint Lucia, Saudi Arabia, Senegal, Sudan, Tunisia, Uruguay, Uzbekistan" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/381" by="" refersTo="57" />
+        <step date="2019-12-19" outcome="adopted" as="A/74/PV.52" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="secondCommittee" href="#secondCommittee" showAs="Second Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-22423 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/210</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-01-15" class="rightSmall" refersTo="#dateOfIssuance">15 January 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 19</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Sustainable development</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 19 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#secondCommittee">[on the report of the Second Committee (<inline name="originating document">A/74/381</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/210.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Strengthening cooperation for integrated coastal zone management for achieving sustainable development</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Recalling" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the Rio Declaration on Environment and Development,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"><span class="italic">Report of the United Nations Conference on Environment and Development, Rio de Janeiro, 3−14 June 1992, vol. I, Resolutions Adopted by the Conference</span> (United Nations publication, Sales No. E.93.I.8 and corrigendum), resolution 1, annex I.</p></authorialNote> Agenda 21,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	Ibid., annex II.</p></authorialNote> the Programme for the Further Implementation of Agenda 21,<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/S-19/2">S-19/2</a>, annex.</p></authorialNote> the Johannesburg Declaration on Sustainable Development<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve"><span class="italic">Report of the World Summit on Sustainable Development, Johannesburg, South Africa, 26 August–4 September 2002</span> (United Nations publication, Sales No. E.03.II.A.1 and corrigendum), chap. I, resolution 1, annex.</p></authorialNote> and the Plan of Implementation of the World Summit on Sustainable Development (Johannesburg Plan of Implementation)<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve">	 	Ibid., resolution 2, annex.</p></authorialNote> and the outcome document of the United Nations Conference on Sustainable Development, entitled “The future we want”,<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/A/RES/66/288">66/288</a>, annex.</p></authorialNote> as well as the Monterrey Consensus of the International Conference on Financing for Development<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve"><span class="italic">Report of the International Conference on Financing for Development, Monterrey, Mexico, 18−22 March 2002</span> (United Nations publication, Sales No. E.02.II.A.7), chap. I, resolution 1, annex.</p></authorialNote> and the Doha Declaration on Financing for Development: outcome document of the Follow-up International Conference on Financing for Development to Review the Implementation of the Monterrey Consensus,<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/63/239">63/239</a>, annex.</p></authorialNote></p>
+      </container>
+      <container name="Reaffirming" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the United Nations Convention on the Law of the Sea,<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vol. 1833, No. 31363.</p></authorialNote> which provides the legal framework for ocean activities, and emphasizing its fundamental character, conscious that the problems of ocean space are closely interrelated and need to be considered as a whole through an integrated, interdisciplinary and intersectoral approach,</p>
+      </container>
+      <container name="Recalling" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the ecosystem approach advocated in the Convention on Biological Diversity,<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve">	 	Ibid., vol. 1760, No. 30619.</p></authorialNote> which is described as a strategy for the integrated management of land, water and living resources that promotes conservation and sustainable use in an equitable way,</p>
+      </container>
+      <container name="Reaffirming" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the outcome document of the United Nations Conference on Sustainable Development, entitled “The future we want” and, inter alia, the commitments concerning the coastal and marine environment contained therein,</p>
+      </container>
+      <container name="Reaffirming also" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming also</span> its resolution <a href="https://undocs.org/A/RES/70/1">70/1</a> of 25 September 2015, entitled “Transforming our world: the 2030 Agenda for Sustainable Development”, in which it adopted a comprehensive, far-reaching and people-centred set of universal and transformative Sustainable Development Goals and targets, its commitment to working tirelessly for the full implementation of the Agenda by 2030, its recognition that eradicating poverty in all its forms and dimensions, including extreme poverty, is the greatest global challenge and an indispensable requirement for sustainable development, its commitment to achieving sustainable development in its three dimensions – economic, social and environmental – in a balanced and integrated manner, and to building upon the achievements of the Millennium Development Goals and seeking to address their unfinished business,</p>
+      </container>
+      <container name="Reaffirming further" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming further</span> its resolution <a href="https://undocs.org/A/RES/69/313">69/313</a> of 27 July 2015 on the Addis Ababa Action Agenda of the Third International Conference on Financing for Development, which is an integral part of the 2030 Agenda for Sustainable Development, supports and complements it, helps to contextualize its means of implementation targets with concrete policies and actions, and reaffirms the strong political commitment to address the challenge of financing and creating an enabling environment at all levels for sustainable development in the spirit of global partnership and solidarity,</p>
+      </container>
+      <container name="Reaffirming " eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming </span>the Paris Agreement<authorialNote marker="11" placement="bottom" eId="authorialNote_11"><p xml:space="preserve">	 	Adopted under the UNFCCC in <a href="https://undocs.org/A/71/25">FCCC/CP/2015/10/Add.1</a>, decision 1/CP.21.</p></authorialNote> and its early entry into force, encouraging all its parties to fully implement the Agreement, and parties to the United Nations Framework Convention on Climate Change<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve">	 	United Nations, <span class="italic">Treaty Series</span>, vol. 1771, No. 30822.</p></authorialNote> that have not yet done so to deposit their instruments of ratification, acceptance, approval or accession, where appropriate, as soon as possible,</p>
+      </container>
+      <container name="Noting with concern" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Noting with concern</span> the findings contained in the special reports of the Intergovernmental Panel on Climate Change entitled <span class="italic">Global Warming of 1.5°C</span> and <span class="italic">The Ocean and Cryosphere in a Changing Climate</span>,</p>
+      </container>
+      <container name="Recalling" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the importance of strengthening the sustainable management and protection of the marine and coastal ecosystems, of restoring, where necessary, the resilience of coastal ecosystems to avoid adverse impacts and of achieving healthy and productive oceans,</p>
+      </container>
+      <container name="Recalling also" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> the commitments contained in Agenda 21, including those related to the integrated management and sustainable development of coastal areas, while noting that integrated coastal management under national jurisdiction has been widely recognized since then, which offers the opportunity to strengthen international cooperation in this field,</p>
+      </container>
+      <container name="Stressing" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Stressing</span> the importance of the priorities outlined in the Sendai Framework for Disaster Risk Reduction 2015–2030,<authorialNote marker="13" placement="bottom" eId="authorialNote_13"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/69/283">69/283</a>, annex II.</p></authorialNote> in particular with regard to building resilience and reducing disaster risk in coastal management,</p>
+      </container>
+      <container name="Noting" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> that coastal hazards preparedness, responses and recovery are important components of integrated coastal zone management,</p>
+      </container>
+      <container name="Recognizing" eId="container_14">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the work on integrated coastal zone management conducted by the United Nations Environment Programme and the regional seas conventions and action plans,</p>
+      </container>
+      <container name="Recalling" eId="container_15">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> resolutions related to integrated coastal zone management adopted by the United Nations Environment Assembly of the United Nations Environment Programme, including resolution 2/10 on oceans and seas<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve">	 	See <span class="italic">Official Records of the General Assembly, Seventy-first Session, Supplement No. 25</span> (<a href="https://undocs.org/en/A/71/25">A/71/25</a>), annex.</p></authorialNote> and resolution 4/11 on the protection of the marine environment from land-based activities,<authorialNote marker="15" placement="bottom" eId="authorialNote_15"><p xml:space="preserve"><a href="https://undocs.org/UNEP/EA.4/Res.11">UNEP/EA.4/Res.11</a>.</p></authorialNote></p>
+      </container>
+      <container name="Noting" eId="container_16">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> that area-based management approaches, including integrated coastal zone management, are used to deliver a range of polices that align with the Sustainable Development Goals and associated targets and that can include societal engagement, conservation, the sustainable management of natural resources, food security and climate change adaptation,</p>
+      </container>
+      <container name="Recognizing" eId="container_17">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the contribution of the integrated coastal zone management approach in the promotion of sustainable development in various areas, including sustainable tourism,</p>
+      </container>
+      <container name="Recognizing also" eId="container_18">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing also</span> that integrated coastal zone management can contribute to poverty eradication,</p>
+      </container>
+      <container name="Noting" eId="container_19">
+        <p xml:space="preserve">
+          <span class="italic">Noting</span> that coastal and marine resources contribute significantly to the economy and that maintaining a high-quality coastal and marine environment provides ecosystem functions and services in support of the 2030 Agenda for Sustainable Development and, in particular, Sustainable Development Goal 14,</p>
+      </container>
+      <container name="Noting also" eId="container_20">
+        <p xml:space="preserve">
+          <span class="italic">Noting also</span> various initiatives to address threats and problems in coastal and marine areas that originate from land-based activities and may have a negative impact on coastal and marine ecosystems,</p>
+      </container>
+      <container name="Recognizing" eId="container_21">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the efforts and actions that Member States, together with other stakeholders, are undertaking to address the threats and problems for coastal and marine areas originating from land-based activities,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_22" class="MercuryDocument">
+        <num>	1.</num>
+        <content eId="para_22__content">
+          <p xml:space="preserve">
+            <span class="italic">Emphasizes</span> that the use and implementation of the integrated coastal zone management approach and other area-based management approaches can contribute significantly towards the achievement of the Sustainable Development Goals and their targets;<authorialNote marker="16" placement="bottom" eId="authorialNote_16"><p xml:space="preserve">	 	See resolution 70/1.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_23" class="MercuryDocument">
+        <num>	2.</num>
+        <content eId="para_23__content">
+          <p xml:space="preserve">
+            <span class="italic">Also emphasizes</span> that coastal areas are an essential ecological and economic resource and that their management and planning from a sustainable development perspective need an integrated management approach;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_24" class="MercuryDocument">
+        <num>	3.</num>
+        <content eId="para_24__content">
+          <p xml:space="preserve">
+            <span class="italic">Underlines</span> that integrated coastal zone management is a dynamic process for the sustainable management and use of coastal zones, taking into account at the same time the fragility of coastal ecosystems and landscapes, the diversity of activities and uses, their interactions, the maritime orientation of certain activities and uses and their impact on both the marine and land parts;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_25" class="MercuryDocument">
+        <num>	4.</num>
+        <content eId="para_25__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to consider the definition and implementation of an integrated coastal zone management approach, including through appropriate national planning tools and an ecosystem approach that integrates land, sea and watershed areas;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_26" class="MercuryDocument">
+        <num>	5.</num>
+        <content eId="para_26__content">
+          <p xml:space="preserve">
+            <span class="italic">Also encourages</span> Member States to consider strengthening, or where applicable establishing, coordinating mechanisms for the integrated management and sustainable development of coastal and marine areas and their resources, at the local, national and regional levels;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_27" class="MercuryDocument">
+        <num>	6.</num>
+        <content eId="para_27__content">
+          <p xml:space="preserve">
+            <span class="italic">Further encourages</span> Member States to take concrete measures to integrate poverty eradication, quality, reliable, sustainable and resilient infrastructure, sustainable transport, science, technology and innovation into integrated coastal zone management;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_28" class="MercuryDocument">
+        <num>	7.</num>
+        <content eId="para_28__content">
+          <p xml:space="preserve">
+            <span class="italic">Stresses</span> the importance of policies and plans for disaster risk reduction to build resilience and reduce the impacts and costs of natural disasters, also stresses the importance of biodiversity preservation and nature-based solutions, and encourages Member States to incorporate these elements as part of their approach to integrated coastal zone management;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_29" class="MercuryDocument">
+        <num>	8.</num>
+        <content eId="para_29__content">
+          <p xml:space="preserve">
+            <span class="italic">Also stresses</span> the importance of promoting coordination at the national and local levels with regard to coastal areas, with the aim of ensuring policy coherence, as well as the effectiveness of coastal management measures, while ensuring the participation of all relevant stakeholders, including people in vulnerable situations;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_30" class="MercuryDocument">
+        <num>	9.</num>
+        <content eId="para_30__content">
+          <p xml:space="preserve">
+            <span class="italic">Emphasizes</span> the importance of partnerships, of bringing together multi‑stakeholder actors to enable the integration of different interests and knowledge into planning processes or strategies and of helping to ensure that area-based management approach design is based on the best available science;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_31" class="MercuryDocument">
+        <num>	10.</num>
+        <content eId="para_31__content">
+          <p xml:space="preserve">
+            <span class="italic">Also emphasizes</span> that international and regional cooperation, including North-South, South-South and triangular cooperation, and through capacity-building and technical support for developing counties and public-private partnerships, are an important factor in promoting the integrated coastal zone management approach by, inter alia, promoting peer learning and cooperation, developing the necessary coastal systematic observation, research and information management systems and developing technologies, the science-policy interface and technological capacities, as well as building effective linkages among global, regional, subregional and national processes, as appropriate, to advance the achievement of the Sustainable Development Goals;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_32" class="MercuryDocument">
+        <num>	11.</num>
+        <content eId="para_32__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> the United Nations Environment Programme and other relevant United Nations entities, within their mandates and existing resources, to support the efforts of Member States in promoting and implementing the integrated coastal zone management approach, as well as in mobilizing partnerships and initiatives at the local, national and regional levels;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_33" class="MercuryDocument">
+        <num>	12.</num>
+        <content eId="para_33__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to submit to the General Assembly at its seventy-sixth session an action-oriented report on the implementation of the present resolution, within existing resources, and decides to include in the provisional agenda of its seventy-sixth session, under the item entitled “Sustainable development”, a sub-item entitled “Strengthening cooperation for integrated coastal zone management for achieving sustainable development”.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="52nd">52nd plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-19" refersTo="#adoptionDate">19 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

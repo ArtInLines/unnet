@@ -1,0 +1,269 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-06-30/74-282/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-06-30/74-282/"></FRBRuri>
+          <FRBRdate date="2020-06-30" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-06-30/74-282/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-06-30/74-282/eng@/"></FRBRuri>
+          <FRBRdate date="2020-07-09" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-06-30/74-282/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-06-30/74-282/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-10-04" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="6" href="http://metadata.un.org/sdg/6" showAs="sdg_6" dictionary="SDGO"></keyword>
+        <keyword value="water" href="http://eurovoc.europa.eu/597" showAs="water" dictionary="EuroVoc"></keyword>
+        <keyword value="public_hygiene" href="http://eurovoc.europa.eu/3371" showAs="public_hygiene" dictionary="EuroVoc"></keyword>
+        <keyword value="use_of_water" href="http://eurovoc.europa.eu/4628" showAs="use_of_water" dictionary="EuroVoc"></keyword>
+        <keyword value="water" href="http://metadata.un.org/thesaurus/030500" showAs="water" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sanitation" href="http://metadata.un.org/thesaurus/1005701" showAs="sanitation" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="water_management" href="http://metadata.un.org/thesaurus/1006948" showAs="water_management" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2020-06-27" outcome="draftResolution" as="A/C.5/74/L.35" by="submitted by the Chair of the Committee following informal consultations" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/910" refersTo="17" by="" />
+        <step date="2020-06-30" outcome="adopted" as="Adopted through silence procedure" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="fifthCommittee" href="#fifthCommittee" showAs="Fifth Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">20-08790 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/282</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-07-09" class="rightSmall" refersTo="#dateOfIssuance">9 July 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 148</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Administrative and budgetary aspects of the financing of the United Nations peacekeeping operations</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 30 June 2020</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#fifthCommittee">[on the report of the Fifth Committee (<inline name="originating document">A/74/910</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/282.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Financing of the United Nations Logistics Base at Brindisi, Italy</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Recalling" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> section XIV of its resolution <a href="https://undocs.org/en/A/RES/49/233">49/233</a> A of 23 December 1994 and its resolution <a href="https://undocs.org/en/A/RES/62/231">62/231</a> of 22 December 2007,</p>
+      </container>
+      <container name="Recalling also" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Recalling also</span> its decision 50/500 of 17 September 1996 on the financing of the United Nations Logistics Base at Brindisi, Italy, and its subsequent resolutions thereon, the latest of which was resolution <a href="https://undocs.org/en/A/RES/73/310">73/310</a> of 3 July 2019, as well as its decision 73/555 of 3 July 2019,</p>
+      </container>
+      <container name="Recalling further" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Recalling further</span> its resolution <a href="https://undocs.org/en/A/RES/56/292">56/292</a> of 27 June 2002 concerning the establishment of the strategic deployment stocks and its subsequent resolutions on the status of the implementation of the strategic deployment stocks, the latest of which was resolution <a href="https://undocs.org/en/A/RES/73/310">73/310</a>,</p>
+      </container>
+      <container name="Having considered" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Having considered</span> the reports of the Secretary-General on the financing of the United Nations Logistics Base<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/620">A/74/620</a> and <a href="https://undocs.org/en/A/74/730">A/74/730</a>.</p></authorialNote> and the related report of the Advisory Committee on Administrative and Budgetary Questions,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/737/Add.6">A/74/737/Add.6</a>.</p></authorialNote></p>
+      </container>
+      <container name="Reiterating" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Reiterating</span> the importance of establishing an accurate inventory of assets,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_7" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_7__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes with appreciation</span> the facilities provided by the Government of Italy to the United Nations Logistics Base at Brindisi, Italy, and by the Government of Spain to the secondary active telecommunications facility in Valencia, Spain;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_8" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_8__content">
+          <p xml:space="preserve">
+            <span class="italic">Endorses</span> the conclusions and recommendations contained in the report of the Advisory Committee on Administrative and Budgetary Questions,<sup>2</sup> subject to the provisions of the present resolution, and requests the Secretary-General to ensure their full implementation;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_9" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_9__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to ensure the full implementation of the relevant provisions of its resolutions <a href="https://undocs.org/en/A/RES/59/296">59/296</a> of 22 June 2005, <a href="https://undocs.org/en/A/RES/60/266">60/266</a> of 30 June 2006, <a href="https://undocs.org/en/A/RES/61/276">61/276</a> of 29 June 2007, <a href="https://undocs.org/en/A/RES/64/269">64/269</a> of 24 June 2010, <a href="https://undocs.org/en/A/RES/65/289">65/289</a> of 30 June 2011, <a href="https://undocs.org/en/A/RES/66/264">66/264</a> of 21 June 2012, <a href="https://undocs.org/en/A/RES/69/307">69/307</a> of 25 June 2015 and <a href="https://undocs.org/en/A/RES/70/286">70/286</a> of 17 June 2016, as well as other relevant resolutions;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_10" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_10__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of paragraph 9 of the report of the Advisory Committee, and decides to establish one post of Engineering Assistant, water and wastewater environmental engineering specialist (national General Service) in the Environmental Technical Support Unit;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_11" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_11__content">
+          <p xml:space="preserve">
+            <span class="italic">Recalls</span> paragraph 10 of the report of the Advisory Committee, and decides to abolish one post of Property Management Assistant (G-7) and to establish one post of Property Management Officer (P-3) in the Property Management Cell, Central Service;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_12__content">
+          <p xml:space="preserve">
+            <span class="italic">Also recalls</span> paragraph 4 of its resolution <a href="https://undocs.org/en/A/RES/72/287">72/287</a> of 5 July 2018, and looks forward to considering a proposal on the revised concept of operations for strategic deployment stocks that takes into account the observations and recommendations of the Office of Internal Oversight Services, and stresses the need for further analysis on enhanced effectiveness, expected efficiencies and location issues;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_13" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_13__content">
+          <p xml:space="preserve">
+            <span class="italic">Notes</span> the ongoing study of the Strategic Air Operations Centre, the Transportation and Movements Integrated Control Centre and the Global Procurement Support Section in the context of an integrated supply chain management approach, and looks forward to receiving the results of the study for its consideration at the seventy-fifth session;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_14" class="SingleTxt">
+        <num>	8.</num>
+        <content eId="para_14__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the complementarity of the United Nations Logistics Base and the Regional Service Centre in Entebbe, Uganda, and encourages the Secretary-General to seek enhanced synergies between the two support entities in their respective mandates;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_15" class="H23">
+        <subheading>		Budget performance report for the period from 1 July 2018 to 30 June 2019</subheading>
+      </paragraph>
+      <paragraph eId="para_16" class="SingleTxt">
+        <num>	9.</num>
+        <content eId="para_16__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of the report of the Secretary-General on the budget performance of the United Nations Logistics Base for the period from 1 July 2018 to 30 June 2019;<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"><a href="https://undocs.org/en/A/74/620">A/74/620</a>.</p></authorialNote></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_17" class="H23">
+        <subheading>		Budget estimates for the period from 1 July 2020 to 30 June 2021</subheading>
+      </paragraph>
+      <paragraph eId="para_18" class="SingleTxt">
+        <num>	10.</num>
+        <content eId="para_18__content">
+          <p xml:space="preserve">
+            <span class="italic">Approves</span> the cost estimates for the United Nations Logistics Base amounting to 62,058,200 United States dollars for the period from 1 July 2020 to 30 June 2021;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_19" class="H23">
+        <subheading>		Financing of the budget estimates for the period from 1 July 2020 to 30 June 2021</subheading>
+      </paragraph>
+      <paragraph eId="para_20" class="SingleTxt">
+        <num>	11.</num>
+        <content eId="para_20__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> that the requirements for the United Nations Logistics Base for the period from 1 July 2020 to 30 June 2021 shall be financed as follows:</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_21" class="SingleTxt">
+        <content eId="para_21__content">
+          <p xml:space="preserve">	(a)	The unencumbered balance and other revenue in the amount of 3,064,300 dollars in respect of the financial period ended 30 June 2019, to be applied against the resources required for the period from 1 July 2020 to 30 June 2021;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_22" class="SingleTxt">
+        <content eId="para_22__content">
+          <p xml:space="preserve">	(b)	The balance of 58,993,900 dollars, to be prorated among the budgets of the active peacekeeping operations for the period from 1 July 2020 to 30 June 2021;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_23" class="SingleTxt">
+        <content eId="para_23__content">
+          <p xml:space="preserve">	(c)	The estimated staff assessment income of 5,745,000 dollars, comprising the amount of 6,142,000 dollars for the period from 1 July 2020 to 30 June 2021 and the decrease of 397,000 dollars in respect of the period from 1 July 2018 to 30 June 2019, to be offset against the balance referred to in subparagraph (b) above, to be prorated among the budgets of the individual active peacekeeping operations;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_24" class="SingleTxt">
+        <num>	12.</num>
+        <content eId="para_24__content">
+          <p xml:space="preserve">
+            <span class="italic">Also decides</span> to consider at its seventy-fifth session the question of the financing of the United Nations Logistics Base.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <docDate date="2020-06-30" refersTo="#adoptionDate">30 June 2020</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

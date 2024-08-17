@@ -1,0 +1,860 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-09-11/74-306/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-09-11/74-306/"></FRBRuri>
+          <FRBRdate date="2020-09-11" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-09-11/74-306/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-09-11/74-306/eng@/"></FRBRuri>
+          <FRBRdate date="2020-09-15" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-09-11/74-306/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-09-11/74-306/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-10-04" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2020-09-10" outcome="draftResolution" as="A/74/L.92, as amended in A/74/L.93" by="submitted by the President of the General Assembly" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="" />
+        <step date="2020-09-11" outcome="adopted" as="A/74/PV.64" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedRecordedVote">
+            <count value="169" refersTo="inFavour">
+              <akn4un:voters>
+                <organization refersTo="memberState">AFGHANISTAN</organization>
+                <organization refersTo="memberState">ALBANIA</organization>
+                <organization refersTo="memberState">ALGERIA</organization>
+                <organization refersTo="memberState">ANDORRA</organization>
+                <organization refersTo="memberState">ANGOLA</organization>
+                <organization refersTo="memberState">ANTIGUA AND BARBUDA</organization>
+                <organization refersTo="memberState">ARGENTINA</organization>
+                <organization refersTo="memberState">ARMENIA</organization>
+                <organization refersTo="memberState">AUSTRALIA</organization>
+                <organization refersTo="memberState">AUSTRIA</organization>
+                <organization refersTo="memberState">AZERBAIJAN</organization>
+                <organization refersTo="memberState">BAHAMAS</organization>
+                <organization refersTo="memberState">BAHRAIN</organization>
+                <organization refersTo="memberState">BANGLADESH</organization>
+                <organization refersTo="memberState">BARBADOS</organization>
+                <organization refersTo="memberState">BELARUS</organization>
+                <organization refersTo="memberState">BELGIUM</organization>
+                <organization refersTo="memberState">BELIZE</organization>
+                <organization refersTo="memberState">BENIN</organization>
+                <organization refersTo="memberState">BHUTAN</organization>
+                <organization refersTo="memberState">BOLIVIA (PLURINATIONAL STATE OF)</organization>
+                <organization refersTo="memberState">BOSNIA AND HERZEGOVINA</organization>
+                <organization refersTo="memberState">BOTSWANA</organization>
+                <organization refersTo="memberState">BRAZIL</organization>
+                <organization refersTo="memberState">BRUNEI DARUSSALAM</organization>
+                <organization refersTo="memberState">BULGARIA</organization>
+                <organization refersTo="memberState">BURKINA FASO</organization>
+                <organization refersTo="memberState">BURUNDI</organization>
+                <organization refersTo="memberState">CABO VERDE</organization>
+                <organization refersTo="memberState">CAMBODIA</organization>
+                <organization refersTo="memberState">CAMEROON</organization>
+                <organization refersTo="memberState">CANADA</organization>
+                <organization refersTo="memberState">CHAD</organization>
+                <organization refersTo="memberState">CHILE</organization>
+                <organization refersTo="memberState">CHINA</organization>
+                <organization refersTo="memberState">COLOMBIA</organization>
+                <organization refersTo="memberState">COMOROS</organization>
+                <organization refersTo="memberState">COSTA RICA</organization>
+                <organization refersTo="memberState">COTE D'IVOIRE</organization>
+                <organization refersTo="memberState">CROATIA</organization>
+                <organization refersTo="memberState">CUBA</organization>
+                <organization refersTo="memberState">CYPRUS</organization>
+                <organization refersTo="memberState">CZECHIA</organization>
+                <organization refersTo="memberState">DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA</organization>
+                <organization refersTo="memberState">DEMOCRATIC REPUBLIC OF THE CONGO</organization>
+                <organization refersTo="memberState">DENMARK</organization>
+                <organization refersTo="memberState">DJIBOUTI</organization>
+                <organization refersTo="memberState">DOMINICA</organization>
+                <organization refersTo="memberState">DOMINICAN REPUBLIC</organization>
+                <organization refersTo="memberState">ECUADOR</organization>
+                <organization refersTo="memberState">EGYPT</organization>
+                <organization refersTo="memberState">EL SALVADOR</organization>
+                <organization refersTo="memberState">ERITREA</organization>
+                <organization refersTo="memberState">ESTONIA</organization>
+                <organization refersTo="memberState">ESWATINI</organization>
+                <organization refersTo="memberState">ETHIOPIA</organization>
+                <organization refersTo="memberState">FIJI</organization>
+                <organization refersTo="memberState">FINLAND</organization>
+                <organization refersTo="memberState">FRANCE</organization>
+                <organization refersTo="memberState">GABON</organization>
+                <organization refersTo="memberState">GAMBIA</organization>
+                <organization refersTo="memberState">GEORGIA</organization>
+                <organization refersTo="memberState">GERMANY</organization>
+                <organization refersTo="memberState">GHANA</organization>
+                <organization refersTo="memberState">GREECE</organization>
+                <organization refersTo="memberState">GRENADA</organization>
+                <organization refersTo="memberState">GUATEMALA</organization>
+                <organization refersTo="memberState">GUINEA</organization>
+                <organization refersTo="memberState">GUYANA</organization>
+                <organization refersTo="memberState">HONDURAS</organization>
+                <organization refersTo="memberState">ICELAND</organization>
+                <organization refersTo="memberState">INDIA</organization>
+                <organization refersTo="memberState">INDONESIA</organization>
+                <organization refersTo="memberState">IRAN (ISLAMIC REPUBLIC OF)</organization>
+                <organization refersTo="memberState">IRAQ</organization>
+                <organization refersTo="memberState">IRELAND</organization>
+                <organization refersTo="memberState">ITALY</organization>
+                <organization refersTo="memberState">JAMAICA</organization>
+                <organization refersTo="memberState">JAPAN</organization>
+                <organization refersTo="memberState">JORDAN</organization>
+                <organization refersTo="memberState">KAZAKHSTAN</organization>
+                <organization refersTo="memberState">KENYA</organization>
+                <organization refersTo="memberState">KUWAIT</organization>
+                <organization refersTo="memberState">KYRGYZSTAN</organization>
+                <organization refersTo="memberState">LAO PEOPLE'S DEMOCRATIC REPUBLIC</organization>
+                <organization refersTo="memberState">LATVIA</organization>
+                <organization refersTo="memberState">LEBANON</organization>
+                <organization refersTo="memberState">LESOTHO</organization>
+                <organization refersTo="memberState">LIBERIA</organization>
+                <organization refersTo="memberState">LIBYA</organization>
+                <organization refersTo="memberState">LIECHTENSTEIN</organization>
+                <organization refersTo="memberState">LITHUANIA</organization>
+                <organization refersTo="memberState">LUXEMBOURG</organization>
+                <organization refersTo="memberState">MADAGASCAR</organization>
+                <organization refersTo="memberState">MALAWI</organization>
+                <organization refersTo="memberState">MALAYSIA</organization>
+                <organization refersTo="memberState">MALDIVES</organization>
+                <organization refersTo="memberState">MALI</organization>
+                <organization refersTo="memberState">MALTA</organization>
+                <organization refersTo="memberState">MARSHALL ISLANDS</organization>
+                <organization refersTo="memberState">MAURITANIA</organization>
+                <organization refersTo="memberState">MAURITIUS</organization>
+                <organization refersTo="memberState">MEXICO</organization>
+                <organization refersTo="memberState">MICRONESIA (FEDERATED STATES OF)</organization>
+                <organization refersTo="memberState">MONACO</organization>
+                <organization refersTo="memberState">MONGOLIA</organization>
+                <organization refersTo="memberState">MONTENEGRO</organization>
+                <organization refersTo="memberState">MOROCCO</organization>
+                <organization refersTo="memberState">MOZAMBIQUE</organization>
+                <organization refersTo="memberState">MYANMAR</organization>
+                <organization refersTo="memberState">NAMIBIA</organization>
+                <organization refersTo="memberState">NEPAL</organization>
+                <organization refersTo="memberState">NETHERLANDS</organization>
+                <organization refersTo="memberState">NEW ZEALAND</organization>
+                <organization refersTo="memberState">NICARAGUA</organization>
+                <organization refersTo="memberState">NIGER</organization>
+                <organization refersTo="memberState">NIGERIA</organization>
+                <organization refersTo="memberState">NORTH MACEDONIA</organization>
+                <organization refersTo="memberState">NORWAY</organization>
+                <organization refersTo="memberState">OMAN</organization>
+                <organization refersTo="memberState">PAKISTAN</organization>
+                <organization refersTo="memberState">PANAMA</organization>
+                <organization refersTo="memberState">PAPUA NEW GUINEA</organization>
+                <organization refersTo="memberState">PARAGUAY</organization>
+                <organization refersTo="memberState">PERU</organization>
+                <organization refersTo="memberState">PHILIPPINES</organization>
+                <organization refersTo="memberState">POLAND</organization>
+                <organization refersTo="memberState">PORTUGAL</organization>
+                <organization refersTo="memberState">QATAR</organization>
+                <organization refersTo="memberState">REPUBLIC OF KOREA</organization>
+                <organization refersTo="memberState">REPUBLIC OF MOLDOVA</organization>
+                <organization refersTo="memberState">ROMANIA</organization>
+                <organization refersTo="memberState">RUSSIAN FEDERATION</organization>
+                <organization refersTo="memberState">RWANDA</organization>
+                <organization refersTo="memberState">SAINT KITTS AND NEVIS</organization>
+                <organization refersTo="memberState">SAINT LUCIA</organization>
+                <organization refersTo="memberState">SAINT VINCENT AND THE GRENADINES</organization>
+                <organization refersTo="memberState">SAN MARINO</organization>
+                <organization refersTo="memberState">SAUDI ARABIA</organization>
+                <organization refersTo="memberState">SERBIA</organization>
+                <organization refersTo="memberState">SIERRA LEONE</organization>
+                <organization refersTo="memberState">SINGAPORE</organization>
+                <organization refersTo="memberState">SLOVAKIA</organization>
+                <organization refersTo="memberState">SLOVENIA</organization>
+                <organization refersTo="memberState">SOUTH SUDAN</organization>
+                <organization refersTo="memberState">SPAIN</organization>
+                <organization refersTo="memberState">SRI LANKA</organization>
+                <organization refersTo="memberState">SUDAN</organization>
+                <organization refersTo="memberState">SURINAME</organization>
+                <organization refersTo="memberState">SWEDEN</organization>
+                <organization refersTo="memberState">SWITZERLAND</organization>
+                <organization refersTo="memberState">SYRIAN ARAB REPUBLIC</organization>
+                <organization refersTo="memberState">TAJIKISTAN</organization>
+                <organization refersTo="memberState">THAILAND</organization>
+                <organization refersTo="memberState">TIMOR-LESTE</organization>
+                <organization refersTo="memberState">TOGO</organization>
+                <organization refersTo="memberState">TRINIDAD AND TOBAGO</organization>
+                <organization refersTo="memberState">TUNISIA</organization>
+                <organization refersTo="memberState">TURKEY</organization>
+                <organization refersTo="memberState">TUVALU</organization>
+                <organization refersTo="memberState">UGANDA</organization>
+                <organization refersTo="memberState">UNITED ARAB EMIRATES</organization>
+                <organization refersTo="memberState">UNITED KINGDOM</organization>
+                <organization refersTo="memberState">URUGUAY</organization>
+                <organization refersTo="memberState">UZBEKISTAN</organization>
+                <organization refersTo="memberState">VIET NAM</organization>
+                <organization refersTo="memberState">YEMEN</organization>
+                <organization refersTo="memberState">ZAMBIA</organization>
+                <organization refersTo="memberState">ZIMBABWE</organization>
+              </akn4un:voters>
+            </count>
+            <count value="2" refersTo="against">
+              <akn4un:voters>
+                <organization refersTo="memberState">ISRAEL</organization>
+                <organization refersTo="memberState">UNITED STATES</organization>
+              </akn4un:voters>
+            </count>
+            <count value="2" refersTo="abstaining">
+              <akn4un:voters>
+                <organization refersTo="memberState">HUNGARY</organization>
+                <organization refersTo="memberState">UKRAINE</organization>
+              </akn4un:voters>
+            </count>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="noMainCommittee" href="#noMainCommittee" showAs="Without reference to a main committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">20-11862 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/306</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-09-15" class="rightSmall" refersTo="#dateOfIssuance">15 September 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda items 14 and 120</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Integrated and coordinated implementation of and follow-up to the outcomes of the major United Nations conferences and summits in the economic, social and related fields</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Implementation of the resolutions of the United Nations</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 11 September 2020</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#noMainCommittee">[without reference to a Main Committee (<inline name="originating document">A/74/L.92</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/306.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Comprehensive and coordinated response to the coronavirus disease (COVID-19) pandemic</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Recognizing" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that the coronavirus disease (COVID-19) pandemic is one of the greatest global challenges in the history of the United Nations, and noting with deep concern its impact on health and the loss of life, mental health and well-being, as well as the negative impact on global humanitarian needs, the enjoyment of human rights and across all spheres of society, including on livelihoods, food security and nutrition, and education, the exacerbation of poverty and hunger, disruption to economies, trade, societies and environments, and the exacerbation of economic and social inequalities within and among countries, which is reversing hard-won development gains and hampering progress towards achieving the 2030 Agenda for Sustainable Development<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">	 	Resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a>.</p></authorialNote> and all its Goals and targets,</p>
+      </container>
+      <container name="Expressing solidarity" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Expressing solidarity</span> with all people and countries affected by the pandemic, and condolences and sympathy to the families of the victims of COVID-19 and those whose lives and livelihoods have been affected by the pandemic,</p>
+      </container>
+      <container name="Determined" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Determined</span> to address the COVID-19 pandemic through a global response based on unity, solidarity and renewed multilateral cooperation among States, peoples and generations that enhances the ability and resolve of States and other relevant stakeholders to fully implement the 2030 Agenda for Sustainable Development,</p>
+      </container>
+      <container name="Reaffirming" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> its commitment to the purposes and principles of the Charter of the United Nations as well as the duty of States to cooperate with one another in accordance with the Charter, and recalling the importance of a timely implementation in this decade of action and delivery for sustainable development of the 2030 Agenda for Sustainable Development, the Addis Ababa Action Agenda of the Third International Conference on Financing for Development,<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">		Resolution <a href="https://undocs.org/en/A/RES/69/313">69/313</a>, annex.</p></authorialNote> the Beijing Declaration<authorialNote marker="3" placement="bottom" eId="authorialNote_3"><p xml:space="preserve"><span class="italic">Report of the Fourth World Conference on Women, Beijing, 4–15 September 1995</span> (United Nations publication, Sales No. E.96.IV.13), chap. I, resolution 1, annex I.</p></authorialNote> and Platform for Action,<authorialNote marker="4" placement="bottom" eId="authorialNote_4"><p xml:space="preserve">		Ibid., annex II.</p></authorialNote> the Programme of Action of the International Conference on Population and Development<authorialNote marker="5" placement="bottom" eId="authorialNote_5"><p xml:space="preserve"><span class="italic">Report of the International Conference on Population and Development, Cairo, 5–13 September 1994</span> (United Nations publication, Sales No. E.95.XIII.18), chap. I, resolution 1, annex.</p></authorialNote> and the outcomes of their review conferences, the Copenhagen Declaration and Programme of Action of the World Summit for Social Development,<authorialNote marker="6" placement="bottom" eId="authorialNote_6"><p xml:space="preserve"><span class="italic">Report of the World Summit for Social Development, Copenhagen, 6–12 March 1995</span> (United Nations publication, Sales No. E.96.IV.8), chap. I, resolution 1, annexes I and II.</p></authorialNote> the Paris Agreement,<authorialNote marker="7" placement="bottom" eId="authorialNote_7"><p xml:space="preserve">		See <a href="https://undocs.org/en/FCCC/CP/2015/10/Add.1">FCCC/CP/2015/10/Add.1</a>, decision 1/CP.21, annex.</p></authorialNote> the Sendai Framework for Disaster Risk Reduction 2015–2030,<authorialNote marker="8" placement="bottom" eId="authorialNote_8"><p xml:space="preserve">		Resolution <a href="https://undocs.org/en/A/RES/69/283">69/283</a>, annex II.</p></authorialNote> the Bangkok Principles for the implementation of the health aspects of the Sendai Framework, the New Urban Agenda,<authorialNote marker="9" placement="bottom" eId="authorialNote_9"><p xml:space="preserve">		Resolution <a href="https://undocs.org/en/A/RES/71/256">71/256</a>, annex.</p></authorialNote> the political declaration of the high-level meeting on universal health coverage,<authorialNote marker="10" placement="bottom" eId="authorialNote_10"><p xml:space="preserve">		Resolution <a href="https://undocs.org/en/A/RES/74/2">74/2</a>.</p></authorialNote> the Declarations of Alma-Ata and Astana on primary health care, the political declaration of the high-level meeting of the General Assembly on antimicrobial resistance,<authorialNote marker="11" placement="bottom" eId="authorialNote_11"><p xml:space="preserve">		Resolution <a href="https://undocs.org/en/A/RES/71/3">71/3</a>.</p></authorialNote> the Rome Declaration of the Second International Conference on Nutrition<authorialNote marker="12" placement="bottom" eId="authorialNote_12"><p xml:space="preserve">		World Health Organization, document EB136/8, annex I.</p></authorialNote> and the United Nations Decade of Action on Nutrition, the Political Declaration on HIV and AIDS: On the Fast Track to Accelerating the Fight against HIV and to Ending the AIDS Epidemic by 2030,<authorialNote marker="13" placement="bottom" eId="authorialNote_13"><p xml:space="preserve">		Resolution <a href="https://undocs.org/en/A/RES/70/266">70/266</a>, annex.</p></authorialNote> the political declaration of the high-level meeting of the General Assembly on the fight against tuberculosis,<authorialNote marker="14" placement="bottom" eId="authorialNote_14"><p xml:space="preserve">		Resolution <a href="https://undocs.org/en/A/RES/73/3">73/3</a>.</p></authorialNote> the political declaration of the third high-level meeting of the General Assembly on the prevention and control of non-communicable diseases, the political declaration of the Sustainable Development Goals Summit<authorialNote marker="15" placement="bottom" eId="authorialNote_15"><p xml:space="preserve">		Resolution <a href="https://undocs.org/en/A/RES/74/4">74/4</a>, annex.</p></authorialNote> and other relevant instruments, agreements, United Nations outcomes and programmes of action, including the Istanbul Declaration and Programme of Action,<authorialNote marker="16" placement="bottom" eId="authorialNote_16"><p xml:space="preserve"><span class="italic">Report of the Fourth United Nations Conference on the Least Developed Countries, Istanbul, Turkey, 9–13 May 2011</span> (<a href="https://undocs.org/en/A/CONF.219/7">A/CONF.219/7</a>), chaps. I and II.</p></authorialNote> the SIDS Accelerated Modalities of Action (SAMOA) Pathway<authorialNote marker="17" placement="bottom" eId="authorialNote_17"><p xml:space="preserve">		Resolution <a href="https://undocs.org/en/A/RES/69/15">69/15</a>, annex.</p></authorialNote> and the Vienna Programme of Action for Landlocked Developing Countries for the Decade 2014–2024,<authorialNote marker="18" placement="bottom" eId="authorialNote_18"><p xml:space="preserve">		Resolution <a href="https://undocs.org/en/A/RES/69/137">69/137</a>, annex II.</p></authorialNote></p>
+      </container>
+      <container name="Recalling" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the Universal Declaration of Human Rights,<authorialNote marker="19" placement="bottom" eId="authorialNote_19"><p xml:space="preserve">		Resolution <a href="https://undocs.org/en/A/RES/217(III)">217 A (III)</a>.</p></authorialNote> the International Covenant on Civil and Political Rights,<authorialNote marker="20" placement="bottom" eId="authorialNote_20"><p xml:space="preserve">		See resolution <a href="https://undocs.org/en/A/RES/2200(XXI)">2200 A (XXI)</a>, annex.</p></authorialNote> the International Covenant on Economic, Social and Cultural Rights,<sup>20</sup> the Convention on the Elimination of All Forms of Discrimination against Women,<authorialNote marker="21" placement="bottom" eId="authorialNote_21"><p xml:space="preserve">		United Nations, <span class="italic">Treaty Series</span>, vol. 1249, No. 20378.</p></authorialNote> the International Convention on the Elimination of All Forms of Racial Discrimination,<authorialNote marker="22" placement="bottom" eId="authorialNote_22"><p xml:space="preserve">		Ibid., vol. 660, No. 9464.</p></authorialNote> the Convention on the Rights of the Child,<authorialNote marker="23" placement="bottom" eId="authorialNote_23"><p xml:space="preserve">		Ibid., vol. 1577, No. 27531.</p></authorialNote> the Convention on the Rights of Persons with Disabilities,<authorialNote marker="24" placement="bottom" eId="authorialNote_24"><p xml:space="preserve">		Ibid., vol. 2515, No. 44910.</p></authorialNote> the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families,<authorialNote marker="25" placement="bottom" eId="authorialNote_25"><p xml:space="preserve">		Ibid., vol. 2220, No. 39481.</p></authorialNote> as well as the Declaration on the Right to Development,<authorialNote marker="26" placement="bottom" eId="authorialNote_26"><p xml:space="preserve">		Resolution <a href="https://undocs.org/en/A/RES/41/128">41/128</a>, annex.</p></authorialNote> the United Nations Declaration on the Rights of Indigenous Peoples<authorialNote marker="27" placement="bottom" eId="authorialNote_27"><p xml:space="preserve">		Resolution <a href="https://undocs.org/en/A/RES/61/295">61/295</a>, annex.</p></authorialNote> and other human rights instruments, and emphasizing that States need to ensure that all human rights are respected, protected and fulfilled while combating the pandemic and that their responses to the COVID-19 pandemic respect and are in full compliance with their obligations under international law, including international humanitarian law and international human rights law, while emphasizing that all human rights are universal, indivisible, interrelated, interdependent and mutually reinforcing,</p>
+      </container>
+      <container name="Reaffirming" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> the right of every human being, without distinction of any kind, to the enjoyment of the highest attainable standard of physical and mental health,</p>
+      </container>
+      <container name="Recognizing" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the need to tackle health inequities and inequalities within and among countries through political commitment, policies and international cooperation, including those that address social, economic and environmental determinants of health,</p>
+      </container>
+      <container name="Recalling" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> that the human rights to safe drinking water and sanitation are derived from the right to an adequate standard of living and are inextricably related to the right to the highest attainable standard of physical and mental health, as well as the right to life and human dignity,</p>
+      </container>
+      <container name="Recognizing" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the primary responsibility of Governments to adopt and implement responses to the COVID-19 pandemic that are specific to their national context, and that emergency measures, policies and strategies put in place by countries to address and mitigate the impacts of COVID-19 must be targeted, necessary, transparent, non‑discriminatory, time-bound, proportionate and in accordance with their obligations under applicable international human rights law, and reaffirming the obligation of States in this regard, in accordance with article 4 of the International Covenant on Civil and Political Rights,</p>
+      </container>
+      <container name="Reaffirming" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> its resolutions <a href="https://undocs.org/en/A/RES/74/270">74/270</a> of 2 April 2020, entitled “Global solidarity to fight the coronavirus disease 2019 (COVID-19)” and <a href="https://undocs.org/en/A/RES/74/274">74/274</a> of 20 April 2020, entitled “International cooperation to ensure global access to medicines, vaccines and medical equipment to face COVID-19”, and World Health Assembly resolution 73.1 of 19 May 2020, entitled “COVID-19 response”,</p>
+      </container>
+      <container name="Recognizing" eId="container_12">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the fundamental role of the United Nations system in catalysing and coordinating the comprehensive global response to the COVID-19 pandemic and the central efforts of Member States therein, recalling the constitutional mandate of the World Health Organization to act, inter alia, as the directing and coordinating authority on international health work, and recognizing its key leadership role within the broader United Nations response and the importance of strengthened multilateral cooperation in addressing the COVID-19 pandemic and its extensive negative impacts,</p>
+      </container>
+      <container name="Welcoming" eId="container_13">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the initiation, at the earliest appropriate moment, and in consultation with Member States, of a stepwise process of impartial, independent and comprehensive evaluation, including using existing mechanisms, as appropriate, to review experience gained and lessons learned from the World Health Organization-coordinated international health response to COVID-19 and to make recommendations to improve capacity for global pandemic prevention, preparedness and response requested by the World Health Assembly,</p>
+      </container>
+      <container name="Expressing appreciation" eId="container_14">
+        <p xml:space="preserve">
+          <span class="italic">Expressing appreciation</span> for the leadership of the Secretary-General, and recognizing all efforts and measures proposed by him concerning the response to the impact of the COVID-19 pandemic, including his appeal for an immediate global ceasefire, his appeal for peace at home and in homes around the world and his special appeal to religious leaders to join forces, work for peace and focus on the world’s common battle to defeat COVID-19, as well as the establishment of the United Nations COVID-19 Response and Recovery Fund, the World Health Organization Strategic Preparedness and Response Plan, the Global Humanitarian Response Plan for COVID-19 and the United Nations Framework for the Immediate Socioeconomic Response to COVID-19, and noting the issuance of all relevant United Nations reports and policy briefs on the impacts of COVID-19, including the policy brief on COVID-19 and human rights,</p>
+      </container>
+      <container name="Recognizing" eId="container_15">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the vital role of United Nations peacekeeping operations in contributing to the maintenance of international peace and security, expressing deep appreciation for the United Nations personnel in United Nations peacekeeping operations, including personnel from troop- and police-contributing countries, for their extraordinary efforts in the face of the COVID-19 pandemic and its consequences, stressing the importance of their health and well-being, and extending its condolences to those Member States whose peacekeepers have died as a result of the COVID-19 pandemic, and to the families of those peacekeepers,</p>
+      </container>
+      <container name="Recognizing also" eId="container_16">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing also</span> the critical role of and efforts made by health workers, 70 per cent of whom are women, and other front-line and essential workers, including humanitarian personnel, around the world aimed at addressing the pandemic through measures to protect the health, safety and well-being of people, and emphasizing the importance of providing health and other essential workers with the necessary protection and support,</p>
+      </container>
+      <container name="Recognizing further" eId="container_17">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing further</span> the important role that civil society, including non‑governmental organizations and women’s and community-based organizations, youth-led organizations and all other stakeholders such as volunteers and national human rights institutions where they exist, as well as the academic and scientific community and the private sector play in the response to the COVID-19 pandemic and its consequences,</p>
+      </container>
+      <container name="Recognizing with deep concern" eId="container_18">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing with deep concern</span> the special challenges facing developing countries, the most vulnerable countries and, in particular, African countries, least developed countries, landlocked developing countries, small island developing States, countries in conflict and post-conflict situations and countries affected by humanitarian emergencies, as well as the specific challenges facing middle-income countries and noting as well the challenges faced by developing countries graduating to higher income per capita status, and underlining the need to give particular attention to their concerns and specific challenges,</p>
+      </container>
+      <container name="Recognizing" eId="container_19">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that countries dependent on commodities, remittances or tourism have been particularly affected by the initial measures taken to contain the spread of COVID-19,</p>
+      </container>
+      <container name="Deeply concerned" eId="container_20">
+        <p xml:space="preserve">
+          <span class="italic">Deeply concerned</span> that the COVID-19 pandemic, owing to its severe disruptions to societies, economies, employment, global trade, supply chains and travel, and agricultural, industrial and commercial systems, is having a devastating impact on sustainable development and humanitarian needs, including on poverty eradication, livelihoods, ending hunger, food security and nutrition, education, environmentally sound waste management and access to health care, especially for the poor and people in vulnerable situations and in countries in special situations and those countries most affected, and is making the prospect of achieving all Sustainable Development Goals more difficult, including eradicating poverty in all its forms and dimensions by 2030, ending hunger and achieving food security and improved nutrition,</p>
+      </container>
+      <container name="Noting with concern" eId="container_21">
+        <p xml:space="preserve">
+          <span class="italic">Noting with concern</span> that the pandemic and related global economic and commodity price shocks could significantly increase the number of countries in or at risk of debt distress, and deeply concerned about the impact of high debt levels on countries’ abilities to withstand the impact of the COVID-19 shock and to invest in the implementation of the 2030 Agenda for Sustainable Development,</p>
+      </container>
+      <container name="Recognizing" eId="container_22">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that the COVID-19 pandemic has a disproportionately heavy impact on women, older persons, youth and children, as well as the poor, vulnerable and marginalized segments of the population, and that responses to the COVID-19 pandemic need to take into account multiple and intersecting forms of violence, discrimination, stigmatization, exclusion and inequalities,</p>
+      </container>
+      <container name="Deeply concerned" eId="container_23">
+        <p xml:space="preserve">
+          <span class="italic">Deeply concerned</span> that the disproportionate impact of the COVID-19 pandemic on the social and economic situation of women and girls and their access to education and essential health services, the increased demand for paid and unpaid care work and the reported surge of sexual and gender-based violence, including domestic violence and violence in digital contexts, during confinement, are deepening already existing inequalities and risk reversing the progress in achieving gender equality and the empowerment of women and girls made in recent decades,</p>
+      </container>
+      <container name="Noting with appreciation" eId="container_24">
+        <p xml:space="preserve">
+          <span class="italic">Noting with appreciation</span> approaches adopted in many local, national, regional and global responses that are comprehensive, innovative, participatory, transparent, inclusive, coordinated, context-specific, whole-of-government, whole-of-society and people-centred, disability-inclusive, gender-sensitive, age-responsive, conflict-sensitive, prevention-oriented and fully respect human rights,</p>
+      </container>
+      <container name="Expressing deep concern" eId="container_25">
+        <p xml:space="preserve">
+          <span class="italic">Expressing deep concern</span> about the rise in discrimination, hate speech, stigmatization, racism and xenophobia related to the pandemic, and stressing the need to counter them as part of the COVID-19 response,</p>
+      </container>
+      <container name="Expressing concern" eId="container_26">
+        <p xml:space="preserve">
+          <span class="italic">Expressing concern</span> about the spread of disinformation and propaganda, including on the Internet, which can be designed and implemented so as to mislead, to violate human rights, including the right to privacy and to freedom of expression, and to incite violence, hatred, discrimination or hostility, and emphasizing the important contribution of journalists and media workers in countering this trend,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_27" class="H23">
+        <subheading>		Multilateralism and solidarity</subheading>
+      </paragraph>
+      <paragraph eId="para_28" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_28__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms its commitment</span> to international cooperation, multilateralism and solidarity at all levels and as the only way for the world to effectively respond to global crises such as the COVID-19 pandemic and their consequences, and acknowledges the key leadership role of the World Health Organization and the fundamental role of the United Nations system in catalysing and coordinating the comprehensive global response to the COVID-19 pandemic and the central efforts of Member States therein;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_29" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_29__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls for</span> intensified international cooperation and solidarity to contain, mitigate and overcome the pandemic and its consequences through responses that are people-centred, gender-responsive, with full respect for human rights, multidimensional, coordinated, inclusive, innovative, swift and decisive at all levels, including by supporting the exchange of information, scientific knowledge and best practices through, inter alia, the development of new interoperable data tools and the strengthening of platforms to inform mitigation and response actions and continuously monitor the impact of the pandemic, especially to assist people in vulnerable situations and the poorest and most vulnerable countries, to build a more equitable, inclusive, sustainable and resilient future and to get back on track to realize the 2030 Agenda for Sustainable Development;<sup>1</sup></p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_30" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_30__content">
+          <p xml:space="preserve">
+            <span class="italic">Supports</span> the Secretary-General’s appeal for an immediate global ceasefire, including to help to create corridors for life-saving aid, open windows for diplomacy of dialogue and bring hope to places and people among the most vulnerable to COVID-19, notes with concern the impact of the pandemic on conflict-affected States as well as those at risk of conflict, and that conditions of violence and instability in conflict situations can exacerbate the pandemic, and that inversely the pandemic can exacerbate the adverse humanitarian impact of conflict situations, and supports the continued work of United Nations peacekeeping operations in delivering their mandates and supporting national authorities in their response to the COVID-19 pandemic, within their mandates and capacities, in collaboration with the Resident Coordinator and other United Nations entities in the country, and in this regard takes note of Security Council resolution <a href="https://undocs.org/en/S/RES/2532(2020)">2532 (2020)</a> of 1 July 2020;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_31" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_31__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States, who have the primary responsibility to counter discrimination and hate speech, and all relevant actors, including political and religious leaders, to promote inclusion and unity in response to the COVID-19 pandemic and to prevent, speak out and take strong action against racism, xenophobia, hate speech, violence, discrimination, including on the basis of age, and stigmatization;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_32" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_32__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> States to ensure that all human rights are respected, protected and fulfilled while combating the pandemic and that their responses to the COVID‑19 pandemic are in full compliance with their human rights obligations and commitments;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_33" class="H23">
+        <subheading>		Jointly protecting</subheading>
+      </paragraph>
+      <paragraph eId="para_34" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_34__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to put in place a whole-of-government and whole-of-society response, outlining both immediate and long-term actions, with a view to sustainably strengthening their health system and social care and support systems, and preparedness and response capacities, engaging with communities and collaborating with relevant stakeholders, and also calls upon Member States to maintain the continued functioning of the health system and strengthening of primary health care in all relevant aspects necessary for an effective public health response to the COVID-19 pandemic and other ongoing epidemics, and the uninterrupted and safe provision of population- and individual-level services, for, inter alia, communicable diseases, including by ensuring the continuation of undisrupted vaccination programmes, neglected tropical disease prevention and control, non-communicable diseases, mental health and mother and child health, and to promote access to safe and affordable drinking water and adequate and equitable sanitation and hygiene for all and safe, sufficient and nutritious food and the enjoyment of a diversified, balanced and healthy diet, recognizing in this regard the importance of increased domestic financing and development assistance where needed in the context of achieving universal health coverage;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_35" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_35__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> States to take all measures necessary to ensure the right of women and girls to the enjoyment of the highest attainable standard of health, including sexual and reproductive health, and reproductive rights, in accordance with the Programme of Action of the International Conference on Population and Development,<sup>5</sup> the Beijing Platform for Action<sup>4</sup> and the outcome documents of their review conferences, and to develop sustainable health systems and social services, with a view to ensuring universal access to such systems and services without discrimination;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_36" class="SingleTxt">
+        <num>	8.</num>
+        <content eId="para_36__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to strengthen efforts to address communicable diseases, including HIV/AIDS, tuberculosis, malaria and hepatitis, as part of universal health coverage and to ensure that the fragile gains are sustained and expanded by advancing comprehensive approaches and integrated service delivery and ensuring that no one is left behind;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_37" class="SingleTxt">
+        <num>	9.</num>
+        <content eId="para_37__content">
+          <p xml:space="preserve">
+            <span class="italic">Also calls upon</span> Member States to further strengthen efforts to address non‑communicable diseases as part of universal health coverage, recognizing that people living with non-communicable diseases are at a higher risk of developing severe COVID-19 symptoms and are among the most impacted by the pandemic;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_38" class="SingleTxt">
+        <num>	10.</num>
+        <content eId="para_38__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to address mental health in their response to and recovery from the pandemic by ensuring widespread availability of emergency mental health and psychosocial support;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_39" class="SingleTxt">
+        <num>	11.</num>
+        <content eId="para_39__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> international organizations and other relevant stakeholders to support all countries, upon their request, in the implementation and review of their multisectoral national action plans and in strengthening their health systems to respond to the COVID-19 pandemic, and in maintaining the safe provision of all other essential public health functions and services;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_40" class="SingleTxt">
+        <num>	12.</num>
+        <content eId="para_40__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> Member States to enable all countries to have unhindered, timely access to quality, safe, efficacious and affordable diagnosis, therapeutics, medicines and vaccines, and essential health technologies, and their components, as well as equipment, for the COVID-19 response;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_41" class="SingleTxt">
+        <num>	13.</num>
+        <content eId="para_41__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> the role of extensive immunization against COVID-19 as a global public good for health in preventing, containing and stopping transmission in order to bring the pandemic to an end, once safe, quality, efficacious, effective, accessible and affordable vaccines are available;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_42" class="SingleTxt">
+        <num>	14.</num>
+        <content eId="para_42__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States, with support from the United Nations system, to coordinate efforts to develop a science- and evidence-based, cooperative and comprehensive approach to allocating scarce resources for combating the COVID-19 pandemic based on public health needs;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_43" class="SingleTxt">
+        <num>	15.</num>
+        <content eId="para_43__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to work in partnership with all relevant stakeholders to increase research and development funding for vaccines and medicines, leverage digital technologies, and strengthen scientific international cooperation necessary to combat COVID-19 and to bolster coordination, including with the private sector, towards rapid development, manufacturing and distribution of diagnostics, therapeutics, medicines, including antiviral medicines and medical science-based treatment protocols, and vaccines, and personal protective equipment, and explore ways to consider integrating, as appropriate, safe and evidence-based traditional and complementary medicine services, according to national context and priorities, adhering to the objectives of efficacy, safety, equity, accessibility, and affordability, while taking into account and supporting existing mechanisms, tools and initiatives, such as the Access to COVID-19 Tools Accelerator, and relevant pledging appeals;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_44" class="SingleTxt">
+        <num>	16.</num>
+        <content eId="para_44__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> the World Trade Organization Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS Agreement) as amended, and also reaffirms the 2001 World Trade Organization Doha Declaration on the TRIPS Agreement and Public Health, which recognizes that intellectual property rights should be interpreted and implemented in a manner supportive of the right of Member States to protect public health and, in particular, to promote access to medicines for all, and notes the need for appropriate incentives in the development of new health products;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_45" class="SingleTxt">
+        <num>	17.</num>
+        <content eId="para_45__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to increase the availability of high-quality, timely and reliable data disaggregated by income, sex, age, race, ethnicity, migratory status, disability, geographic location and other characteristics relevant in national contexts to inform COVID-19 responses, while respecting the right to privacy;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_46" class="SingleTxt">
+        <num>	18.</num>
+        <content eId="para_46__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States and other relevant stakeholders to keep food and agriculture supply chains functioning, ensure the continued trade in and movement of food and livestock, products and inputs essential for agricultural and food production to markets, minimize food loss and waste, support workers and farmers, including women farmers, in agriculture and food supply chains to continue their essential work, including cross-border, in a safe manner, mobilize and allocate adequate resources and enhance institutional capacities for an accelerated implementation of sustainable agriculture and food systems, provide continued access to adequate, safe, affordable and nutritious food, and provide adequate social safety nets and assistance to minimize the negative effects of loss of livelihoods and increasing food prices on food insecurity and malnutrition, and underlines that the pandemic is exacerbating existing high levels of acute food insecurity and humanitarian needs;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_47" class="SingleTxt">
+        <num>	19.</num>
+        <content eId="para_47__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> the need to ensure the safe, timely and unhindered access of humanitarian and medical personnel responding to the COVID-19 pandemic, as well as their means of transport, supplies and equipment, and to support, facilitate and enable transportation and logistical supply lines, in order to allow such personnel to efficiently and safely perform their task of assisting affected civilian populations, and in this regard also reaffirms the need to take the measures necessary to respect and protect such personnel, hospitals and other medical facilities, as well as their means of transportation, supplies and equipment; and recalls its resolution <a href="https://undocs.org/en/A/RES/46/182">46/182</a> of 19 December 1991 on the strengthening of the coordination of humanitarian emergency assistance of the United Nations and all subsequent General Assembly resolutions on the subject, including its resolution <a href="https://undocs.org/en/A/RES/74/118">74/118</a> of 16 December 2019;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_48" class="SingleTxt">
+        <num>	20.</num>
+        <content eId="para_48__content">
+          <p xml:space="preserve">
+            <span class="italic">Strongly urges</span> States to refrain from promulgating and applying any unilateral economic, financial or trade measures not in accordance with international law and the Charter of the United Nations that impede the full achievement of economic and social development, particularly in developing countries;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_49" class="SingleTxt">
+        <num>	21.</num>
+        <content eId="para_49__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to ensure protection for those most affected, women, children, youth, persons with disabilities, people living with HIV/AIDS, older persons, indigenous peoples, refugees and internally displaced persons and migrants, and the poor, vulnerable and marginalized segments of the population, and prevent all forms of discrimination, especially in the context of timely, universal, inclusive, equitable and non-discriminatory access to safe, quality, effective and affordable health care and services and medical supplies and equipment, including diagnostics, therapeutics, medicine and vaccines, and to leave no one behind, with an endeavour to reach the furthest behind first, founded on the dignity of the human person and reflecting the principles of equality and non-discrimination;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_50" class="SingleTxt">
+        <num>	22.</num>
+        <content eId="para_50__content">
+          <p xml:space="preserve">
+            <span class="italic">Also calls upon</span> Member States to prevent the harmful effects of the pandemic on children by mitigating the damaging socioeconomic impacts, including by ensuring the continuity of child-centred services on an equal access basis, upholding the right of the child to education and supporting education that is inclusive, equitable and of quality by implementing appropriate measures, including by supporting families in ensuring the return of children, in particular girls and children in vulnerable situations, to school, when it is safe to do so, in the immediate aftermath of the pandemic, and while in confinement, to support school systems, teachers and families in ensuring a reliable source of daily nutrition and using accessible and inclusive distance-learning solutions to close the digital divide, while protecting children from violence, abuse and exploitation in digital contexts, and recalling that no child shall be subjected to arbitrary or unlawful interference with his or her privacy and family;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_51" class="SingleTxt">
+        <num>	23.</num>
+        <content eId="para_51__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States and other stakeholders to prevent, monitor and address the disproportionate effects of the pandemic on older persons, including the particular risks that they face in accessing social protection and health services, and to ensure that health-care decisions affecting older persons respect their dignity and promote their human rights, including the right to the enjoyment of the highest attainable standard of physical and mental health;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_52" class="SingleTxt">
+        <num>	24.</num>
+        <content eId="para_52__content">
+          <p xml:space="preserve">
+            <span class="italic">Also calls upon</span> Member States and other stakeholders to include persons with disabilities in all stages of policymaking and decision-making related to COVID-19 response and recovery, as well to eliminate barriers and discrimination against persons with disabilities, in particular women and girls and those in vulnerable situations, in accessing support and health-care services on an equal basis with others, and to prevent, monitor and address the disproportionate effects of the pandemic on persons with disabilities, including the lack of accessible communications, support and services, as well as the unique challenges and barriers that they will face following the end of the pandemic;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_53" class="SingleTxt">
+        <num>	25.</num>
+        <content eId="para_53__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to take all the measures necessary to address the impacts of the COVID-19 pandemic on migrant workers, and to continue to support them and their families in response to the economic and social challenges that they face;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_54" class="SingleTxt">
+        <num>	26.</num>
+        <content eId="para_54__content">
+          <p xml:space="preserve">
+            <span class="italic">Also calls upon</span> Member States to integrate prevention, mitigation and response efforts and reinforce plans and structures to counter the increase of sexual and gender-based violence, including domestic violence and violence in digital contexts, and harmful practices such as child, early and forced marriage as part of their COVID-19 responses, including by maintaining and designating protection shelters, hotlines and help desks, health and support services as well as legal protection and support as essential services for all women and girls;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_55" class="SingleTxt">
+        <num>	27.</num>
+        <content eId="para_55__content">
+          <p xml:space="preserve">
+            <span class="italic">Further calls upon</span> Member States to adopt measures to recognize, reduce and redistribute women’s and girls’ disproportionate share of unpaid care and domestic work and the feminization of poverty, which is exacerbated by the COVID‑19 pandemic, including through poverty eradication measures, labour policies, public services and gender-responsive social protection programmes;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_56" class="SingleTxt">
+        <num>	28.</num>
+        <content eId="para_56__content">
+          <p xml:space="preserve">
+            <span class="italic">Acknowledges</span> the critical role that women are playing in COVID-19 response efforts, and urges Member States to ensure full, equal and meaningful participation in decision-making and equal access to leadership and representation in all spheres of society for women, having in mind the need for the implementation of Security Council resolution <a href="https://undocs.org/en/S/RES/1325(2000)">1325 (2000)</a> of 31 October 2000, as well as for older persons and youth, and for the poor, vulnerable and marginalized segments of the population, and to fully respect, protect and fulfil existing commitments and obligations with respect to the equal enjoyment of all human rights and fundamental freedoms, as part of their COVID-19 response;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_57" class="SingleTxt">
+        <num>	29.</num>
+        <content eId="para_57__content">
+          <p xml:space="preserve">
+            <span class="italic">Takes note</span> of the United Nations communications response initiative, and re-emphasizes the importance, in the context of public health, of ensuring public access to information and protecting fundamental freedoms, in accordance with the international human rights obligations of States and national legislation, recognizing therefore the important contribution of the promotion and protection of the safety of journalists in this regard, and recognizes the importance of the free flow of information and knowledge, while taking steps to counter the spread of misinformation and disinformation online and offline, including through the dissemination of accurate, clear and evidence- and science-based information, bearing in mind the right to freedom of opinion and expression and the freedom to seek, receive and impart information and ideas of all kinds;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_58" class="H23">
+        <subheading>		Recovering together</subheading>
+      </paragraph>
+      <paragraph eId="para_59" class="SingleTxt">
+        <num>	30.</num>
+        <content eId="para_59__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States and other relevant stakeholders to advance, with determination, bold and concerted actions to address the immediate social and economic impacts of the COVID-19 pandemic, while striving to get back on track to achieve the Sustainable Development Goals by designing recovery strategies out of the crisis to accelerate progress towards the full implementation of the 2030 Agenda for Sustainable Development, as well as helping to reduce the risk of future shocks;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_60" class="SingleTxt">
+        <num>	31.</num>
+        <content eId="para_60__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to design recovery strategies based on risk-informed, sustainable financing policies, supported by integrated national financing frameworks in accordance with the Addis Ababa Action Agenda of the Third International Conference on Financing for Development,<sup>2</sup> to enact the policies necessary to address the economic crisis and depression, begin economic recovery and minimize the negative effects on livelihoods, including targeted measures for poverty eradication, social protection for formal and informal sector workers, increased access to finance and capacity-building for micro-, small and medium-sized enterprises, financial inclusion mechanisms, strong fiscal stimulus packages and supportive monetary policies, and calls upon donors and other stakeholders to support countries that lack the capacity to implement such measures, in particular least developed countries, landlocked developing countries and small island developing States, as well as low- and middle-income countries;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_61" class="SingleTxt">
+        <num>	32.</num>
+        <content eId="para_61__content">
+          <p xml:space="preserve">
+            <span class="italic">Welcomes</span> the steps taken by the Group of 20 and the Paris Club to provide a time-bound suspension of debt service payments for the poorest countries and by international financial institutions to provide liquidity and other support measures to ease the debt burden of developing countries, and encourages all relevant actors, including private and commercial creditors, to address risks of debt vulnerabilities, through existing channels, in developing countries due to the pandemic;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_62" class="SingleTxt">
+        <num>	33.</num>
+        <content eId="para_62__content">
+          <p xml:space="preserve">
+            <span class="italic">Stresses</span> the important role that official development assistance plays in complementing the efforts of countries to mobilize public resources domestically, especially in the poorest and most vulnerable countries, and achieve the Sustainable Development Goals;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_63" class="SingleTxt">
+        <num>	34.</num>
+        <content eId="para_63__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> Member States, as appropriate, to consider the experience achieved by the international community in countering the COVID-19 pandemic through enhancing the effective implementation of relevant international conventions and multilateral instruments on transport and transit with the aim of promoting global sustainable transport;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_64" class="SingleTxt">
+        <num>	35.</num>
+        <content eId="para_64__content">
+          <p xml:space="preserve">
+            <span class="italic">Emphasizes</span> that the COVID-19 pandemic has disrupted the normal functioning of open markets, global supply chain connectivity and the flow of essential goods, and that these disruptions hinder the fight against poverty, hunger and inequality, ultimately undermining efforts to achieve the 2030 Agenda for Sustainable Development, reaffirms that emergency measures must be targeted, proportionate, transparent and temporary, that they must not create unnecessary barriers to trade or disruption to global supply chains, and that they must be consistent with World Trade Organization rules, and calls upon Member States to reaffirm the critical importance of connected global supply chains in ensuring the unimpeded flow of vital medical and food supplies and other essential goods and services across borders, by air, by land and by sea;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_65" class="SingleTxt">
+        <num>	36.</num>
+        <content eId="para_65__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> donors to leverage the global Aid for Trade agenda to enable developing countries, in particular least developed countries, to benefit from the opportunities afforded by global value chains and foreign investment in their sustainable recovery efforts;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_66" class="SingleTxt">
+        <num>	37.</num>
+        <content eId="para_66__content">
+          <p xml:space="preserve">
+            <span class="italic">Emphasizes</span> the need to strengthen development cooperation and to increase access to concessional finance, especially in the context of the global pandemic, and calls upon donors that have not done so to intensify their efforts to fulfil their respective official development assistance commitments, particularly to least developed countries;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_67" class="SingleTxt">
+        <num>	38.</num>
+        <content eId="para_67__content">
+          <p xml:space="preserve">
+            <span class="italic">Also emphasizes</span> that illicit financial flows, in particular those caused by tax evasion, corruption and transnational organized crime, reduce the availability of vital resources for responding to and recovering from the COVID-19 pandemic and financing the implementation of the 2030 Agenda for Sustainable Development, and calls upon Member States to recommit to addressing the challenges of preventing and combating illicit financial flows and strengthening international cooperation and good practices on assets return and recovery, including by more effective measures to implement existing obligations under the United Nations Convention against Corruption<authorialNote marker="28" placement="bottom" eId="authorialNote_28"><p xml:space="preserve">		United Nations, <span class="italic">Treaty Series</span>, vol. 2349, No. 42146.</p></authorialNote> and the United Nations Convention against Transnational Organized Crime and the Protocols thereto,<authorialNote marker="29" placement="bottom" eId="authorialNote_29"><p xml:space="preserve">		Ibid., vols. 2225, 2237, 2241 and 2326, No. 39574.</p></authorialNote> and to implement effective, inclusive and sustainable measures to prevent and combat corruption within the framework of the 2030 Agenda;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_68" class="SingleTxt">
+        <num>	39.</num>
+        <content eId="para_68__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States and international financial institutions to provide more liquidity in the financial system, especially in all developing countries, and supports the continued examination of the broader use of special drawing rights to enhance the resilience of the international monetary system;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_69" class="SingleTxt">
+        <num>	40.</num>
+        <content eId="para_69__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States and all relevant stakeholders to promote research and capacity-building initiatives, as well as to enhance cooperation on and access to science, innovation, technologies, technical assistance and knowledge-sharing, including through improved coordination among existing mechanisms, especially with developing countries, in a collaborative, coordinated and transparent manner and on mutually agreed terms in response to the COVID-19 pandemic and towards advancing the Sustainable Development Goals;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_70" class="H23">
+        <subheading>		Building back better</subheading>
+      </paragraph>
+      <paragraph eId="para_71" class="SingleTxt">
+        <num>	41.</num>
+        <content eId="para_71__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms its full commitment</span> to the 2030 Agenda for Sustainable Development as the blueprint for building back better after the pandemic, and calls upon Member States to ensure that efforts to implement the 2030 Agenda for all, by reaching all its Goals and targets, are strengthened and accelerated in this decade of action for building more sustainable, peaceful, just, equitable, inclusive and resilient societies where no one is left behind and to make sustainable long-term investments to eradicate poverty in all its forms, as well as address inequalities and human rights abuses or violations, which have greatly exacerbated vulnerabilities and increased the negative effects of the pandemic and address climate change and the environmental crisis in order to build a better future for all;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_72" class="SingleTxt">
+        <num>	42.</num>
+        <content eId="para_72__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> that the COVID-19 pandemic has tested the capacity of institutions, reaffirms its commitment to promote good governance at all levels and to develop effective, accountable and transparent institutions and more responsive, inclusive, participatory and representative decision-making processes, and calls upon Member States, with support from the United Nations system, to ensure a risk-informed response to the COVID-19 pandemic and its consequences, including by redoubling efforts to resolve or prevent conflict and to support post-conflict countries;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_73" class="SingleTxt">
+        <num>	43.</num>
+        <content eId="para_73__content">
+          <p xml:space="preserve">
+            <span class="italic">Emphasizes</span> that the crisis provides an opportunity to consider the international debt architecture and the international financial system, with a view to its strengthening;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_74" class="SingleTxt">
+        <num>	44.</num>
+        <content eId="para_74__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> Member States to build, strengthen and promote health systems, including primary health care, that are strong, resilient, functional, well governed, responsive, accountable, integrated, community-based, people-centred and capable of quality service delivery, supported by a competent health workforce, adequate health infrastructure and essential public health functions and capacities, enabling legislative and regulatory frameworks, as well as sufficient and sustainable funding, calls upon donors and other relevant stakeholders to support countries that lack the capacity to implement such measures, recognizes the value of an integrated One Health approach that fosters cooperation between the human health, animal health and plant health, as well as environmental and other relevant sectors, and underlines the urgent need for continued close work between the long-standing Tripartite, together with other relevant parts of the United Nations system and relevant stakeholders in this regard;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_75" class="SingleTxt">
+        <num>	45.</num>
+        <content eId="para_75__content">
+          <p xml:space="preserve">
+            <span class="italic">Also calls upon</span> Member States to develop recovery plans that promote sustainable development and drive transformative change towards more inclusive and just societies, including by empowering and engaging all women and girls, especially those in vulnerable situations;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_76" class="SingleTxt">
+        <num>	46.</num>
+        <content eId="para_76__content">
+          <p xml:space="preserve">
+            <span class="italic">Stresses</span> that the COVID-19 pandemic has highlighted the need to reduce the risk of the economic, social and environmental impacts of disasters, many of which are exacerbated by climate change, desertification and biodiversity loss, and emphasizes the need to support and invest in adaptation and action at all levels to enhance efforts to build resilience through, inter alia, disaster risk reduction, community empowerment and participation and the sustainable management of ecosystems and the protection and sustainable use of biodiversity, including wildlife, to reduce the likelihood of zoonotic infections and the impacts and costs of disasters;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_77" class="SingleTxt">
+        <num>	47.</num>
+        <content eId="para_77__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> Member States to adopt a climate- and environment-responsive approach to COVID-19 recovery efforts, including by aligning investments and domestic policies with the 2030 Agenda for Sustainable Development and the Paris Agreement<sup>7</sup> and the ultimate objective of the United Nations Framework Convention on Climate Change,<authorialNote marker="30" placement="bottom" eId="authorialNote_30"><p xml:space="preserve">		United Nations, <span class="italic">Treaty Series</span>, vol. 1771, No. 30822.</p></authorialNote> reversing biodiversity loss, and strengthening approaches that reduce emissions and enhance both resilience and efficiency, such as increasing the global share of renewable energy, promoting pathways towards climate-resilient development, developing more ambitious national plans and, for parties to the Paris Agreement, communicating or updating their nationally determined contributions in 2020, immediately curbing greenhouse gas emissions and achieving sustainable consumption and production patterns, taking climate change and biodiversity into account in fiscal planning, budgeting, public investment management and procurement practices, and emphasizes in this regard that mitigation of and adaptation to climate change represent an immediate and urgent global priority, and stresses the importance of mobilizing means of implementation from all sources, including adequate financial support, inter alia, for mitigation and adaptation, taking into account the specific needs and special circumstances of developing countries, especially those that are particularly vulnerable to the adverse effects of climate change;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_78" class="SingleTxt">
+        <num>	48.</num>
+        <content eId="para_78__content">
+          <p xml:space="preserve">
+            <span class="italic">Recognizes</span> that substantial digital divides and data inequalities exist within and among countries and regions, and between developed and all developing countries, and that many developing countries lack affordable access to information and communications technologies, and urges Member States and other relevant stakeholders to accelerate the catalytic role that digital technologies play in reducing the impact of the COVID-19 pandemic on education, health, communication, commerce and business continuity and to take concerted action to further digital governance and economy, scientific research, emerging technologies and new data sources and to build resilient, inclusive and integrated data and statistical systems, under the leadership of national statistical offices, that can respond to the increased and urgent data demands in times of disaster and ensure a path towards the achievement of the Sustainable Development Goals;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_79" class="H23">
+        <subheading>		Partnerships, commitments and the way forward</subheading>
+      </paragraph>
+      <paragraph eId="para_80" class="SingleTxt">
+        <num>	49.</num>
+        <content eId="para_80__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> the continued implementation of current reforms of the United Nations development system, and affirms that a reinvigorated resident coordinator system allows for better, more integrated and coherent support to countries and that a strategic, flexible, country-owned, results- and action-oriented United Nations Sustainable Development Cooperation Framework, as well as its transparency and accountability, will help to support countries’ response to and recovery from the COVID-19 pandemic while safeguarding and accelerating progress toward achieving the Sustainable Development Goals;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_81" class="SingleTxt">
+        <num>	50.</num>
+        <content eId="para_81__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> the United Nations development system and the United Nations country teams, in close cooperation with international financial institutions and other relevant international stakeholders, to support countries’ responses to the pandemic and its consequences based on countries’ programme needs and priorities, including by building on the United Nations Framework for the Immediate Socioeconomic Response to COVID-19, and helping to develop preparedness capacities to prevent, detect and respond to ongoing and future public health threats, including the regional challenges of a cross-border nature;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_82" class="SingleTxt">
+        <num>	51.</num>
+        <content eId="para_82__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> the strengthening of international cooperation at all levels, including North-South, South-South and triangular cooperation, bearing in mind that South-South cooperation is not a substitute for, but rather a complement to, North-South cooperation, as well as public-private partnerships to contain, mitigate and defeat the pandemic and its consequences, including by exchanging information, scientific knowledge and best practices and intensifying the contributions of such partnerships to the full, effective and accelerated implementation of the 2030 Agenda for Sustainable Development;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_83" class="SingleTxt">
+        <num>	52.</num>
+        <content eId="para_83__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States to engage all relevant stakeholders, including civil society, the private sector and academia, as appropriate, through the establishment of participatory and transparent multi-stakeholder platforms and partnerships, to provide input to the development, implementation and evaluation of health- and social-related policies and reviewing progress for the achievement of national objectives for universal health coverage;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_84" class="SingleTxt">
+        <num>	53.</num>
+        <content eId="para_84__content">
+          <p xml:space="preserve">
+            <span class="italic">Encourages</span> Member States and other stakeholders, including the private sector and international financial institutions, to mobilize a large-scale, coordinated and comprehensive global response to the COVID-19 pandemic and its consequences, taking note of the report of the Secretary-General entitled “Shared responsibility, global solidarity: responding to the socioeconomic impacts of COVID-19”, in which the need for a multilateral response amounting to at least 10 per cent of global gross domestic product is highlighted;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_85" class="SingleTxt">
+        <num>	54.</num>
+        <content eId="para_85__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> Member States and other stakeholders to mobilize resources to support United Nations appeals to respond to the COVID-19 pandemic and its consequences, while underlining the importance of rapid and flexible funding and for these efforts not to replace or divert resources away from other emergencies or ongoing work to safeguard progress in achieving the Sustainable Development Goals, and supports the Central Emergency Relief Fund and country-based pooled funds, which have already played a key role in the humanitarian response, and will continue to do so;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_86" class="SingleTxt">
+        <num>	55.</num>
+        <content eId="para_86__content">
+          <p xml:space="preserve">
+            <span class="italic">Urges</span> Member States and all relevant actors to align investments with the 2030 Agenda for Sustainable Development, including investments supporting progress towards compliance with the International Health Regulations (2005),<authorialNote marker="31" placement="bottom" eId="authorialNote_31"><p xml:space="preserve">		World Health Organization, document WHA58/2005/REC/1, resolution 58.3, annex.</p></authorialNote> universal health coverage and reduction of inequalities, to help to ensure a sustainable and inclusive recovery from the COVID-19 pandemic, as well as pandemic preparedness and the prevention and detection of and response to any future global health threats, including outbreaks and antimicrobial resistance;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_87" class="SingleTxt">
+        <num>	56.</num>
+        <content eId="para_87__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to continue to work with all relevant stakeholders and mobilize the United Nations network of partnerships to support Member States, upon their request, and other actors in national, regional and international responses to the COVID-19 pandemic;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_88" class="SingleTxt">
+        <num>	57.</num>
+        <content eId="para_88__content">
+          <p xml:space="preserve">
+            <span class="italic">Also requests</span> the Secretary-General to provide regular updates to the General Assembly on the impact of the COVID-19 pandemic and its consequences and to report thereon to the Assembly at its seventy-fifth session;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_89" class="SingleTxt">
+        <num>	58.</num>
+        <content eId="para_89__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> to follow up on the implementation of the present resolution under the item entitled “Global health and foreign policy” of the agenda of the seventy-fifth session of the General Assembly.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="64th">64th plenary meeting</inline>
+        <eol />
+        <docDate date="2020-09-11" refersTo="#adoptionDate">11 September 2020</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

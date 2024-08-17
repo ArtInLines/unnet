@@ -1,0 +1,255 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-04-02/74-270/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-04-02/74-270/"></FRBRuri>
+          <FRBRdate date="2020-04-02" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-04-02/74-270/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-04-02/74-270/eng@/"></FRBRuri>
+          <FRBRdate date="2020-04-03" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2020-04-02/74-270/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2020-04-02/74-270/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-10-04" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="2" href="http://metadata.un.org/sdg/2" showAs="sdg_2" dictionary="SDGO"></keyword>
+        <keyword value="food_shortage" href="http://eurovoc.europa.eu/2318" showAs="food_shortage" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_agriculture" href="http://eurovoc.europa.eu/6308" showAs="sustainable_agriculture" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://eurovoc.europa.eu/c_4523e1dd" showAs="food_security" dictionary="EuroVoc"></keyword>
+        <keyword value="food_security" href="http://metadata.un.org/thesaurus/1002439" showAs="food_security" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="food_shortage" href="http://metadata.un.org/thesaurus/1002440" showAs="food_shortage" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="hunger" href="http://metadata.un.org/thesaurus/1003004" showAs="hunger" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_agriculture" href="http://metadata.un.org/thesaurus/1006317" showAs="sustainable_agriculture" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2020-03-27" outcome="draftResolution" as="A/74/L.52" by="Afghanistan, Algeria, Andorra, Angola, Antigua and Barbuda, Armenia, Azerbaijan, Bahrain, Bangladesh, Belgium, Benin, Bhutan, Bolivia (Plurinational State of), Bosnia and Herzegovina, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Canada, Chad, Chile, Colombia, Comoros, Costa Rica, Côte d'Ivoire, Croatia, Cyprus, Czechia, Democratic Republic of the Congo, Denmark, Djibouti, Ecuador, Egypt, El Salvador, Estonia, Eswatini, Ethiopia, Fiji, Finland, France, Gambia, Georgia, Germany, Ghana, Greece, Grenada, Guinea, Guyana, Honduras, Hungary, Iceland, Indonesia, Iraq, Ireland, Jamaica, Japan, Jordan, Kazakhstan, Kenya, Kuwait, Kyrgyzstan, Lao People's Democratic Republic, Latvia, Lebanon, Lesotho, Libya, Liechtenstein, Lithuania, Luxembourg, Madagascar, Maldives, Mali, Malta, Marshall Islands, Mauritius, Mexico, Micronesia (Federated States of), Monaco, Montenegro, Morocco, Myanmar, Namibia, Nauru, Nepal, Netherlands, New Zealand, Niger, Nigeria, North Macedonia, Norway, Pakistan, Palau, Panama, Papua New Guinea, Paraguay, Peru, Poland, Qatar, Republic of Moldova, Romania, Rwanda, Saint Lucia, Saint Vincent and the Grenadines, Samoa, San Marino, Senegal, Sierra Leone, Singapore, Slovakia, Slovenia, Solomon Islands, Somalia, South Africa, Sudan, Suriname, Sweden, Switzerland, Tajikistan, Thailand, Timor-Leste, Togo, Trinidad and Tobago, Turkey, Turkmenistan, Tuvalu, Uganda, Ukraine, United Arab Emirates, United Republic of Tanzania, Uruguay, Uzbekistan, Vanuatu, Venezuela (Bolivarian Republic of), Viet Nam, Yemen and Zimbabwe" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="Albania, Argentina, Australia, Austria, Bahamas, Barbados, Belarus, Belize, Botswana, Brazil, Brunei Darussalam, Cambodia, Cameroon, Central African Republic, China, Congo, Cuba, Dominica, Dominican Republic, Equatorial Guinea, Eritrea, Gabon, Guatemala, Guinea-Bissau, Haiti, India, Iran (Islamic Republic of), Israel, Italy, Kiribati, Liberia, Malawi, Malaysia, Mauritania, Mongolia, Mozambique, Oman, Philippines, Portugal, Republic of Korea, Saint Kitts and Nevis, Sao Tome and Principe, Saudi Arabia, Serbia, Seychelles, South Sudan, Spain, Sri Lanka, Tonga, Tunisia, United Kingdom and Zambia" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" by="" />
+        <step date="2020-04-02" outcome="adopted" as="Adopted through silence procedure" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="noMainCommittee" href="#noMainCommittee" showAs="Without reference to a main committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">20-05146 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/270</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-04-03" class="rightSmall" refersTo="#dateOfIssuance">3 April 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 123</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Strengthening of the United Nations system</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 2 April 2020</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#noMainCommittee">[without reference to a Main Committee (<inline name="originating document">A/74/L.52 and A/74/L.52/Add.1</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/270.</docNumber>
+        <docTitle refersTo="#resolutionTitle">Global solidarity to fight the coronavirus disease 2019 (COVID‑19)</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Noting with great concern" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Noting with great concern</span> the threat to human health, safety and well-being caused by the coronavirus disease 2019 (COVID-19) pandemic, which continues to spread globally,</p>
+      </container>
+      <container name="Recognizing" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the unprecedented effects of the pandemic, including the severe disruption to societies and economies, as well as to global travel and commerce, and the devastating impact on the livelihood of people,</p>
+      </container>
+      <container name="Recognizing also" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing also</span> that the poorest and most vulnerable are the hardest hit by the pandemic and that the impact of the crisis will reverse hard-won development gains and hamper progress towards achieving the Sustainable Development Goals,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve">		See resolution <a href="https://undocs.org/en/A/RES/70/1">70/1</a>.</p></authorialNote></p>
+      </container>
+      <container name="Recognizing further" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing further</span> the central role of the United Nations system in catalysing and coordinating the global response to control and contain the spread of COVID-19, and acknowledging in this regard the crucial role played by the World Health Organization,</p>
+      </container>
+      <container name="Welcoming" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Welcoming</span> the call by the Secretary-General to tackle the health emergency and focus on the social impact and economic response measures and his emphasis on the need for a sustainable and inclusive recovery,</p>
+      </container>
+      <container name="Recognizing" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> the efforts made by Governments as well as health-care workers and other essential workers around the world to deal with the pandemic through measures to protect the health, safety and well-being of their people,</p>
+      </container>
+      <container name="Acknowledging" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging</span> the need for all relevant stakeholders to work together at the national, regional and global levels to ensure that no one is left behind,</p>
+      </container>
+      <container name="Recognizing" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that the COVID-19 pandemic requires a global response based on unity, solidarity and renewed multilateral cooperation,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_10" class="SingleTxt">
+        <num>	1.</num>
+        <content eId="para_10__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms</span> its commitment to international cooperation and multilateralism and its strong support for the central role of the United Nations system in the global response to the coronavirus disease 2019 (COVID-19) pandemic;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_11" class="SingleTxt">
+        <num>	2.</num>
+        <content eId="para_11__content">
+          <p xml:space="preserve">
+            <span class="italic">Emphasizes</span> the need for full respect for human rights, and stresses that there is no place for any form of discrimination, racism and xenophobia in the response to the pandemic;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_12" class="SingleTxt">
+        <num>	3.</num>
+        <content eId="para_12__content">
+          <p xml:space="preserve">
+            <span class="italic">Expresses its profound condolences to and solidarity</span> with the families and societies whose people have lost their lives to the disease, those who are battling for their survival and those whose lives and livelihoods have been affected by the crisis;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_13" class="SingleTxt">
+        <num>	4.</num>
+        <content eId="para_13__content">
+          <p xml:space="preserve">
+            <span class="italic">Expresses its gratitude and support</span> to all frontline health-care workers, medical professionals, scientists and researchers, as well as other essential workers around the world who are working under difficult and challenging circumstances to deal with the pandemic;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_14" class="SingleTxt">
+        <num>	5.</num>
+        <content eId="para_14__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls for</span> intensified international cooperation to contain, mitigate and defeat the pandemic, including by exchanging information, scientific knowledge and best practices and by applying the relevant guidelines recommended by the World Health Organization;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_15" class="SingleTxt">
+        <num>	6.</num>
+        <content eId="para_15__content">
+          <p xml:space="preserve">
+            <span class="italic">Renews its commitment</span> to help people and societies in special situations, especially the weakest and most vulnerable, and recognizes that many Governments have offered their assistance and support to others in a spirit of solidarity and mutual support;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_16" class="SingleTxt">
+        <num>	7.</num>
+        <content eId="para_16__content">
+          <p xml:space="preserve">
+            <span class="italic">Reaffirms its full commitment</span> to the decade of action and delivery for sustainable development, and in this regard underlines the need for the United Nations system to work as one to support all Governments;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_17" class="SingleTxt">
+        <num>	8.</num>
+        <content eId="para_17__content">
+          <p xml:space="preserve">
+            <span class="italic">Expresses optimism</span> that the unprecedented crisis caused by the COVID-19 pandemic can be mitigated and successfully reversed through leadership and sustained global cooperation and solidarity;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_18" class="MercuryDocument">
+        <num>	9.</num>
+        <content eId="para_18__content">
+          <p xml:space="preserve">
+            <span class="italic">Calls upon</span> the United Nations system, under the leadership of the Secretary-General, to work with all relevant actors in order to mobilize a coordinated global response to the pandemic and its adverse social, economic and financial impact on all societies.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <docDate date="2020-04-02" refersTo="#adoptionDate">2 April 2020</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>

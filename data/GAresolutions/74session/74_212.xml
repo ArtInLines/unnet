@@ -1,0 +1,240 @@
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd" xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:akn4un="http://un.org/akn4un">
+  <statement name="resolution">
+    <meta>
+      <identification source="#DGACM">
+        <FRBRWork>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-19/74-212/!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-19/74-212/"></FRBRuri>
+          <FRBRdate date="2019-12-19" name="adoption"></FRBRdate>
+          <FRBRauthor href="ga" as="author"></FRBRauthor>
+          <FRBRcountry value="un"></FRBRcountry>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-19/74-212/eng@!main/"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-19/74-212/eng@/"></FRBRuri>
+          <FRBRdate date="2020-01-22" name="publication"></FRBRdate>
+          <FRBRauthor href="ga" as="issuer"></FRBRauthor>
+          <FRBRlanguage language="eng"></FRBRlanguage>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/un/statement/deliberation/unga/2019-12-19/74-212/eng@/!main.xml"></FRBRthis>
+          <FRBRuri value="/akn/un/statement/deliberation/unga/2019-12-19/74-212/eng@.xml"></FRBRuri>
+          <FRBRdate date="2020-07-30" name="markup"></FRBRdate>
+          <FRBRauthor href="DGACM" as="editor"></FRBRauthor>
+        </FRBRManifestation>
+      </identification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="3" href="http://metadata.un.org/sdg/3" showAs="sdg_3" dictionary="SDGO"></keyword>
+        <keyword value="public_health" href="http://eurovoc.europa.eu/3885" showAs="public_health" dictionary="EuroVoc"></keyword>
+        <keyword value="health" href="http://metadata.un.org/thesaurus/1002824" showAs="health" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="17" href="http://metadata.un.org/sdg/17" showAs="sdg_17" dictionary="SDGO"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="partnership" href="http://eurovoc.europa.eu/4199" showAs="partnership" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="partnership" href="http://metadata.un.org/thesaurus/1004748" showAs="partnership" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="16" href="http://metadata.un.org/sdg/16" showAs="sdg_16" dictionary="SDGO"></keyword>
+        <keyword value="right_to_justice" href="http://eurovoc.europa.eu/516" showAs="right_to_justice" dictionary="EuroVoc"></keyword>
+        <keyword value="sustainable_development" href="http://eurovoc.europa.eu/5585" showAs="sustainable_development" dictionary="EuroVoc"></keyword>
+        <keyword value="civil_society" href="http://metadata.un.org/thesaurus/1001012" showAs="civil_society" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="justice" href="http://metadata.un.org/thesaurus/1003500" showAs="justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="peaceful_coexistence" href="http://metadata.un.org/thesaurus/1004777" showAs="peaceful_coexistence" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="public_institutions" href="http://metadata.un.org/thesaurus/1005254" showAs="public_institutions" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="social_justice" href="http://metadata.un.org/thesaurus/1005970" showAs="social_justice" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="sustainable_development" href="http://metadata.un.org/thesaurus/1006319" showAs="sustainable_development" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="11" href="http://metadata.un.org/sdg/11" showAs="sdg_11" dictionary="SDGO"></keyword>
+        <keyword value="urban_area" href="http://eurovoc.europa.eu/4809" showAs="urban_area" dictionary="EuroVoc"></keyword>
+        <keyword value="cities" href="http://metadata.un.org/thesaurus/1000995" showAs="cities" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="human_settlements" href="http://metadata.un.org/thesaurus/1002986" showAs="human_settlements" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <classification source="http://metadata.un.org/sdg">
+        <keyword value="9" href="http://metadata.un.org/sdg/9" showAs="sdg_9" dictionary="SDGO"></keyword>
+        <keyword value="industrial_infrastructure" href="http://eurovoc.europa.eu/1434" showAs="industrial_infrastructure" dictionary="EuroVoc"></keyword>
+        <keyword value="innovation" href="http://eurovoc.europa.eu/1439" showAs="innovation" dictionary="EuroVoc"></keyword>
+        <keyword value="industrialization" href="http://metadata.un.org/thesaurus/1003177" showAs="industrialization" dictionary="UNBIS Thesaurus"></keyword>
+        <keyword value="innovations" href="http://metadata.un.org/thesaurus/1003223" showAs="innovations" dictionary="UNBIS Thesaurus"></keyword>
+      </classification>
+      <workflow source="#un">
+        <step date="2019-11-20" outcome="draftResolution" as="A/C.2/74/L.34/Rev.1" by="Bhutan, Mauritius, Mongolia, Republic of Korea and Turkmenistan" />
+        <step date="0001-01-01" outcome="draftResolutionAdditionalSponsors" by="Burkina Faso, Costa Rica, Dominican Republic, Ecuador, El Salvador, Georgia, Guatemala, Israel, Namibia, Paraguay, Republic of Moldova, Sao Tome and Principe, Sierra Leone, Sri Lanka, Thailand, United States, Uzbekistan" />
+        <step date="0001-01-01" outcome="recommendedForAdoption" as="A/74/381" by="" refersTo="57" />
+        <step date="2019-12-19" outcome="adopted" as="A/74/PV.52" by="" />
+      </workflow>
+      <analysis source="#un">
+        <parliamentary>
+          <voting outcome="adoptedWithoutVote">
+            <quorum value=""></quorum>
+          </voting>
+        </parliamentary>
+      </analysis>
+      <references source="#DGACM">
+        <TLCOrganization eId="source" href="/akn/ontology/organization/un/DGACM" showAs="DGACM"></TLCOrganization>
+        <TLCConcept eId="dateOfIssuance" href="/akn/ontology/concept/un/dateOfIssuance" showAs="Date of issuance"></TLCConcept>
+        <TLCConcept eId="dateOfAdoption" href="/akn/ontology/concept/un/dateOfAdoption" showAs="Date of adoption"></TLCConcept>
+        <TLCConcept eId="symbol" href="/akn/ontology/reference/un/symbol" showAs="Symbol"></TLCConcept>
+        <TLCRole eId="publisher" href="/akn/ontology/role/un/publisher" showAs="Publisher"></TLCRole>
+        <TLCRole eId="issuingBody" href="/akn/role/concept/un/issuingBody" showAs="Issuing body"></TLCRole>
+        <TLCRole eId="author" href="/akn/ontology/role/un/author" showAs="Author"></TLCRole>
+        <TLCRole eId="editor" href="/akn/ontology/role/un/editor" showAs="Editor"></TLCRole>
+        <TLCRole eId="distribution" href="/akn/ontology/concept/un/generalDistribution" showAs="General distribution"></TLCRole>
+        <TLCOrganization eId="ga" href="/akn/ontology/organization/un/generalAssembly" showAs="General Assembly"></TLCOrganization>
+        <TLCTerm eId="resolutionTitle" href="/akn/ontology/reference/un/resolutionTitle" showAs="Resolution title"></TLCTerm>
+        <TLCTerm eId="secondCommittee" href="#secondCommittee" showAs="Second Committee"></TLCTerm>
+        <TLCTerm eId="memberState" href="/akn/ontology/organization/un/memberState" showAs="Member State"></TLCTerm>
+        <TLCTerm eId="inFavour" href="/akn/ontology/concept/un/voting/inFavour" showAs="In favour"></TLCTerm>
+        <TLCTerm eId="against" href="/akn/ontology/concept/un/voting/against" showAs="Against"></TLCTerm>
+        <TLCTerm eId="abstaining" href="/akn/ontology/concept/un/voting/abstaining" showAs="Abstaining"></TLCTerm>
+      </references>
+      <presentation source="#un">
+        <akn4un:footerFirstPage>
+          <akn4un:footerFirstPageLeft>
+            <akn4un:internalCode>
+              <docketNumber refersTo="#publicationJobNumber">19-22425 (E)</docketNumber>
+              <img alt="bar code" class="barCode" src=""></img>
+            </akn4un:internalCode>
+          </akn4un:footerFirstPageLeft>
+          <akn4un:footerFirstPageRight>
+            <img alt="Please recycle" class="image" src="./recylcleLogo.jpg"></img>
+            <img alt="embedded QR code" class="qrCode" src=""></img>
+          </akn4un:footerFirstPageRight>
+        </akn4un:footerFirstPage>
+      </presentation>
+    </meta>
+    <coverPage eId="coverPage_1">
+      <p>
+        <span refersTo="#publisher" class="upperLeft">
+          <docAuthority refersTo="#publisher">United Nations</docAuthority>
+        </span>
+      </p>
+      <p class="upperRight">
+        <docNumber refersTo="#symbol">A/RES/74/212</docNumber>
+      </p>
+      <p class="upperLeft">
+        <img src="logo-un.jpg"></img>
+        <docAuthority refersTo="#issuingBody" class="rightBig">General Assembly</docAuthority>
+      </p>
+      <p>
+        <docStatus refersTo="#generalDistribution" class="rightSmall">Distr.: General</docStatus>
+      </p>
+      <p>
+        <docDate date="2020-01-22" class="rightSmall" refersTo="#dateOfIssuance">22 January 2020</docDate>
+      </p>
+      <p>
+        <session refersTo="#generalAssembly" value="74" eId="coverPage_1__session_1">Seventy-fourth session</session>
+      </p>
+      <p>
+        <inline name="agenda item">Agenda item 19</inline>
+      </p>
+      <p>
+        <inline name="agenda item name">Sustainable development</inline>
+      </p>
+      <p>
+        <docTitle>Resolution adopted by the General Assembly on 19 December 2019</docTitle>
+      </p>
+      <p xml:space="preserve">
+        <docProponent refersTo="#secondCommittee">[on the report of the Second Committee (<inline name="originating document">A/74/381</inline>)]</docProponent>
+      </p>
+    </coverPage>
+    <preface>
+      <p>
+        <docNumber>74/212.</docNumber>
+        <docTitle refersTo="#resolutionTitle">International Day of Clean Air for blue skies</docTitle>
+      </p>
+    </preface>
+    <preamble>
+      <formula name="enactingFormula" eId="formula_1">
+        <p xml:space="preserve">
+          <span class="italic">The General Assembly</span>,</p>
+      </formula>
+      <container name="Reaffirming" eId="container_2">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming</span> its resolution <a href="https://undocs.org/A/RES/70/1">70/1</a> of 25 September 2015, entitled “Transforming our world: the 2030 Agenda for Sustainable Development”, in which it adopted a comprehensive, far-reaching and people-centred set of universal and transformative Sustainable Development Goals and targets, its commitment to working tirelessly for the full implementation of the Agenda by 2030, its recognition that eradicating poverty in all its forms and dimensions, including extreme poverty, is the greatest global challenge and an indispensable requirement for sustainable development, its commitment to achieving sustainable development in its three dimensions – economic, social and environmental – in a balanced and integrated manner, and to building upon the achievements of the Millennium Development Goals and seeking to address their unfinished business,</p>
+      </container>
+      <container name="Reaffirming also" eId="container_3">
+        <p xml:space="preserve">
+          <span class="italic">Reaffirming also</span> its resolutions <a href="https://undocs.org/A/RES/53/199">53/199</a> of 15 December 1998 and <a href="https://undocs.org/A/RES/61/185">61/185</a> of 20 December 2006 on the proclamation of international years, and Economic and Social Council resolution <a href="https://undocs.org/E/RES/1980/67">1980/67</a> of 25 July 1980 on international years and anniversaries, particularly paragraphs 1 to 10 of the annex thereto on the agreed criteria for the proclamation of international years, as well as paragraphs 13 and 14, in which it is stated that an international day or year should not be proclaimed before the basic arrangements for its organization and financing have been made,</p>
+      </container>
+      <container name="Recalling" eId="container_4">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> the need to substantially reduce the number of deaths and illnesses from hazardous chemicals and air, water and soil pollution and contamination by 2030, as well as to reduce the adverse per capita environmental impact of cities, including by paying special attention to air quality and municipal and other waste management by 2030,</p>
+      </container>
+      <container name="Recognizing" eId="container_5">
+        <p xml:space="preserve">
+          <span class="italic">Recognizing</span> that clean air is important for the health and day-to-day lives of people, mindful that air pollution is the single greatest environmental risk to human health and one of the main avoidable causes of death and disease globally, recognizing also that air pollution disproportionately affects women, children and older persons, and concerned also by the negative impact of air pollution on ecosystems,</p>
+      </container>
+      <container name="Recalling" eId="container_6">
+        <p xml:space="preserve">
+          <span class="italic">Recalling</span> United Nations Environment Assembly resolution 3/8 of 6 December 2017,<authorialNote marker="1" placement="bottom" eId="authorialNote_1"><p xml:space="preserve"><a href="https://undocs.org/UNEP/EA.3/Res.8">UNEP/EA.3/Res.8</a>.</p></authorialNote> World Health Assembly resolution 68.8 of 26 May 2015<authorialNote marker="2" placement="bottom" eId="authorialNote_2"><p xml:space="preserve">	 	See World Health Organization, document WHA68/2015/REC/1.</p></authorialNote> and Economic and Social Commission for Asia and the Pacific resolution 75/4 of 31 May 2019,</p>
+      </container>
+      <container name="Emphasizing" eId="container_7">
+        <p xml:space="preserve">
+          <span class="italic">Emphasizing</span> the need to strengthen international cooperation at the global, regional and subregional levels in various areas related to improving air quality, including the collection and utilization of data, joint research and development, and the sharing of best practices,</p>
+      </container>
+      <container name="Acknowledging" eId="container_8">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging</span> the importance of and urgent need to raise public awareness at all levels and to promote and facilitate actions to improve air quality, bearing in mind that clean air is important for the health and livelihood of people,</p>
+      </container>
+      <container name="Appreciating" eId="container_9">
+        <p xml:space="preserve">
+          <span class="italic">Appreciating</span> the progress made in combating air pollution as seen in various projects, partnerships, mechanisms and instruments at the national, regional and global levels,</p>
+      </container>
+      <container name="Acknowledging" eId="container_10">
+        <p xml:space="preserve">
+          <span class="italic">Acknowledging</span> that improving air quality can enhance climate change mitigation and that climate change mitigation efforts can improve air quality,</p>
+      </container>
+      <container name="Encouraged" eId="container_11">
+        <p xml:space="preserve">
+          <span class="italic">Encouraged</span> by the increasing interest of the international community in clean air, and emphasizing the need to make further efforts to improve air quality, including reducing air pollution, to protect human health,</p>
+      </container>
+    </preamble>
+    <mainBody>
+      <paragraph eId="para_12" class="MercuryDocument">
+        <num>	1.</num>
+        <content eId="para_12__content">
+          <p xml:space="preserve">
+            <span class="italic">Decides</span> to designate 7 September as the International Day of Clean Air for blue skies, to be observed starting in 2020;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_13" class="MercuryDocument">
+        <num>	2.</num>
+        <content eId="para_13__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> all Member States, organizations of the United Nations system, other international and regional organizations and civil society, including non‑governmental organizations, individuals and other relevant stakeholders, to observe the International Day in an appropriate manner and in accordance with national priorities, and to continue to give consideration to enhancing international cooperation in support of the efforts of all Member States towards attaining clean air;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_14" class="MercuryDocument">
+        <num>	3.</num>
+        <content eId="para_14__content">
+          <p xml:space="preserve">
+            <span class="italic">Invites</span> the United Nations Environment Programme to facilitate the observance of the International Day, in collaboration with other relevant organizations, mindful of the provisions contained in the annex to Economic and Social Council resolution <a href="https://undocs.org/E/RES/1980/67">1980/67</a> of 25 July 1980;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_15" class="MercuryDocument">
+        <num>	4.</num>
+        <content eId="para_15__content">
+          <p xml:space="preserve">
+            <span class="italic">Stresses</span> that the cost of all activities that may arise from the implementation of the present resolution should be met from voluntary contributions;</p>
+        </content>
+      </paragraph>
+      <paragraph eId="para_16" class="MercuryDocument">
+        <num>	5.</num>
+        <content eId="para_16__content">
+          <p xml:space="preserve">
+            <span class="italic">Requests</span> the Secretary-General to bring the present resolution to the attention of all Member States, the organizations of the United Nations system and other relevant intergovernmental and non-governmental organizations, to promote the observance of the International Day.</p>
+        </content>
+      </paragraph>
+    </mainBody>
+    <conclusions eId="conclusions">
+      <p>
+        <inline name="adoptionMeeting" title="52nd">52nd plenary meeting</inline>
+        <eol />
+        <docDate date="2019-12-19" refersTo="#adoptionDate">19 December 2019</docDate>
+      </p>
+    </conclusions>
+  </statement>
+</akomaNtoso>
