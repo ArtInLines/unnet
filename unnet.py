@@ -42,10 +42,7 @@ def log(log_level: int, s: str, new_line: bool = True):
 		endc = '\r'
 	print(s, end=endc)
 
-
-def main():
-	start_time = time.time()
-	csv_path: str = os.path.join("data", "edges.csv")
+def create_network(csv_path: str):
 	csv = open(csv_path, "w", encoding="utf8")
 	csv.write("from,to\n")
 
@@ -64,8 +61,9 @@ def main():
 				if fpath.endswith(".xml"):
 					files.append(fpath)
 
-	edge_count  = 0
-	files_count = len(files)
+	files_wo_edges = []
+	edge_count     = 0
+	files_count    = len(files)
 	log(LOG.INFO, f"Found {files_count} XML files")
 
 	for i in range(files_count):
@@ -80,6 +78,7 @@ def main():
 			log(LOG.ERR, f"Found doc-number without exactly one string-child in {fpath}: {docNums[0]}")
 			continue
 
+		initial_edge_count = edge_count
 		docNum = docNums[0].getStrVal()
 		anchors = root.getAllElementsOfType("a")
 		for anchor in anchors:
@@ -94,9 +93,18 @@ def main():
 			other = "".join(link_parts[1].split("en/")).split("(")[0]
 			csv.write(f"{docNum},{other}\n")
 			edge_count += 1
-
+		if edge_count == initial_edge_count:
+			files_wo_edges.append(fpath)
+	if len(files_wo_edges) > 0:
+		log(LOG.WARN, f"{len(files_wo_edges)} files found without outgoing edges")
 	csv.close()
 	log(LOG.INFO, f"{edge_count} edges successfully written to {csv_path}")
+
+
+def main():
+	start_time = time.time()
+	csv_path: str = os.path.join("data", "edges.csv")
+	create_network(csv_path)
 
 	elapsed = time.time() - start_time
 	if elapsed > 60:
