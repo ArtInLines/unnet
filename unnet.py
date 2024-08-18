@@ -115,7 +115,7 @@ class Node():
 		self.outgoing = outgoing
 
 def analyze_network(csv_path: str):
-	log(LOG.INFO, "Analyzing Network stored in {csv_path}...")
+	log(LOG.INFO, f"Analyzing Network stored in {csv_path}...")
 	net: dict[str, Node] = {}
 	with open(csv_path, "r", encoding="utf8") as csv:
 		lines = csv.read().splitlines()[1:] # Ignore header
@@ -167,7 +167,7 @@ def analyze_network(csv_path: str):
 def main():
 	start_time = time()
 
-	data_dir: str = "./data"
+	data_dir: str = "data"
 	csv_path: str = os.path.join(data_dir, "edges.csv")
 	if not os.path.exists(csv_path):
 		create_network(data_dir, csv_path)
