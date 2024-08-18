@@ -176,10 +176,10 @@ class Element():
 	children: list[Element|str] = []
 	empty: bool = False
 	def __init__(self, type: str):
-		self.type = type
-		self.attrs = {}
+		self.type     = type
+		self.attrs    = {}
 		self.children = []
-		self.empty = False
+		self.empty    = False
 
 	def __repr__(self):
 		return self.__str__()

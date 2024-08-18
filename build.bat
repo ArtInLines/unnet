@@ -1,6 +1,6 @@
 :: Typecheck
 @echo Typechecking...
-@call mypy unnet.py
+@call mypy unnet.py --check-untyped-defs
 
 :: Build & install as python package
 @echo Building...
